@@ -222,15 +222,19 @@ template<class T> T Stack<T>::pop() {
 template<class T> void LinkedList<T>::print() {
 	if (isEmpty()) {
 		if (head != NULL) {
-			cout << "Error empty list. Head not NULL" << endl;
+			cout << "Error empty list. Head not NULL";
+			cout << endl;
 		}
 		if (tail != NULL) {
-			cout << "Error empty list. Tail not NULL" << endl;
+			cout << "Error empty list. Tail not NULL";
+			cout << endl;
 		}
 		if (size_ != 0) {
-			cout << "Error empty list. size not zero" << endl;
+			cout << "Error empty list. size not zero";
+			cout << endl;
 		}
-		cout << "Empty list." << endl;
+		cout << "Empty list.";
+		cout << endl;
 	} else {
 		struct Node<T> *currNode = head;
 		int count = 0;
@@ -242,10 +246,12 @@ template<class T> void LinkedList<T>::print() {
 		cout << currNode->data << endl << endl;
 		count++;
 		if (currNode != tail) {
-			cout << "Error tail not found" << endl;
+			cout << "Error tail not found";
+			cout << endl;
 		}
 		if (count != size_) {
-			cout << "Count does not equal size" << endl;
+			cout << "Count does not equal size";
+			cout << endl;
 		}
 	}
 }
@@ -303,15 +309,19 @@ template<class T> LinkedList<T>& LinkedList<T>::operator=(
 template<class T> void LinkedList<T>::printBackwards() {
 	if (isEmpty()) {
 		if (head != NULL) {
-			cout << "Error empty list. Head not NULL" << endl;
+			cout << "Error empty list. Head not NULL";
+			cout << endl;
 		}
 		if (tail != NULL) {
-			cout << "Error empty list. Tail not NULL" << endl;
+			cout << "Error empty list. Tail not NULL";
+			cout << endl;
 		}
 		if (size_ != 0) {
-			cout << "Error empty list. size not zero" << endl;
+			cout << "Error empty list. size not zero";
+			cout << endl;
 		}
-		cout << "Empty list." << endl;
+		cout << "Empty list.";
+		cout << endl;
 	} else {
 		struct Node<T> *currNode = tail;
 		int count = 0;
@@ -323,10 +333,12 @@ template<class T> void LinkedList<T>::printBackwards() {
 		cout << currNode->data << endl << endl;
 		count++;
 		if (currNode != head) {
-			cout << "Error head not found" << endl;
+			cout << "Error head not found";
+			cout << endl;
 		}
 		if (count != size_) {
-			cout << "Count does not equal size" << endl;
+			cout << "Count does not equal size";
+			cout << endl;
 		}
 	}
 
