@@ -13,9 +13,12 @@ long stringHashFunction(String string) {
 		hash *= 13;
 	}
 	return hash;
+
 }
 
 int main(int argc, char *argv[]) {
 	HashTable<String, long> wordCounts(&stringHashFunction);
 	wordCounts["the"] = 25;
+	long count = wordCounts["the"];
+	cout << count << endl;
 }

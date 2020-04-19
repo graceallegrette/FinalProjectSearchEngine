@@ -38,7 +38,7 @@ public:
 	T removeFront();
 	T removeBack();
 	void print();
-	friend ostream& operator<<<T>(ostream &os, const LinkedList<T> &list);
+	friend ostream& operator<< <T>(ostream &os, const LinkedList<T> &list);
 	LinkedList<T>& operator=(const LinkedList<T> &other);
 	void printBackwards();
 	T* contains(T pattern);
@@ -71,7 +71,7 @@ template<class T> LinkedList<T>::~LinkedList() {
 	while (currentNode != NULL) {
 		struct Node<T> *nodeToDelete = currentNode;
 		currentNode = currentNode->next;
-		delete nodeToDelete;
+//		delete nodeToDelete;
 	}
 }
 
@@ -85,7 +85,7 @@ template<class T> LinkedList<T>::LinkedList(LinkedList<T> &other) {
 	}
 }
 
-template<class T> int LinkedList<T>::size() const{
+template<class T> int LinkedList<T>::size() const {
 	return size_;
 }
 
