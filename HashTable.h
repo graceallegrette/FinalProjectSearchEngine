@@ -88,27 +88,34 @@ public:
 
 	}
 
-	V& operator[](const K &key) {
+	V* find(const K &key) {
 		int bucketIndex = hashFunction(key) % NUMBER_OF_BUCKETS;
-		LinkedList<KeyValuePair<K, V> > list = buckets[bucketIndex];
-		cout << list.size() << endl;
-		for (struct Node<KeyValuePair<K, V> > *currentNode = list.head;
-				currentNode != NULL; currentNode = currentNode->next) {
-			KeyValuePair<K, V> pair = currentNode->data;
-			cout << pair.getKey() << endl;
-			cout << pair.getValue() << endl;
-			cout << "TIGER KING" << endl;
-			if (pair.getKey() == key) {
-				cout << "pair" << endl;
-				return pair.getValue();
+
+		for (struct Node<KeyValuePair<K, V> > *currentNode =
+				buckets[bucketIndex].head; currentNode != NULL; currentNode =
+				currentNode->next) {
+//			cout << "key: ";
+//			cout << currentNode->data.getKey() << endl;
+//			cout << "value: ";
+//			cout << currentNode->data.getValue() << endl;
+			if (currentNode->data.getKey() == key) {
+				return &(currentNode->data.getValue());
 			}
 		}
-		KeyValuePair<K, V> newPair;
-		newPair.setKey(key);
-		list.addBack(newPair);
-		cout << "newPair" << endl;
-		return newPair.getValue();
+		return NULL;
+	}
 
+	V& operator[](const K &key) {
+		V *value = find(key);
+		if (value) {
+			return *value;
+		} else {
+			int bucketIndex = hashFunction(key) % NUMBER_OF_BUCKETS;
+			KeyValuePair<K, V> newPair;
+			newPair.setKey(key);
+			buckets[bucketIndex].addBack(newPair);
+			return *find(key);
+		}
 	}
 	HashTable<K, V>& operator=(const HashTable<K, V> &other) {
 		for (int i = 0; i < NUMBER_OF_BUCKETS; i++) {

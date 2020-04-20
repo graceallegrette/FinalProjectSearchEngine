@@ -21,4 +21,8 @@ int main(int argc, char *argv[]) {
 	wordCounts["the"] = 25;
 	long count = wordCounts["the"];
 	cout << count << endl;
+	wordCounts["the"] = 24;
+	cout << wordCounts["the"] << endl;
+	wordCounts["the"]++;
+	cout << wordCounts["the"] << endl;
 }
