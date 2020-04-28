@@ -9,7 +9,7 @@ using namespace std;
 
 long stringHashFunction(String string) {
 	long hash = 0;
-	for(int i= 0; i < string.getLength(); i++) {
+	for (int i = 0; i < string.getLength(); i++) {
 		hash += string[i];
 		hash *= 13;
 	}
@@ -20,13 +20,12 @@ long stringHashFunction(String string) {
 int main(int argc, char *argv[]) {
 //	HashTable<String, long> wordCounts(&stringHashFunction);
 	AVLTree<String, long> wordCounts(&stringHashFunction);
-	wordCounts["the"] = 25;
-	long count = wordCounts["the"];
-	cout << count << endl;
-	wordCounts["the"] = 24;
-	cout << wordCounts["the"] << endl;
-	wordCounts["the"]++;
-	cout << wordCounts["the"] << endl;
+	wordCounts["C"] = 3;
+	wordCounts.inorderTraversal();
+	wordCounts["B"] = 2;
+	wordCounts.inorderTraversal();
+	wordCounts["A"] = 1;
+	wordCounts.inorderTraversal();
 
 }
 
