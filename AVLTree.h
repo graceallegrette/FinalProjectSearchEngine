@@ -65,7 +65,7 @@ private:
 		x->height = max(height(x->left), height(x->right)) + 1;
 
 		// Return new root
-		if(y == root) {
+		if (y == root) {
 			root = x;
 		}
 		return x;
@@ -87,7 +87,7 @@ private:
 		y->height = max(height(y->left), height(y->right)) + 1;
 
 		// Return new root
-		if(x == root){
+		if (x == root) {
 			root = y;
 		}
 		return y;
@@ -97,14 +97,14 @@ private:
 	// in the subtree rooted with node and
 	// returns the new root of the subtree.
 	Node* insert(Node *node, K key, V value) {
+
 		/* 1. Perform the normal BST insertion */
 		if (node == NULL) {
 			return new Node(key, value);
 		}
-
-		if (key < *node->key) {
+		if (key < *(node->key)) {
 			node->left = insert(node->left, key, value);
-		} else if (key > *node->key) {
+		} else if (key > *(node->key)) {
 			node->right = insert(node->right, key, value);
 		} else { // Equal keys are not allowed in BST
 			cout << "Error: node already inserted" << endl;
@@ -123,23 +123,23 @@ private:
 		// there are 4 cases
 
 		// Left Left Case
-		if (balance > 1 && key < *node->left->key) {
+		if (balance > 1 && key < *(node->left->key)) {
 			return rightRotate(node);
 		}
 
 		// Right Right Case
-		if (balance < -1 && key > *node->right->key) {
+		if (balance < -1 && key > *(node->right->key)) {
 			return leftRotate(node);
 		}
 
 		// Left Right Case
-		if (balance > 1 && key > *node->left->key) {
+		if (balance > 1 && key > *(node->left->key)) {
 			node->left = leftRotate(node->left);
 			return rightRotate(node);
 		}
 
 		// Right Left Case
-		if (balance < -1 && key < *node->right->key) {
+		if (balance < -1 && key < *(node->right->key)) {
 			node->right = rightRotate(node->right);
 			return leftRotate(node);
 		}
@@ -162,10 +162,10 @@ private:
 			return NULL;
 		}
 
-		if (key < *node->key) {
+		if (key < *(node->key)) {
 			return find(node->left, key);
 
-		} else if (key > *node->key) {
+		} else if (key > *(node->key)) {
 			return find(node->right, key);
 		} else {
 			return node->value;
@@ -202,30 +202,26 @@ public:
 		cout << endl;
 	}
 
-	Node* find(K &key) {
+	V* find(K &key) {
 		return find(root, key);
 	}
 
-	Node* insert(K key, V value) {
+	void insert(K key, V value) {
 		if (root == NULL) {
 			root = new Node(key, value);
-			return root;
+		} else {
+			insert(root, key, value);
 		}
-		return insert(root, key, value);
 	}
 
 	V& operator[](K key) {
-		V *value = find(root, key);
+		V *value = find(key);
 		// if not in tree
 		if (value == NULL) {
-			Node *insertedNode = insert(key, V());
-			V &newValue = *(insertedNode->value);
-			return newValue;
+			insert(key, V());
+			value = find(key);
 		}
-		// if already in tree
-		else {
-			return *value;
-		}
+		return *value;
 	}
 };
 
