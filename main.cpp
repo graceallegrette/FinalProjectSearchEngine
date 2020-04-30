@@ -5,6 +5,9 @@
 #include "String.h"
 #include "AVLTree.h"
 #include "QueryProcessor.h"
+#include "HelperFunctions.h"
+#include "DocumentProcessor.h"
+#include "json.hpp"
 
 using namespace std;
 
@@ -37,7 +40,17 @@ int main(int argc, char *argv[]) {
 
 	string str = "the quick brown fox";
 
-	vector<string> listOfStrings = split(str);
+
+	vector<string> listOfStrings = split(str, ' ');
+	vector<vector<string> > document = processDocument("metadata-cs2341.csv");
+
+	for(int i = 0; i < document.size(); i++) {
+		for(int j = 0; j < document[i].size(); j++) {
+			cout << document[i][j] << ", ";
+		}
+		cout << endl;
+	}
+
 
 	for (int i = 0; i < listOfStrings.size(); i++) {
 		cout << listOfStrings[i] << endl;

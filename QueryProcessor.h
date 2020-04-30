@@ -10,7 +10,7 @@
 
 
 void process(String query);
-vector<string> split(string originalString);
+
 
 
 

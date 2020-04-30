@@ -15,15 +15,3 @@ void process(string query) {
 
 }
 
-vector<string> split(string originalString) {
-  	stringstream ss(originalString);
-  	vector<string> listOfStrings;
-
-  	string tempString;
-
-    while(getline(ss, tempString, ' ')) {
-        listOfStrings.push_back(tempString);
-    }
-
-  	return listOfStrings;
-}
