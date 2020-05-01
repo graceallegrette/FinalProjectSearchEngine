@@ -6,10 +6,11 @@
 
 #include <vector>
 #include <string>
+#include <set>
 
 using namespace std;
 
-vector<vector<string> > processDocument(const char *filename);
-
+vector<vector<string> > processDocument(const char *fileName);
+set<string> processStopWords(const char *fileName);
 
 #endif

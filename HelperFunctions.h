@@ -4,13 +4,16 @@
 #ifndef HELPERFUNCTIONS_H
 #define HELPERFUNCTIONS_H
 
-#include <vector>
 #include <string>
+#include <set>
 
 using namespace std;
 
-vector<string> split(string originalString, char delimeter);
-
+template<class T>
+T split(string originalString, char delimeter);
+set<string >getUnion(set<string> set1, set<string> set2);
+set<string> getIntersection(set<string> set1, set<string> set2);
+set<string> getDifference(set<string> set1, set<string> set2);
 
 
 #endif
