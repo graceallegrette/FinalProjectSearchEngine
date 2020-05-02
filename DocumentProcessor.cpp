@@ -53,7 +53,15 @@ void processDocument(const char *fileName) {
 		}
 		file >> jsonObj;
 		file.close();
+		set<string>::iterator it;
 
-		cout << jsonObj["body_text"][0] << endl;
+		for(int i = 0; i < jsonObj.size(); i++) {
+			set<string> words = split<set<string> >(jsonObj["body_text"][i]["text"], ' ');
+			for (it = words.begin(); it != words.end(); it++) {
+				cout << *it << " ";
+			}
+			cout << endl;
+		}
+
 	}
 }
