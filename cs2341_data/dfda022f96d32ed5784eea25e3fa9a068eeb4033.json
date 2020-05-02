@@ -1,0 +1,197 @@
+{
+    "paper_id": "dfda022f96d32ed5784eea25e3fa9a068eeb4033",
+    "metadata": {
+        "title": "A Long Journey Back to Normal Life Osong Public Health and Research Perspectives",
+        "authors": [
+            {
+                "first": "Hae-Wol",
+                "middle": [],
+                "last": "Cho",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Osong Public Health and Research Perspectives",
+                    "location": {
+                        "settlement": "Cheongju",
+                        "country": "Korea, Korea"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Organization (WHO) declared a public health emergency of international concern on 30 th January 2020 [1] . As of 23 rd March 2020, a total of 294,110 confirmed cases (12,944 deaths) from 186 countries/territories/areas have been reported to the WHO [2] . The Republic of Korea has 8,961 confirmed cases including 110 deaths, and 3,166 cases released from isolation [3] . In an interim report on 66 deaths from COVID-19 in Korea, the authors reported that the case fatality rate was relatively low at 0.9%. Old age and existing comorbidities were risk factors for death [6] .",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 104,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 249,
+                    "end": 252,
+                    "text": "[2]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 365,
+                    "end": 368,
+                    "text": "[3]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 569,
+                    "end": 572,
+                    "text": "[6]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The last interim report dealt with the attack rate among contacts of COVID-19 cases. The secondary attack rate between January 24 th and March 10th was 0.55% (95% CI 0.31-0.96), while the household contact secondary attack rate was considerably higher at 7.56% (95% CI 3.73-14.26) [7] . ",
+            "cite_spans": [
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "[7]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "statement-on-the-second-meeting-of-the-international-healthregulations-(2005)-emergency-committee-regarding-the-outbreak-ofnovel-coronavirus",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Novel coronavirus (COVID-19) situation",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The updates on COVID-19 in Korea as of 23 March",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "KCDC risk assessment on initial phase of the COVID-19 outbreak in Korea",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Osong Public Health Res Perspect",
+            "volume": "11",
+            "issn": "2",
+            "pages": "67--73",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Coronavirus disease-19: The first 7,755 cases in the Republic of Korea",
+            "authors": [],
+            "year": 2020,
+            "venue": "Osong Public Health Res Perspect",
+            "volume": "11",
+            "issn": "2",
+            "pages": "85--90",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Coronavirus disease-19: Summary of 2,370 contact investigations of the first 30 cases in the Republic of Korea",
+            "authors": [],
+            "year": 2020,
+            "venue": "Osong Public Health Res Perspect",
+            "volume": "11",
+            "issn": "2",
+            "pages": "81--85",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The world is witnessing an unprecedented Coronavirus Disease (COVID-19) pandemic. It originated from Wuhan, China where there was a report of 41 pneumonia cases on 31 st December 2019 of unknown origin. The World Health",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Each affected country is taking public health measures to suppress (break the transmission) or mitigate (slow the spread) the epidemic according to the current situation in each country. China and the Republic of Korea are successfully suppressing the epidemic. Countries in Europe and the United States have been slow to implement, or have swung from mitigation strategies to suppression strategies to slow down the progress of the COVID-19 epidemic (due to a lack of intensive care beds and ventilators) where population-wide social distancing and isolation of cases occurs. Maintenance of suppression of COVID-19 in the population would be required to prevent rebound transmission until a pharmaceutical intervention (vaccine or drug) was available [4]. In the current issue of the Osong Public Health and Research Perspectives, there are 3 studies analyzing aspects of COVID-19. A study by Kim et al [5] described how risk assessment worked for an evolving epidemic. The authors of this article are members of the division of risk assessment in Korea Centers for Disease Control and Prevention (KCDC), which were established in 2016 after the MERS-CoV outbreak in 2015. The team conducted a series of risk assessments following the report of \"unknown causes\" of pneumonia clusters in Wuhan, China. Their risk assessments included the likelihood of the virus being carried into the country and the impact of transmission of the disease in Korea. The evolution of risk showed how and when to use risk assessments for this kind of emerging infectious disease. The article provides basic information todecision makers to evaluate developing situations[5].",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "These interim epidemiological results may change with further information, but the current epidemiological information is valuable in determining reporting criteria, and contact tracing of COVID-19 in Korea. The risk assessments in place in KCDC show systematically how, Korea needs to battle this novel emerging infectious disease by implementing the appropriate scale of intervention and intensity of response at each stage of the COVID-19 epidemic.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

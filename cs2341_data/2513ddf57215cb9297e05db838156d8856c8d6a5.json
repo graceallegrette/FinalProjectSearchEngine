@@ -1,0 +1,479 @@
+{
+    "paper_id": "2513ddf57215cb9297e05db838156d8856c8d6a5",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Hyoung-Shik",
+                "middle": [],
+                "last": "Shin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The coronavirus disease 2019 (COVID-19) which started in Wuhan, China, and affected most of the country, is spreading rapidly throughout the world in spite of the concerted efforts from the governments and World Health Organization (WHO) to contain it. The virus spreads 1000 times faster than the other viral strains inside the body and causes various kind of illnesses [1] . Korea is also adversely affected by COVID-19 due to its geographical proximity to China. Considering the high attack rate and aggressive spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), there is a concern that more serious diseases may develop due to a mutated type of the virus. Some treatment experiences in Korea suggest that steroids played an important role in the treatment of COVID-19. According to reports from China, although pneumonia was rare in the pediatric population, the risk of pneumonia increased with age and had a high mortality rate among the elderly in their 70s (8.0%) and 80s (14.8%) [2] .",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1008,
+                    "end": 1011,
+                    "text": "[2]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Clinical experiences in Korea (unpublished) and the data from Chinese COVID-19 reports indicate that 1) Symptoms were mild and pneumonia was rare in the pediatric population. The elderly was more likely to suffer from severe rapidly progressing pneumonia.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "[2] 2) Pneumonia was usually self-limited and resolved within a few weeks in people with normal immune status, but may result in varying degrees of pulmonary fibrosis. 3) Usually responded well to steroid treatment (personal communications) Radiology and pathology examinations of patients with COVID-19 revealed inflammatory reactions in the lung that resembled what is observed in hypersensitivity pneumonitis rather than in other viral pneumonia [3, 4] .",
+            "cite_spans": [
+                {
+                    "start": 449,
+                    "end": 452,
+                    "text": "[3,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 453,
+                    "end": 455,
+                    "text": "4]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Hypersensitivity pneumonitis (HP) has three variants, namely, 1) acute, 2) subacute, and 3) chronic. The pathophysiology of HP is determined by genetics, environment, age, and immune reactions (both innate and adaptive) [5] .",
+            "cite_spans": [
+                {
+                    "start": 220,
+                    "end": 223,
+                    "text": "[5]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The innate immunity is robust in the pediatric population while the complement system and adaptive immunity are not mature yet [6] . In contrast, the innate immunity is not effective while the complement system is increased in the elderly population. Adaptive immunity develops from childhood to adulthood, but declines with older age. Hence, a healthy adult who has been exposed to seasonal coronaviruses many times may suffer pneumonia due to immune enhancement, which resolves with mobilization of regulatory T cells [7, 8] Acute HP is more common in the elderly. The defective innate immunity and the accelerated complement activation induced by SARS-CoV-2, similar to that by SARS CoV, leads to a severe rapidly progressing pneumonitis due to the triggering effect of the virus [9, 10]. In contrast, a healthy adult with normal adaptive immunity controls the inflammatory reaction better through immune regulation and manifests as subacute HP. The innate immunity in the pediatric population appears to block the viral invasion at the mucosal level, and results in minimal to no symptoms.",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 130,
+                    "text": "[6]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 520,
+                    "end": 523,
+                    "text": "[7,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 524,
+                    "end": 526,
+                    "text": "8]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We believe that there is an urgent need to establish a better sophisticated treatment strategy for COVID-19, because there may be a serious risk owing to the subtle mutations of the virus, which can lead to a more aggressive spread and more severe immunologic reaction in the host.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "HP has been reported in the literature for the past several decades, but its pathophysiology remains poorly understood. The possibility of obtaining the exact pathogenesis is less with the current knowledge and technology. Considering our current understanding of the pathophysiology and clinical features of HP, the treatment strategy for COVID-19 needs to be tailored according to the patient's age and immune status. Traditional HP treatment methods such as decreasing the antigen (virus) and controlling the abnormal immune response must be part of the strategy. SARS-CoV-2 is more likely to spread in the elderly and lead to severe pneumonia. Hence, COVID-19 patients would benefit from the administration of antiviral medications (nucleotide inhibitors, Human Immunodeficiency Virus (HIV) nucleoside reverse transcriptase inhibitor (NRTI), HIV non-nucleoside reverse transcriptase inhibitor (NNRTI), HIV protease inhibitor (PI), dextran sulfate, and combination therapy, etc.) that will limit the spread of less virulent virus both within the body and in the population. Prophylactic and therapeutic low dose steroid oral tablets/inhalers at the earlier stage of COVID-19 and high dose steroid treatment according to the severity of the disease can play important roles in decreasing the fatality and pulmonary fibrosis. Additionally, safer treatment options that control the complement cascade could be considered in cases of acute HP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "God Bless You and me\u2026 See the Sky with humble eyes and simple minds.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A potential role for integrins in host cell entry by SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sigrist",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "Le",
+                    "middle": [],
+                    "last": "Mercier",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Antiviral Res",
+            "volume": "177",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Characteristics of and important lessons from the Coronavirus disease 2019 (COVID-19) outbreak in China: Summary of a report of 72,314 cases from the Chinese center for disease control and prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Chest CT findings in coronavirus disease-19 (COVID-19): Relationship to duration of infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fayad",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Diao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jacobi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Radiology",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Pulmonary pathology of early-phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao",
+                    "middle": [],
+                    "last": "Sy",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Thorac Oncol",
+            "volume": "2020",
+            "issn": "20",
+            "pages": "30132--30137",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Hypersensitivity pneumonitis (extrinsic allergic alveolitis): Epidemiology, causes, and pathogenesis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "An overview of the innate immune system",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Antibody-dependent SARS coronavirus infection is mediated by antibodies against spike proteins",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tseng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tsao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Biochem Biophys Res Commun",
+            "volume": "451",
+            "issn": "",
+            "pages": "208--222",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Author contributionsConceptualization: HSS. Writing-original draft: YGS. Writing-review & editing: YGS, HSS.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,278 @@
+{
+    "paper_id": "a1538022297166192b106cda55a1840ffb92f743",
+    "metadata": {
+        "title": "Use Crow-AMSAA Method to predict the cases of the Coronavirus 19 in Michigan and U.S.A",
+        "authors": [
+            {
+                "first": "Yanshuo",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "5",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "for automotive warranty data by author to predict the failures numbers at field. When the coronavirus infected cases and death were plugged in this model for Michigan, it is interested to see it fits this model very well since the outbreak of this disease. Then the author continues to update this fitting by using the daily reported data in Michigan, and attempt to predict the next few day's infected cases and death. On 3/28/2020, the author decided to plug all the U.S.A 25 infected cases and death data in this model, it is also surprised that this fits the Crow-AMSAA model as well. Then the author decided to write this paper to describe what is the Crow-AMSAA model and how the analysis has been done by author. The Crow-AMSAA model might be useful to predict the infected cases and death for a future pandemic. n(t) = \u03bbt \u03b2 (1) taking the natural logarithms of equation (1) Ln n(t) = Ln (\u03bb )+ \u03b2 Ln (t)",
+            "cite_spans": [
+                {
+                    "start": 832,
+                    "end": 835,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The model intensity function \u03c1 (t) = \u03bb\u03b2t \u03b2-1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The cumulative failure rate is use the equation (1) divided by t. it is C(t) =\u03bbt \u03b2-1 (4) 5 The intensity function is the derivative of the cumulative events n(t) = \u03bbt \u03b2 , \u03c1 (t) is called the rate of occurrence (ROC). In equation (2), the scale parameter, \u03bb, is the intercept on the y axis of n(t) when t =1, (ln(1) =0); the slope \u03b2, is interpreted in a similar manner as a Weibull plot, If the slope \u03b2 is greater than 1, the failure rate is increasing, the failure rate come more rapidly, if the slope \u03b2 is smaller than 1, the failure rate is decreasing, the failure rate come more slowly, if the 10 slope \u03b2 is equal to 1, the process is called homogenous Poisson process, if the slope \u03b2 is not equal 1, the process is called non-homogenous Poisson process.",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 90,
+                    "text": "5",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "There are three methods to be used to fit the line, the regression, IEC unbiased, and IEC MLE (Maximum Likelihood Estimation). The regression solution is not as accurate as the newer IEC unbiased and MLE methods except for very small samples.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The daily infected cases and death data in Michigan are reported in the website in the reference [IV] . The daily confirmed data is shown in Table 1 and Fig. 1 . The Crow-AMSAA model in SuperSmith package is used to fit the data, the Crow-AMSAA fitting in Log-Log scale is shown in Fig. 2 . From the Fig. 2 , in the first 9 days (3/10/2020 to 3/18/2020), it has the less infected 20 cases, so the infected cases do not follow the Crow-AMSAA line, but after 3/19/2020, when the outbreak starts, the infected data fits the Crow-AMSAA line significantly.(See Fig. 2 , pink line). The death data in MI is also fitting Crow-AMSAA model. (See Fig. 2 , blue line). The interval prediction for both infected and death in Michigan are shown in Fig. 3 based on Crow-AMSAA. The author observed the predicted data versus the real data for past 13 days, although the 25 predicted number has the some deviation from the real number, the Crow-AMSAA is still a useful model for the Coronavirus 19 cases.",
+            "cite_spans": [
+                {
+                    "start": 97,
+                    "end": 101,
+                    "text": "[IV]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 141,
+                    "end": 148,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 153,
+                    "end": 159,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 282,
+                    "end": 288,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 300,
+                    "end": 306,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 556,
+                    "end": 562,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 637,
+                    "end": 643,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 735,
+                    "end": 741,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Data Analysis:"
+        },
+        {
+            "text": "The same study has been done for both infected cases and death data in U.S.A. The data and results are shown in Table 1 , Fig. 4 , 5, and 6. From Fig. 5 , from 2/15/2020 to 3/1/2020, the infected cases do not follow Crow-AMSAA, from 3/2/2020 to 3/18/2020, the infected cases fit 30 one Crow-AMSAA line, but after 3/19/2020, the infected cases fit another Crow-AMSAA line. The death data fits the Crow-AMSAA line after 3/16/2020.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 112,
+                    "end": 119,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 122,
+                    "end": 128,
+                    "text": "Fig. 4",
+                    "ref_id": null
+                },
+                {
+                    "start": 146,
+                    "end": 152,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Data Analysis:"
+        },
+        {
+            "text": "From the above analysis for the confirmed cases (infected and death) for Coronavirus 19 in Michigan and U.S.A, the Crow-AMSAA model can be used to fit the infected cases and death in 35 the outbreak period. Although there is a deviation between real and Crow-AMSAA prediction, the Crow-AMSAA is still a good model to fit the data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "also thanks the Fulton Findings company to provide the SuperSmith package.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20052845 doi: medRxiv preprint author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20052845 doi: medRxiv preprint author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20052845 doi: medRxiv preprint Table 1 . The daily confirmed data All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 144,
+                    "end": 151,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20052845 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The New Weibull Handbook, Fifth Addition",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Abernethy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Practical Guide to Reliability Growth Analysis, 2020 Annual RELIABILITY and 40 MAINTAINABILITY Symposium",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Tananko",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Crow-AMSAA fitting for the MI Infected Cases & Death 5 All rights reserved. No reuse allowed without permission.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Crow-AMSAA prediction for Michigan Infected & Death (Interval) Fig. 4 The U.S.A. daily confirmed cases 5 All rights reserved. No reuse allowed without permission.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "The Crow-AMSAA analysis for U.S.A Infected and Death cases Fig. 6. The Crow-AMSAA prediction for U.S.A. Infected & Death (Interval)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "All rights reserved. No reuse allowed without permission.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The author appreciate the data which provided by website in reference [III] and [IV]. The author",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments:"
+        }
+    ]
+}

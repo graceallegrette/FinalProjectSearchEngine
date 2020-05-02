@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/Debug/
+
+.settings
+.project
+.cproject
+*.DS_Store

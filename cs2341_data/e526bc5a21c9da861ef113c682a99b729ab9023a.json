@@ -1,0 +1,801 @@
+{
+    "paper_id": "e526bc5a21c9da861ef113c682a99b729ab9023a",
+    "metadata": {
+        "title": "Management of orthodontic emergencies during 2019-NCOV",
+        "authors": [
+            {
+                "first": "Alberto",
+                "middle": [],
+                "last": "Caprioglio",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Connecticut Health Center",
+                    "location": {
+                        "settlement": "Farmington",
+                        "region": "CT",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Giulia",
+                "middle": [
+                    "B"
+                ],
+                "last": "Pizzetti",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Connecticut Health Center",
+                    "location": {
+                        "settlement": "Farmington",
+                        "region": "CT",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Piero",
+                "middle": [
+                    "Antonio"
+                ],
+                "last": "Zecca",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Connecticut Health Center",
+                    "location": {
+                        "settlement": "Farmington",
+                        "region": "CT",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rosamaria",
+                "middle": [],
+                "last": "Fastuca",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Connecticut Health Center",
+                    "location": {
+                        "settlement": "Farmington",
+                        "region": "CT",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Giuliano",
+                "middle": [],
+                "last": "Maino",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Connecticut Health Center",
+                    "location": {
+                        "settlement": "Farmington",
+                        "region": "CT",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ravindra",
+                "middle": [],
+                "last": "Nanda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Connecticut Health Center",
+                    "location": {
+                        "settlement": "Farmington",
+                        "region": "CT",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The coronavirus (COVID-19) epidemic is a public health worldwide problem for which specific guidelines are published, constantly updated by the World Health Organization (WHO) and, in Italy, by the Italian National Institute of Health. The competent ministries and the regions directly or indirectly contribute to risk management through the identification of suspected cases and the activation of containment and quarantine measures for people who have had contact with suspicious cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the dental field, for the purpose of controlling COVID-19 infection, the fundamental preventive measure lies in the filter of patients who come to the ambulatory. Therefore, a questionnaire should be used to screen patients with potential infection of 2019-nCoV before they could be led to the dental chair-side, as recently suggested [1] .",
+            "cite_spans": [
+                {
+                    "start": 338,
+                    "end": 341,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Another fundamental aspect is the correct use of personal protective equipment (PPE) and the strict compliance with the behavioral guidelines at the dental office established by the competent authorities and recently published [1] .",
+            "cite_spans": [
+                {
+                    "start": 227,
+                    "end": 230,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Given that the professional can assess whether to stay open or manage emergencies only, common sense must prevail during a quarantine period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "One choice that can be made is to postpone routine orthodontic appointments, according to the guidelines of the single Nations, but patients need to be assured and followed, especially if they are experiencing discomfort or problems related to the orthodontic appliance they are using.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "An orthodontic emergency might be described as a problem arising from an orthodontic appliance, where an unscheduled appointment is required to resolve the issue. When a patient has such an issue, a timely additional appointment may need to be arranged with a specialist. Patients who present with an orthodontic emergency may be experiencing pain or discomfort. It can also be inconvenient for the patient and parents in attending for an additional, unexpected appointment due to preexisting school or work commitments. Consequently, repeated breakages prolong treatment time and can lead to decreased patient motivation due to a loss of confidence in the appliance or the operator. By providing appropriate timely management, inconvenience and distress to both the patient and parents may be minimized with the efficacy of the appliance still being maintained [2] .",
+            "cite_spans": [
+                {
+                    "start": 862,
+                    "end": 865,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "According to single Nations guidelines during COVID-19 pandemic, dentists should accept in the private practice only non-deferrable urgencies, such as an abscess or irreversible pulpitis. Orthodontic problems, like general dentistry problems, represent urgencies, not true emergencies, so a video call or message with a photo might be the best options to evaluate the case.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A brief summary of guidelines on the management of orthodontic patients during COVID-19 emergency is proposed as follows focusing on virtual assistance devices and classification of emergencies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "WhatsApp Messenger (Facebook Inc., Mountain View, California) is an instant messaging application developed in 2009 and quickly spread among users of all ages, for personal relationships, as entertainment, as an aid to the study, and as a virtual place of contact with their group. The international scientific literature on the use of this application in the health sector, identified by the major database, on-line, reports only a small number of publications. Although its impact in the clinical setting has been poorly investigated, WhatsApp is among the most widely used communication tools, which may also be valuable in favoring the communication and relationship between patients and physicians. Healthcare providers should be trained to use modern web-based communication systems with accurate assessment of indications and contraindications [3, 4] .",
+            "cite_spans": [
+                {
+                    "start": 851,
+                    "end": 854,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 855,
+                    "end": 857,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Virtual assistance"
+        },
+        {
+            "text": "Clement has recently published some data about the most popular global mobile messenger apps based on the number of monthly active users on Statista (https://www.statista.com/statistics/258749/most-popular-global-mobile-messenger-apps/), which is a German web portal for statistics. The most popular messenger app turns out to be WhatsApp, with 1.6 billion users on a monthly basis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virtual assistance"
+        },
+        {
+            "text": "Nowadays, WhatsApp is the largest messaging app, and therefore, it is the most widespread and most usable even by inexperienced audiences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virtual assistance"
+        },
+        {
+            "text": "The best way to manage orthodontic emergencies is to decide step by step. The first step should always be virtual assistance, and WhatsApp may be considered a good tool to do that. The virtual assistance might be performed by using photos, videos (better if with additional light source), or video call.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virtual assistance"
+        },
+        {
+            "text": "In particular, we recommend the business version of WhatsApp to link it to the firm's fixed number, activating the verification on call.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virtual assistance"
+        },
+        {
+            "text": "We recommend doing a triage via WhatsApp to skim the real urgencies to be managed in the private practice in person from remotely manageable situations. It is recommended for large offices or hospital departments to activate WhatsApp Web and have the QR code sent by the dental office staff on duty in order to manage problems on two users.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virtual assistance"
+        },
+        {
+            "text": "We can classify orthodontic emergencies on the basis of the type of the appliance used by the patient: removable appliance or fixed appliance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Classification of orthodontic emergencies"
+        },
+        {
+            "text": "Removable appliances can be classified into the following:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Removable appliances"
+        },
+        {
+            "text": "Functional appliances are used by growing patients to guide the correct growth of the dento-alveolar complex and the jaws [5] .",
+            "cite_spans": [
+                {
+                    "start": 122,
+                    "end": 125,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Functional Aligners Retainers (for example Essix appliance)"
+        },
+        {
+            "text": "If the patient breaks the appliance or has noticeable discomfort by wearing it, we suggest suspending the use of the appliance for the moment, in order to reduce emergencies that cannot be managed directly.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Functional Aligners Retainers (for example Essix appliance)"
+        },
+        {
+            "text": "An aligner or a retainer appliance can be often broken or lost by the patient. For aligner treatment, the advice would be to remain on the current aligner if the patient does not have any more until the end of the emergency.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Functional Aligners Retainers (for example Essix appliance)"
+        },
+        {
+            "text": "If there are no problems with the current aligner and subsequent aligners are in the patient's possession, the suggestion is to continue with the subsequent aligner, up to the treatment phase prior to IPR, replacement of attachments, and introduction of elastic modules.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Functional Aligners Retainers (for example Essix appliance)"
+        },
+        {
+            "text": "In the event that the current aligner is broken or lost, the advice would be to go on the previous aligner or to change to the next one depending on the percentage of usage of the broken/lost aligner.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Functional Aligners Retainers (for example Essix appliance)"
+        },
+        {
+            "text": "As for the retainers or if there is a high risk of recurrence that irreversibly compromises the treatment, we suggest to buy an easy contenitive appliance, like hot customizable preforms, which can be found on ecommerce sites such as Amazon, which currently still allows fast shipments, so when the emergency will be finished, the clinician can take new impressions or scans.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Functional Aligners Retainers (for example Essix appliance)"
+        },
+        {
+            "text": "Fixed appliances can be classified into the following:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "Non-removable appliances Non-removable appliances that can be activated by the patient Pre-activated, non-removable appliances For all emergencies, the patient should send photos or videos to confirm the accident.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "The pre-adjusted edgewise appliance (straightwire appliance) is the most commonly used non-removable appliance [6] . It includes bands and brackets, archwires, and auxiliaries. The time elapsed since the previous activation is important in order to consider the appliance active or passive; normally, a time of 4 weeks indicates a passive appliance [7] .",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 114,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 349,
+                    "end": 352,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "A bracket may become loose or lose its metallic or elastic ligature as a consequence of eating hard or sticky foods: if the bracket remains flush with the tooth, it can be left as it is, if it seems to fall from the archwire, the patient can carefully try to remove it with eyebrow tweezers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "If there is a metallic ligature that causes soft tissue trauma or pain, the patient should try to push it back with the small eraser on the back of a pencil. In the event that it is not possible, then orthodontic relief wax can be applied. If wax is not in possession of the patient, it might be found in pharmacies or on online stores such as Amazon. In case of an emergency, food wax can be used, since they are both made with micro-crystallized paraffin.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "Another very frequent problem, especially during the first phases of the treatment, is protruding distal ends of archwire that can cause soft tissue trauma and large and painful ulcers. If the archwire has slid round to one side, then it may be possible to reposition it with the help of eyebrow tweezers. If the patient is not able to reposition the wire, the best option is to cut it. Thin wires can be cut using a nail clipper. Disinfection can be performed by boiling the instrument in 100\u00b0C water for 30 min [8, 9] . If the wire is thick, it is recommended to try to cut it with a hardware cutter that could be ordered on e-commerce sites without concerns.",
+            "cite_spans": [
+                {
+                    "start": 513,
+                    "end": 516,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 517,
+                    "end": 519,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "In any case of soft tissue trauma caused by sharp objects (end of the wire or ligatures), orthodontic relief wax is a good momentary solution. It can be found in drugstore, pharmacies, and e-commerce sites without problems.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "Non-removable appliances that can be activated by the patient are for example the ones that use fixed molar bands but should be worn by the patient, such as face masks, headgears, or lip bumpers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "This type of appliances, and also elastics, should be suspended a priori to reduce the risk of emergencies until the patient can be referred back to the orthodontist.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "If the patient feels pain, redness, and swelling near a fixed orthodontic appliance, we can ask him/her to take a photo and send it to the dentist: if a periodontal abscess is suspected, then it is suggested to visit him to remove the cause, for example, a band under the gum, and then to treat the infection with antibiotic therapy. Whether this is not immediately possible, we recommend prescribing a symptomatic therapy with FANS or paracetamol after properly asking for allergies [6, 10] .",
+            "cite_spans": [
+                {
+                    "start": 484,
+                    "end": 487,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 488,
+                    "end": 491,
+                    "text": "10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "Fixed treatment can also enclose pre-activated appliances, such as Pendulum, Forsus, Distal Jet appliance, and transpalatal bar. In this case, it is recommended to take a picture every 3 weeks and eventually let the patient come to the office to remove it if it represents or could represent an emergency (for example, in the case of pain or swelling).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "We must keep in mind that, in this case, the rationale is to prevent emergencies, not to cure them. Moreover, it would be useful to ask the patient to take careful notes on what he did and when. A summary of the possible scenarios and how to solve them is presented in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 269,
+                    "end": 276,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Fixed appliances"
+        },
+        {
+            "text": "In conclusion, a good method to manage emergencies, reassure, and follow patients remotely, while they are in their home, is via WhatsApp web.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The orthodontist should not let the patient use anything that could generate an urgency in the office such as appliances that can be activated by the patient (elastics, face masks, headgears, lip bumpers, or other non-removable appliances that can be activated by the patient).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "At the moment, it is essential to manage in the office with the necessary PPE only the real cases of urgencies that cannot be resolved remotely by the patient, following the guidelines dictated by the WHO and local authorities. Take a picture every 20-40 days; if the patient feels pain or swelling, see as an emergency in the dental office and eventually remove the appliance",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Transmission routes of 2019-nCoV and controls in dental practice",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Oral Sci",
+            "volume": "12",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Management of orthodontic emergencies in primary care -self-reported confidence of general dental practitioners",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Popat",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Farnell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Br Dent J",
+            "volume": "221",
+            "issn": "1",
+            "pages": "21--25",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Considerazioni sull'uso di WhatsApp nella comunicazione e relazione medico-paziente",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Veneroni",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ferrari",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Acerra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Massimino",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Clerici",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Recenti Prog Med",
+            "volume": "106",
+            "issn": "",
+            "pages": "331--337",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "WhatsApp in clinical practice: a literature review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mars",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Scott",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Stud Health Technol Inform",
+            "volume": "231",
+            "issn": "",
+            "pages": "82--90",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Managing orthodontic appliances in everyday life: a qualitative study of young people's experiences with removable functional appliances, fixed appliances and retainers",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kettle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hyde",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Frawley",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Granger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Longstaff",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Benson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Orthod",
+            "volume": "47",
+            "issn": "1",
+            "pages": "47--54",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Emergencies in orthodontics part 1: management of general orthodontic problems as well as common problems with fixed appliances",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dowsing",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sandler",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Dent Update",
+            "volume": "42",
+            "issn": "",
+            "pages": "131--171",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Current Therapy in Orthodontics, Mosby",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "\u0130\u015feri",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kurt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ki\u015fni\u015fci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "321--358",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "the Healthcare Infection Control Practices Advisory Committee (HICPAC)",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rutala",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Weber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Sterilization of surgical instruments",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Heaton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Community Eye Health",
+            "volume": "11",
+            "issn": "25",
+            "pages": "14--19",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Management of orthodontic emergencies -to act or not? Inter Journal of Oral Health Dent",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shyamala",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "2018",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Orthodontic emergency scenarios and how to resolve themRemovable appliancesFunctional If it is broken or does not fit, send photos to the orthodontist and suspend the useAlignersRemain on the current/go on with treatment following clinician's indications/if broken or lost get back to the previous and ask the clinicianRetainersIf broken or lost, ask to the dentist to evaluate buying hot customable preforms on e-commerce sitesNon-removable appliances activated by the patient (e.g., face masks, headgears or lip bumpers, palatal expanders)Must be suspended a priori to avoid future emergenciesPre-activated, non-removable appliances (e.g., Pendulum, Forsus, Distal Jet appliance, transpalatal bar)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The author(s) read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "The authors declare that they have no competing interests. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

@@ -1,0 +1,2474 @@
+{
+    "paper_id": "cac5cab0acc600d9346ead6e63b17f06e681fe6d",
+    "metadata": {
+        "title": "Determining the impact of commercial feed additives as potential porcine epidemic diarrhea virus mitigation strategies as determined by polymerase chain reaction analysis and bioassay 1",
+        "authors": [
+            {
+                "first": "Jordan",
+                "middle": [
+                    "T"
+                ],
+                "last": "Gebhardt",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jason",
+                "middle": [
+                    "C"
+                ],
+                "last": "Woodworth",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cassandra",
+                "middle": [
+                    "K"
+                ],
+                "last": "Jones",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mike",
+                "middle": [
+                    "D"
+                ],
+                "last": "Tokach",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Philip",
+                "middle": [
+                    "C"
+                ],
+                "last": "Gauger",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rodger",
+                "middle": [
+                    "G"
+                ],
+                "last": "Main",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jianqiang",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Qi",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Joel",
+                "middle": [
+                    "M"
+                ],
+                "last": "Derouchey",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Robert",
+                "middle": [
+                    "D"
+                ],
+                "last": "Goodband",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Charles",
+                "middle": [
+                    "R"
+                ],
+                "last": "Stark",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jon",
+                "middle": [
+                    "R"
+                ],
+                "last": "Bergstrom",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "DSM Nutritional Products, Inc",
+                    "location": {
+                        "postCode": "07054",
+                        "settlement": "Parsippany",
+                        "region": "NJ"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jianfa",
+                "middle": [],
+                "last": "Bai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Steve",
+                "middle": [
+                    "S"
+                ],
+                "last": "Dritz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kansas State University",
+                    "location": {
+                        "postCode": "66506",
+                        "settlement": "Manhattan",
+                        "region": "KS"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Mitigation of porcine epidemic diarrhea virus (PEDV) was assessed using two feed additives (0.5% inclusion of a benzoic acid [BA] product and 0.02% inclusion of an essential oil [EO] product; DSM Nutritional Products Inc., Parsippany, NJ), and combination of both products (0.5% BA and 0.02% EO) in spray-dried porcine plasma (SDPP) and a swine gestation diet (FEED) as determined by real-time quantitative reverse transcriptase polymerase chain reaction (qRT-PCR) and bioassay. Viral RNA quantification was performed at 7 sampling days post-laboratory inoculation (d 0, 1, 3, 7, 14, 21, and 42) and infectivity was assessed via bioassay with 10-d-old pigs. There was a tendency for treatment \u00d7 feed matrix \u00d7 day interaction (P = 0.094), in which the cycle threshold (Ct) value increased over time in FEED when treated with both feed additives, whereas there was no increase over time observed in SDPP treated with both feed additives. There was a feed matrix \u00d7 day interaction (P < 0.001) in which Ct increased over time in FEED, whereas very little increase over time was observed in SDPP. A tendency for a treatment \u00d7 feed matrix effect (P = 0.085) was observed where FEED treated with the combination of EO and BA had a greater (P < 0.05) PEDV Ct value than other FEED treatments, and all SDPP treatments had the lower PEDV Ct values compared to FEED treatments (P < 0.05). Overall, the combination of both feed additives was most effective at reducing the quantity of genetic material as detected by qRT-PCR (P < 0.001) compared to either additive alone or no feed additive. Virus shedding was observed in the d 7 postinoculation SDPP treatment that was treated with both feed additives, as well as d 0 untreated FEED and d 0 FEED treated with both feed additives. No other treatment bioassay room had detectible RNA shed and detected in fecal swabs or cecal contents. In summary, the combination of EO and BA enhanced the degradation of PEDV RNA in feed but had little impact on RNA degradation in SDPP. Both untreated feed and feed treated with the combination of EO and BA resulted in infection at d 0 post-laboratory inoculation; however, neither set of samples was infective at d 1 postinoculation. In addition, SDPP harbored greater levels of quantifiable RNA for a longer duration of time compared to FEED, and these viral particles remained viable for a longer duration of time indicating differences in viral stability exist between different feed matrices.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "ABSTRACT: Mitigation of porcine epidemic diarrhea virus (PEDV) was assessed using two feed additives (0.5% inclusion of a benzoic acid [BA] product and 0.02% inclusion of an essential oil [EO] product; DSM Nutritional Products Inc., Parsippany, NJ), and combination of both products (0.5% BA and 0.02% EO) in spray-dried porcine plasma (SDPP) and a swine gestation diet (FEED) as determined by real-time quantitative reverse transcriptase polymerase chain reaction (qRT-PCR) and bioassay. Viral RNA quantification was performed at 7 sampling days post-laboratory inoculation (d 0, 1, 3, 7, 14, 21, and 42) and infectivity was assessed via bioassay with 10-d-old pigs. There was a tendency for treatment \u00d7 feed matrix \u00d7 day interaction (P = 0.094), in which the cycle threshold (Ct) value increased over time in FEED when treated with both feed additives, whereas there was no increase over time observed in SDPP treated with both feed additives. There was a feed matrix \u00d7 day interaction (P < 0.001) in which Ct increased over time in FEED, whereas very little increase over time was observed in SDPP. A tendency for a treatment \u00d7 feed matrix effect (P = 0.085) was observed where FEED treated with the combination of EO and BA had a greater (P < 0.05) PEDV Ct value than other FEED treatments, and all SDPP treatments had the lower PEDV Ct values compared to FEED treatments (P < 0.05). Overall, the combination of both feed additives was most effective at reducing the quantity of genetic material as detected by qRT-PCR (P < 0.001) compared to either additive alone or no feed additive. Virus shedding was observed in the d 7 postinoculation SDPP treatment that was treated with both feed additives, as well as d 0 untreated FEED and d 0 FEED treated with both feed additives. No other treatment bioassay room had detectible RNA shed and detected in fecal swabs or cecal contents. In summary, the combination of EO and BA enhanced the degradation of PEDV RNA in feed but had little impact on RNA degradation in SDPP. Both untreated feed and feed treated with the combination of EO and BA resulted in infection at d 0 post-laboratory inoculation; however, neither set of samples was infective at d 1 postinoculation. In addition, SDPP harbored greater levels of quantifiable RNA for a longer duration of time compared to FEED, and these viral particles remained viable for a longer duration of time indicating differences in viral stability exist between different feed matrices.",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "[BA]",
+                    "ref_id": null
+                },
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "[EO]",
+                    "ref_id": null
+                },
+                {
+                    "start": 575,
+                    "end": 605,
+                    "text": "(d 0, 1, 3, 7, 14, 21, and 42)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Key words: feed additive, feed, porcine epidemic diarrhea virus, swine , which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Feed and feed ingredients have been proposed to be contributing factors to the introduction of porcine epidemic diarrhea virus (PEDV) in commercial swine herds (Pasick et al., 2014; Bowman et al., 2015) , and this route of infection has been proven possible in experimental settings (Dee et al., 2014; Pillatzki et al., 2015; Schumacher et al., 2016) . Therefore, potential strategies to mitigate the risk of disease transmission via feed and feed ingredients would be valuable to the swine and feed-manufacturing industries. Research assessing potential mitigation techniques has primarily included two approaches: point-in-time mitigation strategies and mitigation strategies with a prolonged duration of effect. Point-in-time mitigation strategies, such as use of thermal processing or irradiation (Trudeau et al., 2016) , may be efficacious at the time treatment is performed, but the diet remains susceptible to reinoculation posttreatment. Prolonged duration of effect approaches involves the addition of chemical agents to the feed or feed ingredient and remain incorporated through time of consumption such as medium-chain fatty acids (MCFAs), essential oils (EOs), organic acids, or formaldehyde (Dee et al., 2015; Cochrane et al., 2015; Cochrane et al., 2016b; Dee et al., 2016; Trudeau et al., 2016) . With documented evidence of potential for disease transmission via feed or feed ingredients, potential methods to mitigate such risk within a feed-manufacturing facility with a commercially available, safe, and efficacious product that has a prolonged mitigation activity would be valuable. Therefore, the objective of this experiment was to determine the impact of a commercial benzoic acid (BA) product and an EO product as potential chemical mitigation strategies of PEDV in feed and spray-dried porcine plasma (SDPP) as determined by real-time quantitative reverse transcriptase polymerase chain reaction (qRT-PCR) and bioassay.",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 181,
+                    "text": "(Pasick et al., 2014;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 182,
+                    "end": 202,
+                    "text": "Bowman et al., 2015)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 283,
+                    "end": 301,
+                    "text": "(Dee et al., 2014;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 302,
+                    "end": 325,
+                    "text": "Pillatzki et al., 2015;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 326,
+                    "end": 350,
+                    "text": "Schumacher et al., 2016)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 801,
+                    "end": 823,
+                    "text": "(Trudeau et al., 2016)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1205,
+                    "end": 1223,
+                    "text": "(Dee et al., 2015;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1224,
+                    "end": 1246,
+                    "text": "Cochrane et al., 2015;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1247,
+                    "end": 1270,
+                    "text": "Cochrane et al., 2016b;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1271,
+                    "end": 1288,
+                    "text": "Dee et al., 2016;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1289,
+                    "end": 1310,
+                    "text": "Trudeau et al., 2016)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Treatment structure was arranged as a 2 \u00d7 4 \u00d7 7 factorial with two feed matrices (complete diet [FEED] and SDPP) and chemical treatment factors including no addition of feed additives, addition of a BA product (0.5%; DSM Nutritional Products Inc., Parsippany, NJ), addition of an EO product (EO; 0.02%; DSM Nutritional Products Inc., Parsippany, NJ), and combination of both products (0.5% BA and 0.02% EO). Owing to the laboratory analysis procedures requiring separate experimental units to be analyzed on each day, the final factor in the factorial arrangement was day of analysis (d 0, 1, 3, 7, 14, 21, and 42 qRT-PCR before initiation of the experiment. SDPP (APC Functional Proteins, Ankeny, IA) was also verified by qRT-PCR to be free of both PEDV and PDCoV RNA before use.",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 102,
+                    "text": "[FEED]",
+                    "ref_id": null
+                },
+                {
+                    "start": 584,
+                    "end": 613,
+                    "text": "(d 0, 1, 3, 7, 14, 21, and 42",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "General"
+        },
+        {
+            "text": "A 25.0 g sample of each feed matrix was collected and placed in its appropriate bottle (250 mL Nalgene, square wide-mouth high-density polyethylene; Thermo Fisher Scientific, Waltham, MA) and received no virus acting as the negative control. For the feed treatment batches, a benchtop paddle mixer was used as previously described (Schumacher et al., 2016) for mixing feed additives with FEED. Mixing time was 3.0 min, which was previously verified as adequate to achieve a CV of <10% as described by McCoy (2005) , using a chloride mixer efficiency procedure (QuanTab; Hach Co., Loveland, CO). A V-mixer (Cross Flow Blender; Patterson-Kelley Co., East Stroudsburg, PA) was used to mix feed additives with SDPP. A mixer efficiency test was performed using spray-dried bovine plasma and resulted in a uniform mix according to manufacturer's recommendation with a mix time of 7.0 min (MicroTracer-F; Micro-tracers Inc., San Francisco, CA).",
+            "cite_spans": [
+                {
+                    "start": 331,
+                    "end": 356,
+                    "text": "(Schumacher et al., 2016)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 501,
+                    "end": 513,
+                    "text": "McCoy (2005)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Chemical Treatment"
+        },
+        {
+            "text": "Following mixing of feed matrix and corresponding feed additives, 22.5 g of treated feed matrix was sampled from multiple locations within the mixer and placed in the appropriate bottle to be analyzed on 7 sampling days post-laboratory inoculation, with three replications of each sampling day per feed additive treatment combination. This process was repeated for each feed matrix \u00d7 feed additive treatment combination. Both the paddle mixer and V-blender were cleaned between treatments initially by high pressure air, then a flush step was performed with either untreated FEED or SDPP for the paddle mixer and V-blender, respectively, followed by a final cleaning with high pressure air. The mixers were then prepared to mix the subsequent treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Chemical Treatment"
+        },
+        {
+            "text": "Inoculation was carried out at the Kansas State University College of Veterinary Medicine Virology Laboratory. The viral inoculum was cell culture derived USA/IN/2013/19338, passage 8, and had an initial concentration of 10 6 Tissue Culture Infectious Dose (TCID) 50 /mL. Fifty milliliters of concentrated inoculum was mixed with 450 mL tissue culture media, resulting in a diluted inoculum concentration of 10 5 TCID 50 /mL. Inoculation occurred by pipetting 2.5 mL diluted viral inoculum into each bottle containing 22.5 g treated feed matrix, resulting in an inoculated feed matrix with a viral concentration of 10 4 TCID 50 /g of feed matrix. Following addition of the viral inoculum to each bottle, the bottles were lightly shaken in a circular pattern for approximately 5 s, after which each bottle was hand-shaken and inverted for approximately 10 s to mix the virus evenly within each bottle.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Inoculation"
+        },
+        {
+            "text": "Separate bottles were analyzed on d 0, 1, 3, 7, 14, 21, and 42 post-laboratory inoculation. On each day of analysis, 100 mL phosphate-buffered saline (PBS; pH 7.4 1\u00d7, Life Technologies, Grand Island, NY) was added to each bottle predetermined for analysis on that day. Bottles were shaken for approximately 10 s, at which point they were allowed to settle overnight at 4 \u00b0C. The following day, supernatant was pulled and aliquoted for further analysis. A total of four aliquots from each sample bottle were collected and stored at \u221220 \u00b0C until the conclusion of the trial, at which point qRT-PCR analysis was performed on one aliquot per sample bottle and the remaining three samples per bottle were stored at \u221280 \u00b0C until transported to Iowa State University for the initiation of the bioassay portion of the experiment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Real-Time PCR Analysis"
+        },
+        {
+            "text": "After collection of d 42 post-laboratory inoculation aliquots, qRT-PCR was conducted on designated preserved aliquots at Kansas State University Veterinary Diagnostic Laboratory Molecular Diagnostics Laboratory. Fifty microliters of supernatant from each sample was loaded into a deep-well plate and extracted using a Kingfisher 96 magnetic particle processor (Fisher Scientific, Pittsburg, PA) and the MagMAX-96 Viral RNA Isolation kit (Life Technologies, Grand Island, NY) according to the manufacturer's instructions with one modification, reducing the final elution volume to 60 \u00b5L. One negative extraction control consisting of all reagents except the sample was included in each extraction. The extracted RNA was frozen at \u221220 \u00b0C until assayed by qRT-PCR. Analyzed values represent cycle threshold (Ct) at which virus was detected. A greater Ct value indicates more cycles must proceed until viral genetic material is detected, thus lower quantities of genetic material are present in the original sample.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Real-Time PCR Analysis"
+        },
+        {
+            "text": "Translate basic science to industry innovation Bioassay A bioassay was performed using selected treatment \u00d7 time combinations at Iowa State University Veterinary Diagnostic Laboratory (ISU-VDL) to determine the viral infectivity characteristics following protocols previously described (Schumacher et al., 2016; . The experimental protocol for the pig bioassay portion of the experiment was reviewed and approved by the Iowa State University Institutional Animal Care and Use Committee.",
+            "cite_spans": [
+                {
+                    "start": 286,
+                    "end": 311,
+                    "text": "(Schumacher et al., 2016;",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Real-Time PCR Analysis"
+        },
+        {
+            "text": "Seventy-eight crossbred, 10-d-old pigs of mixed sex were sourced from a single commercial, crossbred farrow-to-wean herd with no prior exposure to PEDV. Also, upon arrival, fecal swabs were obtained and confirmed negative for PEDV, PDCoV, and transmissible gastroenteritis virus (TGEV) using a qRT-PCR assay. To further confirm PEDV negative status, serum was collected and confirmed negative for PEDV antibody by an indirect fluorescent antibody assay and TGEV antibody by ELISA conducted at the ISU-VDL. Pigs were allowed 2 d of adjustment to the new pens before the bioassay began.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Real-Time PCR Analysis"
+        },
+        {
+            "text": "Briefly, pigs from each experimental treatment were housed in separate rooms with independent ventilation systems. Rooms had solid flooring that was minimally rinsed to reduce risk of PEDV aerosolization. Pigs were fed liquid milk replacer twice daily and offered a commercial pelleted swine diet ad libitum with free access to water. Each pig was administered 10 mL of the PBS supernatant treatment by orogastric gavage using an 8-gauge French catheter 0 d postbioassay inoculation (dpi). Rectal swabs were collected on d \u22122, 0, 2, 4, and 6 dpi from all piglets and tested for PEDV RNA via qRT-PCR. Cecal content was collected at necropsy and was evaluated for PEDV genetic material via qRT-PCR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Real-Time PCR Analysis"
+        },
+        {
+            "text": "Data were analyzed using PROC GLIMMIX (SAS Institute, Inc., Cary, NC) to determine the main effects of feed additive, feed matrix, as well as day post-laboratory inoculation and all associated interactions on PEDV Ct values with individual sample bottle as the experimental unit. Degrees of freedom were approximated using the Kenward-Roger approach. The LSMEANS procedure was used along with the LINES option to separate means, which differed significantly given the respective interaction or main effect were significant as determined by an F test. Results for response criteria were considered significant at P \u2264 0.05 and a tendency from P > 0.05 to P \u2264 0.10.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "There was a tendency for a feed additive \u00d7 feed matrix \u00d7 day interaction (P = 0.094; Table 2 ) in which the combination of EO and BA resulted in a reduction of quantifiable RNA on d 21 and 42 at a greater rate in FEED than in the SDPP matrix. There was a significant (P < 0.001) feed matrix \u00d7 day interaction in which the Ct value increased over time in FEED, whereas there was very little increase over time observed in SDPP. A tendency for a treatment \u00d7 feed matrix effect (P = 0.085; Table 3 ) was observed. When further evaluated using means separation, FEED treated with the combination of EO and BA had a greater (P < 0.05) PEDV Ct value than other FEED treatments, and all SDPP treatments had the lower PEDV Ct values compared to FEED treatments (P < 0.05). Sufficient evidence of a feed additive \u00d7 day interaction was not observed (P = 0.259). All main effects were highly significant, including feed additive, day, and feed matrix (P \u2264 0.001; Tables 2 and 3) . Overall, the combination of EO and BA was most effective at reducing the quantity of genetic material (P < 0.001), regardless of feed matrix or day postinoculation. Overall, a greater quantity of PEDV RNA was detected in SDPP relative to FEED (P < 0.001, Ct = 29.3 \u00b1 0.20 vs. 35.0 \u00b1 0.20, respectively). The main effect of day postinoculation resulted in an increase in PEDV Ct between d 0, 1, 3, 21, and 42 post-laboratory inoculation (P < 0.001; 29.3, 30.7, 31.6, 33.9, and 35.2, respectively). There was no difference in Ct between d 3, 7, and 14 post-laboratory inoculation (P > 0.05, 31.6, 32.1, and 32.2, respectively).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 85,
+                    "end": 92,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 487,
+                    "end": 494,
+                    "text": "Table 3",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 952,
+                    "end": 967,
+                    "text": "Tables 2 and 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Quantity of Detectible Viral RNA"
+        },
+        {
+            "text": "Upon completion of PCR testing, 16 samples were selected for assessment of virus infectivity via a bioassay at Iowa State University. The samples selected were d 0 negative control (FEED and SDPP which was not inoculated with PEDV), d 0, 1, 3, and 21 FEED samples with no feed additive, d 0, 3, and 21 SDPP samples with no feed additive, d 0, 1, 3, 7, 14, and 21 FEED treated with both EO and BA, and d 7 SDPP samples treated with both EO and BA. Each sample consisted of three supernatant aliquots that each were gavaged into a single pig within bioassay room. Positive control samples included untreated FEED and SDPP samples at d 0, 3, and 21 post-laboratory inoculation as well as d 1 FEED positive control for seven total positive control bioassay rooms. The d 0 and d 1 FEED positive control samples were from this study; however, the other five positive control samples were in conjunction with additional research from our group An initial tissue culture (2.5 mL diluted virus inoculum, 10 5 TCID 50 /mL) was inoculated into 22.5 g of gestation diet (FEED) or SDPP treated with 0.02% EO product, 0.5% BA product, combination of EO and BA products (EO + BA) (DSM Nutritional products, Parsippany, NJ), or no chemical treatment. \u2020 Ct required to detect genetic material. A higher Ct value is indicative of less genetic material present. \u2021 Matrix \u00d7 treatment \u00d7 day interaction, n = 3 for each value. SEM = 0.90, P = 0.094. * An initial tissue culture (2.5 mL diluted virus inoculum, 10 5 TCID 50 /mL) was inoculated into 22.5 g of gestation diet (FEED) or SDPP treated with 0.02% EO product, 0.5% BA product, combination of EO and BA products (EO + BA) (DSM Nutritional products, Parsippany, NJ), or no chemical treatment. A total of 168 samples were used for the analysis with each treatment represented by a mean of n = 21 for the matrix \u00d7 treatment interaction, and n = 42 for the main effect of treatment. \u2020 Ct required to detect genetic material. A higher Ct value is indicative of less genetic material present. \u2021 Swine gestation diet. \u2551 SDPP (APC Functional Proteins, Ankeny, IA). a,b,c Means within item lacking common superscript differ (P < 0.05).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infectivity"
+        },
+        {
+            "text": "No PEDV RNA was detected in fecal swabs before initiation of the bioassay, and negative control pigs remained negative for PEDV genetic material for the full length of the bioassay as assessed by fecal swabs and cecal content collected at necropsy (Table 4 ). Genetic material was detected in fecal swabs for all three pigs in the d 0 untreated FEED and SDPP bioassay rooms beginning at 2 dpi, and viral shedding was observed for the duration of the bioassay. No d 1 untreated FEED pigs had detectible RNA in fecal swabs or cecal contents throughout the bioassay. All three d 3 post-laboratory inoculation untreated SDPP pigs began shedding virus at 2 dpi, whereas the d 3 post-laboratory inoculation untreated FEED pigs had no detectible RNA in fecal swabs throughout the bioassay or cecal content at necropsy. No d 21 post-laboratory inoculation untreated FEED or SDPP pigs had detectible virus in fecal swabs or cecal contents. Thus, pigs became infected with PEDV with both FEED and SDPP at d 0 post-laboratory inoculation as well as d 3 post-laboratory inoculation in SDPP.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 248,
+                    "end": 256,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Infectivity"
+        },
+        {
+            "text": "The d 0 FEED treated with EO and BA pigs (3/3) were shedding PEDV RNA as detected by fecal swabs beginning on 2 dpi and remained infected through necropsy at 7 dpi. Virus shedding was observed 2 dpi in fecal swabs in one pig gavaged with d 7 postinoculation SDPP sample treated with both EO and BA, and all three pigs were shedding virus at 6 dpi and had virus detectible in cecal contents at necropsy. None of the FEED treated with both EO and BA had detectible RNA in fecal swabs or cecal contents with the exception of d 0 post-laboratory inoculation samples. The combination of EO and BA enhanced degradation of PEDV RNA in swine feed but had no impact on RNA degradation in SDPP. Furthermore, both untreated feed and feed treated with the combination of EO and BA resulted in PEDV infection at d 0 post-laboratory inoculation; however, neither set of samples were infective at d 1 post-laboratory inoculation. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infectivity"
+        },
+        {
+            "text": "An initial tissue culture 2.5 mL diluted virus inoculum (10 5 TCID 50 /mL) was inoculated into 22.5 g of gestation diet (FEED) or SDPP treated with 0.02% EO product, 0.5% BA product, combination of EO and BA products (EO + BA) (DSM Nutritional products, Parsippany, NJ), or no chemical treatment for a final infectious titer of 10 4 TCID 50 /g. The supernatant from each sample was then collected for pig bioassay on the appropriate day post-laboratory inoculation and preserved until initiation of the bioassay. The supernatant was administered one time via oral gavage on d 0 to each of three pigs per treatment (10 mL per pig). Pigs were initially 10-d old, initial BW = 3.6 kg. \u2020 (+) indicates quantifiable RNA was detected in fecal swab or cecal content as determined by qRT-PCR. (-) indicates lack of detection of quantifiable RNA in fecal swab or cecal content. Each symbol (+ or \u2212) indicates an individual pig within bioassay room.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infectivity"
+        },
+        {
+            "text": "The very small quantity of virus necessary to cause infection has been determined in cell culture (Thomas et al., 2015) as well as in complete feed (Schumacher et al., 2016) . Such documentation provides support for field-based reports of potential infection using feed as a vehicle (Pasick et al., 2014; Bowman et al., 2015) by realization that such minute quantities of foreign material can be incorporated into feed-manufacturing facilities through improper biosecurity procedures as previously described (Cochrane et al., 2016b) . A significant spatial and spatial-temporal clustering pattern was documented with the initial PEDV epidemic beginning in 2013 (Alvarez et al., 2016) , suggesting indirect spread such as aerosols or fomites could be a likely explanation. However, it has been established that pathogens including PEDV and PDCoV can be found in feed-manufacturing facilities and equipment, including truck pedals and flooring (Greiner et al., 2016) . Thus, failure of proper biosecurity by feed delivery personnel can contaminate a feed-manufacturing facility and subsequent deposition of infectious material into swine production facilities may contribute to the spread of the virus. Feed manufacturing and delivery is a complex procedure and a high level of biosecurity in such process is critical to maintenance of high herd health, but establishing such procedures is complex and additional research and education efforts are necessary to fully understand the complexity and methods needed to minimize potential disease transmission events (Dewey et al., 2014) . Research evaluating a potential mechanism for introduction of viral pathogens into the United States through a transboundary transportation model using feed, various feed ingredients, and pork products has been described (Dee et al., 2018) . Such a model demonstrates the plausibility of viruses to survive the conditions that could be expected based on shipment across large geographic regions and provides important information regarding risk differences among viruses and shipped products such that future mitigation strategies can be tailored to specific virus and product. The use of cost-effective, readily implementable, and safe feed additives to minimize risk of disease transmission would be a very useful tool in addition to biosecurity practices.",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 119,
+                    "text": "(Thomas et al., 2015)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 148,
+                    "end": 173,
+                    "text": "(Schumacher et al., 2016)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 283,
+                    "end": 304,
+                    "text": "(Pasick et al., 2014;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 305,
+                    "end": 325,
+                    "text": "Bowman et al., 2015)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 508,
+                    "end": 532,
+                    "text": "(Cochrane et al., 2016b)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 661,
+                    "end": 683,
+                    "text": "(Alvarez et al., 2016)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 942,
+                    "end": 964,
+                    "text": "(Greiner et al., 2016)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1560,
+                    "end": 1580,
+                    "text": "(Dewey et al., 2014)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1804,
+                    "end": 1822,
+                    "text": "(Dee et al., 2018)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Although the use of commercial formaldehyde has shown significant efficacy in reducing the quantity of detectible PEDV genetic material (Dee et al., 2015 (Dee et al., , 2016 Cochrane et al., 2016b) , concerns arise when considering the implementation of such procedures including the requirement for specialized equipment within feed-manufacturing facilities. Therefore, although effective at mitigating risk of PEDV transmission in an experimental setting, the use of formaldehyde is not a solution for all situations. Other compounds when added to feed and feed ingredients have shown promising efficacy at reducing amount of quantifiable RNA as well as reducing infectivity via swine bioassay-most notably MCFAs (Cochrane et al. 2015; Cochrane et al., 2016b; Dee et al., 2016) . The downfall with the use of MCFA is there are currently no economical sources that are commercially available.",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 153,
+                    "text": "(Dee et al., 2015",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 154,
+                    "end": 173,
+                    "text": "(Dee et al., , 2016",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 174,
+                    "end": 197,
+                    "text": "Cochrane et al., 2016b)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 715,
+                    "end": 737,
+                    "text": "(Cochrane et al. 2015;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 738,
+                    "end": 761,
+                    "text": "Cochrane et al., 2016b;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 762,
+                    "end": 779,
+                    "text": "Dee et al., 2016)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Additional compounds that have been explored as potential PEDV mitigants in feed and feed ingredients include EOs (Cochrane et al., 2015) . EOs are plant-derived compounds that have been reported to possess antimicrobial characteristics against a number of pathogens including bacteria, yeasts, and viruses (Reichling et al., 2009) . With specific regard to antiviral capabilities, EOs have shown efficacy against enveloped viruses-primarily those affecting humans-including herpes simplex virus, dengue virus, Newcastle disease virus, severe acute respiratory syndrome (SARS), SARS-associated coronavirus, and Junin virus by likely inhibiting viral replication (Reichling et al., 2009) . With specific regard to PEDV, there is little investigation as to the antiviral properties of various EO compounds. Cochrane et al. (2015) evaluated a 2% EO blend consisting of equal ratios of garlic oleoresin, turmeric oleoresin, capsicum oleoresin, rosemary extract, and wild oregano EOs, and observed the greatest reduction of quantifiable genetic material occurred approximately d 14 and beyond in both complete swine diet and spray-dried blood meal. Little impact was observed in spray-dried animal plasma. In the study herein, the combination of EO and BA had the greatest reduction in quantifiable genetic material late in the study period, similar to observations by Cochrane et al. (2015) , suggesting efficacy at reducing quantifiable RNA is not immediate. However, the use of EO alone did not result in a significant reduction in PEDV RNA. Although a dramatic increase in Ct is observed at d 21 and 42 post-laboratory inoculation, it is important to note that the infectivity of the PEDV is lost within complete swine feed by 1 d post-laboratory inoculation and between 7 and 14 d post-laboratory inoculation in SDPP. Thus, although the synergistic effect when combining a BA and EO product is interesting and worthy of investigation, viability of the virus is reduced beyond the point of infectious capability long before such effect on RNA is observed. Similar to Cochrane et al. (2015) , commercial products did not result in a significant increase in Ct in SDPP.",
+            "cite_spans": [
+                {
+                    "start": 114,
+                    "end": 137,
+                    "text": "(Cochrane et al., 2015)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 307,
+                    "end": 331,
+                    "text": "(Reichling et al., 2009)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 662,
+                    "end": 686,
+                    "text": "(Reichling et al., 2009)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 805,
+                    "end": 827,
+                    "text": "Cochrane et al. (2015)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1364,
+                    "end": 1386,
+                    "text": "Cochrane et al. (2015)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 2066,
+                    "end": 2088,
+                    "text": "Cochrane et al. (2015)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Organic acid feed additives have been long used for control of pathogens, primarily bacteria including Salmonella (Van Immerseel et al., 2006; Carrique-Mas et al., 2007) . Synergistic benefits have been observed at controlling Escherichia coli O157:H7 when combining organic acids with MCFAs (Kim and Rhee, 2013) ; however, limited documentation of co-administration with EOs is available, particularly specific to viral pathogens. Cochrane et al. (2015) used a custom organic acid blend included at 3% including lactic, propionic, formic, and BAs, which resulted in greater loss of PEDV genetic material over time compared to control, with the greatest efficacy observed in spraydried animal plasma compared to other matrices. Trudeau et al. (2016) investigated the use of dietary acidifiers including the commercial products Activate DA (0.4% inclusion; Novus International, St. Charles, MO), KEM-GEST (0.2% inclusion; Kemin Agrifoods, Des Moines, IA), Acid Booster (0.2% inclusion; AgriNutrition, DeForest, WI) and Ultracid P (0.3% inclusion; Nutriaid, Dendermonde, Belgium). Inactivation kinetics were improved with the inclusion of Activate DA, KEM-GEST, and Acid Booster compared to the control samples, indicating that inclusion of dietary acidifiers can increase the rate of inactivation of PEDV when experimentally inoculated in swine feed. In this study, addition of BA alone did not significantly increase PEDV Ct values in FEED nor SDPP. Inclusion rate of the dietary acidifiers evaluated by Trudeau et al. (2016) ranged from 0.2% to 0.4%, whereas inclusion of BA was 0.5% in this study. It is unclear if this difference in inclusion rate or other factors such as specific organic acids used or the specific blend of different organic acids led to the different response than that previously observed by Trudeau et al. (2016) .",
+            "cite_spans": [
+                {
+                    "start": 114,
+                    "end": 142,
+                    "text": "(Van Immerseel et al., 2006;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 143,
+                    "end": 169,
+                    "text": "Carrique-Mas et al., 2007)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 292,
+                    "end": 312,
+                    "text": "(Kim and Rhee, 2013)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 432,
+                    "end": 454,
+                    "text": "Cochrane et al. (2015)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 728,
+                    "end": 749,
+                    "text": "Trudeau et al. (2016)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1504,
+                    "end": 1525,
+                    "text": "Trudeau et al. (2016)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1816,
+                    "end": 1837,
+                    "text": "Trudeau et al. (2016)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The survival and inversely degradation and/ or loss of quantification ability is dependent upon the feed matrix in which the viral particles are inoculated (Dee et al., 2015; Cochrane et al., 2016b) . Dee et al. (2015) observed that soybean meal harbored viable PEDV virus at 180 d postinoculation, whereas complete feed harbored viable virus for 45 d postinoculation. In the current study, the detectible quantity of virus maintains a higher level in SDPP compared to complete swine diet. The exact mechanism by which virus viability is affected by feed matrix is not fully understood. The interaction between viral particles and feed matrix is complex and is worthy of additional investigation.",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 174,
+                    "text": "(Dee et al., 2015;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 175,
+                    "end": 198,
+                    "text": "Cochrane et al., 2016b)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 201,
+                    "end": 218,
+                    "text": "Dee et al. (2015)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Differences in ingredient composition affect the ability to detect genetic material over time as well as substantially impacts duration of viability at room temperature post-laboratory inoculation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Research evaluating the possibility of PEDV infection using specialty protein feed ingredients, such as spray-dried plasma of bovine (Pujols and Segales, 2014) and porcine Opriessnig et al., 2014; Foddai et al., 2015; Quist-Rybachuk et al., 2015) origin, has been investigated. Pujols and Segales (2014) found spray-dried bovine plasma when infected with PEDV (2.8 log10 TCID 50 /mL) was not infective in cell culture at 7 d postinoculation when stored at room temperature, and infectivity was lost within 21 d when held at refrigerated temperatures. In the current study, all complete diet and SDPP samples were held at room temperature (approximately 23 \u00b0C) following inoculation until addition of PBS at appropriate day of analysis. SDPP not treated with chemical was infective in pig bioassay at 3 d post-laboratory inoculation, whereas infectivity was lost by 21 d indicating infective potential lasted somewhere between 3 and 21 d post-laboratory inoculation in untreated SDPP. Furthermore, SDPP treated with EO and BA was infective at 7 d post-laboratory inoculation, whereas complete swine diet (both untreated and treated with combination of EO and BA) lost infectivity by 1 d post-laboratory inoculation. This direct relationship provides additional evidence that PEDV viability is matrix dependent, and in the current experiment SDPP retained a greater quantity of detectible PEDV genetic material and harbored viable virus for significantly longer than complete swine diet.",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 159,
+                    "text": "(Pujols and Segales, 2014)",
+                    "ref_id": null
+                },
+                {
+                    "start": 172,
+                    "end": 196,
+                    "text": "Opriessnig et al., 2014;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 197,
+                    "end": 217,
+                    "text": "Foddai et al., 2015;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 218,
+                    "end": 246,
+                    "text": "Quist-Rybachuk et al., 2015)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 278,
+                    "end": 303,
+                    "text": "Pujols and Segales (2014)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In summary, the combination of EO and BA enhanced degradation of PEDV RNA in feed but had no impact on RNA degradation in SDPP. Furthermore, both untreated feed and feed treated with the combination of EO and BA resulted in infection at d 0 post-laboratory inoculation; however, neither set of samples were infective at d 1 postinoculation. Finally, SDPP harbored a greater level of quantifiable RNA for a longer duration of time compared to complete swine diet, and these viral particles remained viable for a longer duration of time indicating differences in viral stability exist between different feed matrices.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Appreciation is expressed to DSM Nutritional Products, Parsippany, NJ, for partial financial support of this trial.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENT"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Spatial and temporal epidemiology of porcine epidemic diarrhea (PED) in the Midwest and Southeast regions of the United States",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Goede",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Morrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Perez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Prev. Vet. Med",
+            "volume": "123",
+            "issn": "",
+            "pages": "155--160",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Investigating the introduction of porcine epidemic diarrhea virus into an Ohio swine operation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bowman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Krogwold",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moeller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BMC Vet. Res",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12917-015-0348-2"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Organic acid and formaldehyde treatment of animal feeds to control salmonella: efficacy and masking during culture",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Carrique-Mas",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Davies",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Appl. Microbiol",
+            "volume": "103",
+            "issn": "",
+            "pages": "88--96",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/j.1365-2672.2006.03233.x"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Assessing the effects of medium chain fatty acids and fat sources on PEDV RNA stability and infectivity",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huss",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saensukjaroephon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Derouchey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goodband",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Bai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Feed mill biosecurity plans: a systematic approach to prevent biological pathogens in swine feed",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huss",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Cano",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fahrenholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Swine Health Prod",
+            "volume": "24",
+            "issn": "",
+            "pages": "154--164",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Evaluating the inclusion level of medium chain fatty acids to reduce the risk of PEDV in feed and spray-dried animal plasma",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saensukjaroenphon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huss",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Derouchey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goodband",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Bai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Anim. Sci",
+            "volume": "94",
+            "issn": "2",
+            "pages": "2016--107",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Effect of pelleting on survival of porcine epidemic diarrhea virus-contaminated feed",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schumacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huss",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Derouchey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goodband",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Anim. Sci",
+            "volume": "95",
+            "issn": "",
+            "pages": "1170--1178",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Evaluating chemical mitigation of porcine epidemic diarrhea virus in swine feed and ingredients",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huss",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hesse",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Survival of viral pathogens in animal feed ingredients under transboundary shipping models",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Bauermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Niederwerder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Clement",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lima",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M M"
+                    ],
+                    "last": "Stoian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS One",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0194509"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "An evaluation of contaminated complete feed as a vehicle for porcine epidemic diarrhea virus infection of naive pigs following consumption via natural feeding behavior: proof of concept",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Clement",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schelkopf",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nerem",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Knudsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Christopher-Hennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMC Vet. Res",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12917-014-0176-9"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "An evaluation of porcine epidemic diarrhea virus survival in individual feed ingredients in the presence or absence of a liquid antimicrobial",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Clement",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Christopher-Hennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Porcine Health Manag",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Modeling the transboundary risk of feed ingredients contaminated with porcine epidemic diarrhea virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Clement",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Spronk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Christopher-Hennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Vet. Res",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A qualitative study to identify potential biosecurity risks associated with feed delivery",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dewey",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bottoms",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Carter",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Richardson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Swine Health Prod",
+            "volume": "22",
+            "issn": "",
+            "pages": "232--243",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Probability of introducing porcine epidemic diarrhea virus into Danish pig herds by imported spray-dried porcine plasma",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Foddai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "M\u00f8gelmose",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Alban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Porcine Health Manag",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The spray-drying process is sufficient to inactivate infectious porcine epidemic diarrhea virus in plasma",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Halbur",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Opriessnig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Vet. Microbiol",
+            "volume": "174",
+            "issn": "",
+            "pages": "86--92",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Evaluation of the likelihood of detection of porcine epidemic diarrhea virus or porcine delta coronavirus ribonucleic acid in areas within feed mills",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Greiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Swine Health Prod",
+            "volume": "24",
+            "issn": "",
+            "pages": "198--204",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Marked synergistic bactericidal effects and mode of action of medium-chain fatty acids in combination with organic acids against Escherichia coli O157:H7",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rhee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Appl. Environ. Microbiol",
+            "volume": "79",
+            "issn": "",
+            "pages": "6552--6560",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/AEM.02164-13"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Mixer testing",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mccoy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Feed manufacturing technology",
+            "volume": "",
+            "issn": "",
+            "pages": "620--622",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Porcine epidemic diarrhea virus RNA present in commercial spray-dried porcine plasma is not infectious to na\u00efve pigs",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Opriessnig",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Halbur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Plos One",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Investigation into the role of potentially contaminated feed as a source of the first-detected outbreaks of porcine epidemic diarrhea in Canada",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pasick",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Berhane",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ojkic",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Maxie",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Embury-Hyatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Swekla",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Handel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fairles",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alexandersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Transbound. Emerg. Dis",
+            "volume": "61",
+            "issn": "",
+            "pages": "397--410",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/tbed.12269"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Experimental inoculation of neonatal piglets with feed naturally contaminated with porcine epidemic diarrhea virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pillatzki",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gauger",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Madson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burrough",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Magstadt",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H E"
+                    ],
+                    "last": "Arruda",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stevenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J J"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Swine Health Prod",
+            "volume": "23",
+            "issn": "",
+            "pages": "317--320",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Survivability of porcine epidemic diarrhea virus (PEDV) in bovine plasma submitted to spray drying processing and held at different time by temperature storage conditions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pujols",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Segal\u00e9s",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Vet. Microbiol",
+            "volume": "174",
+            "issn": "",
+            "pages": "427--432",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2014.10.021"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Sensitivity of porcine epidemic diarrhea virus (PEDV) to pH and heat treatment in the presence or absence of porcine plasma",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Quist-Rybachuk",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Nauwynck",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kalmar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Vet. Microbiol",
+            "volume": "181",
+            "issn": "",
+            "pages": "283--288",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Essential oils of aromatic plants with antibacterial, antifungal, antiviral, and cytotoxic properties-an overview",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Reichling",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Schnitzler",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Suschke",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Saller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Forsch Komplementmed",
+            "volume": "16",
+            "issn": "",
+            "pages": "79--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1159/000207196"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Evaluation of the minimum infectious dose of porcine epidemic diarrhea virus in virus-inoculated feed",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schumacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gauger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Main",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hesse",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Am. J. Vet. Res",
+            "volume": "77",
+            "issn": "",
+            "pages": "1108--1113",
+            "other_ids": {
+                "DOI": [
+                    "10.2460/ajvr.77.10.1108"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Effect of porcine epidemic diarrhea virus infectious doses on infection outcomes in na\u00efve conventional neonatal and weaned pigs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gauger",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Gim\u00e9nez-Lirola",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sinha",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Harmon",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Madson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burrough",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Magstadt",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Salzbrenner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Plos One",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0139266"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Comparison of thermal and non-thermal processing of swine feed and the use of selected feed additives on inactivation of porcine epidemic diarrhea virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Trudeau",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Verma",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sampedro",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Urriola",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Shurson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mckelvey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pillai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Goyal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The use of organic acids to combat salmonella in poultry: a mechanistic explanation of the efficacy",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Van Immerseel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Flythe",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Gantois",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Timbermont",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Pasmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Haesebrouck",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ducatelle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Avian Pathol",
+            "volume": "35",
+            "issn": "",
+            "pages": "182--188",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Swine gestation diet. \u00a7 SDPP (APC Functional Proteins, Ankeny, IA). \u00b6 Matrix \u00d7 day interaction, n = 12 for each value. SEM = 0.45, P < 0.001. ** Main effect of day, n = 24 for each value. SEM = 0.32, P < 0.001. (X/X) Superscripts denote number of samples containing no detectable PEDV genetic material following 45 cycles. A value of 45.0 was assumed for samples with nondetectible RNA for analysis. a,b,c,d,e,fMeans within interaction or main effect lacking a common superscript differ (P < 0.05).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF2": {
+            "text": "Effect of BA and EO, feed matrix, and day on PEDV detection as determined by qRT-PCR * qRT-PCR Ct, dpi \u2020",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Effect of feed matrix and feed additive combination and effect of feed additive on PEDV detection using qRT-PCR *, \u2020",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Effects of BA and/or EO products as potential PEDV mitigation strategies in swine complete feed and SDPP as determined by pig fecal swab and cecum content qRT-PCR analysis *, \u2020",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

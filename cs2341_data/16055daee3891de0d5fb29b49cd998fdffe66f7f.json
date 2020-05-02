@@ -1,0 +1,854 @@
+{
+    "paper_id": "16055daee3891de0d5fb29b49cd998fdffe66f7f",
+    "metadata": {
+        "title": "The outbreak of SARS-CoV-2 pneumonia calls for viral vaccines",
+        "authors": [
+            {
+                "first": "Weilong",
+                "middle": [],
+                "last": "Shang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Army Medical University",
+                    "location": {
+                        "postCode": "400038",
+                        "settlement": "Chongqing",
+                        "country": "China. \u2709"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Army Medical University",
+                    "location": {
+                        "postCode": "400038",
+                        "settlement": "Chongqing",
+                        "country": "China. \u2709"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yifan",
+                "middle": [],
+                "last": "Rao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Army Medical University",
+                    "location": {
+                        "postCode": "400038",
+                        "settlement": "Chongqing",
+                        "country": "China. \u2709"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiancai",
+                "middle": [],
+                "last": "Rao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Army Medical University",
+                    "location": {
+                        "postCode": "400038",
+                        "settlement": "Chongqing",
+                        "country": "China. \u2709"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "(MERS-CoV), is an enveloped, single-and positive-stranded RNA virus with a genome comprising 29,891 nucleotides, which encode the 12 putative open reading frames responsible for the synthesis of viral structural and nonstructural proteins 7, 10 . A mature SARS-CoV-2 has four structural proteins, namely, envelope (E), membrane (M), nucleocapsid (N), and spike (S) 10 . All these proteins may serve as antigens to stimulate neutralizing antibodies and increase CD4 + / CD8 + T-cell responses 8, 9 . However, subunit vaccines require multiple booster shots and suitable adjuvants to work, and certain subunit vaccines such as hepatitis B surface antigen, PreS1, and PreS2 may fail to yield protective response when tested clinically 11 . The DNA and mRNA vaccines that are easier to design and proceed into clinical trials very quickly remain experimental. The viral vector-based vaccines could also be quickly constructed and used without an adjuvant 12 . However, development of such vaccines might not start until antigens containing the neutralizing epitopes are identified 8 .",
+            "cite_spans": [
+                {
+                    "start": 239,
+                    "end": 241,
+                    "text": "7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 242,
+                    "end": 244,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 365,
+                    "end": 367,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 492,
+                    "end": 494,
+                    "text": "8,",
+                    "ref_id": null
+                },
+                {
+                    "start": 495,
+                    "end": 496,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 732,
+                    "end": 734,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1077,
+                    "end": 1078,
+                    "text": "8",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The E and M proteins have important functions in the viral assembly of a coronavirus, and the N protein is necessary for viral RNA synthesis 13 . Deletion of E protein abrogated the virulence of CoVs, and several studies have explored the potential of recombinant SARS-CoV or MERS-CoV with a mutated E protein as live attenuated vaccines 13, 14 . The M protein can augment the immune response induced by N protein DNA vaccine against SARS-CoV; 15 however, the conserved N protein across CoV families implies that it is not a suitable candidate for vaccine development, and the antibodies against the N protein of SARS-CoV-2 do not provide immunity to the infection 16 . The critical glycoprotein S of SARS-CoV-2 is responsible for virus binding and entry 16 . The S precursor protein of SARS-CoV-2 can be proteolytically cleaved into S1 (685 aa) and S2 (588 aa) subunits 10 . The S2 protein is well conserved among SARS-CoV-2 viruses and shares 99% identity with that of bat SARS-CoVs 10 . The vaccine design based on the S2 protein may boost the broad-spectrum antiviral effect and is worth testing in animal models. Antibodies against the conserved stem region of influenza hemagglutinin have been found to exhibit broadly cross-reactive immunity, but are less potent in neutralizing influenza A virus 17 . In contrast, the S1 subunit consists of the receptor-binding domain (RBD), which mediates virus entry into sensitive cells through the host angiotensin-converting enzyme 2 (ACE2) receptor 18 . The S1 protein of 2019-nCoV shares about 70% identity with that of human SARS-CoVs. The highest number of variations of amino acids in the RBD is located in the external subdomain, which is responsible for the direct interaction between virus and host receptor 10, 18 . Blocking the initial entry of a virus is proposed as a successful strategy in controlling viral infection. Based on SARS vaccine development, most vaccine candidates target the S protein, which induces neutralizing antibody responses and stimulates a protective cellular immunity against SARS-CoVs 12 . Bukreyev et al. 19 showed that immunization of African green monkeys with the full-length S protein of SARS-CoV protects monkeys from subsequent homologous SARS-CoV challenge. Administration of SARS-CoV RBD proteins can also induce highly potent neutralizing antibodies and long-term protective immunity in animal models 20 . Thus, the generation of antibodies targeting the S1 subunit of SARS-CoV-2 would be an important preventive and treatment strategy that can be tested further in suitable models before clinical trials 10 .",
+            "cite_spans": [
+                {
+                    "start": 141,
+                    "end": 143,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 338,
+                    "end": 341,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 342,
+                    "end": 344,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 665,
+                    "end": 667,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 755,
+                    "end": 757,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 871,
+                    "end": 873,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 985,
+                    "end": 987,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1304,
+                    "end": 1306,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1497,
+                    "end": 1499,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1763,
+                    "end": 1766,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1767,
+                    "end": 1769,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2091,
+                    "end": 2093,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2396,
+                    "end": 2398,
+                    "text": "20",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 2600,
+                    "end": 2602,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Vaccine delivery modality and immunization strategy are important issues to be considered for achieving effective antiviral immunity. As a cause of respiratory tract infection and as demonstrated by the findings of SARS-CoV-2 in stools 1,21 , administration of vaccines by oral or aerosol routes will induce mucosal immune responses and are possible modes of SARS-CoV-2 vaccine immunization. A safe DNA vector for preparation of DNA vaccines 22 , an attenuated virus strain for design of chimeric viral vaccines 23 , and engineered safe bacteria for production of membrane vesicle-vaccines 24 could be explored for vaccine delivery and are worth investigating in the near future.",
+            "cite_spans": [
+                {
+                    "start": 442,
+                    "end": 444,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 512,
+                    "end": 514,
+                    "text": "23",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We can assume that virus-based vaccines should prove valuable in combatting COVID-19. In addition to the entire virus particleassociated inactivated or attenuated viral vaccines, the subunit candidates, such as S1 protein and/or the RBD element of SARS-CoV-2, are also valuable targets for vaccine design. Combining subunit vaccines with established or new adjuvants such as alum versus modern adjuvants such as the GSK AS series of adjuvants may represent a faster and safer strategy to move through early clinical development with the caveat that the protective efficacy may not be strong enough. As a result, immunizing the subunit vaccines with proper delivery platforms and immunization strategies to enhance the immune responses should be considered. We expect researchers who are racing against time will bring a new SARS-CoV-2-based vaccine from gene sequence to clinical testing in approximately 16-20 weeks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Received: 11 February 2020; Accepted: 21 February 2020; ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Early transmission dynamics in Wuhan, China, of novel coronavirusinfected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "National Health Commission of the People's Republic of China. Epidemic Prevention and Control of Dynamic",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical characteristics of 2019 novel coronavirus infection in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.06.20020974"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Pre-and posttreatment chest CT findings: 2019 novel coronavirus (2019-nCoV) pneumonia",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200323"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Prevention and control of seasonal influenza with vaccines: Recommendations of the Advisory Committee on Immunization Practices-United States",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Grohskopf",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "MMWR. Recomm. Rep",
+            "volume": "67",
+            "issn": "",
+            "pages": "1--20",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2008-3"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Severe acute respiratory syndrome coronaviruses with mutations in the E protein are attenuated and promising vaccine candidates",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Regla-Nava",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Virol",
+            "volume": "89",
+            "issn": "",
+            "pages": "3870--3887",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg. Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "221--236",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A comparative trial of two surface subunit recombinant hepatitis B vaccines vs a surface and PreS subunit vaccine for immunization of healthy adults",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Eyigun",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Viral. Hepat",
+            "volume": "5",
+            "issn": "",
+            "pages": "265--269",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The spike protein of SARS-CoV-a target for vaccine and therapeutic development",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat. Rev. Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "226--236",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Coronavirus envelope protein: current knowledge",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schoeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fielding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Virol. J",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A decade after SARS: strategies for controlling emerging coronaviruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat. Rev. Microbiol",
+            "volume": "11",
+            "issn": "",
+            "pages": "836--848",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The expression of membrane protein augments the specific responses induced by SARS-CoV nucleocapsid DNA immunization",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Mol. Immunol",
+            "volume": "43",
+            "issn": "",
+            "pages": "1791--1798",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Return of the coronavirus: 2019-nCoV",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gralinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Viruses",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Measuring the neutralization potency of influenza A virus hemagglutinin stalk/stem-binding antibodies in polyclonal preparations by microneutralization assay",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mullarkey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Methods",
+            "volume": "90",
+            "issn": "",
+            "pages": "95--100",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Receptor recognition by novel coronavirus from Wuhan: an analysis based on decade-long structural studies of SARS",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00127-20"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Mucosal immunisation of African green monkeys (Cercopithecus aethiops) with an attenuated parainfluenza virus expressing the SARS coronavirus spike protein for the prevention of SARS",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bukreyev",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Lancet",
+            "volume": "363",
+            "issn": "",
+            "pages": "2122--2127",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "From SARS to MERS, thrusting coronaviruses into the spotlight",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001191"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "A DNA vaccine induces SARS coronavirus neutralization and protective immunity in mice",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nature",
+            "volume": "428",
+            "issn": "",
+            "pages": "561--564",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "New vaccine technologies to combat outbreak situations",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rauch",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Petsch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front. Immunol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Safe staphylococcal slatform for the development of multivalent nanoscale vesicles against viral infections",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nano Letters",
+            "volume": "18",
+            "issn": "",
+            "pages": "725--733",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "SARS vaccines: where are we?",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Roper",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Rehm",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Expert Rev. Vaccines",
+            "volume": "8",
+            "issn": "",
+            "pages": "887--898",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Advantages and disadvantages of different vaccine strategies. Viral vector vaccines Safety; induces high cellular and humoral immune responses Possibly present pre-existing immunity DNA vaccines Easier to design; high safety; high-titer neutralizing antibodies Lower immune responses in humans; repeated doses may cause toxicity W. Shang et al.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "W.S. and Y.R. wrote the manuscript: Y.Y. and X.R. edited the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        },
+        {
+            "text": "The authors declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "COMPETING INTERESTS"
+        },
+        {
+            "text": "Correspondence and requests for materials should be addressed to X.R.Reprints and permission information is available at http://www.nature.com/ reprintsPublisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons. org/licenses/by/4.0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ADDITIONAL INFORMATION"
+        }
+    ]
+}

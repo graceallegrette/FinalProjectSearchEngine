@@ -1,0 +1,1717 @@
+{
+    "paper_id": "14591bae9b4cf2cfdbd409c0dec9106a13298297",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "E",
+                "middle": [
+                    "F"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Han",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Capital Medical University",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "P.R. China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harbin Engineering University",
+                    "location": {
+                        "settlement": "Harbin, Heilongjiang",
+                        "country": "P.R. China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Desheng",
+                "middle": [],
+                "last": "Kong Abg",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Wuhan University",
+                    "location": {
+                        "postCode": "e923921-1",
+                        "settlement": "Wuhan",
+                        "region": "Hubei",
+                        "country": "P.R. China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shiyue",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harbin Engineering University",
+                    "location": {
+                        "settlement": "Harbin, Heilongjiang",
+                        "country": "P.R. China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Aefg",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ningxi",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {},
+                "email": "yangningxi@bjmu.edu.cn"
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "From the end of December 2019, coronavirus disease 2019 began to spread in central China [1, 2] . As of March 4 th 2020, more than 80,560 people had been diagnosed with COVID-19, and 3010 patients had died from COVID-19 infection in China [3] . Outside China, the disease spread worldwide, nearly 13,570 patients were diagnosed with COVID-19 infection, and 270 patients had died from infection by this novel virus [3] . The outbreak of COVID-19 was recognized by the World Health Organisation (WHO) as a Public Health Emergency of International Concern (PHEIC) that endangers international public health [4] . The WHO has defined a PHEIC as an infectious disease with international spread, or an unusual, serious, or unexpected public health event that exceeds local health resources, or that requires immediate international action [4] .",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 92,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 93,
+                    "end": 95,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 239,
+                    "end": 242,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 414,
+                    "end": 417,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 604,
+                    "end": 607,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 833,
+                    "end": 836,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Infectious disease epidemics not only affect the physical health of patients but also affect the psychological health and wellbeing of the non-infected population. Previous studies have shown that the prevalence of novel infectious diseases, such as severe acute respiratory syndrome (SARS), can increase anxiety, depression, and stress levels in the general population [5] . These negative emotions also affect sleep [6] . At the time of the COVID-19 epidemic in central China, some individuals with mild illness, suspected cases of infection, and people who had been in close contact with patients or a potentially high-risk environment were isolated at home. Even if the self-isolated individuals do not develop an infection and remain physically well, they often suffer from negative psychological effects. Importantly, the effects of mental health and sleep on immunity have been shown by previous studies [7] . Good quality sleep can help improve immunity to viral infection [8] . Therefore, mental health and sleep quality are important considerations in the population of people who have self-isolated due to their increased risk of COVID-19 infection.",
+            "cite_spans": [
+                {
+                    "start": 370,
+                    "end": 373,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 418,
+                    "end": 421,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 911,
+                    "end": 914,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 981,
+                    "end": 984,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Psychological wellbeing and sleep are affected by several factors. Social factors, such as economic burden, family support, social support, and social capital, are also important factors [9] . Recently, several studies have investigated the influence of social factors on mental health [10] . Social support is a common variable, but there has been little research on the relationship between social capital and health [11, 12] .",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 286,
+                    "end": 290,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 419,
+                    "end": 423,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 424,
+                    "end": 427,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "The concept of social capital was first proposed by the French sociologist, Portes, in 1980 [13] . Portes defined social capital as a collection of actual or potential resources that include social trust, belonging, and participation, and believed that these resources were associated with a lasting network of mutual recognition [13] . In 1997, Lynch developed the concept of social capital as the will to generate social cohesion, trust, and participation in community activities [14] . There are differences between social support and social capital. Social support represents the size and source of social networks of people helping others, as well as emotional, material, and informative supportive functions [15] . Social capital includes social trust, belonging, and social participation. The effect of social capital on psychological wellbeing has been shown by previous studies [16] .",
+            "cite_spans": [
+                {
+                    "start": 76,
+                    "end": 96,
+                    "text": "Portes, in 1980 [13]",
+                    "ref_id": null
+                },
+                {
+                    "start": 330,
+                    "end": 334,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 482,
+                    "end": 486,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 714,
+                    "end": 718,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 887,
+                    "end": 891,
+                    "text": "[16]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "However, in China, studies on the role of social capital on wellbeing are limited, particularly in the context of acute infectious disease. Therefore, this study aimed to investigate the effects of social capital on sleep quality and the mechanisms involved in people who self-isolated at home for 14 days in January 2020, during the COVID-19 epidemic in central China. In this study, path analysis was performed to evaluate the relationships between a dependent variable (social capital) and two or more independent variables (anxiety, stress, and sleep), using Pearson's correlation analysis and structural equation modeling (SEM).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "This study was conducted in accordance with the Declaration of Helsinki. All participants provided signed informed consent to participate in the study. The Wuhan University School of Medicine Ethics Committee approved the study procedures (Approval number: 20190320).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical approval"
+        },
+        {
+            "text": "A total of 170 people were identified who were isolated at home for 14 days in January 2020 in central China, during the epidemic of coronavirus disease 2019 (COVID-19). The study included adult individuals who had self-isolated following mild infection with COVID-19, suspected cases of COVID-19 infection, people in close contact with patients infected with COVID-19, and people who may have been exposed to the virus in the environment. All study participants were required to be able to provide informed consent to participate in the study. All responses to the study questionnaires were anonymized.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study participants"
+        },
+        {
+            "text": "Cross-sectional study design was used that included the demographic and sociological data for each participant and disease-related information. On the third day of self-isolation, the participants completed self-reported questionnaires. Individual social capital was assessed using the Personal Social Capital Scale 16 (PSCI-16) questionnaire. Anxiety was assessed using the Self-Rating Anxiety Scale (SAS) questionnaire, stress was e923921-2 assessed using the Stanford Acute Stress Reaction (SASR) questionnaire, and sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI) questionnaire. The questionnaire responses were compared to determine the relationships between anxiety, stress, sleep, and social capital.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study design"
+        },
+        {
+            "text": "Measurement of social capital using the PSCI-16 questionnaire",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study design"
+        },
+        {
+            "text": "The PSCI-16 questionnaire was used to assess social capital, using a 5-point Likert scale that contained 16 items. Each item scored from 1 -5, and the total score ranged from 16 -80. A higher score indicated lower social capital. The PSCI-16 questionnaire included the following 16 questions: 1. How many friends do you have? 2. How many relatives, neighbors, friends, co-workers, and classmates do you have? 3. Among your co-workers, how many do you trust? 4. Among your relatives, how many do you trust? 5. Among all your relatives, neighbors, friends, co-workers, and classmates, how many have connections with others? 6. Among all your relatives, neighbors, friends, co-workers, and classmates, how many have a professional job? 7. How many of your co-workers will help you when asked? 8. How many of your friends will help you when asked? 9. How do you rate the number of cultural, recreational, and leisure groups and organizations are in your community? 10. How do you rate the number of governmental, political, economic, and social groups and organizations in your community? 11. How many of these groups and organizations possess broad social connections? 12. How many of these groups and organizations have social influence? 13. How many of the cultural, recreational, and leisure groups and organizations represent your interests? 14. How many of the governmental, political, economic, and social groups and organizations represent your interests? 15. How many of the governmental, political, economic, and social groups and organizations will help you when asked? 16. How many of the cultural, recreational, and leisure groups and organizations will help you when asked? [17] . The Cronbach's alpha for internal consistency of this questionnaire was previously determined to be 0.812.",
+            "cite_spans": [
+                {
+                    "start": 1684,
+                    "end": 1688,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study design"
+        },
+        {
+            "text": "The SAS questionnaire was used to measure the levels of anxiety of the study participants. There were 20 items in the scale. Each item was divided into four grades according to the feelings of the respondents in the past week and the frequency of symptoms was mainly evaluated. The cumulative score of 20 items was the total SAS score. The standard total score was obtained by taking the total score \u00d71.25. The higher the score, the greater the degree of anxiety [18] . The Cronbach's alpha for internal consistency of this questionnaire was previously determined to be 0.867.",
+            "cite_spans": [
+                {
+                    "start": 463,
+                    "end": 467,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of anxiety using the SAS questionnaire"
+        },
+        {
+            "text": "The SASR questionnaire using a six-point Likert scale, which contained 30 items, was used to measure stress. Each item scored from 0 -5, with the total scores from 0 -150. A higher score indicated higher stress levels [19] . The Cronbach's alpha for internal consistency of this questionnaire was previously determined to be 0.803.",
+            "cite_spans": [
+                {
+                    "start": 218,
+                    "end": 222,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of stress using the SASR questionnaire"
+        },
+        {
+            "text": "The PSQI questionnaire was used to measure the sleep quality of the study participants. There were 18 items that consisted of seven dimensions, including sleep quality, sleep duration, sleep latency, habitual sleep efficiency, sleep disturbances, use of sleeping\u00d7medications, and daytime dysfunction. Each dimension was scored from 0 -3, and the total score, which was the sum of the scores from each dimension, ranged from 0 -20. A higher score indicated lower sleep quality [20] . The Cronbach's alpha for internal consistency of this questionnaire was previously determined to be 0.872.",
+            "cite_spans": [
+                {
+                    "start": 476,
+                    "end": 480,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Measurement of sleep quality using the PSQI questionnaire"
+        },
+        {
+            "text": "Data were presented as the mean \u00b1 standard deviation (SD). Path analysis, or multiple regression analysis, was performed to evaluate the relationships between a dependent variable (social capital) and two or more independent variables, using Pearson correlation analysis (r) and structural equation modeling (SEM). The indices for the degree of fit of the SEM were calculated. SPSS Amos version 21.0 (IBM, Armonk, NY, USA) was used to measure the mediation effects of the study variables, with a bootstrap number set as 5000 to test the significance of specific mediation effects, followed by the nonparametric percentile bootstrap method with SD correction. EpiData Entry version 3.1 and SAS version 9.4 were used for data entry and analysis, respectively. A P-value <0.05 was considered to be statistically significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "There were 200 people who were initially invited to participate, of which 170 were included in the study, with a participation rate of 85%. The mean age of the study participants e923921-3 was 37.78 \u00b1 4.12 years. The demographic and disease-related data of the study participants are shown in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 293,
+                    "end": 300,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study participants"
+        },
+        {
+            "text": "The association between social capital, stress, anxiety, and sleep quality Individual social capital was assessed using the Personal Social Capital Scale 16 (PSCI-16) questionnaire; anxiety was assessed using the Self-Rating Anxiety Scale (SAS) questionnaire; stress was assessed using the Stanford Acute Stress Reaction (SASR) questionnaire; and sleep was assessed using the Pittsburgh Sleep Quality Index (PSQI) questionnaire. Pearson's correlation analysis showed that the PSCI-16 score for social capital was positively associated with the SAS score for anxiety (r=0.619, P<0.01), the SASR score for stress (r=0.543, P<0.01), and the PSQI score for sleep quality (r=0.479, P<0.01).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study participants"
+        },
+        {
+            "text": "The SAS score for anxiety for the study participants was positively associated with the SASR score for stress (r=0.553, P<0.01), and the PSQI score for sleep quality (r=0.523, P<0.01). The SASR score for stress was positively associated with the PSQI score for sleep quality (r=0.628, P<0.01). These findings showed that the social capital of the study participants who self-isolated during the COVID-19 epidemic improved sleep quality, which was reduced by anxiety and stress. Anxiety levels correlated with stress levels, which reduced sleep quality. The results are summarized in Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 583,
+                    "end": 590,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study participants"
+        },
+        {
+            "text": "Path analysis and mediation analysis using structural equation modeling (SEM) of social capital on stress, anxiety, and sleep quality Path analysis and mediation analysis using structural equation modeling (SEM) were used to investigate the relationships between the four variables in this study. The effect of PSCI-16 score for social capital on the PSQI score for sleep quality did not reach statistical significance, and this path was deleted from the model, as shown in Figure 1 . The indices for the degree of fit of the SEM were ideal, as shown by the goodness of fit index (GFI) of 0.995, the comparative fitness index (CFI) of 0.997, the Tucker Lewis index (TLI) of 0.981, the incremental fit index (IFI) of 0.997, the normed fit index (NFI) of 0.993, the adjusted goodness of fit index (AGFI) of 0.948, the root mean square error of approximation (RMSEA) of 0.068, and the chisquared (c 2 ) to degree of freedom (df) ratio (c 2 /df ) of 1.781. Table 3 shows the normalized path coefficient. The PSCI-16 score of the study participants was positively associated with the SAS score (b=0.619, P<0.001) and the SASR score (b=0.327, P<0.001). The SAS score of the study participants significantly affected the SASR score (b=0.351, P<0.001) and the PSQI score (b=0.253, P<0.001). The SASR score of the study participants was positively associated with the PSQI score (b=0.488, P<0.001). According to the scores from the PSCI-16, SAS, SASR, and PSQI questionnaires, social capital reduced anxiety and stress; increased anxiety levels reinforced stress levels, and reduced sleep quality.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 474,
+                    "end": 482,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 953,
+                    "end": 960,
+                    "text": "Table 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study participants"
+        },
+        {
+            "text": "The indices for the degree of fit of the SEM were calculated. SPSS Amos version 21.0 (IBM, Armonk, NY, USA) was used to measure the mediation effects of the study variables, with a bootstrap number set as 5000 to test the significance of specific mediation effects, followed by the nonparametric percentile bootstrap method with standard deviation (SD) correction. The following path was identified: PSCI-16 score for social capital \u00ae the SAS score for anxiety \u00ae the PSQI score for sleep quality. The SAS score for anxiety had a significant mediating effect between the PSCI-16 score for social capital and the PSQI score for sleep quality (b=0.157, P=0.002) when the confidence interval did not include 0. In the path of the PSCI-16 score for social capital \u00ae the SASR score for stress \u00ae the PSQI score for sleep quality, the SAS score for anxiety had a significant mediating effect between the PSCI-16 score for social capital and the PSQI score for sleep quality (b=0.159, P<0.0001), when 0 was not included in the confidence interval. The results are shown in Table 4 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1064,
+                    "end": 1071,
+                    "text": "Table 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Study participants"
+        },
+        {
+            "text": "The aim of this study was to investigate the effects of social capital on sleep quality and the mechanisms involved in people who self-isolated at home for 14 days in January 2020 during the coronavirus disease 2019 (COVID-19) epidemic in central China. Social capital was assessed using the Personal Social Capital Scale 16 (PSCI-16) questionnaire, which measured social trust, belonging, and participation. Anxiety was assessed using the Self-Rating Anxiety Scale (SAS) questionnaire, stress was assessed using the Stanford Acute Stress Reaction (SASR) questionnaire, and sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI) questionnaire. Path analysis was performed to evaluate the relationships between a dependent variable (social capital) and two or more independent variables, using Pearson's correlation analysis and structural equation modeling (SEM).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The findings from this study showed that anxiety and stress of isolated individuals were at high levels, while the sleep quality was low, which indicates that psychological health should be considered for individuals who isolate during epidemics and that levels of social capital may affect mental health and sleep. These findings are supported by previous studies, including the findings reported in 2012 by Valencia-Garcia et al., which confirmed that increased social capital reduced the levels of depression and anxiety [21] . Li et al. showed that for children living in poverty, more family members, peer support, and school friends in their social capital were associated with better mental health [22] . Yamada et al. showed that social capital contributed to reducing distress and preventing complications in patients with diabetes [23] .",
+            "cite_spans": [
+                {
+                    "start": 524,
+                    "end": 528,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 531,
+                    "end": 540,
+                    "text": "Li et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 705,
+                    "end": 709,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 841,
+                    "end": 845,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The findings from the present study, and the findings from previous studies, provide support for improving physical and mental health from the perspective of social capital and may be applied to individuals who self-isolate during epidemics, such as the recent COVID-19 epidemic in central China. Individuals who self-isolate at home will suffer from physical stress due to lack of space for physical activity, stress due to limited social interactions, and anxiety associated with fear of the consequences of infection. Most individuals who self-isolate live alone or live ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "with their families and may be more likely to feel lonely. Also, because they are isolated at home rather than in the hospital, they may feel more insecure than the patients who have been hospitalized, with increased uncertainty about their own risk of developing severe disease, or of not being diagnosed or treated in time. Therefore, the mental health of these individuals requires more attention. Social capital may require attention to reduce negative emotions and to cope with the risks from an infection epidemic with a more positive attitude.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "e923921-5"
+        },
+        {
+            "text": "This study found that the influence of social capital on sleep was mediated by anxiety and stress. In the first path identified, social capital affected anxiety, and anxiety directly influenced sleep quality. Social capital affects anxiety because when an individual has a wide social network, they may be more likely to interact with other people [24] . Social support and social resources reduce negative emotions, such as anxiety [25] . Therefore, when individuals are isolated, including during epidemics, online social groups that expand social networks and provide mutual support may reduce the anxiety of isolation [26] . The effects of anxiety on sleep have been previously identified [27] . Subjectively, people with anxiety may find it difficult to fall asleep, or they may wake up easily [28] . Anxiety may lead to increased cortisol levels, changes in cortisol secretion rhythms, and reduced melatonin synthesis, all of which reduces sleep quality [29, 30] .",
+            "cite_spans": [
+                {
+                    "start": 348,
+                    "end": 352,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 433,
+                    "end": 437,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 622,
+                    "end": 626,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 693,
+                    "end": 697,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 799,
+                    "end": 803,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 960,
+                    "end": 964,
+                    "text": "[29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 965,
+                    "end": 968,
+                    "text": "30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "e923921-5"
+        },
+        {
+            "text": "In the second path identified in this study, social capital affected stress, and then stress affected sleep. The stress response refers to the individual nonspecific response caused by various stressors [31] . Stress is closely associated with mood, behavior, a sense of wellbeing, and health [32] . People who have more social capital usually have less stress because they have spiritual or material support from others. Social support helps to reduce the perception and evaluation of the threat of stress events, the physiological response and inappropriate behavior caused by stress, and the level of fear and anxiety induced by stress [33, 34] . Stress is associated with sleep quality [35] . When individuals experience stress, they often feel physical tension and mental pressure, they are more sensitive to the sleeping environment, or they focus on sleep too much, which will reduce their sleep quality [36] . Also, some variables may interact with each other. For example, anxiety may increase stress, and stress may increase anxiety [37] . Also, increased anxiety may lead to poor sleep, and poor sleep may increase anxiety [38] . Therefore, all the variables included in the present study, social capital, stress, anxiety, and sleep require attention to prevent a negative cycle of psychological and physical harm.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 207,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 293,
+                    "end": 297,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 639,
+                    "end": 643,
+                    "text": "[33,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 644,
+                    "end": 647,
+                    "text": "34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 690,
+                    "end": 694,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 911,
+                    "end": 915,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1043,
+                    "end": 1047,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1134,
+                    "end": 1138,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "e923921-5"
+        },
+        {
+            "text": "Therefore, more measures are needed to improve the social capital and mental health status of isolated people during epidemics of infectious disease. For example, professional medical staff should provide online health education to reduce uncertainty and panic caused by a lack of knowledge of new infections and diseases. Social workers and psychotherapists may provide online help or support or support by phone to provide encouragement to communicate with relatives and friends using the internet or phone. These approaches to improving mental health and sleep may also improve immune function, which may improve the ability to resist infectious disease [39, 40] . This study investigated social capital, anxiety, stress, and sleep quality in a population who self-isolated for 14 days during the COVID-19 outbreak in January 2020 and analyzed the relationships between the variables. Social capital affected sleep quality through the mediation effects on anxiety and stress, as people who had high levels of social capital had better sleep quality. However, this study had several limitations. The study sample size was small, and a cross-sectional study design was used, which may have prevented the identification of other associations between social capital and sleep. Also, social capital was measured using the PSCI-16 questionnaire, and the data relied on the ability of the individual to interpret the questions and provide accurate responses, but these responses were not verified objectively. Therefore, some causal relationships may have been missed. Further cohort studies with more samples should be performed, and non-subjective methods should be used. For example, sleep can be measured objectively by polysomnography, and stress levels can be detected using objective measurements of serum cortisol levels.",
+            "cite_spans": [
+                {
+                    "start": 657,
+                    "end": 661,
+                    "text": "[39,",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 662,
+                    "end": 665,
+                    "text": "40]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "e923921-5"
+        },
+        {
+            "text": "This study aimed to investigate the effects of social capital on sleep quality and the mechanisms involved in people who selfisolated at home for 14 days in January 2020, during the coronavirus disease 2019 (COVID-19) epidemic in central China. In this study, path analysis was performed to evaluate the relationships between a dependent variable (social capital) and two or more independent variables (anxiety, stress, and sleep), using Pearson's correlation analysis and structural equation modeling (SEM). During a period of individual self-isolation during the COVID-19 virus epidemic, increased social capital improved sleep quality by reducing anxiety and stress. These findings may have implications for public health provision during epidemics of infectious disease, including improvements in social capital.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organisation (WHO): Coronavirus disease (COVID-19) technical guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A Novel Coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "8",
+            "pages": "727--760",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "National Health Commission of the Peoples' Republic of China: March 5: 2020 Daily briefing on novel coronavirus cases in China. 2020. Available at",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "World Health Organisation (WHO): International Health Regulations (IHR) on procedures concerning Public Health Emergencies of International Concern (PHEIC)",
+            "authors": [],
+            "year": 2005,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Posttraumatic stress, anxiety, and depression in survivors of severe acute respiratory syndrome (SARS)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Traumatic Stress",
+            "volume": "18",
+            "issn": "1",
+            "pages": "39--42",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Positive and negative emotions: Differential associations with sleep duration and quality in adolescents",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Schie",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ditchburn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Youth Adolescence",
+            "volume": "47",
+            "issn": "12",
+            "pages": "2584--95",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Effects of sleep and sleep loss on immunity and cytokines",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Irwin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "16",
+            "issn": "",
+            "pages": "503--515",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The sleep-immunity relationship",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gamaldo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Shaikh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Mcarthur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Neurol Clin",
+            "volume": "30",
+            "issn": "4",
+            "pages": "1313--1356",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Depression, anxiety, post-traumatic stress disorder and health-related quality of life and its association with social support in ambulatory prostate cancer patients",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mehnert",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lehmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Graefen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Eur J Cancer Care",
+            "volume": "19",
+            "issn": "6",
+            "pages": "736--781",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Social support, social conflict, and immigrant women's mental health in a Canadian context: A scoping review",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Guruge",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Thomson",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "George",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Psychiatr Ment Health Nurs",
+            "volume": "22",
+            "issn": "9",
+            "pages": "655--667",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Social support and mental health in LGBTQ adolescents: A review of the literature",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcdonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Issues Ment Health Nurs",
+            "volume": "39",
+            "issn": "1",
+            "pages": "16--29",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The relation of perceived and received social support to mental health among first responders: A meta-analytic review",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Prati",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pietrantoni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Community Psychol",
+            "volume": "38",
+            "issn": "3",
+            "pages": "403--420",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Social capital: Its origins and applications in modern sociology",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Portes",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Annu Rev Soc",
+            "volume": "24",
+            "issn": "1",
+            "pages": "1--24",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Understanding how inequality in the distribution of income affects health",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lynch",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kaplan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Health Psychol",
+            "volume": "2",
+            "issn": "3",
+            "pages": "297--314",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The impact of social capital and social support on the health of female-headed households: a systematic review",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Khazaeian",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kariman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ebadi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Electron Physician",
+            "volume": "9",
+            "issn": "12",
+            "pages": "6027--6061",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Reliability and validity of the Personal Social Capital Scale 16 and Personal Social Capital Scale 8: Two short instruments for survey studies",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Soc Indicators Res",
+            "volume": "119",
+            "issn": "2",
+            "pages": "1133--1181",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Dimensionality of somatic complaints: Factor structure and psychometric properties of the Self-Rating Anxiety Scale",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Olatunji",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Deacon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Abramowitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Anxiety Disord",
+            "volume": "20",
+            "issn": "5",
+            "pages": "543--61",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Psychometric properties of the Stanford Acute Stress Reaction Questionnaire (SASRQ): A valid and reliable measure of acute stress",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Carde\u00f1a",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Koopman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Classen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Trauma Stress",
+            "volume": "13",
+            "issn": "4",
+            "pages": "719--753",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Psychometric evaluation of the Pittsburgh Sleep Quality Index",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Carpenter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Andrykowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Psychosom Res",
+            "volume": "45",
+            "issn": "",
+            "pages": "5--13",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Social capital, acculturation, mental health, and perceived access to services among Mexican American women",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Valencia-Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Simoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Alegr\u00eda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Consult Clin Psychol",
+            "volume": "80",
+            "issn": "2",
+            "pages": "177--85",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Effects of multi-dimensional social capital on mental health of children in poverty: An empirical study in Mainland China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Health Psychol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Identifying the social capital influencing diabetes control in Japan",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yamada",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Suematsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nagoya J Med Sci",
+            "volume": "80",
+            "issn": "1",
+            "pages": "99--107",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Groups as social network members: Overlooked sources of social support",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Felton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Berry",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Am J Community Psychol",
+            "volume": "20",
+            "issn": "2",
+            "pages": "253--61",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Relationship between social network, social support and health behaviour in people with type 1 and type 2 diabetes: Cross-sectional studies",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hempler",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Joensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Willaing",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Public Health",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The relationship between use of social network sites, online social support, and wellbeing: Results from a six-wave longitudinal study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Utz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Breuer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Media Psychol",
+            "volume": "29",
+            "issn": "3",
+            "pages": "115--140",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "A systematic review assessing bidirectionality between sleep disturbances, anxiety, and depression",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Alvaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Harris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Sleep",
+            "volume": "36",
+            "issn": "7",
+            "pages": "1059--68",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "The association of insomnia with anxiety disorders and depression: Exploration of the direction of risk",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Roth",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Breslau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Psych Res",
+            "volume": "40",
+            "issn": "8",
+            "pages": "700--708",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Melatonin and its analogs in insomnia and depression",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Cardinali",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Srinivasan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brzezinski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Pineal Res",
+            "volume": "52",
+            "issn": "",
+            "pages": "365--75",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Van der Does AJ et al: Psychological traits and the cortisol awakening response: Results from the Netherlands Study of Depression and Anxiety",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Santen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Vreeburg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Psychoneuroendocrinology",
+            "volume": "36",
+            "issn": "",
+            "pages": "240--288",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Stress response syndromes",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Horowitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "",
+            "volume": "31",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Stress and health: Psychological, behavioral, and biological determinants",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Schneiderman",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ironson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Siegel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Ann Rev Clin Psychol",
+            "volume": "1",
+            "issn": "",
+            "pages": "607--635",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Perceived social support and mental health among single vs. partnered polish young adults",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Adamczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Segrin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Curr Psychol",
+            "volume": "34",
+            "issn": "1",
+            "pages": "82--96",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Social relationships and mortality risk: A meta-analytic review",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Holt-Lunstad",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Layton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Med",
+            "volume": "7",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Interactions between stress and sleep: From basic research to clinical situations",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Reeth",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Weibel",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Spiegel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Sleep Med Rev",
+            "volume": "4",
+            "issn": "2",
+            "pages": "201--220",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The role of vulnerability in stress-related insomnia, social support and coping styles on incidence and persistence of insomnia",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jarrin",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ivers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Sleep Res",
+            "volume": "23",
+            "issn": "6",
+            "pages": "681--88",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Stress, anxiety, depression, and epilepsy: Investigating the relationship between psychological factors and seizures",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Thapar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kerr",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Harold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Epilepsy Behav",
+            "volume": "14",
+            "issn": "1",
+            "pages": "134--174",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "The relationship of sleep quality and PTSD to anxious reactivity from idiographic traumatic event scriptdriven imagery",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Babson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Badour",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Feldner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Trauma Stress",
+            "volume": "25",
+            "issn": "5",
+            "pages": "503--513",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Sick and tired: how molecular regulators of human sleep schedules and duration impact immune function",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kurien",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Pt\u00e1\u010dek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Curr Opin Neurobiol",
+            "volume": "23",
+            "issn": "5",
+            "pages": "873--79",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "A systematic review of spiritually based interventions and psychoneuroimmunological outcomes in breast cancer survivorship",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hulett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Armer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Integr Cancer Ther",
+            "volume": "15",
+            "issn": "4",
+            "pages": "405--428",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Social capital, sleep quality, self-isolation, and COVID-19\u2026",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Path analysis results from the Personal Social Capital Scale 16 (PSCI-16), the Self-Rating Anxiety Scale (SAS), the Stanford Acute Stress Reaction (SASR), and the Pittsburgh Sleep Quality Index (PSQI) of the study participants.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF2": {
+            "text": "Table 4. Result of Bootstrap indirect effects analysis.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": " Table 3 . Normalized path coefficient. *** P<0.001. All the data in the form indicates the score of the questionnaire.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1,
+                    "end": 8,
+                    "text": "Table 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "The authors thank all the participants who took part in the study. This study was funded by the Basic Research Project of Coronavirus Disease 2019 Epidemic of Fundamental Research Funds for the Central Universities, Harbin Engineering University.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "None.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        }
+    ]
+}

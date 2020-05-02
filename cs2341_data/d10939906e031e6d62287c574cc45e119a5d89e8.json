@@ -1,0 +1,411 @@
+{
+    "paper_id": "d10939906e031e6d62287c574cc45e119a5d89e8",
+    "metadata": {
+        "title": "A Contribution to the Mathematical Modeling of the Corona/COVID-19 Pandemic",
+        "authors": [
+            {
+                "first": "G\u00fcnter",
+                "middle": [],
+                "last": "B\u00e4rwolff",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Technische Universit\u00e4t Berlin",
+                    "location": {}
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Using data from the Johns Hopkins University [2] and the German Robert-Koch-Institut on the ongoing coronavirus pandemic, we discuss the applicability of W. O. Kermack and A. G. McKendrick's SIR model[1] including strategies for the commencing and ending of social and economic shutdown measures. The numerical solution of the ordinary differential equation system of the modified SIR model is being done with a Runge-Kutta integration method of fourth order [3].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "While the model put forward here is simple, and the coronavirus disease is complex, we do get some results which could be interesting for politicians and health professionals. In particular, we draw some conclusions about the appropriate point in time at which to commence with lockdown measures based on the rate of new infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "At first I will describe the model. I denotes the infected people, S stands for the susceptible and R denotes the recovered people. The dynamics of infections and recoveries can be approximated by the ODE system",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The mathematical SIR model"
+        },
+        {
+            "text": "We understand \u03b2 as the number of others that one infected person encounters per unit time (per day). \u03b3 is the reciprocal value of the typical time from infection to recovery. N is the total number of people involved in the epidemic disease and there is N = S + I + R . The empirical data currently available suggests that the corona infection typically lasts for some 14 days. This means \u03b3 = 1/14 \u2248 0,07.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The mathematical SIR model"
+        },
+        {
+            "text": "The choice of \u03b2 is more complicated. Therefore we consider the development of the infected persons in Germany. Figs. 1 (and 2) show the history of the last 60 days.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The mathematical SIR model"
+        },
+        {
+            "text": "At the beginning of the pandemic the quotient S/N is nearly equal to 1. Also, at the early stage no-one has yet recovered. Thus we can describe the early regime by the equation dI dt = \u03b2I with the solution I(t) = I(0) exp(\u03b2t) .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The mathematical SIR model"
+        },
+        {
+            "text": "To guess values for I(0) and \u03b2 we fit the real behavior with the function \u03b1 exp(\u03b2t). With a damped Gauss-Newton method [3] we get the value \u03b2 = 0,218 for the nonlinear approximation and \u03b2 = 0,175 with a logarithmic-linear regression for Germany. The values of \u03b2 for Italy and Spain are greater than those for Germany (in Italy:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The mathematical SIR model"
+        },
+        {
+            "text": "The resulting exponential curves are sketched in figs. 1 and 2. It is important to note that actual data for Germany can be only coarsely approximated by exponential curves. This reduces the quality of the SIR model, and limits its predictive power.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The mathematical SIR model"
+        },
+        {
+            "text": "With the optimmistic choice of \u03b2-value 0,175 which was evaluated on the basis of the real data (from the Johns Hopkins University database) one gets the course of the pandemic dynamics pictured in fig. 3 . 1 . R0 is the basis reproduction number of persons, infected by the transmission of a pathogen from one infected person during the infectious time (R0 = \u03b2/\u03b3) in the following figures. Neither data from the German Robert-Koch-Institut nor the data from the Johns Hopkins University are correct, for we have to reasonably assume that there are a number of unknown cases. It is guessed that the data covers only 15% of the real cases. Considering this we get a slightly changed result pictured in fig. 4 . The maximum number of infected people including the estimated number of unknown cases is a bit higher than the result showed in fig. 3 . This can be explained by the small reduction of the S stock. 1 I0 denotes the initial value of the I species, that is March 27th 2020. Imax stands for the maximum of I. The total number N for Germany is guessed to be 75 millions.",
+            "cite_spans": [
+                {
+                    "start": 206,
+                    "end": 207,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 907,
+                    "end": 908,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 197,
+                    "end": 203,
+                    "text": "fig. 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 700,
+                    "end": 706,
+                    "text": "fig. 4",
+                    "ref_id": null
+                },
+                {
+                    "start": 837,
+                    "end": 843,
+                    "text": "fig. 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Some numerical computations for Germany"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Some numerical computations for Germany"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050229 doi: medRxiv preprint ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Some numerical computations for Germany"
+        },
+        {
+            "text": "With the data \u03b2 = 0,25 and \u03b3 = 0,05 (corresponds to 20 days to heal up or to join the species R), we get the epidemic dynamics showed in fig. 5 . For N we take a value of 70 millons.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 143,
+                    "text": "fig. 5",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "A computation for Italy"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A computation for Italy"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050229 doi: medRxiv preprint ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A computation for Italy"
+        },
+        {
+            "text": "The effects of social distancing to decrease the infection rate can be modeled by a modification of the SIR model. The original ODE system (1)-(3) was modified to",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "\u03ba is a function with values in [0,1]. For example",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "is the duration of the temporary lockdown in days). A good choice of t 0 and t k is going to be complicated. Some numerical tests showed that a very early start of the lockdown resulting in a reduction of the infection rate \u03b2 results in the typical Gaussian curve to be delayed by I; however, the amplitude (maximum value of I) doesn't really change.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "The result of an imposed lockdown of 30 days with t 0 = 0 and t 1 = 30 and reduction value \u03ba equal to 0,5 (it means a reduction of contacts to 50 %) is pictured in fig. 6 . There is not a genuine profit for the fight against the disease.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 164,
+                    "end": 170,
+                    "text": "fig. 6",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "One knows that development of the infected people looks like a Gaussian curve. The interesting points in time are those where the acceleration of the numbers of infected people increases or decreases, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "These are the points in time where the curve of I was changing from a convex to a concave behavior or vice versa. The convexity or concavity can be controlled by the second derivative of I(t). Let us consider equation (2). By differentiation of (2) and the use of (1) we get",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "With that the I-curve will change from convex to concave if the relation",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "is valid. For the switching time follows",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "A lockdown starting at t 0 (assigning \u03b2 * = \u03ba\u03b2, \u03ba \u2208 [0,1[) up to a point in time t 1 = t 0 + \u2206 t , with \u2206 t as the duration of the lockdown in days, will be denoted as a dynamic lockdown (for t > t 1 \u03b2 * was reset to the original value \u03b2). t 0 means the point in time up to which the growth rate increases and from which on it decreases. Fig. 7 shows the result of such a computation of a dynamic lockdown. The result is significant. In fig. 9 a typical behavior of d 2 I dt 2 is plotted. The result of a dynamic lockdown for Italy is shown in fig. 8 Data from China and South Korea suggests that the group of infected people with an age of 70 or more is of magnitude 10%. This group has a significant higher mortality rate than the rest of the infected people. Thus we can presume that \u03b1=10% of I must be especially sheltered and possibly medicated very intensively as a highrisk group. Fig. 10 shows the time history of the above defined high-risk group with a dynamic lockdown with \u03ba = 0,5 compared to regime without social distancing. The maximum number of infected people decreases from approximately 1,7 millions of fig. 11 the infection rate \u03ba\u03b2 which we got with the switching times t 0 and t 1 is pictured.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 338,
+                    "end": 344,
+                    "text": "Fig. 7",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 437,
+                    "end": 443,
+                    "text": "fig. 9",
+                    "ref_id": null
+                },
+                {
+                    "start": 544,
+                    "end": 550,
+                    "text": "fig. 8",
+                    "ref_id": null
+                },
+                {
+                    "start": 888,
+                    "end": 895,
+                    "text": "Fig. 10",
+                    "ref_id": null
+                },
+                {
+                    "start": 1122,
+                    "end": 1129,
+                    "text": "fig. 11",
+                    "ref_id": null
+                }
+            ],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "This result proves the usefulness of a lockdown or a strict social distancing during an epidemic disease. We observe a flattening of the infection curve as requested by politicians and health professionals. With a strict social distancing for a limited time one can save time to find vaccines and time to improve the possibilities to help high-risk people in hospitals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "To see the influence of a social distancing we look at the Italian situation without a lockdown and a dynamic lockdown of 30 days with fig. 12 (\u03ba = 0,5) for the 10% high-risk people.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 135,
+                    "end": 152,
+                    "text": "fig. 12 (\u03ba = 0,5)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Influence of a temporary lockdown and extensive social distancing"
+        },
+        {
+            "text": "If we write (2) or (5) resp. in the form",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "we realize that the number of infected people decreases if",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "is complied. The relation (8) shows that there are two possibilities for the rise of infected people to be inverted and the medical burden to be reduced.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "a) The reduction of the stock of the species S. This can be obtained by immunization or vaccination. Another possibility is the isolation of high-risk people (70 years and older). Positive tests for antibodies reduce the stock of susceptible persons.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "b) A second possibility is the reduction of the infection rate \u03ba\u03b2. This can be achieved by strict lockdowns, social distancing, or rigid sanitarian moves.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050229 doi: medRxiv preprint The results are pessimistic in total with respect to a successful fight against the COVID-19-virus. Hopefully the reality is a bit more merciful than the mathematical model. But we rather err on the pessimistic side and be surprised by more benign developments.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "Note again that the parameters \u03b2 and \u03ba are guessed very roughly. Also, the percentage \u03b1 of the group of high-risk people is possibly overestimated. Depending on the capabilities and performance of the health system of the respective countries, those parameters may look different. The interpretation of \u03ba as a random variable is thinkable, too. [3] G. B\u00e4rwolff, Numerics for engineers, physicists and computer scientists (3rd ed., in German). Springer-Spektrum 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "[4] Toshihisa Tomie, Understandig the present status and forcasting of COVID-19 in Wuhan. medRxiv.preprint 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050229 doi: medRxiv preprint Figure 12 : Italian history of the infected people of high-risk groups depending on a dynamic lockdown (it)",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 144,
+                    "end": 153,
+                    "text": "Figure 12",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Closing remarks"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050229 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Closing remarks"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A contribution to the mathematical theory of epidemics",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Kermack",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mckendrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1927,
+            "venue": "Proc. R. Soc. London A",
+            "volume": "115",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "German real data and log-lin approximation German real data and nonlinear approximation",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Course of one year, starting end of March 2020 (de), S-green, I-red, R-blue Course of one year, starting end of March 2020 incl. the estimated number of unknown cases (de), S-green, I-red, R-blue",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Italian course of one year, starting end of March 2020 incl. the estimated number of unknown cases (it), S-green, I-red, R-blue",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Course of one year, starting end of March 2020 incl. the estimated number of unknown cases, 30 days of lockdown (de), S-green, I-red, R-blue",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Course of one year, starting end of March 2020 incl. the estimated number of unknown cases, dynamic lockdown (de), S-green, I-red, R-blue people to 0,8 millions in the case of the lockdown. In",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Course of one year for Italy, starting end of March 2020 incl. the estimated number of unknown cases, dynamic lockdown (it), S-green, I-red, R-blue History of the second derivative of I (de)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "History of the infected people of high-risk groups depending on a lockdown (de) Dynamic infection rate (de)[2] Bulletins of the John Hopkins University of world-wide Corona data (https://www.jhu.edu) 2020.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

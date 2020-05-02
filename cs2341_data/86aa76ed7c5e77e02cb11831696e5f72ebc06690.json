@@ -1,0 +1,1219 @@
+{
+    "paper_id": "86aa76ed7c5e77e02cb11831696e5f72ebc06690",
+    "metadata": {
+        "title": "Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR\u00ae thermocycler and 2 a well-plate reader for SARS-Co2 virus detection 3 4",
+        "authors": [
+            {
+                "first": "Everardo",
+                "middle": [],
+                "last": "Gonz\u00e1lez-Gonz\u00e1lez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tecnologico de Monterrey",
+                    "location": {
+                        "postCode": "64849",
+                        "settlement": "Monterrey",
+                        "region": "CP"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Grissel",
+                "middle": [],
+                "last": "Trujillo-De Santiago",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tecnologico de Monterrey",
+                    "location": {
+                        "postCode": "64849",
+                        "settlement": "Monterrey",
+                        "region": "CP"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Itzel",
+                "middle": [],
+                "last": "Montserrat",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lara-5",
+                "middle": [],
+                "last": "Mayorga",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tecnologico de Monterrey",
+                    "location": {
+                        "postCode": "64849",
+                        "settlement": "Monterrey",
+                        "region": "CP"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sergio",
+                "middle": [],
+                "last": "Omar Mart\u00ednez-Chapa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tecnologico de Monterrey",
+                    "location": {
+                        "region": "CP"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mario",
+                "middle": [],
+                "last": "Mois\u00e9s Alvarez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tecnologico de Monterrey",
+                    "location": {
+                        "postCode": "64849",
+                        "settlement": "Monterrey",
+                        "region": "CP"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The COVID-19 pandemic has crudely demonstrated the value of massive and rapid 18 diagnostics. By the first week of April, more than 900,000 positive cases of COVID-19 : medRxiv preprint the case of an epidemic emergency, the first line of response should be based on 21 commercially available and validated resources. Here, we demonstrate the combined use of 22 the miniPCR\u00ae, a commercial compact and portable PCR device recently available on the 23 market, and a commercial well-plate reader as a diagnostic system for detecting SARS-24",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "CoV2 nucleic acids. We used the miniPCR to detect and amplify SARS-CoV2 DNA 25 sequences using the sets of initiators recommended by the World Health Organization for 26 targeting three different regions that encode for the N protein. Prior to amplification, 27 samples were combined with a DNA intercalating reagent (i.e., EvaGreen\u00ae Dye). Sample 28 fluorescence after amplification was then read using a commercial 96-well plate reader. 29 This straightforward method allows the detection and amplification of SARS-CoV2 nucleic 30 acids in the range of ~625 to 2\u00d710 5 DNA copies. The accuracy and simplicity of this 31 diagnostics strategy may provide a cost-efficient and reliable alternative for COVID-19 32 pandemic testing, particularly in underdeveloped regions where RT-QPCR instrument 33 availability may be limited. In addition, the portability, ease of use, and reproducibility of 34 the miniPCR\u00ae makes it a reliable alternative for deployment in point-of-care SARS-CoV2 35 detection efforts during pandemics. 36 37 : medRxiv preprint [1,2]. The recent pandemic/epidemic episodes associated with viral diseases (e.g., 44 pandemic Influenza A/H1N1/2009 [3], Ebola in West Africa in 2013-2015 [4], and Zika in 45 Southeast Asia and Latin-America in 2016 [5,6]) were clear reminders of the need for 46",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "portable, low-cost, and easy-to-use diagnostic systems that can effectively address epidemic 47 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Many methodologies have been proposed to deliver cost-effective and accurate diagnosis 55 (i.e., methods based on immunoassays or specific gene hybridization [15, 16] ); however, 56 nucleic acid amplification, and particularly real-time quantitative PCR (RT-qPCR), 57 continues to be the gold standard for the detection of viral diseases in early stages [17, 18] . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 162,
+                    "text": "[15,",
+                    "ref_id": null
+                },
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 354,
+                    "end": 358,
+                    "text": "[17,",
+                    "ref_id": null
+                },
+                {
+                    "start": 359,
+                    "end": 362,
+                    "text": "18]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "(see Fig 1D) consisting of a denat ration sta e at for 5 min, followed y 25 cycles of 136 94 \u00b0C for 20s, 60 \u00b0C for 30s, and 72 \u00b0C for 20s, and then a final stage at 72 \u00b0C for 5 min, 137 for a total duration of 60 minutes in the miniPCR\u00ae thermocycler. In some of our experiments, we also used the blueGel unit, a portable electrophoresis unit 147 sold by MiniPCR from Amplyus (MA, USA). This is a compact electrophoresis unit (23 \u00d7 148 10 \u00d7 7 cm) that weighs 350 g. In these experiments, we analyzed 10 \u03bcL of PCR product 149 using 2% agarose electrophoresis tris-borate-EDTA buffer (TBE). Gels were dyed with 150",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 5,
+                    "end": 12,
+                    "text": "Fig 1D)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Gel-Green (CA, USA) using a 1:10,000 dilution, and a current of 48 V was supplied by the 151 blueGel built-in power supply (AC 100-240 V, 50-60 Hz). 152",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "As a third method of detection and to read the amplification product, we evaluated the 153 amplification products by detecting the fluorescence emitted by a DNA intercalating agent, 154 the EvaGreen\u00ae Dye, in the Synergy HT microplate reader (BioTek Instruments, VT, USA). 155",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Briefly, 20 \u03bcL of the PCR reaction mix was placed in distinct wells of a 96-well plate, after 156 completion of the PCR program. Each well was made to a final volume of 150 \u03bcL by 157 adding 130 \u03bcL of n clease free water and the samples were well mixed by pipetting. These 158 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We conducted a series of experiments to assess the sensitivity of the PCR reactions 173 conducted in the miniPCR thermocycler using the three sets of primers recommended by 174 CDC to diagnose infection by SARS-CoV2. Table 1 shows the sets of primers used to 175 target genetic sequences that code for the expression of the SARS-CoV2 N protein. Table 2  176 shows the sequence of the DNA products (amplicons) generated by successful targeting of 177 these regions with the N1, N2, and N3 primer pairs. 178 material, in the range of 2.0 \u00d7 10 5 to 625 DNA copies, were used as reaction templates. If 181 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 217,
+                    "end": 224,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 345,
+                    "end": 357,
+                    "text": "Table 2  176",
+                    "ref_id": null
+                }
+            ],
+            "section": "Analysis of sensitivity 172"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint swabs from patients has been estimated to fall within the range of 10 5 to 10 6 viral copies 183 per mL [19] . The amplification proceeds with sufficient quality to allow proper 184 visualization of the amplification products in electrophoresis gels, even at low nucleic acid 185 concentrations. Figure . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 252,
+                    "text": "[19]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 440,
+                    "end": 446,
+                    "text": "Figure",
+                    "ref_id": null
+                }
+            ],
+            "section": "Analysis of sensitivity 172"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint quantitatively evaluated using a commercial 96-well plate reader. To do this, we used an 206 intercalating agent during amplification in the miniPCR apparatus. Figure 2a instance, we observed variance coefficients of 2.31%, 2.15%, and 3.34% when using 225 primer sets N1, N2, and N3, respectively. If we considered only fluorescence readings from 226 positive samples, we observed variance coefficients of 2.23%, 2.34%, and 1.31% when 227 using primer sets N1, N2, and N3, respectively. 228 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 304,
+                    "end": 313,
+                    "text": "Figure 2a",
+                    "ref_id": "FIGREF8"
+                }
+            ],
+            "section": "Analysis of sensitivity 172"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint (i.e., exposed to the same number of cycles). For example, for amplifications using primer 262 set N3, we observe a linear relationship between the natural logarithm of the number of 263 viral copies and the natural logarithm of fluorescence signal for the range of 625 to 40,000 264 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Analysis of sensitivity 172"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Analysis of sensitivity 172"
+        },
+        {
+            "text": "where F o is the fluorescence reading exhibited by a blank (i.e., a negative sample prepared 268 and processed in the same way than the positive samples) and \u03b1 = 8.897 (as determined by 269 fitting of the data presented in Figure 2C ). For instance, we believe we can adjust the Using the primers and methods described here, we were able to consistently detect the 281 presence of SARS-CoV2 synthetic DNA using a miniPCR and a simple plate reader. In the 282 current context of the COVID-19 pandemics, the importance of communicating this result 283 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. To further illustrate the deterministic and quantitative dependence between the 302 concentration of amplification product and the fluorescence signal, as measured in a plate 303 reader, we simulated some real-time amplification experiments. To that end, we conducted 304 amplification reactions using initial amounts of 4 \u00d7 10 4 copies of synthetic SARS-CoV2 in 305 the miniPCR cycler. We added the intercalating agent, EvaGreen\u00ae Dye, to the reaction mix 306 at the initial time and extracted samples after 1, 5, 10, 15, 20, 25, and 30 PCR cycles. The 307 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 223,
+                    "end": 232,
+                    "text": "Figure 2C",
+                    "ref_id": "FIGREF8"
+                }
+            ],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "increase in fluorescence as more PCR cycles were performed, which highlights the 309 quantitative nature of the intercalating reaction. 310",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "Our results suggest that using a commercial plate reader to determine the extent of advance 311 of PCR amplifications is a practical, reliable, reproducible, and robust alternative to the use 312 of gel electrophoresis. Moreover, fluorescence reading of PCR products may lead to precise 313 quantification of viral loads. we corroborate that the miniPCR apparatus is capable of amplifying small amounts of 327 SARS-CoV2 synthetic nucleic acids. We were able to detect and amplify 64 copies of 328 genes encoding for the N protein of SARS-CoV2. 329",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint the iterative temperature cycling using a laptop. Despite its compact size, the miniPCR\u00ae 331 allows the performance of a full amplification protocol in a similar time as achieved with a 332 conventional thermocycler. The mini-PCR\u00ae thermocycler exhibits the essential attributes 333 of a POC system: (a) the use of small volumes, (b) low capital cost, (c) portability, (d) and 334 a fast, accurate, and selective response. 335",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "Moreover, the combined use of the miniPCR thermocycler and a 96-well plate reader 336 enables the possibility of obtaining immediate readings of the amplification products, 337 thereby providing faster (and potentially quantitative) diagnostic results in shorter times 338 than when gel electrophoresis techniques are used. Therefore, the combined use of these 339 already two commercially available devices-a miniPCR thermocycler and a 96-well plate 340 reader-has great potential for use during epidemic emergencies. Excel data file S1: Excel file that contains raw data 351 352 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ln (viral load) = \u03b1* Ln(F sample -F o ) (1) 266"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Point-of-Care Diagnostics for Global Health",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yager",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Domingo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gerdes",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Annu",
+            "volume": "354",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Emerging Trends in Micro-and Nanoscale Technologies in Medicine: From Basic 358",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Discoveries to Translation",
+            "authors": [],
+            "year": 2017,
+            "venue": "ACS Nano. American Chemical Society",
+            "volume": "11",
+            "issn": "",
+            "pages": "5195--359",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acsnano.7b01493"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Emergence 361 of a Novel Swine-Origin Influenza A (H1N1) Virus in Humans",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dawood",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Garten",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Towards detection and 365 diagnosis of Ebola virus disease at point-of-care",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaushik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tiwari",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dev",
+                    "middle": [],
+                    "last": "Jayant",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marty",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nair",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Biosensors and Bioelectronics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Towards detection and 377 diagnosis of Ebola virus disease at point-of-care",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kaushik",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tiwari",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dev",
+                    "middle": [],
+                    "last": "Jayant",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marty",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nair",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Biosens Bioelectron. NIH Public 378 Access",
+            "volume": "75",
+            "issn": "",
+            "pages": "254--72",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bios.2015.08.040"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Comparative Evaluation of the Diagnostic Performance of the Prototype Cepheid 381",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Innovative technologies for point-of-care testing of viral 384 hepatitis in low-resource and decentralized settings",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Duchesne",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lacombe",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Viral Hepat",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Countries test tactics in \"war\" against COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kupferschmidt",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Articles 390 Investigation of three clusters of COVID-19 in Singapore: implications for 391 surveillance and response measures",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pung",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chiew",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Young",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                },
+                {
+                    "first": "I-C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clapham",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "19",
+            "issn": "",
+            "pages": "30528--30534",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Response to COVID-19 in Taiwan: Big Data 394",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Brook",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "New Technology, and Proactive Testing",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Analytics",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "COVID-398 19 epidemic in Switzerland: on the importance of testing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Salath\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Althaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Neher",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stringhini",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hodcroft",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fellay",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4414/smw.2020.20225"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Antibodies in Human Serum: A Simple Virus-Free ELISA Method. Jeyaseelan S, 404 editor",
+            "authors": [],
+            "year": 2010,
+            "venue": "PLoS One. Public Library of Science",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0010176"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Multicolored silver nanoparticles for multiplexed disease diagnostics: 408 distinguishing dengue, yellow fever, and Ebola viruses. Lab Chip. The Royal Society 409 of Chemistry",
+            "authors": [
+                {
+                    "first": "C-W",
+                    "middle": [],
+                    "last": "Yen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "De Puig",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "G\u00f3mez-M\u00e1rquez",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hamad-Schifferli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "15",
+            "issn": "",
+            "pages": "1638--1641",
+            "other_ids": {
+                "DOI": [
+                    "10.1039/C5LC00055F"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Prospective evaluation of the Alere i Influenza A&B nucleic acid amplification 412",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "versus Xpert Flu/RSV. Diagn Microbiol Infect Dis",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "85",
+            "issn": "",
+            "pages": "19--22",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.diagmicrobio.2015.11.012"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Reliability of real-time reverse-transcription PCR in clinical 415 diagnostics: gold standard or substandard?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Murphy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bustin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Expert Rev Mol Diagn. Taylor & Francis",
+            "volume": "416",
+            "issn": "",
+            "pages": "187--197",
+            "other_ids": {
+                "DOI": [
+                    "10.1586/14737159.9.2.187"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Detection of SARS-CoV-2 in 418",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Different Types of Clinical Specimens",
+            "authors": [],
+            "year": null,
+            "venue": "JAMA -Journal of the American Medical",
+            "volume": "419",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Point-of-Care Testing for Infectious Diseases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kozel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burnham-Marusich",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "diagnostics in infectious diseases",
+            "authors": [],
+            "year": 2015,
+            "venue": "J Chromatogr A",
+            "volume": "1377",
+            "issn": "",
+            "pages": "13--26",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/J.CHROMA.2014.12.041"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "The Point-of-Care Laboratory 427",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Drancourt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Michel-Lepage",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Raoult",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Clinical Microbiology",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "428",
+            "issn": "",
+            "pages": "429--476",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00090-15"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "A smartphone-based point-of-care 430 diagnosis of H1N1 with microfluidic convection PCR. Microsyst Technol",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "431",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "PCR technologies for point of care testing: Progress and 433 perspectives. ACS Sensors",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Petralia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Conoci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "434",
+            "issn": "",
+            "pages": "876--891",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acssensors.7b00299"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "PCR heads into the field",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Marx",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat Methods",
+            "volume": "12",
+            "issn": "",
+            "pages": "393--397",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nmeth.3369"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "of cost-efficient diagnostic point-of-care (POC) systems for the 42 opportune diagnosis of infectious diseases has been recognized as a niche of high relevance 43 episodes in remote or underprivileged areas [7-10]. Nevertheless, the COVID-19 pandemic 48 has broadsided most countries, with only a few (i.e., South Korea [11], China, Singapore 49 [12], and Taiwan [13]) showing an ability to deploy massive efforts for rapid and accurate 50 detection of positive infection cases. The swift and massive testing of thousands of possibly 51 infected subjects has been an important component of the strategy of these countries that 52 has helped to effectively mitigate the spreading of COVID-19 among their populations 53 [11,13,14]. 54",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "example, for the last two pandemic events involving influenza A/H1N1/2009 and 59 COVID-19 [19], the Centers for Disease Control (CDC) and the World Health 60 Organization (WHO) recommended RT-qPCR methods as the gold standard for official 61 detection of positive cases. Unfortunately, conducting RT-qPCR diagnostics often depends 62 on access to centralized laboratory facilities for testing [20-22]. To resolve this drawback, 63 multiple studies have proposed and validated the use of compact PCR-based methods and 64 devices for POC settings [23,24]. However, during epidemic episodes, resourcing of Equipment and initiators for SARS-Co2 detection using a miniPCR. A) The 111 miniPCR\u00ae thermocycler. (B) The blueGel\u00ae electrophoresis chamber: blueGel\u00ae allows 112 visualization of a 15 ml agarose gel using an integrated blue LED array. (C) Agarose gel 113 electrophoresis of the SARS-CoV2 amplification products. (D) Commercial 96-well plate 114 with COVID-19 controls (artificial DNA samples). (E) Temperature cycling scheme used 115 in our PCR protocol. (F) Three different sets of primers were used to target a gene sequence 116 encoding the SARS-Co2 N protein.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Documentation of PCR products:We analyzed 10 \u03bcL of each P R prod ct sin 2%140 agarose electrophoresis in Tris-acetic acid-EDTA (TAE) buffer (Sigma-Aldrich, MO, 141 USA). Gels were dyed with GelGreen (Biotium, CA, USA) using a 1:10,000 dilution and a 142 current of 110 V supplied by a Bio-Rad PowerPac HC power supply (Bio-Rad, CA, USA) 143 for 40 min. We used the Quick-Load Purple 2-Log DNA ladder (NEB, MA, USA) as a 144 molecular weight marker. We analyzed the gels by UV transillumination using a Bio-Rad 145 ChemiDoc XRS imaging system.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "epidemic emergency does not provide the required timeframe for testing new 164 diagnostic strategies; therefore, the first line of response must be based on commercially 165 available and validated resources [32,33]. Here, we demonstrate that the combined use of a 166 commercial and portable PCR unit (the miniPCR) and a 96-well plate reader is potentially 167 adequate for the fast deployment of diagnostic efforts in the context of COVID-19 168 pandemics. We show the combined ability of both units to amplify and identify different 169 synthetic genetic sequences of SARS-CoV2 (see Materials and Methods).170 171",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "2A-C show the PCR products of the amplification reactions conducted using three 179 different primer pairs. In all cases, different concentrations of SARS-CoV2 genetic 180",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "2A-C shows agarose gels containing the amplification products of 186 each one of three experiments, where the three different sets of primers (namely N1, N2, 187 and N3) were used to amplify the same range of concentrations of template. The 188 miniPCR\u00ae was able to generate a visible band of amplification products for all three 189 primer sets and across the whole range of synthetic viral loads. 190 Conventionally, the products of amplification in final point PCR are primarily detected on 191 agarose gels using conventional electrophoresis techniques conducted with conventional 192 lab equipment. However, as previously mentioned, the miniPCR\u00ae system is 193 commercialized with its own \"blueGel\u00ae\" electrophoretic unit (Figure 1B-C). The 194 blueGel\u00ae has several important advantages: it is fully portable, its size allows optimization 195 of reagent usage (agarose gel 15 mL, buffer 25 mL), the built-in power supply allows 196 visualization of band separation in real time (this can shorten the electrophoretic time by up 197 to 5 minutes), and exposure to ethidium bromide and UV light is completely avoided by the 198 use of GelGreen\u00ae dye and detection with blue light. Therefore, the blueGel system 199 represents a valid and portable solution for detecting PCR amplification products. 200 Nevertheless, running an experiment aimed at visualizing amplification products, as with 201 any standard gel electrophoresis procedure, requires time. A good separation of bands 202 typically involves a processing time of 35 to 60 minutes from the loading of the 203 amplification product to the final documentation through photography. 204",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "shows the 207 fluorescence readings associated with the analysis of the different dilutions of synthetic 208 SARS-CoV2 samples previously revealed by gel electrophoresis. We ran triplicate 209 reactions for each dilution and for each primer data set. The fluorescence readings were 210 capable of clearly discriminating between positive and negative samples across the whole 211 range of dilutions tested (from 2 \u00d7 10 5 to 625 copies). This observation holds true for each 212 of the three primer sets tested. Note that the use of a plate reader, instead of a conventional 213 gel electrophoresis unit, presupposes a significant savings in time. Up to 96 PCR reactions 214 can be read in a matter of 5 to 10 minutes. This implies that an array of 12 miniPCR units 215 and a plate reader could equal the throughput of a traditional RT-QPCR platform, but at one 216 third of the capital cost. In addition, during emergencies and particularly in developing 217 countries, attaining or buying regular thermal cyclers and plate readers is much easier than 218 purchasing or accessing RT-qPCR systems. 219 In addition, our results suggest that fluorescence readings using a plate reader exhibit high 220 reproducibility and robustness. Overall, we obtained small standard deviations (in the range 221 of 6 to 40 arbitrary fluorescence units [a.f.u.]) and a small average variance coefficient 222 (2.6%) in fluorescence readings across the whole range of values of viral copies tested. We 223 observed similar variability indicators in experiments using different primer pairs. For 224",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Evaluation of the sensitivity of the combined use of a miniPCR\u00ae thermal cycler (for 230 amplification) and a plate reader (for determination of the amplification extent). (A-C) Sensitivity 231 trials using different concentrations of the template (positive control) and three different primers 232 sets (A) N1, indicated in blue; (B) N2, indicated in red; and (C) N3, indicated in yellow. Images of 233 agarose gel electrophoresis of the DNA amplification product generated by targeting three different 234 regions of the sequence coding for SARS-Co2 N protein. PCR was performed using a miniPCR\u00ae 235 thermocycler. Three different primer sets were used (N1, N2, and N3). The initial template amount 236 was gradually increased from left to right: molecular weight ladder (lane 1), negative control (lane 237 2), 625 copies (lane 3), 2.5 \u00d7 10 3 (lane 4), 1.0 \u00d7 10 4 (lane 5), 4.0 \u00d7 10 4 (lane 6), 2.0 \u00d7 10 5 DNA 238 copies (lane 7). (D-F) Determination of fluorescence, as measured in a commercial plate reader, for 2G consolidates the fluorescence readings obtained from miniPCR amplifications 246 using synthetic SARS-CoV2 samples and the primer sets N1 (blue bars), N2 (red bars), and 247 N3 (yellow bars). Overall, this data set is consistent. These results suggest that any of the 248 primer sets tested (N1, N2, or N3) may be used to amplify SARS-CoV2 genetic material in 249 the miniPCR. However, for the experimental conditions tested (i.e., the nature and 250 concentration of the intercalating agent, the concentrations of primers, and the 251 concentration of enzyme, among others), we observe differences in the performance of each 252 primer pair. For example, primer sets N1 and N3 appear to promote amplifications in which 253 the observed fluorescence is proportional to the initial concentration of DNA template (i.e., 254 the viral load). By contrast, primer pair N2 appears to generate amplification product with 255 high fluorescence emissions even at low values of the initial final copy numbers. Note that 256 all fluorescence readings for positive samples shown in Figure 2E exhibit a fluorescence 257 reading between 1300 and 1400 a.f.u. 258 Furthermore, measuring the fluorescence with the plate reader may add a quantitative 259 element to the analysis of positive COVID-19 samples. In principle, samples with higher 260 viral loads will exhibit higher fluorescence if processed through the same PCR program 261",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "270 concentration of intercalating reagent to assure linearity of the fluorescence signal with 271 respect to the viral load for experiments with different primer sets. This simple strategy will 272 result in a fully quantitative, reliable, and easily implemented quantitative version of a 273 straightforward final-point PCR protocol. 274 Potential use of a plate reader for quantitation of the initial viral load in a sample 276 and the extent of amplification. (A) Linear relationship between the natural logarithm of the 277 fluorescence reading and the natural logarithm of the viral load. (B) Results of the 278 simulation of real time PCR in a microplate reader. 279 280",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "of primers designed and recommended by the CDC to identify the presence of 285 SARS-CoV2, the causal agent of COVID-19. These primer pairs, aimed at identifying three 286 different regions encoding for the N protein of SARS-CoV2, have been widely validated 287 and used for diagnostic purposes in actual COVID-19 patients, Here we simply translated 288 widely tested protocols from the framework of an RT-qPCR apparatus (the gold standard 289 platform recommended for analyzing and confirming positive cases) to execution in a 290 miniaturized and already commercial POC thermal cycler. While the cost of a commercial 291 RT-qPCR apparatus falls in the range of $10,000 to $40,000 USD, the commercial value of 292 the miniPCR is under $800 USD. This difference is significant, especially when 293 considering the need for rational investment of resources during an epidemic crisis. 294 While the quantitative capabilities of testing in a RT-QPCR platform are undisputable, the 295 capacity of many countries for rapid, effective, and massive establishment of diagnostic 296 centers based on RT-qPCR is questionable. The current pandemic scenarios experienced in 297 the USA, Italy, France, and Spain, among others, have crudely demonstrated that 298 centralized labs are not an ideal solution during emergencies. Portable diagnostic systems 299 may provide the required flexibility and speed of response that RT-qPCR platforms cannot 300 deliver. 301",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "challenge of POC detection of viral threats is of paramount importance, particularly in 317 underdeveloped regions and in emergency situations (i.e., natural disasters or epidemic 318 outbreaks). In the context of an emergency, time is very limited (as are other resources) to 319 conduct research or develop new technologies; therefore, the use of commercially available 320 and tested technologies is an obvious first countermeasure. Our research extends the 321 validation of the miniPCR technology to the as yet unexplored topic of detection of 322 COVID-19. 323 We used the set of primers developed by the CDC and recommended by the WHO for 324 conducting the standard PCR diagnostics of COVID-19. These primers target three 325 different regions of the viral nucleic acids encoding for the N protein. In our experiments, 326",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF12": {
+            "text": "funding from a doctoral scholarship provided by CONACyT (Consejo 344 Nacional de Ciencia y Tecnolog\u00eda, M\u00e9xico). GTdS and MMA acknowledge the 345 institutional funding received from Tecnol\u00f3gico de Monterrey (Grant 002EICIS01), and 346 funding provided by CONACyT (Consejo Nacional de Ciencia y Tecnolog\u00eda, M\u00e9xico) 347 through grants (SNI 26048, SNI 256730, and Scholarships 635891, 856068, and 814593).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Three different sets of primers were used to target three different regions of the SARS-Co2 121 N gene sequence. These primer sets are identical to those recommended by the Center of 122Disease Control (CDC) for the standard diagnostics of COVID-19 (i.e., N1, N2, and N3 123 assays) using quantitative real time PCR. Sequences of all these primers and their 124 corresponding amplicons are presented inTable 1and 2. 125 Primer sequences used in PCR amplification experiments Table 2. Amplicon sequences generated (and their corresponding lengths) by each of the 130 primer pairs used in the PCR amplification experiments (see also Fig XX).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": ". https://doi.org/10.1101/2020.04.03.20052860 doi: medRxiv preprint 5. Petersen LR, Jamieson DJ, Powers AM, Honein MA. Zika Virus. Baden LR, editor. 368 N Engl J Med. Massachussetts Medical Society; 2016;374: 1552-1563. 369 doi:10.1056/NEJMra1602113 370 6. Fauci AS, Morens DM. Zika Virus in the Americas -Yet Another Arbovirus 371 Threat. N Engl J Med. Massachussetts Medical Society; 2016;374: 601-604. 372 doi:10.1056/NEJMp1600297 373 7. Mauk MG, Song J, Bau HH, Liu C. Point-of-Care Molecular Test for Zika Infection. 374 Clin Lab Int. NIH Public Access; 2017;41: 25-27. Available: 375",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

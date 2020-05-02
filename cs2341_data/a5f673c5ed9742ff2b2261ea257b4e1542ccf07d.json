@@ -1,0 +1,1376 @@
+{
+    "paper_id": "a5f673c5ed9742ff2b2261ea257b4e1542ccf07d",
+    "metadata": {
+        "title": "Impact of formaldehyde addition to spray-dried plasma on functional parameters and animal performance 1",
+        "authors": [
+            {
+                "first": "Joy",
+                "middle": [
+                    "M"
+                ],
+                "last": "Campbell",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joe",
+                "middle": [
+                    "D"
+                ],
+                "last": "Crenshaw",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Javier",
+                "middle": [],
+                "last": "Polo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dillon",
+                "middle": [],
+                "last": "Mellick",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kemin Industries",
+                    "location": {
+                        "postCode": "50317",
+                        "settlement": "Des Moines",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mark",
+                "middle": [],
+                "last": "Bienhoff",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kemin Industries",
+                    "location": {
+                        "postCode": "50317",
+                        "settlement": "Des Moines",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hans",
+                "middle": [
+                    "H"
+                ],
+                "last": "Stein ||",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Experimental objectives of this study were to determine effects of formaldehyde treatment on the chemical composition of spray-dried plasma (SDP) and to test the hypothesis that growth performance of pigs fed formaldehyde-treated diets containing SDP or diets containing formaldehyde-treated SDP is not reduced compared with pigs fed untreated control diets. Sal CURB ASF liquid antimicrobial and CURB RM Extra liquid mold inhibitor (Kemin Industries, Des Moines, IA) were applied on SDP at 0.1% or 0.3% to determine effects of the products on chemical and functional properties of SDP. Regardless of product, there were no changes in SDP for analyzed protein, ash, pH, or moisture concentration, but IgG concentration in SDP was decreased 8% and 24%, respectively, for 0.1% and 0.3% inclusion of Sal CURB or CURB RM. Two feeding studies using weaned pigs were conducted to determine effects of formaldehyde applied at 0.3% to SDP (experiment 1) or 0.3% to a complete diet containing 5% SDP (experiment 2). Experiment 1 pigs (n = 265) were weaned at 20 \u00b1 2 d of age and allotted to five treatment groups. Experiment 2 pigs (n = 135) were weaned in two groups at 20 \u00b1 2 d of age and allotted to three treatments groups. In experiment 1, the untreated control diet contained soy protein concentrate",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "(SPC) and test diets contained 2.5% or 5.0% SDP without or with formaldehyde treatment. In experiment 2, formaldehyde was applied to a diet containing 5% SDP and an untreated SPC control diet and an untreated diet containing 5% SDP were also included in the experiment. In experiment 1, linear increases (P < 0.05) in average daily gain (ADG), average daily feed intake (ADFI), and gain-to-feed ratio (G:F) were observed as SDP was included in the diets and the relative bioavailability of formaldehyde-treated SDP was 62% (P = 0.018) if calculations were based on ADG and 15% (P = 0.031) if calculations were based on ADFI. In experiment 2, pigs fed the SDP diet untreated or treated with formaldehyde had increased (P < 0.05) final body weight, ADG, ADFI, and G:F compared with pigs fed the control diet. However, formaldehyde treatment of the plasma-containing diet did not affect pig growth performance compared with pigs fed the untreated SDP diet. In conclusion, formaldehyde treatment applied directly on SDP affects analyzed concentrations of IgG and reduces growth rate of pigs. Treating a complete diet containing 5% SDP with formaldehyde did not affect pig growth performance, and pigs fed diets containing SDP had improved growth performance than those fed the control diet without SDP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Spray-dried plasma (SDP) is commonly used in weanling pig diets to improve growth, feed intake, and feed efficiency, and to reduce post-weaning diarrhea (Coffey and Cromwell, 2001; Torrallardona, 2010; P\u00e9rez-Bosque et al., 2016) . SDP is a complex mixture of functional proteins and the beneficial effects observed in pigs fed SDP are related to modulating the inflammatory response both locally in the intestine and systemically (Moret\u00f3 and P\u00e9rez-Bosque, 2009 ) through the interconnection of the common mucosal immune system (Kiyono and Fukuyama, 2004) . Several pathogenic viruses that were intentionally injected into feed ingredients may survive in a simulated transboundary transport for more than 30 days (Dee et al., 2015 (Dee et al., , 2018 . Thus, there is increased interest in identifying strategies that may be used to mitigate the risk of potential disease transmission from feed or feed ingredients to pigs.",
+            "cite_spans": [
+                {
+                    "start": 153,
+                    "end": 180,
+                    "text": "(Coffey and Cromwell, 2001;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 181,
+                    "end": 201,
+                    "text": "Torrallardona, 2010;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 202,
+                    "end": 228,
+                    "text": "P\u00e9rez-Bosque et al., 2016)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 430,
+                    "end": 460,
+                    "text": "(Moret\u00f3 and P\u00e9rez-Bosque, 2009",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 527,
+                    "end": 554,
+                    "text": "(Kiyono and Fukuyama, 2004)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 712,
+                    "end": 729,
+                    "text": "(Dee et al., 2015",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 730,
+                    "end": 749,
+                    "text": "(Dee et al., , 2018",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The Food and Drug Administration lists 37% formaldehyde (aqueous solution) as a food additive permitted in feed or drinking water of animals (CFR 573.460) with a dosage of 2.5 kg/ton of animal feed or feed ingredient. This is equivalent to 0.1% pure formaldehyde (0.27% of 37% formaldehyde) in the feed. Transmissible gastroenteritis coronavirus is inactivated by exposure to 0.03% formalin (Saif et al., 2012) , and porcine epidemic diarrhea virus in infected ingredients is inactivated when treated with 0.3% formaldehyde from Sal CURB ASF liquid antimicrobial (Kemin Industries, Des Moines, IA), which is a commonly used commercial product (Dee et al., 2015) .",
+            "cite_spans": [
+                {
+                    "start": 391,
+                    "end": 410,
+                    "text": "(Saif et al., 2012)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 643,
+                    "end": 661,
+                    "text": "(Dee et al., 2015)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Sal CURB is a blend of aqueous formaldehyde 37% solution and propionic acid commercially available in the United States. According to the manufacturer, Sal CURB is an antimicrobial agent that may be used in a pathogen control program to maintain feed biosecurity, and it is used to maintain complete animal feeds or feed ingredients Salmonella-negative for up to 21 d. CURB RM Extra liquid mold inhibitor (Kemin Industries) is a blend of aqueous formaldehyde 37% solution and propionic acid commercially available in Canada. CURB RM is a liquid mold inhibitor for complete broiler and swine feeds and feed ingredients. However, formaldehyde may denature proteins (Sotelo et al., 1995) , and there are concerns about how formaldehyde affects large proteins such as immunoglobulins in SDP.",
+            "cite_spans": [
+                {
+                    "start": 663,
+                    "end": 684,
+                    "text": "(Sotelo et al., 1995)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The objective of this work was to test the hypothesis that 0.1% or 0.3% Sal CURB or CURB RM has no negative effects on chemical and functional properties of SDP. The second objective was to test the hypothesis that addition of 0.3% CURB RM directly to SDP or Sal CURB to complete diets containing SDP has no negative effect on pig growth performance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The analytical part of experiment 1 used three different lots of SDP (AP920; APC Inc., Ankeny, IA). From each lot of SDP, two samples were used for blending with CURB RM, two additional samples were used for blending with Sal CURB, and the last sample was used as the control treatment. Each formaldehyde treatment was applied at 0.1% or 0.3% using the bench top application system at Kemin Product Application Department facility (Des Moines, IA). The control used 0.3% sterile saline to ensure similar dilutions as the formaldehyde treatments. To verify the application of Sal CURB and CURB RM, a control batch treated with 0.3% saline was mixed as well. A sample that was untreated with either saline or formaldehyde was also analyzed to evaluate the impact of saline or formaldehyde application on the composition of SDP. Six 4.16 kg batches of the SDP used in the pig study of experiment 1 (AP920; lot number I516012009) were treated with 0.3% CURB RM to obtain a total of 25 kg formaldehyde-treated SDP. In experiment 2, the complete diet containing 5% SDP was treated with 0.3% Sal CURB.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Formaldehyde Application"
+        },
+        {
+            "text": "In both experiments, the dry materials were mixed for 15 s to ensure homogenous distribution of SDP particles or complete feed. The desired formaldehyde blend was then pumped into the dry mixture over a 90-s period using a diaphragm pump (Smart Digital DDA; Grundfos, Downers Grove, IL), with the air assist nozzle set at 2 psi. After addition of the formaldehyde, a 3-min wet mix was done to ensure proper distribution of the formaldehyde in the SDP or complete feed. Following mixing, samples were analyzed. The same procedures were used for all treatments and replications.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Formaldehyde Application"
+        },
+        {
+            "text": "All treated or untreated SDP samples were split into two sets of samples and transported to two different laboratories for analysis. Quality control analytical laboratory of APC Inc. (Boone, IA) conducted analysis for crude protein (AOAC, 2016; method 990.03), ash (AOAC, 2016; method 942.05), and moisture (AOAC, 2016; method 930.15 ). The concentration of IgG was analyzed by radial immunodiffusion (Triple J Farms, RID kit, Bellingham, WA), and pH was measured using a SevenGo Duo pH meter (Mettler Toledo, Columbus, OH). Inclusion of Sal CURB or CURB RM in the SDP and the complete diets was verified by the Kemin Customer Laboratory Services (Des Moines, IA) by measuring the level of propionic acid using gas chromatography and calculating the rate of Sal CURB or CURB RM.",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 319,
+                    "text": "(AOAC, 2016;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 320,
+                    "end": 333,
+                    "text": "method 930.15",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "In-vitro Experiment"
+        },
+        {
+            "text": "Animal care and use procedures for both animal experiments were reviewed and approved by the institutional animal care and use committee at the University of Illinois, Urbana-Champaign. Pigs that were the offspring of Line 359 boars and Camborough females (PIC, Hendersonville, TN) were used in both experiments.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals and Diets"
+        },
+        {
+            "text": "In experiment 1, a total of 265 pigs were weaned at approximately 20 \u00b1 2 d of age (6.5 \u00b1 0.95 kg initial body weight [BW)] and allotted to 1 of 5 dietary treatments in a randomized complete block design. The initial BW was used as blocking factor according to the Experimental Animal Allotment Program (Kim and Lindemann, 2007) . Sex and ancestry were balanced across treatment groups. Two groups of pigs were used with group 1 using 35 pens with four pigs per pen and group 2 using 25 pens with five pigs per pen for a total of 60 pens. Thus, in total there were four or five pigs per pen and 12 replicate pens per treatment.",
+            "cite_spans": [
+                {
+                    "start": 302,
+                    "end": 327,
+                    "text": "(Kim and Lindemann, 2007)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animals and Diets"
+        },
+        {
+            "text": "Five experimental diets were formulated ( Table  1 ). The control diet contained corn, soybean meal, and 8.04% soy protein concentrate (Soycomil P; ADM Alliance Nutrition, Quincy, IL). Four additional diets were formulated by replacing soy protein concentrate on an equal Lys basis with 2.5% or 5.0% plasma (AP 920; APC Inc.) or 2.5% or 5.0% formaldehyde-treated plasma. The formaldehyde-treated SDP was treated with 0.3% CURB RM.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 42,
+                    "end": 50,
+                    "text": "Table  1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Animals and Diets"
+        },
+        {
+            "text": "In experiment 2, a total of 135 pigs (initial BW = 6.77 \u00b1 0.28 kg) were weaned at 20 \u00b1 2 d of age and allotted to one of three dietary treatments in a randomized complete block design. The initial BW was used as a blocking factor according to the Experimental Animal Allotment Program (Kim and Lindemann, 2007) . Sex and ancestry were balanced across treatment groups. Two groups of pigs were used; in group 1, there were 15 pens with four pigs per pen; and in group 2, there were 15 pens of five pigs per pen. Thus, in total there were four or five pigs per pen and 10 replicate pens per treatment.",
+            "cite_spans": [
+                {
+                    "start": 285,
+                    "end": 310,
+                    "text": "(Kim and Lindemann, 2007)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animals and Diets"
+        },
+        {
+            "text": "Two experimental diets were formulated and mixed at the University of Illinois Feed Mill (Champaign, IL; Table 2 ). The control diet contained corn, soybean meal, and 8.04% soy protein concentrate (Soycomil P; ADM Alliance Nutrition). An additional diet was formulated by replacing soy protein concentrate (control diet) on an equal lysine basis with 5.0% SDP (AP 920; APC Inc). The SDP diet was split into two batches. One batch was used without further treatments, but the other batch was transported to Kemin Industries for application of 0.3% Sal CURB. The treated diet was then re-bagged and transported back to the University of Illinois. For both experiments, all diets were fed in meal form and formulated to contain 1.45% standardized ileal digestible lysine, 3,410 kcal metabolizable energy per kilogram, 0.90% Ca, and 0.80% P. The experimental feeding period was 14 d in both experiments.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 105,
+                    "end": 112,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Animals and Diets"
+        },
+        {
+            "text": "Pigs in both experiments were housed in 1.4 m \u00d7 1.4 m pens with fully slatted floors. A feeder and a nipple drinker were installed in each pen. Feed and water were provided on an ad libitum basis throughout the experiment. The BW of individual pigs was recorded at the beginning of the experiment (d 0) and on d 14. Feed allotment to each pen was recorded daily, and feed remaining in the feeders was recorded on d 14. At the conclusion of the experiment, data were summarized to calculate average daily gain (ADG), average daily feed intake (ADFI), and gain-to-feed ratio (G:F) for each pen and each treatment group.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals and Diets"
+        },
+        {
+            "text": "In experiment 1, data were analyzed by analysis of variance (ANOVA) using the PROC GLM procedure of SAS (SAS Institute Inc., Cary, NC). In the in-vitro part of the experiment, the LSMEANS procedure was used to calculate mean values and if significant, means were separated using the PDIFF option of SAS. The experimental unit was the individual sample and means were considered different if P < 0.05. In the animal experiment, initial BW was used as a covariate. The independent variable was treatment. Dependent variables were BW, ADG, ADFI, and G:F. The LSMEANS procedure was used to calculate mean values for all treatments. The pen was the experimental unit for all calculations, and an alpha level of 0.05 was used to assess significance among means. Slope ratio analysis of Formaldehyde treatment of spray-dried plasma ADG, ADFI, and G:F results was performed to estimate the relative bioavailability of formaldehyde-treated SDP compared with untreated SDP. The relative bioavailability of treated or untreated SDP is calculated per response variable by dividing the slope estimate of treated SDP by that of the untreated SDP times 100 to convert to percent relative bioavailability.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "In experiment 2, data were also analyzed by ANOVA using the PROC GLM procedure of SAS. Initial BW was used as a covariate, and the independent variable was treatment. Dependent variables were BW, ADG, ADFI, and G:F. The LSMEANS procedure was used to calculate mean values of all dietary treatments. If diet effects were detected, least squares means were separated using the PDIFF option of SAS. The pen was the experimental unit for all calculations, and an alpha level of 0.05 was used to assess significance among means. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The formaldehyde product was applied as expected based on results provided by Kemin (data not included). Analytical results of the SDP samples are presented in Table 3 . Protein, moisture, ash, and pH were not influenced by treatment and averaged 78%, 9.1%, 7.5%, and 7.0%, respectively. However, IgG was reduced (P < 0.05) if SDP was treated by 0.3% formaldehyde compared with untreated SDP and saline-treated SDP.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 160,
+                    "end": 167,
+                    "text": "Table 3",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "In-Vitro Experiment"
+        },
+        {
+            "text": "All experiment 1 data for growth performance are presented in Table 4 . ADG, ADFI, G:F, and BW were linearly (P < 0.05) increased due to the consumption of both untreated and formaldehyde-treated SDP. However, the formaldehyde-treated SDP resulted in reduced performance compared with untreated SDP. The relative bioavailability of formaldehyde-treated SDP compared with untreated SDP for ADG and ADFI was 62% (P = 0.018) if calculations were based on ADG and 15% (P = 0.031) if calculations were based on ADFI. However, there was no effect of formaldehyde treatment on relative bioavailability if calculations were based on G:F.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 62,
+                    "end": 69,
+                    "text": "Table 4",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Animal Performance, Experiment 1"
+        },
+        {
+            "text": "From d 0 to14, pigs fed SDP diets that were untreated or treated with Sal CURB had increased (P < 0.05) ADG (116 and 100 vs. 55 g), ADFI (210 and 202 vs. 153 g), and G:F (0.53 and 0.50 vs. 0.29) compared with pigs fed the control diet (Table 5) . Final BW of pigs fed SDP-containing diets that were untreated or treated with Sal CURB was also greater (P < 0.05) compared with pigs fed the control diet (8.38 and 8.17 vs. 7.52 kg). However, Sal CURB treatment of the SDP-containing diet did not affect pig growth performance compared with the untreated SDP diet.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 235,
+                    "end": 244,
+                    "text": "(Table 5)",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Experiment 2"
+        },
+        {
+            "text": "SDP is a complex mixture of functional peptides and proteins such as growth factors, immunoglobulins, and albumin (Anderson and Anderson, 2002) . It is unknown which protein is responsible for the positive effects on growth performance of pigs fed plasma, but SDP is widely used in swine diets to maintain gut barrier function (Campbell et al., 2010; Peace et al., 2011; Boyer et al., 2015) and to improve pig growth performance (Coffey and Cromwell, 2001; Torrallardona, 2010) . Formaldehyde has been used in the industry as a part of livestock and poultry producer's pathogen control program to improve feed biosecurity (Jones, 2011; Huss et al., 2018) . However, treating SDP proteins with formaldehyde may affect the functionality by binding the proteins (Sotelo et al., 1995) .",
+            "cite_spans": [
+                {
+                    "start": 114,
+                    "end": 143,
+                    "text": "(Anderson and Anderson, 2002)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 327,
+                    "end": 350,
+                    "text": "(Campbell et al., 2010;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 351,
+                    "end": 370,
+                    "text": "Peace et al., 2011;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 371,
+                    "end": 390,
+                    "text": "Boyer et al., 2015)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 429,
+                    "end": 456,
+                    "text": "(Coffey and Cromwell, 2001;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 457,
+                    "end": 477,
+                    "text": "Torrallardona, 2010)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 622,
+                    "end": 635,
+                    "text": "(Jones, 2011;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 636,
+                    "end": 654,
+                    "text": "Huss et al., 2018)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 759,
+                    "end": 780,
+                    "text": "(Sotelo et al., 1995)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Directly treating SDP with formaldehyde did not affect crude protein, ash, moisture, or pH; however, the reduction in IgG that was observed following formaldehyde treatment indicates that one of the functional proteins in SDP may have been affected. The reduction of IgG may be due to formaldehyde binding the protein or affecting functionality thus preventing detection by the analytical method. SDP is a complex mixture of many proteins and IgG is one of the best-known plasma proteins to have functional properties. However, other plasma proteins may also be affected by formaldehyde binding, but only IgG was measured in this study. Analysis of ingredients provides a measure of quality based on chemical characteristics of the ingredient; however, inclusion of the ingredient 2.5% SDP = diet containing 2.5% spray-dried plasma (AP 920; APC Inc., Ankeny, IA); 5.0% SDP = diet containing 5.0% spray-dried plasma (AP 920); 2.5% Form SDP = diet containing 2.5% spray-dried plasma treated with formaldehyde (AP 920); 5.0% Form SDP = diet containing 5.0% spray-dried plasma treated with formaldehyde (AP 920). Means within a column lacking a common superscript are different (P < 0.05). 1 Data are least squares means of triplicate samples analyzed by APC Inc., Boone, IA.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "in complete diets allows for determining effects of treatment on pig growth performance. Although feeding formaldehyde-treated SDP incorporated into diets resulted in greater pig growth performance compared with that of pigs fed the control diet, pig growth performance was reduced for treated SDP compared with pigs consuming untreated SDP. Results of the in-vitro part of experiment 1 and the animal growth performance study indicate that direct application of formaldehyde on SDP reduced the beneficial effects commonly observed if SDP is used in weanling pig diets (Torrallardona, 2010; Pujols et al., 2016) . Although formaldehyde may denature proteins (Sotelo et al., 1995) , to the best of our knowledge, this is the first study in which effects on pig growth performance of direct application of formaldehyde to SDP have been reported. The reduced growth and feed intake of pigs fed diets containing formaldehyde-treated SDP compared with pigs fed diets containing untreated SDP indicate that the reduction in IgG concentration that was observed in the in vitro study and possibly denaturing of protein have negative impacts on pig growth performance. However, the growth performance of pigs fed diets containing the formaldehyde-treated SDP was greater than that of pigs fed the control diet indicating that formaldehyde did not eliminate the positive responses to SDP.",
+            "cite_spans": [
+                {
+                    "start": 569,
+                    "end": 590,
+                    "text": "(Torrallardona, 2010;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 591,
+                    "end": 611,
+                    "text": "Pujols et al., 2016)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 658,
+                    "end": 679,
+                    "text": "(Sotelo et al., 1995)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Formaldehyde treatment may have a negative impact on feed efficiency if diets containing crystalline Lys or intact protein sources are used (Ochoa et al., 2017) . However, it was also reported that Sal CURB did not alter nursery pig performance regardless of dietary Lys levels (Cochrane et al., 2015) , and supplementation of formaldehyde to diets fed to growing pigs did not affect digestibility of energy and amino acids but increased the Ca and P digestibility in phytase containing diets (Liu et al., 2015) . Thus, it appears that Sal CURB treatment of diets does not negatively affect pig growth performance, and results of experiment 2 agree with previous data. Nevertheless, there is some variability in responses among studies and more research to fully understand the effects of formaldehyde treatment of feed or feed ingredients on pig growth performance may be needed.",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 160,
+                    "text": "(Ochoa et al., 2017)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 278,
+                    "end": 301,
+                    "text": "(Cochrane et al., 2015)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 493,
+                    "end": 511,
+                    "text": "(Liu et al., 2015)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Formaldehyde treatment of SDP does not affect concentrations of moisture, CP, or ash, but the concentration of IgG was reduced. Formaldehyde treatment applied directly to SDP also reduced growth of pigs compared with pigs fed untreated SDP. However, treating a complete diet containing 5% SDP with formaldehyde did not affect pig growth performance, but pigs fed diets containing SDP had improved growth performance compared with pigs fed a diet without SDP. On the basis of results of these studies, formaldehyde application directly on SDP is not recommended, whereas application of 0.3% formaldehyde to complete diets containing SDP is acceptable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        },
+        {
+            "text": "Conflict of interest statement. None declared. Means within a row lacking a common superscript are different (P < 0.05). 1 Data are least squares means of 10 replications with four or five pigs per pen. Initial body weight was used as covariate. Pigs were fed for 14 d after weaning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The human plasma proteome: history, character, and diagnostic prospects",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Mol. Cell. Proteomics",
+            "volume": "1",
+            "issn": "",
+            "pages": "845--867",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/mcp.R200007-MCP200"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Official methods of analysis of AOAC International",
+            "authors": [
+                {
+                    "first": "Aoac",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Early-life dietary spray-dried plasma influences immunological and intestinal injury responses to later-life Salmonella typhimurium challenge",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Boyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Costa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Milloway",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Susick",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Borst",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Thakur",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Br. J. Nutr",
+            "volume": "113",
+            "issn": "",
+            "pages": "783--793",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S000711451400422X"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Review of the spray-dried plasma's impact on intestinal barrier function",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Livest. Sci",
+            "volume": "133",
+            "issn": "",
+            "pages": "239--241",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Effects of commercial formaldehyde inclusion and lysine level on pig performance of 35-to 50-lb nursery pigs. Kansas Agricultural Formaldehyde treatment of spray-dried plasma",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sica",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woodworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Experiment Station Research Reports",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4148/2378-5977.1111"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Use of spray-dried animal plasma in diets for weanling pigs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Coffey",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Cromwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Pig News Inf",
+            "volume": "22",
+            "issn": "",
+            "pages": "39--48",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Survival of viral pathogens in animal feed ingredients under transboundary shipping models",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Bauermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Niederwerder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Clement",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lima",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Patterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M M"
+                    ],
+                    "last": "Stoian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS One",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0194509"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "An evaluation of porcine epidemic diarrhea virus survival in individual feed ingredients in the presence or absence of a liquid antimicrobial",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Clement",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Singrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Christopher-Hennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Nelson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Porcine Health Manag",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Physical and chemical methods for the reduction of biological hazards in animal feeds",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Huss",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cochrane",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Atungulu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Food Feed Saf Syst Anal., Chapter",
+            "volume": "",
+            "issn": "",
+            "pages": "83--95",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "A review of practical Salmonella control measures in animal feed",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Appl. Poult. Res",
+            "volume": "20",
+            "issn": "",
+            "pages": "102--113",
+            "other_ids": {
+                "DOI": [
+                    "10.3382/japr.2010-00281"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A spreadsheet method for experimental animal allotment",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lindemann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Anim. Sci",
+            "volume": "85",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "NALT-versus peyer's-patch-mediated mucosal immunity",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kiyono",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fukuyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nat. Rev. Immunol",
+            "volume": "4",
+            "issn": "",
+            "pages": "699--710",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nri1439"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Effect of Sal CURB on digestibility of energy and nutrients by growing pigs",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Stein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "855--856",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Dietary plasma proteins, the intestinal immune system and the barrier functions of the intestinal mucosa",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moret\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "P\u00e9rez-Bosque",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Anim. Sci",
+            "volume": "87",
+            "issn": "",
+            "pages": "92--100",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2008-1381"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Nutrient requirements of swine",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Nrc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Effect of feeding formaldehyde-treated feed to pigs throughout the growing period on amino acid utilization from synthetic lysine or protein sources",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ochoa",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Harrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bienhoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kremer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Loughmiller",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Greiner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Anim. Sci",
+            "volume": "95",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/asasmw.2017.294"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Spray-dried porcine plasma influences intestinal barrier function, inflammation, and diarrhea in weaned pigs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Peace",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moeser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Nutr",
+            "volume": "141",
+            "issn": "",
+            "pages": "1312--1317",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Spray dried plasma as an alternative to antibiotics in piglet feeds, mode of action and biosafety",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "P\u00e9rez-Bosque",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Torrallardona",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Porcine Health Manag",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40813-016-0034-1"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Influence of spray dried porcine plasma in starter diets associated with a conventional vaccination program on wean to finish performance",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pujols",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Segal\u00e9s",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rodr\u00edguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Porcine Health Manag",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40813-016-0021-6"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Diseases of swine",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Saif",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Pensaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sestak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yeo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Jung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "501--524",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Denaturation of fish proteins during frozen storage: role of formaldehyde",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sotelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pi\u00f1eiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "P\u00e9rez-Mart\u00edn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Z. Lebensm. Unters. Forsch",
+            "volume": "200",
+            "issn": "",
+            "pages": "14--23",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Spray-dried animal plasma as an alternative to antibiotics in weanling pigs-a review. Asian-Aust",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Torrallardona",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Anim. Sci",
+            "volume": "23",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Ingredient and calculated nutrient composition of experimental diets used in experiment 1, (as-fed basis) Nutrient values of ingredients used for diet formulation were derived from NRC (2012) or from the supplier product information provided. IU; vitamin K, 4.4 mg; thiamin, 3.3 mg; riboflavin, 9.9 mg; pyridoxine, 3.3 mg; vitamin B 12 , 0.044 mg; d-pantothenic acid, 33 mg; niacin, 55 mg; folic acid, 1.1 mg; biotin, 0.17 mg; Cu, 16 mg as copper sulfate; Fe, 165 mg as iron sulfate; I, 0.36 mg as potassium iodate; Mn, 44 mg as manganese sulfate; Se, 0.3 mg as sodium selenite; and Zn, 165 mg as zinc oxide.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Ingredient and calculated nutrient composition of experimental diets used in experiment 2, (as-fed basis) Cu, 16 mg as copper sulfate; Fe, 165 mg as iron sulfate; I, 0.36 mg as potassium iodate; Mn, 44 mg as manganese sulfate; Se, 0.3 mg as sodium selenite; and Zn, 165 mg as zinc oxide.Nutrient values for ingredients were derived from NRC (2012) or from the supplier product information provided.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Experiment 1 growth performance of weanling pigs fed experimental diets a",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Analysis of treated and untreated spray-dried plasma 1,2",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Experiment 2 growth performance of weaning pigs fed control, 5% plasma diet, and formaldehyde treated 5% plasma diet 1",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,588 @@
+{
+    "paper_id": "97f61e1fb5ee3b6776484c8feaab9b125b5f17e2",
+    "metadata": {
+        "title": "XX (XX XXXX) \u2022 1",
+        "authors": [
+            {
+                "first": "E",
+                "middle": [
+                    "S"
+                ],
+                "last": "Auke",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "De Zwart",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Groningen",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Annelies",
+                "middle": [],
+                "last": "Riezebos-Brilman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Utrecht",
+                    "location": {
+                        "country": "the Netherlands;"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Huib",
+                "middle": [
+                    "A M"
+                ],
+                "last": "Kerstjens",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Groningen",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Erik",
+                "middle": [
+                    "A M"
+                ],
+                "last": "Verschuuren",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Groningen",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Jan-Willem",
+                "middle": [
+                    "C"
+                ],
+                "last": "Alffenaar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Sydney",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "To the Editor-We have read with great interest the report by Ackerson et al [1] on the morbidity and mortality rates associated with respiratory syncytial virus (RSV) compared with influenza virus infections in older adults. They conclude that RSV may result in higher morbidity and mortality rates among older hospitalized adults than influenza virus.",
+            "cite_spans": [
+                {
+                    "start": 76,
+                    "end": 79,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory Syncytial Virus Infection Morbidity in the Elderly: Time for Repurposing of Ribavirin?"
+        },
+        {
+            "text": "These results are an important step in recognizing the impact of RSV across the whole patient population. Historically, the most attention has been paid to RSV infections in infants and in the moderately to severely immunocompromised and less to infection in the population described by Ackerson et al [1] , namely, adults >60 years old. Unlike previous reports comparing hospitalization in RSV and influenza virus infections, the authors found a higher incidence of hospitalizations lasting \u22657 days in the RSV cohort than in the influenza virus cohort, which they suggest may reflect the increased use in recent years of antivirals directed at influenza virus, but not RSV. They reported that 47.1% of RSV-infected and 78.6% of influenza virus-infected individuals received antiviral therapy during the hospitalization period; 99% received oseltamivir, even though oseltamivir has no activity against RSV [2] .",
+            "cite_spans": [
+                {
+                    "start": 302,
+                    "end": 305,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 906,
+                    "end": 909,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory Syncytial Virus Infection Morbidity in the Elderly: Time for Repurposing of Ribavirin?"
+        },
+        {
+            "text": "Inhaled ribavirin and palivizumab are currently the only registered treatment options for RSV in addition to supportive care; however, inhaled ribavirin is rarely used in nonimmunocompromised adults because of the limited evidence for its efficacy, its price, and the occupational risk to healthcare workers exposed of ribavirin aerosols [2, 3] . Vaccines and new antivirals are being tested, but they are not yet available for daily practice.",
+            "cite_spans": [
+                {
+                    "start": 338,
+                    "end": 341,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 342,
+                    "end": 344,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory Syncytial Virus Infection Morbidity in the Elderly: Time for Repurposing of Ribavirin?"
+        },
+        {
+            "text": "The aging population, however, may benefit from using oral ribavirin, which has been described in the setting of hematopoietic stem cell and lung transplantation [4] . Although evidence from randomized controlled trials is lacking, ribavirin treatment may have a beneficial effect in reducing morbidity and mortality rates or improving recovery of pulmonary function after RSV infection in transplant recipients [5] [6] [7] . As shown elsewhere, oral ribavirin may not be inferior to inhaled therapy in this population and may provide a good and affordable treatment option [8, 9] . Whether these data can also be applied to the population of older adults remains to be confirmed.",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 165,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 412,
+                    "end": 415,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 416,
+                    "end": 419,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 420,
+                    "end": 423,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 574,
+                    "end": 577,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 578,
+                    "end": 580,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory Syncytial Virus Infection Morbidity in the Elderly: Time for Repurposing of Ribavirin?"
+        },
+        {
+            "text": "The absence of evidence for the efficacy of oral ribavirin in elderly persons, combined with the widespread incidence and detrimental effects of RSV infection in this population, shown by Ackerson et al and others [1, 10] , underlines the need for a well-designed randomized controlled trial to determine the benefit of a short course of oral ribavirin for RSV in elderly patients, analogous to the current use of oseltamivir for influenza virus. This is especially important in the light of upcoming (and probably expensive) new antivirals, for which ribavirin could be considered as an active comparator. Furthermore, considering the high incidence and availability of quick diagnostic methods for RSV, we deem such a study not only needed but also certainly feasible.",
+            "cite_spans": [
+                {
+                    "start": 214,
+                    "end": 217,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory Syncytial Virus Infection Morbidity in the Elderly: Time for Repurposing of Ribavirin?"
+        },
+        {
+            "text": "Potential conflicts of interest. All authors report no potential conflicts. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Note"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Severe morbidity and mortality associated with respiratory syncytial virus versus influenza infection in hospitalized older adults",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ackerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Tseng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clin Infect Dis",
+            "volume": "91101",
+            "issn": "",
+            "pages": "197--203",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Overview of current therapeutics and novel candidates against influenza, respiratory syncytial virus, and middle east respiratory syndrome coronavirus infections",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Behzadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Leyva-Grado",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front Microbiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Aerosolized ribavirin: the most expensive drug for pneumonia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chemaly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Aitken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wolfe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Boeckh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Transpl Infect Dis",
+            "volume": "18",
+            "issn": "",
+            "pages": "634--640",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Oral ribavirin for the treatment of noninfluenza respiratory viral infections: a systematic review",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gross",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bryson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Ann Pharmacother",
+            "volume": "49",
+            "issn": "",
+            "pages": "1125--1160",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Singlecentre experience with oral ribavirin in lung transplant recipients with paramyxovirus infections",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fuehner",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dierich",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Duesberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Antivir Ther",
+            "volume": "16",
+            "issn": "",
+            "pages": "733--773",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Respiratory syncytial virus lower respiratory disease in hematopoietic cell transplant recipients: viral RNA detection in blood, antiviral treatment, and clinical outcomes",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waghmare",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Clin Infect Dis",
+            "volume": "57",
+            "issn": "",
+            "pages": "1731--1772",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Impact of aerosolized ribavirin on mortality in 280 allogeneic haematopoietic stem cell transplant recipients with respiratory syncytial virus infections",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ghantoji",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Antimicrob Chemother",
+            "volume": "68",
+            "issn": "",
+            "pages": "1872--80",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Oral versus aerosolized ribavirin for the treatment of respiratory syncytial virus infections in hematopoietic cell transplant recipients",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Foolad",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Aitken",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shigle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Infect Dis",
+            "volume": "68",
+            "issn": "",
+            "pages": "1641--1650",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Oral versus inhaled ribavirin therapy for respiratory syncytial virus infection after lung transplantation",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Avery",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Budev",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mossad",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Danziger-Isakov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Heart Lung Transplant",
+            "volume": "31",
+            "issn": "",
+            "pages": "839--883",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Respiratory syncytial virus and other respiratory viral infections in older adults with moderate to severe influenzalike illness",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Falsey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mcelhaney",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Beran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Infect Dis",
+            "volume": "209",
+            "issn": "",
+            "pages": "1873--81",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "University Medical Centre Groningen, Department of Pulmonary Diseases and Tuberculosis, Secretariaat Longtransplantatie AA33 Hanzeplein 1, PO Box 30.001. 9700 RB Groningen",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "), which permits non-commercial reproduction and distribution of the work, in any medium, provided the original work is not altered or transformed in any way, and that the work is properly cited. For commercial re-use, please contact journals",
+            "authors": [],
+            "year": null,
+            "venue": "\u00a9 The Author(s) 2019. Published by Oxford University Press for the Infectious Diseases Society of America. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs licence",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciz835"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

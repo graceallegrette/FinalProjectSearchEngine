@@ -10,7 +10,8 @@
 
 using namespace std;
 
-vector<vector<string> > processDocument(const char *fileName);
+vector<vector<string> > getCsv(const char *fileName);
 set<string> processStopWords(const char *fileName);
+void processDocument(const char* fileName);
 
 #endif

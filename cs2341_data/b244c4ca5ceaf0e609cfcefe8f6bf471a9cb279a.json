@@ -1,0 +1,718 @@
+{
+    "paper_id": "b244c4ca5ceaf0e609cfcefe8f6bf471a9cb279a",
+    "metadata": {
+        "title": "Title: Spatial variability in the risk of death from COVID-19 in Italy, 2020",
+        "authors": [
+            {
+                "first": "Kenji",
+                "middle": [],
+                "last": "Mizumoto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kyoto University Yoshida-Nakaadachi-cho",
+                    "location": {
+                        "addrLine": "Sakyo-ku",
+                        "settlement": "Kyoto",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sushma",
+                "middle": [],
+                "last": "Dahal",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Georgia State University",
+                    "location": {
+                        "settlement": "Atlanta",
+                        "region": "Georgia",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gerardo",
+                "middle": [],
+                "last": "Chowell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Georgia State University",
+                    "location": {
+                        "settlement": "Atlanta",
+                        "region": "Georgia",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mizumoto",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dahal",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "K",
+                "middle": [],
+                "last": "Mizumoto",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Italy is bearing the brunt of the COVID-19 pandemic, as the death toll there has already surpassed that in Wuhan, the city in China where the coronavirus emerged in December 2019. Here we employ statistical methods to assess the severity of COVID-19 pandemic across different regions of Italy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "We manually retrieved the daily cumulative numbers of laboratory-confirmed cases and deaths attributed to COVID-19 stratified by region in Italy from March 2, 2020 to March 28, 2020. We estimated both the crude and time-delay adjusted case fatality ratio across five geographic regions of Italy: Northwest, Northeast, Center, South and Island.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": ": The Northwest that includes Lombardy exhibited the highest time-delay-adjusted CFR at 31.4%% [95% credible interval: 30.8, 32.1%] followed by the Northeast (20.3%) [95% CrI: 19.4, 21.1], the Center region (16.5%) [95% CrI: 15.4, 17.7] and the South region (16.8%) [95% CrI: 15.0, 18.7]. The Island region has exhibited the lowest CFR (11.8%) [95% CrI: 9.0, 14.8].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Conclusion: Italy is experiencing one of the highest CFR from the COVID-19 pandemic in the world. Time delay adjusted CFR in all the regions in Italy except the Island region were higher than that estimated for Wuhan, China. The CFR in Northwest Italy is 2.5-fold higher than that in Wuhan. Our finding reflects the need of urgent medical support in the Northwest region and the appropriate planning and supplies procurement in other regions of Italy with . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In December 2019, Wuhan, the capital of Hubei Province of China reported a cluster of cases of severe pneumonia of unknown etiology to the China National Health Commission [1] , and on January 7, 2020, a novel coronavirus was isolated from afflicted patients in Wuhan [1] .",
+            "cite_spans": [
+                {
+                    "start": 172,
+                    "end": 175,
+                    "text": "[1]",
+                    "ref_id": null
+                },
+                {
+                    "start": 268,
+                    "end": 271,
+                    "text": "[1]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This novel coronavirus was named as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) while the disease it causes was named . Since the initial cases of COVID-19, the virus has rapidly spread throughout China, and subsequently the number of COVID-19 cases soared in many parts of the world. Considering the explosive spread and significant severity associated with the novel coronavirus, the WHO declared this public health emergency a pandemic on March 11, 2020, [3] . As of March 29, a total of 634,835 confirmed cases of COVID-19 and 29,957 deaths have been recorded globally with 202 countries/territories/areas reporting variable disease growth rates [4] . Moreover, the US has reported the highest number of cases (16.3%) while Italy has exhibited the highest death toll (33.4%) [4] .",
+            "cite_spans": [
+                {
+                    "start": 475,
+                    "end": 478,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 667,
+                    "end": 670,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 796,
+                    "end": 799,
+                    "text": "[4]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The severity impact of any pandemic situation like COVID-19 depends on the transmission rate of the disease, the capacity of the health care system, and the spectrum of clinical severity which is tied to socio-demographic factors (age, gender) and the underlying prevalence of comorbidities in the population [5] . A better understanding of the expected influx of severe patients to the health care system during the coronavirus pandemic in different areas of the world is key to anticipate medical resources such as ICU units and ventilators which are critically needed to save the lives of severely ill patients [5] [6] [7] .",
+            "cite_spans": [
+                {
+                    "start": 309,
+                    "end": 312,
+                    "text": "[5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 614,
+                    "end": 617,
+                    "text": "[5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 618,
+                    "end": 621,
+                    "text": "[6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 622,
+                    "end": 625,
+                    "text": "[7]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The Case fatality ratio (CFR) is one of the most important epidemiological metrics to quantify the clinical severity of emerging infectious disease such as COVID-19. So far, several studies have attempted to elucidate the case fatality ratios for different population segments and geographic regions particularly based on epidemiological data from China [8] [9] [10] . However, there is still a scarcity of studies carefully documenting the severity of the COVID-19 pandemic in populations outside China. Accumulating epidemiological data indicates that the CFR varies by geographical location, intensity of transmission, characteristics of patients such as age, sex, and comorbidity status [9] . For example, the timedelay adjusted CFR for Wuhan was estimated at 12.2% compared to 4.2% for Hubei province excluding Wuhan and 0.9% in China excluding Hubei province [11] . Rough differences in severity of the pandemic in different countries have been highlighted [10] . However, there is a need to quantify spatial variability in CFR and investigate how this variability is influenced by population factors and the characteristics of the health care system.",
+            "cite_spans": [
+                {
+                    "start": 354,
+                    "end": 357,
+                    "text": "[8]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 358,
+                    "end": 361,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 362,
+                    "end": 366,
+                    "text": "[10]",
+                    "ref_id": null
+                },
+                {
+                    "start": 691,
+                    "end": 694,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 865,
+                    "end": 869,
+                    "text": "[11]",
+                    "ref_id": null
+                },
+                {
+                    "start": 963,
+                    "end": 967,
+                    "text": "[10]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "At the time of writing, Italy is exhibiting an alarming death toll from the COVID-19 pandemic but estimates of the case fatality ratio that carefully account for the delay from onset of symptoms to death are not yet available. In this study we provide estimates of the COVID-19 CFR for different regions of Italy by relying on publicly available daily series of confirmed cases and deaths from March 2, 2020 to March 28, 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Italy is located in Southern Europe and is comprised of some islands and the Italian peninsula that extends into the central Mediterranean Sea. Italy has 20 administrative regions including 5 autonomous regions [12] . For our study we divided the country into 5 geographic regions:",
+            "cite_spans": [
+                {
+                    "start": 211,
+                    "end": 215,
+                    "text": "[12]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study setting:"
+        },
+        {
+            "text": "Northwest, Northeast, Centre, South, and Island. Lombardia, Piemonte, Liguria, and Valle d'Aosta were included in Northwest. Emilia Romagna, Friuli-Venezia Giulia, Trentino Alto Adige, and Veneto were included in Northeast. Lazio, Marche, Toscana, and Umbria were included in Centre region while Abruzzo, Puglia, Basilicata, Calabria, Compania, and Molise were included in the South region. The two islands, Sardegna, and Sicilia were categorized as Islands.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study setting:"
+        },
+        {
+            "text": "The first two confirmed cases of COVID-19 in Italy had a travel history to Wuhan, China and were reported on 31 st January 2020. The third case was not confirmed until February 7, 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Initial cases of COVID-19 in Italy:"
+        },
+        {
+            "text": "On February 22, 2020 the cumulative total reached 9 cases and subsequent incident cases continued to follow a rapidly increasing daily trend [13] .",
+            "cite_spans": [
+                {
+                    "start": 141,
+                    "end": 145,
+                    "text": "[13]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Initial cases of COVID-19 in Italy:"
+        },
+        {
+            "text": "The Ministry of Health of Italy releases daily report on COVID-19 cases and deaths [14] .",
+            "cite_spans": [
+                {
+                    "start": 83,
+                    "end": 87,
+                    "text": "[14]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Sources:"
+        },
+        {
+            "text": "From these reports we manually retrieved the daily cumulative numbers of reported laboratory confirmed COVID-19 cases and deaths stratified for five Italian regions from March 2, 2020 to March 28, 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Sources:"
+        },
+        {
+            "text": "The crude CFR is defined as the number of cumulative deaths divided by the number of cumulative cases at a specific point in time. For the estimation of CFR in real time, we employed the delay from hospitalization to death, h s , which is assumed to be given by h s = H(s) -H(s-1) for s>0 where H(s) is a cumulative density function of the delay from hospitalization to death and follows a gamma distribution with mean 10.1 days and SD 5.4 days, obtained from the previously published paper [11] . Let \u03c0 a,ti be the time-delay adjusted case fatality ratio on reported day t i in area a, the likelihood function of the estimate \u03c0 a,ti is",
+            "cite_spans": [
+                {
+                    "start": 433,
+                    "end": 439,
+                    "text": "SD 5.4",
+                    "ref_id": null
+                },
+                {
+                    "start": 491,
+                    "end": 495,
+                    "text": "[11]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "where c a,t represents the number of new cases with reported day t in area a, and D a,ti is the cumulative number of deaths until reported day t i in area a [15, 16] . Among the cumulative cases with reported day t in area a, D a,ti have died and the remainder have survived the infection. The contribution of those who have died with biased death risk is shown in the middle parenthetical term and the contribution of survivors is presented in the right parenthetical term. We assume that D a,ti is the result of the binomial sampling process with probability \u03c0 a,ti .",
+            "cite_spans": [
+                {
+                    "start": 157,
+                    "end": 161,
+                    "text": "[15,",
+                    "ref_id": null
+                },
+                {
+                    "start": 162,
+                    "end": 165,
+                    "text": "16]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "We estimated model parameters using a Monte Carlo Markov Chain (MCMC) method in a Bayesian framework. Posterior distributions of the model parameters were estimated by sampling from the three Markov chains. For each chain, we drew 100,000 samples from the posterior distribution after a burn-in of 20,000 iterations. Convergence of MCMC chains were evaluated using the potential scale reduction statistic [17, 18] . Estimates and 95%",
+            "cite_spans": [
+                {
+                    "start": 405,
+                    "end": 409,
+                    "text": "[17,",
+                    "ref_id": null
+                },
+                {
+                    "start": 410,
+                    "end": 413,
+                    "text": "18]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "credibility intervals for these estimates are based on the posterior probability distribution of each parameter and based on the samples drawn from the posterior distributions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "All statistical analyses were conducted in R version 3.6.1 (R Foundation for Statistical",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "Computing, Vienna, Austria) using the 'rstan' package.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis:"
+        },
+        {
+            "text": "As of March 28, a total of 92,472 cases and 10,023 deaths due to COVID-19 have been reported in Italy. Moreover, the Northwest region has reported the highest number of cases at 50,419 (54.5%) and deaths at 6,960 (69.4%). Similarly, the Northeast reported a total of 24,363 (26.3%) of cases and 1,977 (19.7%) deaths. The Island, Center and the South regions shared less than 20% of the cases and about 10% of the total deaths. Island. Black dots show crude case fatality ratios, and light and dark indicate 95% and 50% credible intervals for posterior estimates, respectively. Except for the initial days (first 5 days) our model based crude CFR fitted the observed data well. For the time-delay adjusted CFR, our model based on posterior estimates are much higher than the crude observed CFR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "The differences are much higher for the initial stage and then declined rapidly followed by a small difference in the later stage of the epidemic across all regions. For the most affected Northwest region, the time-delay adjusted risk of death was stable at highest point (100%) for first 7 days (considering March 1st as day 1) and rapidly declined to 50% by day 15 and . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint thereafter exhibited a gradual decline (about 31% by day 28). For the Northeast, the risk of death has declined to about 20% and below 16% for the Center and the South regions by day 28. For the Island region, the risk of death is below 12% by day 28 (figure 2). There was an overall downward trend of CFR for all the five regions, including a period of stable higher rate for the initial stage in the Northwest and Northeast regions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "A summary of the time delay adjusted case fatality ratio, range of median estimates and crude CFR of COVID-19 across five regions of Italy are presented in Table . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 156,
+                    "end": 161,
+                    "text": "Table",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results:"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "In this paper, we have estimated the time delay adjusted case fatality ratio of COVID-19 for five different areas of Italy. We found that the latest estimate of time-delay adjusted CFR in Italy varied substantially across regions with the highest value in the Northwest and the lowest in the Island region. The Northwest includes the regions of Lombardia, which has reported the highest number of COVID-19 cases and deaths in Italy. The adjusted CFR in the Northwest was very large (31.4%) which is 1.5-fold higher than the estimate of Northeast (20.3%), 2-fold higher than that of the Center region (16.5%), 1.9-fold higher than that of the South region (16.8%), and 2.7-fold higher than that estimated for the Island region (11.8%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our results call for all-out efforts to mitigate transmission and invest medical resources to ameliorate the burden on an already overwhelmed health care system. Differences in the definition of COVID-19 related deaths and the testing strategies could affect differences in CFR. Indeed, there is a lack of consistent case definitions of COVID-19 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint related deaths across countries. In Italy, COVID-19-related deaths include all deaths that occur in patients that test positive for SARS-CoV-2 via RT-PCR independent of any preexisting disease that might have caused the death [20] . Likewise, in the early phase of epidemic, there was an extensive testing strategy in Italy that included both symptomatic cases and their and asymptomatic contacts but later more strict testing policies prioritized more severe suspected cases requiring hospitalization [20] . Further studies are needed to clarify how differences in case definitions and testing strategies affect CFR estimates in different countries.",
+            "cite_spans": [
+                {
+                    "start": 370,
+                    "end": 374,
+                    "text": "[20]",
+                    "ref_id": null
+                },
+                {
+                    "start": 646,
+                    "end": 650,
+                    "text": "[20]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In our study, as the epidemic progressed, we saw a downward trend in the time delay adjusted CFR for all the five regions. However, for Northwest and Northeast, there was also an initial phase with steady state at higher CFR which was relatively longer for Northwest compared to Northeast. A previous study on COVID-19 using data from China has also found the declining trend of time delay adjusted CFR for Hubei province excluding . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 /2020 In Northwest Italy, though the time delay adjusted CFR has been gradually declining, the latest estimate is still the highest within Italy and globally [8, [24] [25] [26] [27] and the estimates for the other regions are also substantially high though not as high as that in the Northwest region.",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                },
+                {
+                    "start": 103,
+                    "end": 108,
+                    "text": "/2020",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 261,
+                    "end": 264,
+                    "text": "[8,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 265,
+                    "end": 269,
+                    "text": "[24]",
+                    "ref_id": null
+                },
+                {
+                    "start": 270,
+                    "end": 274,
+                    "text": "[25]",
+                    "ref_id": null
+                },
+                {
+                    "start": 275,
+                    "end": 279,
+                    "text": "[26]",
+                    "ref_id": null
+                },
+                {
+                    "start": 280,
+                    "end": 284,
+                    "text": "[27]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our findings reflect the need of urgent medical support in the Northwest region and the appropriate planning and supplies procurement in the other regions of Italy with a focus on medical care delivery to those who are at the highest risk of poorer outcomes due to COVID-19 such as patients categorized as critical, the elderly, and those with multiple comorbidities including cardiovascular disease, hypertension, and diabetes. Similarly, social distancing measures are needed to flatten the curve and prevent the health care system from overloading to a breaking point.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The Italian government put in place extraordinary social distancing measures to reduce transmission through strict self-isolation, including the restriction of movement in the Lombardy region of Northwest at the beginning and later expanded at the nationwide level is praiseworthy [28] . However, there are reports from the Lombardy region that indicate an overwhelming surge in patients requiring ICU admission and overloaded public health laboratories [29] , which underscore the dire need to mitigate transmission to flatten the incidence curve and reduce the pressure on the healthcare system.",
+            "cite_spans": [
+                {
+                    "start": 281,
+                    "end": 285,
+                    "text": "[28]",
+                    "ref_id": null
+                },
+                {
+                    "start": 454,
+                    "end": 458,
+                    "text": "[29]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our study is not exempted from limitations. The preferential ascertainment of severe cases bias in COVID-19 may have spuriously increased our estimate of CFR [30] , which is a frequent caveat in this type of studies [31, 32] . Similarly, for a disease like COVID-19 in which there is a rapid increase in infection, but the infection-death time is long (ranges from 2 to 8 weeks) [9], our CFR estimate could have been affected by delayed reporting bias [30, . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 162,
+                    "text": "[30]",
+                    "ref_id": null
+                },
+                {
+                    "start": 216,
+                    "end": 220,
+                    "text": "[31,",
+                    "ref_id": null
+                },
+                {
+                    "start": 221,
+                    "end": 224,
+                    "text": "32]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint 33]. Similarly, our data on number of cases reflects the date of reporting and not the date of onset of illness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion our latest estimates of the risk of death due to COVID-19 was as high as 31.4%",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "in the most affected Northwest region of Italy whereas for the least affected Island region the CFR was estimated at 11.8%. Our estimates in Northeast (20.3%), the Center (16.5%) and the South (16.8%) are also elevated compared to delay-adjusted CFR estimates from other areas such as South Korea and China. Our results call for all-out efforts to reduce transmission in the most severely affected areas of Italy to ameliorate the burden on an already overwhelmed health care system. . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint C r I : 9 5 % c r e d ibility intervals (CrI), \u00b6 95%CI: 95% confidence interval . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049668 doi: medRxiv preprint . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 /2020 ",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                },
+                {
+                    "start": 103,
+                    "end": 108,
+                    "text": "/2020",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Summary results of time-delay adjusted case fatality ratio of COVID-19 in the 5 areas in Italy",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Table",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "1% (95%CI: 7.8-8.5%)",
+            "authors": [],
+            "year": 1977,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Center 16.5% (95%CrI: 15.4-17.7%)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "7% (95%CrI: 5.1-6.4%) 289/5043",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "displays the cumulative cases in (A) Northwest, (B) Northeast, (C) Center, (D) South and (E) Island, and cumulative deaths in (F) Northwest, (G) Northeast (H) Center (I) South and (J) Island, over time. Cumulative cases and cumulative deaths increased rapidly in the Northwest region compared to other Italian regions. In contrast, the cumulative number of cases and deaths in Island region is relatively mild whereas it is moderate in the Northeast, Center and the South regions.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "illustrates observed and model based posterior estimates of the crude case fatality ratio in (A) Northwest, (B) Northeast, (C) Center, (D) South and (E) Island, and the timedelay adjusted case fatality ratio in (F) Northwest, (G) Northeast (H) Center (I) South and (J)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Wuhan[11]. This trend was also reported for the 2015 MERS outbreak in South Korea in which the risk of death was significantly associated with older age and underlying health condition[23]. In the early phase of the outbreak of emerging infectious disease like MERS and COVID-19, the detection rate of mildly symptomatic cases is low and only patients who have serious conditions are confirmed due to hospitalization as happened in Wuhan[24] [11] and South Korea[23]. However the downward trend of CFR in the later phase of epidemic suggests both an improvement in epidemiologic surveillance and a decline in the proportion of vulnerable patients [11]. Because of the decline in the proportion of vulnerable patients and an increased detection of mildly symptomatic cases, the epidemic might get prolonged unless strict social/physical distancing measures are applied [11].",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure legend",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Temporal distribution of cases and deaths by area due to COVID-19, Italy, March 2020. Cumulative cases in (A) Northwest, (B) Northeast, (C) Center, (D) South and (E) Island, and cumulative deaths in (F) Northwest, (G) Northeast (H) Center (I) South and (J) Island, over time. Day 1 corresponds to March 1 st in 2020. As the dates of illness onset were not available, we used dates of reporting. Temporal variation of risk of death caused by COVID-19, Italy, March 2020. Observed and posterior estimated of crude case fatality ratio in (A) Northwest, (B) Northeast, (C) Center, (D) South and (E) Island , and time-delay adjusted case fatality ratio in (F) Northwest, (G) Northeast (H) Center (I) South and (J) Island. Day 1 corresponds to March 1 st in 2020. Black dots shows crude case fatality ratio, and light and dark indicates 95% and 50% credible intervals for posterior estimates, respectively.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Latest estimates of time-delay adjusted risk of death caused by COVID-19 by area, 2020, Italy. Distribution of time-delay adjusted case fatality risks derived from the latest estimates (March 22, 2020) are presented. Top to bottom: Northwest, Northeast, Center, South and Island",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "1. The Northwest had the highest time delay adjusted CFR of 31.4% (95% credible interval: 30.8, 32.1] followed by the Northeast region (20.3%) [95% CrI: 19.4, 21.1], the Center region (16.5%) [95% CrI: 15.4, 17.7] and the South region (16.8%) [95% CrI: 15.0, 18.7] (Table 1, figure 3). The Island has exhibited the lowest CFR (11.8%) [95% CrI: 9.0, 14.8]. The crude CFR for Northwest was 13.8% [95% CI: 13.5, 14.1] compared to 8.1% [95% CI: 7.8, 8.5] in Northeast and 4.2%",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "The adjusted CFR estimates across all the regions in Italy except the Island region are higher than the previous CFR estimates forWuhan (12.2%)[11] and Korea (1.4%)[19]. Wuhan had the highest time-delay adjusted CFR compared to other regions of China [11]. When we compare the adjusted CFR of the most affected regions in Italy and China, the estimate for Italy is more than 2.5 times the estimate for China (31.4% vs 12.2%)[11]. This difference may be partly associated with the population structure of the two countries as suggested in a previous study [20]. Italy has an older population compared to China. In 2015 the median age of total population in Italy was 45.4 years compared to 36.7 years for China [21]. In 2019, approximately 23% of population in Italy was 65 years and older [20] compared to 12.6% in China[22].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "KM acknowledges support from the Japan Society for the Promotion of Science (JSPS) KAKENHI Grant Number 15K20936, from Program for Advancing Strategic International Networks to Accelerate the Circulation of Talented Researchers Grant Number G2801 and from the Leading Initiative for Excellent Young Researchers from the Ministry of Education, Culture, Sport, Science & Technology of Japan. GC acknowledges support from NSF grant 1414374 as part of the joint NSF-NIH-USDA Ecology and Evolution of Infectious Diseases program; UK Biotechnology and Biological Sciences Research Council grant BB/M008894/1.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

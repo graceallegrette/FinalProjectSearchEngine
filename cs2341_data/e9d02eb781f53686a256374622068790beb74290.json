@@ -1,0 +1,924 @@
+{
+    "paper_id": "e9d02eb781f53686a256374622068790beb74290",
+    "metadata": {
+        "title": "Using early data to estimate the actual infection fatality ratio from COVID-19 in France",
+        "authors": [
+            {
+                "first": "Lionel",
+                "middle": [],
+                "last": "Roques",
+                "suffix": "",
+                "affiliation": {},
+                "email": "*lionel.roques@inrae.fr"
+            },
+            {
+                "first": "Etienne",
+                "middle": [
+                    "K"
+                ],
+                "last": "Klein",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Julien",
+                "middle": [],
+                "last": "Papa\u00efx",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Antoine",
+                "middle": [],
+                "last": "Sar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Medicentre Moutier",
+                    "location": {
+                        "postCode": "2740",
+                        "settlement": "Moutier",
+                        "country": "Suisse"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Samuel",
+                "middle": [],
+                "last": "Soubeyrand",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The first cases of COVID-19 in France were detected on January 24, 2020. The number of screening tests carried out and the methodology used to target the patients tested do not allow for a direct computation of the actual number of cases and the infection fatality ratio (IFR). We develop a 'mechanistic-statistical' approach coupling a SIR ODE model describing the unobserved epidemiological dynamics, a probabilistic model describing the data acquisition process and a statistical inference method. The objective of this model is not to make forecasts but to estimate the actual number of people infected with COVID-19 during the observation window in France and to deduce the IFR associated with the epidemic in France. Main results. The actual number of infected cases in France is probably higher than the observations: we find here a factor \u00d75 (95%-CI: 3.5-7.8) which leads to an IFR in France of 0.5% (95%-CI: 0.3 \u2212 0.8). Although accurate in France, the SIR model cannot capture the decline in the number of cases observed in South Korea: this points out the strong impact on the epidemic dynamics of the management strategy adopted in South Korea.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "data, the approach uses a probabilistic model describing the data collection process. A statistical method is then used for the estimation of the parameters of the mechanistic model.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Mechanistic model. The dynamics of the epidemics are described by the following SIR compartmental model Murray (2002) :",
+            "cite_spans": [
+                {
+                    "start": 104,
+                    "end": 117,
+                    "text": "Murray (2002)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "with S the susceptible population, I the infected population, R the recovered population (immune individuals) and N = S + I + R the total population, supposed to be constant. The parameter \u03b1 is the infection rate (to be estimated) and 1/\u03b2 is the mean time until an infected becomes recovered. Based on the results in Zhou et al. (2020) , the median period of viral shedding is 20 days, but the infectiousness tends to decay before the end of this period: the results in He et al. (2020) show that infectiousness starts from 2.5 days before symptom onset and declines within 7 days of illness onset. Based on these observations we assume here that 1/\u03b2 = 10 days. The initial conditions are S(t 0 ) = N \u2212 1, I(t 0 ) = 1 and R(t 0 ) = 0, where N corresponds to the population size in the considered country (67 10 6 in France, 62 10 6 in South Korea). The SIR model is started at some time t = t 0 , which will be estimated and should approach the date of introduction of the virus in the considered country (this point is shortly discussed at the end of this paper). The ODE system (1) is solved thanks to a standard numerical algorithm, using Matlab \u00ae ode45 solver.",
+            "cite_spans": [
+                {
+                    "start": 317,
+                    "end": 335,
+                    "text": "Zhou et al. (2020)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 470,
+                    "end": 486,
+                    "text": "He et al. (2020)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Next we denote by D(t) the number of deaths due to the epidemic. Note that the impact of the compartment D(t) on the dynamics of the SIR system and on the total population is neglected here. The dynamics of D(t) depend on I(t) trough de differential equation:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "with \u03b3(t) the mortality rate of the infecteds.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Observation model. We suppose that the number of cases tested positive on day t, denoted by\u03b4 t , follow independent binomial laws, conditionally on the number of tests n t carried out on day t, and on p t the probability of being tested positive in this sample:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The tested population consists of a fraction of the infecteds and a fraction of the susceptibles: n t = \u03c4 1 (t) I(t) + \u03c4 2 (t) S(t). Thus,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "with \u03ba t := \u03c4 2 (t)/\u03c4 1 (t), the relative probability of undergoing a screening test for an individual of type S vs an individual of type I (probability of being tested conditionally on being S / probability of being tested conditionally on being I). We assume that the ratio \u03ba does not depend on t at the beginning of the epidemic (i.e., over the period that we use to estimate the parameters of the model). The coefficient \u03c3 corresponds to the sensitivity of the test. In most cases, RT-PCR tests have been used and existing data indicate that the sensitivity of this test using pharyngeal and nasal swabs is about 63 \u2212 72% Wang et al. (2020) . We take here \u03c3 = 0.7 (70% sensitivity).",
+            "cite_spans": [
+                {
+                    "start": 626,
+                    "end": 644,
+                    "text": "Wang et al. (2020)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Statistical inference. The data\u03b4 t used to compute the MLE and the posterior distribution are those corresponding to the period from February 29 to March 17. The unknown parameters are \u03b1, t 0 and \u03ba. The parameter \u03b3(t) is computed indirectly, using the estimated value of I(t), the data on the mortality rate (assumed to be exact) and the relationship (2). The likelihood L , is defined as the probability of the observations (here, the increments {\u03b4 t }) conditionally on the parameters. Using the observation model (3), and assuming that the increments\u03b4 t are independent conditionally on the underlying SIR process and that the number of tests n t is known, we get:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "with t i date of the first observation and t f the date of the last observation. In this expression L (\u03b1,t 0 , \u03ba) depends on \u03b1,t 0 , \u03ba through p t .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 The maximum likelihood estimator (MLE, i.e., the parameters that maximize L ), is computed using the BFGS constrained minimization algorithm, applied to \u2212 ln(L ), via the Matlab \u00ae function fmincon. In order to find a global maximum of L , we apply this method starting from random initial values for \u03b1,t 0 , \u03ba drawn uniformly in the following intervals:",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "For each country, the minimization algorithm is applied to 10000 random initial values of the parameters.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "To assess model fit, we compare the observations with expectation of the observation model associated with the MLE, n t p * t (expectation of a binomial) with",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "and I * (t), S * (t) the solutions of the system (1) associated with the MLE. The posterior distribution of the parameters (\u03b1,t 0 , \u03ba) is computed with a Bayesian method, using uniform prior distributions in the intervals given by (4). This posterior distribution corresponds to the distribution of the parameters conditionally on the observations:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "where \u03c0(\u03b1,t 0 , \u03ba) corresponds to the prior distribution of the parameters (therefore uniform) and C is a normalization constant independent of the parameters. The numerical computation of the posterior distribution (which is only carried out for French data) is performed with a Metropolis-Hastings (MCMC) algorithm, using 4 independent chains, each of which with 10 6 iterations, starting from random values close to the MLE.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "Computation of the infection fatality ratio and of R 0 . The IFR corresponds to the fraction of the infected who die, that is \u03b3(t)/(\u03b3(t) + \u03b2 ). Given the (estimated) population I, the term \u03b3(t) is computed using the formula (2) and the mortality data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "With SIR systems of the form (1), the basic reproduction rate R 0 can be computed directly, based on the formula R 0 = \u03b1/\u03b2 (Murray, 2002) . When R 0 < 1, the epidemic cannot spread in the population. When R 0 > 1, the infected compartment I increases as long as R 0 S > N = S + I + R.",
+            "cite_spans": [
+                {
+                    "start": 123,
+                    "end": 137,
+                    "text": "(Murray, 2002)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "2/8"
+        },
+        {
+            "text": "Model fit. Fig. 1 compares the expectation of the observation model associated with the MLE with the actual observations. In France, we get a good match between this expectation n t p * t and the data. In South Korea, on the other hand, the gap between the data and the model prediction is significant: the SIR model, which leads to an exponential trajectory of I at the beginning of the epidemic, cannot properly render the dynamics.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 11,
+                    "end": 17,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Infection fatality rate. Using the posterior distribution of the model parameters (described in Appendix, Fig. 3 ), we can compute the daily distribution of the actual number of infected peoples (see Fig. 4 in Appendix). Using this information we thus obtain, on March 17, an IFR in France of 0.5% (95%-CI: 0.3 \u2212 0.8). The estimated distribution of IFR is relatively stable over time. Its is depicted in Fig. 2 . Additionally, we get that the average estimated ratio in France between the actual number of infected and observed cases (I(t)/\u03a3\u03b4 t , with \u03a3\u03b4 t the sum of the observed infected cases at time t) is 5.3 (95%-CI: 3.5-7.8) over the considered period.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 106,
+                    "end": 112,
+                    "text": "Fig. 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 200,
+                    "end": 206,
+                    "text": "Fig. 4",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 404,
+                    "end": 410,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Basic reproduction rate. We computed the marginal posterior distribution of the basic reproduction rate R 0 (Fig. 5 in Appendix). This leads to a mean value of R 0 of 3.2 (95%-CI: 3.1-3.3).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 108,
+                    "end": 115,
+                    "text": "(Fig. 5",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "On the IFR and the number of infecteds. The actual number of infected individuals in France is probably much higher than the observations (we find here a factor \u00d75), which leads at a lower mortality rate than that calculated on the basis of the observed cases: we find here an IFR of 0.5%, to be compared with a case fatality rate (CFR, number of deaths over number of diagnosed cases) of 2%. However, if the virus led to contaminate 80% of the French population (Ferguson et al., 2020) , the total number of deaths to deplore in the absence of variation in the mortality rate (increase induced for example by the saturation of hospital structures, or decrease linked to better patient care) would be 336, 000 (95%-CI : 192, 000 \u2212 537, 000)). This estimate could ",
+            "cite_spans": [
+                {
+                    "start": 463,
+                    "end": 486,
+                    "text": "(Ferguson et al., 2020)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion."
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "4/8"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 be corroborated or invalidated when 80% of the population will be infected, eventually over several years, assuming that an infected individual is definitively immunized. It has to be noted that measures of confinement or social distancing can decrease both the percentage of infected individuals in the population and the degree of saturation of hospital structures. Note that an IFR of 0.5% (95%-CI: 0.3 \u2212 0.8) is consistent with the findings of Verity et al. (2020) (0.66% in China), and slightly lower than the value of 0.9% previously obtained in the UK (Ferguson et al., 2020) .",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                },
+                {
+                    "start": 662,
+                    "end": 685,
+                    "text": "(Ferguson et al., 2020)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "4/8"
+        },
+        {
+            "text": "On the differences between France and South Korea. The mechanistic-statistical SIR model achieves a satisfactory goodness-offit for French data, but does not capture the decline in the number of cases observed in South Korea. The difference between the dynamics predicted by the SIR model and the South Korean data is probably linked to a different management of the epidemic in Korea, having a strong impact on the epidemic dynamics (more important screening, tracing, social distancing in South Korea).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "4/8"
+        },
+        {
+            "text": "On the value of R 0 . The estimated distribution in France is high compared to recent estimates (2.0-2.6, see Ferguson et al. (2020) ). This difference could be due to a different definition of R 0 depending on the type of model used to calculate it. A direct estimate, by a non-mechanistic method, of the parameters (\u03c1,t 0 ) of a model of the form\u03b4 t = e \u03c1 (t\u2212t 0 ) gives t 0 = 36 (February 5) and \u03c1 = 0.22. With the SIR model, I (t) \u2248 I (\u03b1 \u2212 \u03b2 ) for small times (S \u2248 N), which leads to a growth rate equal to \u03c1 \u2248 \u03b1 \u2212 \u03b2 , and a value of \u03b1 \u2248 0.32, that is to say R 0 = 3.2, which is consistent with the distribution presented in Fig. 5 . Note that we have assumed here a infectiousness period of 10 days. A shorter period would lead to a lower value of R 0 .",
+            "cite_spans": [
+                {
+                    "start": 110,
+                    "end": 132,
+                    "text": "Ferguson et al. (2020)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 629,
+                    "end": 635,
+                    "text": "Fig. 5",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "4/8"
+        },
+        {
+            "text": "On the uncertainty linked to the data. The uncertainty on the actual number of infected and therefore the mortality rate are very high. We must therefore interpret with caution the inferences that can be made based on the data we currently have in France. In addition, we do not draw forecasts here: the future dynamics will be strongly influenced by the containment measures that will be taken and should be modeled accordingly.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "4/8"
+        },
+        {
+            "text": "On the hypotheses underlying the model. The data used here contain a limited amount of information, especially since the observation period considered is short and corresponds to the initial phase of the epidemic dynamics, which can be strongly influenced by discrete events. This limit led us to use a particularly parsimonious model in order to avoid problems of identifiability for the parameters. The assumptions underlying the model are therefore relatively simple and the results must be interpreted with regard to these assumptions. For instance, the date of the introduction t 0 must be seen as an efficient date of introduction for a dynamics where a single introduction would be decisive for the outbreak and the other (anterior and posterior) introductions would have an insignificant effect on the dynamics. Figure 3 . Joint posterior distributions of (\u03b1, \u03ba), (t 0 , \u03b1) and (t 0 , \u03ba) in France.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 820,
+                    "end": 828,
+                    "text": "Figure 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "4/8"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "6/8"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 ",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "6/8"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "7/8"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 ",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "7/8"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Dating and localizing an invasion from post-introduction data and a coupled reaction-diffusion-absorption model",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Abboud",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bonnefon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Parent",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Soubeyrand",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of mathematical biology",
+            "volume": "79",
+            "issn": "2",
+            "pages": "765--789",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Laydon",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Nedjati-Gilani",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ainslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baguelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bhatia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Boonyasiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cucunub\u00e1",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cuomo-Dannenburg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.25561/77482"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Temporal dynamics in viral shedding and transmissibility of covid-19",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.15.20036707"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Mathematical Biology",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Modelling population dynamics in realistic landscapes with linear elements: A mechanisticstatistical reaction-diffusion approach",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Roques",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bonnefon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PloS one",
+            "volume": "11",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A statistical-reaction-diffusion approach for analyzing expansion processes",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Roques",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Soubeyrand",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rousselet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Theor Biol",
+            "volume": "274",
+            "issn": "",
+            "pages": "43--51",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Estimates of the severity of covid-19 disease",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Verity",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Okell",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Winskill",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Whittaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cuomo-Dannenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.09.20033357"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Detection of SARS-CoV-2 in different types of clinical specimens",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "a retrospective cohort study. The Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Expected number of observed cases associated with the MLE vs number of cases actually detected (total cases). The curves corresponds to the expected observation n t p * t given by the model, and the crosses correspond to the data (cumulated values of\u03b4 t ).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Dynamics of the IFR in France. Solid line: average value obtained from the posterior distribution of the parameters. Dotted curves: 0.025 and 0.975 pointwise quantiles.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Distribution of the actual number of infected cases in France across time. Solid line: average value obtained from the posterior distribution of the parameters. Dotted curves: 0.025 and 0.975 pointwise posterior quantiles.(a) France",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Posterior distribution of the basic reproduction rate R 0 in France.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "This work was funded by INRAE.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "L.R., E.K.K., J.P. and S.S. conceived the model. L.R. and S.S. wrote the paper, L.R. carried out the numerical computations. All authors reviewed the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author contributions statement"
+        },
+        {
+            "text": "The joint posterior distributions of the three pairs of parameters (\u03b1, \u03ba), (t 0 , \u03b1) and (t 0 , \u03ba) are depicted in Fig. 3 . The distribution of the actual number of infected cases obtained from the posterior distribution of the parameters is depicted in Fig. 4 . The marginal posterior distribution of R 0 is depicted in Fig. 5 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 115,
+                    "end": 121,
+                    "text": "Fig. 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 254,
+                    "end": 260,
+                    "text": "Fig. 4",
+                    "ref_id": null
+                },
+                {
+                    "start": 321,
+                    "end": 327,
+                    "text": "Fig. 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Competing interests Appendix"
+        }
+    ]
+}

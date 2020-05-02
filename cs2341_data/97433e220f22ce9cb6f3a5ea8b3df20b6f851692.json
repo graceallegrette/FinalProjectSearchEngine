@@ -1,0 +1,2307 @@
+{
+    "paper_id": "97433e220f22ce9cb6f3a5ea8b3df20b6f851692",
+    "metadata": {
+        "title": "Care of the Surgical ICU Patient with Chronic Obstructive Pulmonary Disease and Pulmonary Hypertension Chronic Obstructive Pulmonary Disease Overview and Epidemiology",
+        "authors": [
+            {
+                "first": "Stacey",
+                "middle": [
+                    "M"
+                ],
+                "last": "Kassutto",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joshua",
+                "middle": [
+                    "B"
+                ],
+                "last": "Kayser",
+                "suffix": "",
+                "affiliation": {},
+                "email": "joshua.kayser@va.gov"
+            },
+            {
+                "first": "J",
+                "middle": [
+                    "B"
+                ],
+                "last": "Kayser",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Chronic obstructive pulmonary disease (COPD) is a progressive chronic disease characterized by airflow limitation that is frequently progressive and associated with respiratory impairment. As the fourth leading cause of death in the United States and Europe, COPD results in a substantial and ever increasing economic and social burden [1] . Acute exacerbations of chronic obstructive pulmonary disease (AECOPD) are frequently encountered in the intensive care unit (ICU). Although there is no standardized definition, AECOPD are characterized by a significant change in patient symptoms from baseline accompanied by overall increased airway resistance [2] . These exacerbations carry a significant risk to patients, with 10 % in-hospital mortality and 1-year and 2-year all-cause mortality rates of 43 % and 49 %, respectively, in patients with hypercapnic exacerbations [3] . Other studies note in-hospital mortality rates as high as 30 % with worse outcomes associated with older age, severity of respiratory and non-respiratory organ dysfunction, and hospital length of stay [4] . Given that patients transferred to the ICU with AECOPD are at high risk for complications and adverse outcomes, early diagnosis and management are critical to improve patient outcomes and survival in this population.",
+            "cite_spans": [
+                {
+                    "start": 336,
+                    "end": 339,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 653,
+                    "end": 656,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 872,
+                    "end": 875,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1079,
+                    "end": 1082,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "AECOPD are the result of increased airway resistance as a consequence of inflammation and/or increased airway secretions. Data suggests that 50-70 % of AECOPD are due to respiratory infections, with greater than 50 % being due to bacterial pathogens. The most commonly isolated organisms include Haemophilus influenza, Streptococcus pneumonia, Moraxella catarrhalis, and Pseudomonas aeruginosa. Gram-negative rods are isolated less frequently but are more common in patients with advanced disease and more severe exacerbations as well as those with diabetes. Patients may be chronically colonized with bacteria in the respiratory tract, but it is unclear whether asymptomatic colonization leads to exacerbations caused by the same bacterial strains or predisposes to new bacterial growth. Atypical bacteria such as Mycoplasma pneumonia may be responsible for up to 14 % of exacerbations [2, 5] .",
+            "cite_spans": [
+                {
+                    "start": 887,
+                    "end": 890,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 891,
+                    "end": 893,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Viral infections are estimated to cause 20-40 % of exacerbations. However, many patients with documented bacterial infections report a viral prodrome, making the true prevalence of viral illness difficult to estimate. Estimates indicate that rhinovirus (17-25 %), influenza (5-28 %), parainfluenza (5-10 %), and respiratory syncytial virus (5-10 %) are among the most common viral pathogens in AECOPD. Adenovirus, human metapneumovirus, and coronavirus are also potential but less common culprits. In many cases the exact precipitant of an exacerbation may never be identified [2, 5-7].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Acute exacerbations are typically defined by worsening dyspnea, cough with or without increased sputum production, wheezing, and a subjective sense of chest tightness and may be accompanied by pain [1, 7] . It is important to appreciate the severity of underlying airflow limitation, comorbid conditions, duration of worsened symptoms, current outpatient treatment regimen, and previous exacerbations including any 13 S.M. Kassutto, MD Pulmonary, Allergy and Critical Care,",
+            "cite_spans": [
+                {
+                    "start": 198,
+                    "end": 201,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 202,
+                    "end": 204,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "AECOPD are the result of increased airway resistance as a consequence of inflammation and/or increased airway secretions. Data suggests that 50-70 % of AECOPD are due to respiratory infections, with greater than 50 % being due to bacterial pathogens. The most commonly isolated organisms include Haemophilus influenza, Streptococcus pneumonia, Moraxella catarrhalis, and Pseudomonas aeruginosa. Gram-negative rods are isolated less frequently but are more common in patients with advanced disease and more severe exacerbations as well as those with diabetes. Patients may be chronically colonized with bacteria in the respiratory tract, but it is unclear whether asymptomatic colonization leads to exacerbations caused by the same bacterial strains or predisposes to new bacterial growth. Atypical bacteria such as Mycoplasma pneumonia may be responsible for up to 14 % of exacerbations [2, 5] .",
+            "cite_spans": [
+                {
+                    "start": 887,
+                    "end": 890,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 891,
+                    "end": 893,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pathophysiology and Etiology"
+        },
+        {
+            "text": "Viral infections are estimated to cause 20-40 % of exacerbations. However, many patients with documented bacterial infections report a viral prodrome, making the true prevalence of viral illness difficult to estimate. Estimates indicate that rhinovirus (17-25 %) , influenza (5-28 %), parainfluenza (5-10 %), and respiratory syncytial virus (5-10 %) are among the most common viral pathogens in AECOPD. Adenovirus, human metapneumovirus, and coronavirus are also potential but less common culprits. In many cases the exact precipitant of an exacerbation may never be identified [2, [5] [6] [7] .",
+            "cite_spans": [
+                {
+                    "start": 253,
+                    "end": 262,
+                    "text": "(17-25 %)",
+                    "ref_id": null
+                },
+                {
+                    "start": 578,
+                    "end": 581,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 582,
+                    "end": 585,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 586,
+                    "end": 589,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 590,
+                    "end": 593,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pathophysiology and Etiology"
+        },
+        {
+            "text": "prior need for mechanical ventilation. Patients with severe exacerbations presenting to the ICU will often have signs of increased work of breathing including accessory muscle use, paradoxical chest or abdominal wall movements, cyanosis, altered mental status, and hemodynamic instability [8] . A focused cardiopulmonary exam is recommended with close attention to work of breathing including use of accessory respiratory muscles, ability to speak in complete sentences, degree of air movement and adventitious lung sounds on auscultation, evidence of volume overload including jugular venous distension (JVD) and peripheral edema, presence of cardiac arrhythmias, and cyanosis. The patient's mental status and hemodynamic stability should also be assessed.",
+            "cite_spans": [
+                {
+                    "start": 289,
+                    "end": 292,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pathophysiology and Etiology"
+        },
+        {
+            "text": "The severity of AECOPD varies greatly. Mild exacerbations may be managed as an outpatient whereas others with the most severe presentations will require close monitoring in the ICU setting. Table 13 .1 summarizes indications for ICU admission.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 190,
+                    "end": 198,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Indications for ICU Admission"
+        },
+        {
+            "text": "The BAP-65 is a novel scoring system developed to risk stratify the need for mechanical intubation and mortality rate of hospitalized patients with AECOPD (see Table 13 .2). Although useful as a risk stratification tool, the decision to admit a patient to the ICU should be based on individual patient presentation and treatment center capabilities. The assessment is based on the presence of any of the following, with increased scores portending a worse prognosis [10] : ",
+            "cite_spans": [
+                {
+                    "start": 466,
+                    "end": 470,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 160,
+                    "end": 168,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Indications for ICU Admission"
+        },
+        {
+            "text": "The initial evaluation of a patient with suspected AECOPD admitted to the ICU should be focused on assessing severity of illness, need for possible ventilatory support, and exclusion of other possible causes for respiratory distress. For all patients admitted to the ICU with suspected AECOPD, we recommend the following diagnostic elements [8] :",
+            "cite_spans": [
+                {
+                    "start": 341,
+                    "end": 344,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Differential Diagnosis and Diagnostic Workup"
+        },
+        {
+            "text": "\u2022 Continuous pulse oximetry \u2022 Arterial blood gas (ABG) \u2022 Chest radiograph \u2022 Electrocardiogram \u2022 Basic metabolic panel (BMP) \u2022 Complete blood count (CBC) \u2022 Sputum culture (consider induced sputum sample for patients with minimal sputum production)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Differential Diagnosis and Diagnostic Workup"
+        },
+        {
+            "text": "This initial workup may be useful in differentiating COPD from other cardiac and pulmonary causes of respiratory failure. Important differential diagnoses in patients with severe dyspnea and/or impending respiratory failure include congestive heart failure, acute coronary syndrome, pulmonary embolism, cardiac arrhythmia, pneumothorax, pleural effusion, acute infectious processes such as bacterial or viral pneumonia, and exacerbations of other underlying pulmonary conditions such as interstitial lung disease. These conditions may coexist with or precipitate AECOPD. Thus, it is important to pursue a thorough diagnostic workup in tandem with ongoing therapeutic interventions. Additional diagnostic measures including chest computerized tomography (CT), echocardiography, cardiac biomarkers, brain naturetic peptide (BNP), and respiratory viral molecular testing should be considered in the appropriate clinical setting. Spirometry during an acute exacerbation is not recommended as it is likely to be both difficult for the patient to perform and provide an inaccurate assessment of lung function.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Differential Diagnosis and Diagnostic Workup"
+        },
+        {
+            "text": "Systemic glucocorticoids are considered a cornerstone of therapy in AECOPD, particularly in patients ill enough to warrant ICU admission. Although the optimal formulation, duration, and dosage of treatment remains unclear, studies have shown that systemic steroids accelerate improvement in airflow, gas exchange, and symptoms in addition to reducing the rate of treatment failure [11] . A trial by Niewoehner [9] Note: Indications will vary by institution and ability to do noninvasive ventilation outside of the ICU and colleagues demonstrated that there was no benefit of 8 weeks of steroid treatment compared to 2 weeks [12] . Although some studies in patients with AECOPD suggest that a 5-day regimen of 40 mg of prednisone may be superior to 14 days, no trials have clearly defined the optimal regimen for patients with severe exacerbations requiring ICU admission [13] . In general, we recommend intravenous steroid administration with 0.5-1.0 mg/kg methylprednisolone every 6 h for 24 h with tapering to twice daily and then daily over the course of 2-3 days as tolerated for patients with severe exacerbations admitted to the ICU. In general, the duration of treatment should not exceed 14 days. Oral steroids are likely equivalent to intravenous formulations if the patient can take pills by mouth. Careful monitoring for side effects including alterations in cognition, hyperglycemia, insomnia, fluid retention, and peptic ulcer formation is essential; routine H2 receptor antagonist or proton pump inhibitor prescription should accompany steroid therapy in those admitted to the ICU [14] .",
+            "cite_spans": [
+                {
+                    "start": 381,
+                    "end": 385,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 410,
+                    "end": 413,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 624,
+                    "end": 628,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 871,
+                    "end": 875,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1595,
+                    "end": 1599,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pharmacotherapeutic Management Glucocorticoids"
+        },
+        {
+            "text": "There are no controlled trials documenting efficacy of these agents. However, in general, combination short-acting inhaled beta-2 agonists (albuterol) with or without shortacting anticholinergics (ipratropium) every 2-4 h are recommended for the treatment of AECOPD [1, 8] . There is no evidence to support combination therapy, although albuterol and ipratropium are frequently used concurrently, particularly in patients requiring ICU admission [15] . For nonintubated patients admitted to the ICU, we recommend these medications be administered in nebulized form as inhaler use is difficult for patients with significant respiratory distress. Metered-dose inhalers should be used for patients requiring mechanical ventilation. As there is no evidence to support the addition of methylxanthines during an exacerbation, routine use is not recommended [8, 15] .",
+            "cite_spans": [
+                {
+                    "start": 266,
+                    "end": 269,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 270,
+                    "end": 272,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 446,
+                    "end": 450,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 851,
+                    "end": 854,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 855,
+                    "end": 858,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Bronchodilators"
+        },
+        {
+            "text": "Given that the majority of AECOPD are thought to be due to bacterial infections, the empiric administration of antibiotics in patients with COPD exacerbations has been frequently studied [15] . Antibiotic use during COPD exacerbations reduces treatment failures, need for mechanical ventilation, risk for readmission, as well as mortality when administered in the inpatient setting [16] [17] [18] . A study by Anthonisen et al. showed that patients with increases in sputum production or changes in sputum color experienced a greater benefit from antibiotics [19] . In addition, a study of patients with AECOPD requiring mechanical ventilation showed that administration of a fluoroquinolone reduced mortality and the need for additional antibiotics when compared to placebo [20] . Therefore, antibiotics are recommended for patients admitted to the ICU, particularly those requiring mechanical ventilation [1, 8] . In uncomplicated patients, a beta-lactam, macrolide, or tetracycline antibiotic may be used [8] . For most ICU patients, we recommend a respiratory fluoroquinolone, third-or fourth-generation cephalosporin, or piperacillin/tazobactam. Coverage for atypical bacteria with a macrolide or fluoroquinolone is also recommended if the patient lives in the community. Broader coverage for nosocomial pathogens is recommended for patients residing in health-care settings and those who have had recent or repetitive contact with the hospital environment or therapeutic courses of antimicrobial agents. Combination therapy is often necessary [1, 14, 15] . See Table 13 .3 for antibiotic recommendations. In general, a total duration of 7 days of antibiotics is usually appropriate. Coverage may be tailored based on sputum culture results and sensitivities.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 191,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 382,
+                    "end": 386,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 387,
+                    "end": 391,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 392,
+                    "end": 396,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 410,
+                    "end": 427,
+                    "text": "Anthonisen et al.",
+                    "ref_id": null
+                },
+                {
+                    "start": 559,
+                    "end": 563,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 775,
+                    "end": 779,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 907,
+                    "end": 910,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 911,
+                    "end": 913,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1008,
+                    "end": 1011,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1549,
+                    "end": 1552,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1553,
+                    "end": 1556,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1557,
+                    "end": 1560,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1567,
+                    "end": 1575,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Antibiotics"
+        },
+        {
+            "text": "There is no data to support the routine use of pharmacologic adjuncts or bronchoscopic mucus clearance techniques, although efforts to clear secretions via pulmonary toiletry and chest physiotherapy (e.g., percussion and postural drainage) are reasonable [15] .",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 259,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Ventilatory Support Airway Clearance Techniques"
+        },
+        {
+            "text": "Oxygen supplementation is frequently necessary in AECOPD. In order to maintain adequate cellular oxygenation while avoiding hypercapnia, careful monitoring and avoidance of over-supplementation is prudent. The goal is to maintain a PaO 2 >60 mmHg or SpO 2 of 88-92 %. Values significantly above this provide little added benefit while potentially promoting CO 2 retention in this at-risk population. ABGs should be checked frequently to identify any potential interval worsening of respiratory acidosis; VBGs may be a reasonable alternative to ABG analysis when the focus of inquiry is pH-pCO 2 balance as opposed to oxygenation [1] .",
+            "cite_spans": [
+                {
+                    "start": 629,
+                    "end": 632,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oxygen"
+        },
+        {
+            "text": "Many patients with AECOPD will require respiratory support beyond supplemental oxygen. Although endotracheal intubation may be required in severe cases, noninvasive positive-pressure ventilation (NPPV) is a first choice treatment for patients with hypercapnic respiratory failure in severe AECOPD and when there are no contraindications to noninvasive ventilation (see Table 13 .4). Patients with clinical signs of respiratory muscle fatigue and/or increased work of breathing should also be considered for early NPPV initiation. The success rate of NPPV in randomized controlled trials of patients with severe AECOPD has been documented as 80-85 %, with improvements in acute respiratory acidosis, tachypnea, work of breathing, and decreases in ventilatorassociated events [8, 21] . Previous studies demonstrated that the use of NPPV was associated with a reduction in the overall need for endotracheal intubation, lower cost, reduced ICU length of stay, and decreased overall ICU mortality for patients placed on NPPV [22, 23] .",
+            "cite_spans": [
+                {
+                    "start": 774,
+                    "end": 777,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 778,
+                    "end": 781,
+                    "text": "21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1020,
+                    "end": 1024,
+                    "text": "[22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1025,
+                    "end": 1028,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 369,
+                    "end": 377,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Noninvasive Ventilation"
+        },
+        {
+            "text": "NPPV may not be efficacious in all patients with AECOPD. In particular, patients with Glasgow Coma Scale score <11, acute physiology and chronic health evaluation (APACHE) score \u226529, respiratory rate \u226530, and admission pH <7.25 have a failure rate of that exceeds 70 %. Close monitoring while on NPPV is necessary and rapid clinical improvement is expected if NPPV is likely to be of benefit. Studies have shown that if the pH after 2 h of NPPV remains <7.25, there is a high likelihood of failure (70-90 %), and endotracheal intubation should be considered. Conversely, if the pH and/or the PaCO 2 improve within the first few hours of NPPV, there is a significant probability of success [24] .",
+            "cite_spans": [
+                {
+                    "start": 689,
+                    "end": 693,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Noninvasive Ventilation"
+        },
+        {
+            "text": "Therefore, frequent monitoring with ABGs and serial clinical exams is critically important. When interpreting ABGs, the acuity of any respiratory acidosis should be considered given that many patients with COPD have underlying chronic hypoxemia and/or hypercapnia. Prior ABGs or serum bicarbonate measurements during previous periods of stability may be useful for comparison. In addition, consideration of other coexisting acute or chronic conditions that might impact on acid-base balance (e.g., acute kidney injury or chronic kidney disease stage III or greater) is also important to successful ABG interpretation and clinical application.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Noninvasive Ventilation"
+        },
+        {
+            "text": "Although NPPV can rescue many from respiratory failure, invasive mechanical ventilation may be necessary in patients with particularly severe exacerbations. Intubation should be considered in patients with NPPV failure or contraindication, severe acidosis and hypercapnia (pH <7.25 and/or PCO 2 >60 mmHg), life-threatening hypoxia, or tachypnea with impending evidence of acute respiratory failure [1] . Table 13 .5 summarizes indications for invasive mechanical ventilation. In general, assist-control volume-cycled ventilation is recommended for patients with severe obstructive lung disease. This allows for careful control of minute ventilation, tidal volume, inspiratory flow rate, and expiratory flow time given the predisposition for this patient population to experience dynamic hyperinflation and ventilator-induced lung injury. Specific recommendations for ventilator parameters are summarized in Table 13 .6.",
+            "cite_spans": [
+                {
+                    "start": 398,
+                    "end": 401,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 404,
+                    "end": 412,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 907,
+                    "end": 915,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Mechanical Ventilation"
+        },
+        {
+            "text": "It should be noted that no specific trials have been performed to determine optimal ventilator settings in patients with AECOPD. It is likely that every patient will respond differently depending on the severity of underlying lung disease, existence and severity of other comorbidities, and degree of ventilator synchrony. Careful titration and adjustment of ventilator settings at the bedside is often necessary given the dynamic nature of respiratory failure in this patient population. Consultation with a pulmonologist with specific expertise in COPD management may be necessary in select, severe cases in which ventilator management is a challenge.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Mechanical Ventilation"
+        },
+        {
+            "text": "Adjustments should not be made solely on the basis of gas exchange from ABG results, rather in conjunction with close monitoring of the clinical exam including patient-ventilator synchrony, work of breathing, and hemodynamic parameters. Sedation and analgesia are also important to successful ventilator management.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Mechanical Ventilation"
+        },
+        {
+            "text": "Auto-PEEP is an important consideration in patients with severe obstructive lung disease. Positive end-expiratory pressure (PEEP) is the pressure in the alveolus at the end of exhalation. In patients with COPD, increased airway resistance may result in incomplete deflation of the lungs prior to initiation of the next breath, causing the intra-alveolar volume and therefore pressure to remain elevated above that which is desired. This dynamic hyperinflation creates auto-PEEP (in contrast to the intentional application of extrinsic PEEP via mechanical ventilation). The presence of auto-PEEP is important as it can increase the work of breathing, trigger patient-ventilator dyssynchrony, and worsen gas exchange. Auto-PEEP may result in misinterpretation of clinical data such as central venous or pulmonary arterial catheter measurements and lead to unnecessary treatments such as higher doses of sedative medications [25] .",
+            "cite_spans": [
+                {
+                    "start": 922,
+                    "end": 926,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Dynamic Hyperinflation and Auto-PEEP"
+        },
+        {
+            "text": "Auto-PEEP may also provoke hemodynamic compromise by increasing intrathoracic pressure that results in decreases in right and left ventricular preload, ultimately leading to arterial hypotension. Misdiagnosis of the etiology of shock in this setting may lead to unnecessary fluid and vasopressor administration; failure to recognize and correct auto-PEEP may result in hemodynamic collapse and death. For this reason, any mechanically ventilated patient with COPD and new onset hypotension should be assessed for the presence Minute ventilation requirements will vary by patient, and settings for tidal volume and respiratory rate will need to be considered on an individual basis. High respiratory rates may provoke a shortened expiratory phase and lead to air trapping, auto-PEEP, and hemodynamic compromise of auto-PEEP. If hemodynamic compromise from auto-PEEP is present, disconnection from the ventilator circuit for 10-20 seconds should facilitate a release of air from the patient's pulmonary tree and improve hemodynamics. Auto-PEEP can be monitored on the ventilator through the use of the end-expiratory hold maneuver (although accurate measurements require that the patient have no active respiratory effort) [25] . Auto-PEEP may also be identified by monitoring the flow-time trace where the exhilatory trace fails to return to baseline prior to the start of the next breath. Significant auto-PEEP may be treated by careful ventilator management aimed at increasing the expiratory time to allow adequate emptying of the lungs. Maneuvers include increasing the inspiratory flow rate and decreasing the respiratory rate or tidal volume. Other methods for minimizing auto-PEEP include reduction of spontaneous ventilatory demand through the administration of sedation, analgesia, and occasionally paralytics. Similarly, reducing flow resistance with larger bore endotracheal tubes, frequent suctioning, and bronchodilator administration may also reduce auto-PEEP by reducing resistance to gas flow. Expiratory flow limitation can also be counterbalanced with the application of applied (external) PEEP to match the intrinsic (auto) PEEP [25] .",
+            "cite_spans": [
+                {
+                    "start": 1221,
+                    "end": 1225,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 2147,
+                    "end": 2151,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Dynamic Hyperinflation and Auto-PEEP"
+        },
+        {
+            "text": "Patients with severe underlying COPD and exacerbations with resultant respiratory failure may experience difficulty weaning from the ventilator. Goals of care discussions regarding tracheostomy, possible chronic mechanical ventilation needs, and advanced care planning may be necessary; palliative care consultation may be invaluable in this process. In general, patients with failure to progress in weaning toward possible extubation by the end of the second week of mechanical ventilation should be considered for tracheostomy as prolonged endotracheal intubation can result in upper airway injury. In patients with advanced COPD, weaning from mechanical ventilation may require several weeks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ventilator Weaning, Consideration of Tracheostomy, and Palliative Care"
+        },
+        {
+            "text": "Strategies for ventilator weaning vary but typically consist of steadily increasing time on pressure support trials admixed with periods of assist-control volume-cycled ventilation for rest. The weaning process may be augmented by tracheostomy placement given the ability to perform tracheostomy collar trials with intermittent ventilator support rather than proceeding directly to extubation and independent ventilation. Tracheostomy is also generally more comfortable for patients, thereby reducing sedation and analgesia needs that may accelerate weaning. NPPV may also be an important salvage mode of ventilation for patients who initially fail extubation and only require intermittent ventilatory support.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ventilator Weaning, Consideration of Tracheostomy, and Palliative Care"
+        },
+        {
+            "text": "Clinical decision-making regarding tracheostomy versus palliative extubation should be based on individual patient and family preferences. Prognostication in this patient population is often challenging and complex but early involvement of palliative care consultants, where available, is recommended. An episode of respiratory failure should prompt discussions of patient care goals and values for both short-and long-term advanced care planning. When appropriate, formal hospice referrals should be considered. In all cases, sufficient treatment of dyspnea and pain should be provided.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ventilator Weaning, Consideration of Tracheostomy, and Palliative Care"
+        },
+        {
+            "text": "Pulmonary hypertension (PH) refers to a complex group of clinical conditions defined by abnormal elevation of blood pressure in the pulmonary circulation. It is further defined as a mean pulmonary arterial pressure (mPAP) of \u226525 mmHg at rest on right heart catheterization (RHC) [26] . Typically PH is discussed in the context of true pulmonary arterial hypertension (PAH) resulting from pressure elevations in the pulmonary arterial system or pulmonary venous hypertension (PVH) occurring secondary to pressure elevations in the pulmonary venous and capillary systems. PVH is typically seen in the setting of elevated pulmonary artery occlusion pressures (PAOP) resulting from volume overload in left ventricular (LV) failure. This distinction becomes important in understanding the pathophysiology of the disease and in treatment decisions.",
+            "cite_spans": [
+                {
+                    "start": 279,
+                    "end": 283,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background and Classification"
+        },
+        {
+            "text": "The World Symposium on Pulmonary Hypertension updated its classification in 2013 to incorporate five groups of disorders (Table 13 .7) [27] . The diagnostic evaluation and treatment of PH in the clinically stable patient is a separate topic and will not be addressed here. Rather, the focus of this discussion will be on the pathophysiology, diagnostic evaluation, and treatment of PH and resulting right ventricular failure (RVF) as this is most commonly observed in the intensive care unit (ICU) setting.",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 121,
+                    "end": 130,
+                    "text": "(Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Background and Classification"
+        },
+        {
+            "text": "Pulmonary hypertension results from increases in pulmonary vascular resistance (PVR) present in both acute and chronic PH. Rising pulmonary pressures create increases in afterload that are difficult for the RV to overcome. The right heart attempts to compensate for rising pressures by dilating acutely and hypertrophying chronically. However, these compensatory mechanisms are maladaptive, and the resulting volume overload that ensues as cardiac output declines ultimately leads to RVF. As the RV fails, stroke volume and cardiac output drop further, leading to cardiogenic shock. In the ICU setting, RVF is typically acute but occasionally may be due to worsening of underlying chronic PH [28, 29] .",
+            "cite_spans": [
+                {
+                    "start": 692,
+                    "end": 696,
+                    "text": "[28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 697,
+                    "end": 700,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pathophysiology of Right Ventricular Failure"
+        },
+        {
+            "text": "Additional elements that may contribute to impaired cardiac function include compromised filling of the right coronary arteries due to elevated right-sided wall tension leading to myocardial ischemia, tricuspid valvular insufficiency, and bowing of the interventricular septum which impinges on LV diastolic filling (enlargement of the right heart due to increased pressure and volume displaces the interventricular septum toward the LV). Because the heart functions in a fixed space within the pericardium, this displacement of the interventricular septum impedes LV filling, causing a further decrease in systemic stroke volume and cardiac output. This may result in hypotension and ultimately hemodynamic collapse [28, 29] .",
+            "cite_spans": [
+                {
+                    "start": 717,
+                    "end": 721,
+                    "text": "[28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 722,
+                    "end": 725,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pathophysiology of Right Ventricular Failure"
+        },
+        {
+            "text": "In general the outcome for patients with PH admitted to the hospital with RV failure is poor, with an estimated mortality of 30-40 % for those requiring ICU admission [30, 31] . The majority of patients admitted to the ICU with PH will have disease that is a result of underlying critical illness rather than preexisting PH. Although not impossible, it is uncommon to diagnose de novo PH as the primary reason for ICU admission except in the setting of acute pulmonary embolism. Many triggering factors causing or aggravating RV failure include infection, anemia, injury, surgery, pregnancy, medical therapy nonadherence, pulmonary embolism, and arrhythmia. However, it is frequently the case that the exact trigger for decompensation is never identified. Identification of an infection in this patient population at any time during the ICU stay generally portends a poor prognosis [31, 32] .",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 171,
+                    "text": "[30,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 172,
+                    "end": 175,
+                    "text": "31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 882,
+                    "end": 886,
+                    "text": "[31,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 887,
+                    "end": 890,
+                    "text": "32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Etiology and Prognosis"
+        },
+        {
+            "text": "Acute RVF typically clinically presents with systemic congestion and/or low cardiac output. This usually manifests as chest pain, dyspnea, lightheadedness, syncope, altered mental status, cool extremities, and acute kidney injury. On exam, the jugular venous pressure will most often be elevated. Other overt signs of volume overload include hepatomegaly, peripheral edema, ascites, and crackles on pulmonary auscultation. Cardiac exam may reveal a RV heave, a tricuspid regurgitant murmur, an accentuated P2, and/or an S3 or S4 gallop. In the ICU, patients may present in extremis with tachycardia, tachypnea, hypoxia, hypotension, and shock as a result of inadequate cardiac output and elevated filling pressures [26, 33] .",
+            "cite_spans": [
+                {
+                    "start": 715,
+                    "end": 719,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 720,
+                    "end": 723,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Presentation"
+        },
+        {
+            "text": "The initial diagnostic workup of any patient admitted to the ICU with known underlying PH with suspected decompensation or a possible new diagnosis of undifferentiated RVF should include the following:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostic Evaluation"
+        },
+        {
+            "text": "\u2022 Infectious workup including chest radiograph and cultures of the blood, urine, and sputum when clinically indicated \u2022 Basic laboratory evaluation including complete blood count (CBC) and comprehensive metabolic panel (CMP) to assess renal and hepatic function Ongoing monitoring of end-organ perfusion including renal, hepatic, and neurological function is necessary. In addition, acute pulmonary embolism should be excluded in any patient with decompensated or acute RVF [32] .",
+            "cite_spans": [
+                {
+                    "start": 474,
+                    "end": 478,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diagnostic Evaluation"
+        },
+        {
+            "text": "In general, noninvasive testing and assessment of cardiac function are preferred prior to RHC. Therefore, transthoracic echocardiography (TTE) remains the cornerstone of the diagnostic evaluation in patients with suspected PH. Assessment of both the pulmonary arterial systolic pressure (PASP) and RV structure and function is an important parameter in this evaluation. Right atrial enlargement, pericardial effusion, low tricuspid annular plane systolic excursion (TAPSE), and septal displacement are poor prognostic indicators. In general, patients with an estimated PASP >40 mmHg or a peak TR jet velocity \u22653 m/s are likely to have PH confirmed by RHC. However, RHC is the gold standard for confirming diagnosis of PH. Invasive hemodynamic monitoring remains key to the ongoing evaluation and therapeutic management of these patients [28] .",
+            "cite_spans": [
+                {
+                    "start": 837,
+                    "end": 841,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diagnostic Evaluation"
+        },
+        {
+            "text": "In patients with confirmed or suspected PH and/or RV failure, a thoughtful, systematic, and multidisciplinary approach to medical management should be pursued. Early consultation with an expert in pulmonary hypertension is advised as patients are often misdiagnosed and referred late for consideration of advanced therapies. Consultation with PH experts may also be necessary to discern PH and RV failure from other causes of clinical decompensation. Collaboration between local medical centers and PH specialty centers to facilitate referral and patient transfer when necessary is advised [26] .",
+            "cite_spans": [
+                {
+                    "start": 590,
+                    "end": 594,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Management Considerations"
+        },
+        {
+            "text": "Careful monitoring of cardiac, renal, neurologic, and hepatic function is essential in the care of the patient with PH and/or RV failure. Urine output, laboratory data (liver function tests, serum creatinine, lactate, troponin), and hemodynamic parameters obtained either from a central venous catheter (e.g., central venous pressure (CVP) and central venous saturation (ScVO 2 )) or PA catheter (right atrial pressure, cardiac index, mean PA pressure, PVR and mixed venous saturation (SvO 2 )) are useful in making management decisions. Given their complexity, the use of RHC and ongoing invasive hemodynamic monitoring is recommended for patients with evidence of RV failure requiring ICU admission, particularly in the setting of vasoactive agent titration [32] .",
+            "cite_spans": [
+                {
+                    "start": 760,
+                    "end": 764,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Monitoring"
+        },
+        {
+            "text": "In general, management of acute RVF and severe PH in the critically ill patient focuses on optimization of RV preload, afterload, and contractility while also carefully controlling oxygenation, ventilation, and cardiac rhythm. The search for potentially reversible causes of decompensation is critical. If a specific cause of RV failure is identified, management should include consideration of one of the directed therapies listed in Table 13 .8. Consideration of acute PE is important in this population; however, its specific management will not be discussed here.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 435,
+                    "end": 443,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Clinical Monitoring"
+        },
+        {
+            "text": "Careful attention to and evaluation of fluid status are critical in the management of PH. Assessment based on clinical exam, CVP, and invasive hemodynamic monitoring with RHC may aid in accurate determination of volume status and fluid management. Occasionally patients may be hypovolemic and require fluid administration. However, even in the case of suspected sepsis, overly judicious administration of fluids may have detrimental hemodynamic effects in patients with compromised RV function. Thus, cautious administration is advised. A reasonable fluid challenge for a patient with acute RV dysfunction or acute PH is 500 ml of a normotonic fluid over 15-20 min, with a general goal CVP target of 10-12 mmHg [26, 29, 33] .",
+            "cite_spans": [
+                {
+                    "start": 711,
+                    "end": 715,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 716,
+                    "end": 719,
+                    "text": "29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 720,
+                    "end": 723,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Preload Optimization"
+        },
+        {
+            "text": "More often than not, patients with RVF will be hypervolemic and require administration of intravenous (IV) diuretics or acute hemofiltration for volume removal. IV loop diuretics, potentially in the form of a continuous infusion to avoid abrupt swings in filling pressures, are preferred. Extracorporeal fluid removal via ultrafiltration may be necessary in the presence of the cardiorenal syndrome and diuretic resistance. However, either of these generally portends a poor prognosis [33] .",
+            "cite_spans": [
+                {
+                    "start": 485,
+                    "end": 489,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Preload Optimization"
+        },
+        {
+            "text": "Afterload reduction with the use of pulmonary vasodilators remains an important consideration in severe PH and RV failure. However, systemic PAH-specific therapies are discouraged in patients with PH of unknown etiology. Pulmonary vasodilators may be considered in cases where immediate reduction of PVR is necessary [33] . Both IV medications with selective effects on the pulmonary vasculature and inhaled agents delivered directly to the lungs are available for this purpose. See Table 13 .9 for a summary of available vasodilatory medications for PAH in the ICU setting. Oral agents including PDE-5 inhibitors and endothelin receptor antagonists (ERAs) are typically not appropriate for use in the acute ICU setting (except in selected treatmentna\u00efve PAH patients who have been stabilized with IV prostanoids) and thus will not be covered in this chapter.",
+            "cite_spans": [
+                {
+                    "start": 317,
+                    "end": 321,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 483,
+                    "end": 491,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Afterload Optimization"
+        },
+        {
+            "text": "It is important to note that treatment with PAH-specific drugs has only been associated with improved outcomes in outpatients with chronic PAH. Given that few critically ill patients with PH and or RV failure will have underlying PAH, many of these PAH-specific drugs may not be warranted. In addition, no studies have demonstrated clinical superiority of one agent [29, 32, 33] . One should also recall that systemic acidosis results in pulmonary arterial vasoconstriction. Therefore, abrogation of acidosis may be a useful therapeutic goal using either augmented minute ventilation or intravenous fluids that influence pH such as those constructed entirely of, or supplemented with, sodium bicarbonate or sodium acetate (especially when NaHCO 3 is in short supply).",
+            "cite_spans": [
+                {
+                    "start": 366,
+                    "end": 370,
+                    "text": "[29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 375,
+                    "end": 378,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Afterload Optimization"
+        },
+        {
+            "text": "A variety of vasoactive drugs may be used in patients with RV failure and critical illness including vasodilators, inotropes, and/or vasopressors. The goal of therapy is to maintain end-organ perfusion through reduction in PVR without compromising systemic mean arterial pressure and increasing cardiac output. The selection of specific therapies or combinations thereof should be tailored to each patient, taking into account their hemodynamic, respiratory, and volume status. Patients requiring initiation and titration of these therapies should have a pulmonary artery (PA) catheter placed for ongoing management optimization; while other hemodynamic monitoring techniques are available, none directly measure PA pressures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Vasoactive Therapies"
+        },
+        {
+            "text": "A combination of overstretching, derangements in cellular metabolism, and insufficient oxygen delivery lead to decreased RV contractility in the setting of critical illness. Dobutamine, dopamine, and milrinone are the agents most commonly used for inotropic support in this patient population. See Table 13 .10 for a summary of the hemodynamic effects of commonly used vasoactive drugs. There is debate as to the first-line agent for inotropic support, but in general, dobutamine is preferred over dopamine for acute inotropic support in unstable patients in the ICU, especially since dopamine is strongly pro-arrhythmogenic at higher doses. Milrinone is also often strongly considered, particularly in patients with biventricular failure. However, caution should be exercised given the vasodilatory properties of both agents (dobutamine and milrinone) and their potential to provoke systemic hypotension.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 298,
+                    "end": 306,
+                    "text": "Table 13",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Vasoactive Therapies"
+        },
+        {
+            "text": "In some cases, concomitant administration of a vasopressor may be necessary to maintain systemic precapillary arteriolar sphincter tone, mean arterial pressure, and cardiac output. Adequate systemic blood pressure is necessary to maintain coronary perfusion and cardiac function, and thus vasopressors may be a necessary first-line or adjunct therapy [32] . As with inotropic support, careful selection of the most appropriate vasopressor will vary depending on the clinical scenario. The increased risk of tachyarrhythmias with all vasoactive agents is an important consideration given the potential hemodynamic impact on myocardial oxygen consumption, coronary artery flow demand, and RV filling time. ",
+            "cite_spans": [
+                {
+                    "start": 351,
+                    "end": 355,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Vasoactive Therapies"
+        },
+        {
+            "text": "The presence of atrioventricular synchrony is critical for optimal RV filling and maintenance of cardiac output. The presence of atrial arrhythmias (e.g., atrial fibrillation, atrial flutter, and supraventricular tachycardia) and electrical conduction delays (e.g., complete heart block) is associated with worse outcomes given that the RV is highly dependent on atrial contraction to maintain adequate filling. Rate control alone is not typically sufficient and rhythm control is recommended. Electrical cardioversion for tachyarrhythmias and atrioventricular (AV) pacing for bradyarrhythmias are the first-line treatments for unstable patients. Amiodarone is the recommended first-line medication for most tachyarrhythmias due to its lower risk of hypotension and comparatively fewer negative inotropic effects. The use of beta-blockers and calcium channel blockers is generally avoided given that both classes of agents may impair RV contractility as well as AV nodal conduction [32, 33] .",
+            "cite_spans": [
+                {
+                    "start": 982,
+                    "end": 986,
+                    "text": "[32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 987,
+                    "end": 990,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Rhythm Control"
+        },
+        {
+            "text": "Hypoxemia and hypercapnia place additional strain on the heart by inducing hypoxic vasoconstriction with resultant increases in PVR and RV afterload. Therefore, maintenance of normoxia (peripheral O 2 saturation >90 %) and normocapnia (PaCO 2 of 35-40 mmHg) is recommended. Any other impedance to adequate oxygen delivery to the tissues should be corrected, including anemia if present (goal Hgb >10 g/dL) [32, 33] .",
+            "cite_spans": [
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "[32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 411,
+                    "end": 414,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oxygenation and Ventilatory Support"
+        },
+        {
+            "text": "In the setting of respiratory decline, every effort should be made to avoid invasive mechanical ventilation if possible. The risk for systemic hypotension and hemodynamic collapse during intubation as a result of sedative administration is significant. Ongoing ventilator support with positive-pressure ventilation may also have untoward effects as the positive pressure increases intrathoracic pressure and may result in decreased venous return and hypotension. Therefore, noninvasive ventilation should be considered prior to intubation if the patient's clinical condition is stable enough for a trial. However, if intubation is necessary, etomidate is the preferred drug for induction of general anesthesia given its minimal effect of cardiac contractility and vascular tone. One should recognize that controversy exists regarding the effects of etomidate on later adrenal function, and alternative agents should be considered dictated by provider training and agent availability. Preemptive administration of vasopressors and or inotropes prior to intubation to offset the commonly induced hypotension should also be considered [32, 35] .",
+            "cite_spans": [
+                {
+                    "start": 1132,
+                    "end": 1136,
+                    "text": "[32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1137,
+                    "end": 1140,
+                    "text": "35]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oxygenation and Ventilatory Support"
+        },
+        {
+            "text": "In select patients with medically refractory PH and/or RVF, advanced therapies including mechanical circulatory support and bilateral lung transplantation may be considered. Right ventricular assist devices may be used as a bridge to durable mechanical support or as a bridge to recovery. They have been successfully used in the treatment of RV failure due to myocardial infarction, cardiopulmonary bypass, left ventricular assist device implantation, and cardiac transplant [29] .",
+            "cite_spans": [
+                {
+                    "start": 475,
+                    "end": 479,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advanced Therapies"
+        },
+        {
+            "text": "Extracorporeal membrane oxygenation (ECMO) has been used successfully to treat RV failure due to massive PE, chronic thromboembolic pulmonary hypertension (CTEPH), and PAH as a bridge to endarterectomy or lung transplantation. Typically venoarterial (VA) ECMO is utilized to unload the RV while maintaining systemic oxygenation. In patients with PAH, it may also be used to support the RV during initiation of pulmonary vasodilator therapy. However, complications including hemorrhage, infection, anemia, thrombocytopenia, thromboembolism, and neurologic sequelae are possible [28] .",
+            "cite_spans": [
+                {
+                    "start": 577,
+                    "end": 581,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advanced Therapies"
+        },
+        {
+            "text": "Percutaneous interventions such as balloon atrioseptostomy (BAS) may be used as either a bridge to lung transplantation or as palliative therapy. The procedure works by creating an atrial level right-to-left shunt that bypasses the obstructed pulmonary circulation, allowing for improved LV filling, systemic oxygenation, and blood flow. However, its use as an emergent rescue therapy is not recommended given the high risk for fatal complications in patients with markedly elevated RV filling pressures and/or low oxygen saturations [32, 33] .",
+            "cite_spans": [
+                {
+                    "start": 534,
+                    "end": 538,
+                    "text": "[32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 539,
+                    "end": 542,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advanced Therapies"
+        },
+        {
+            "text": "Lung and or heart-lung transplantation is an important treatment option for patients with progressive PH, particularly in the presence of RV failure. Bilateral lung transplantation may be considered in select cases with dual heart-lung transplant reserved for selected patients with severe irreversible PH and concomitant severe cardiac disease. Indications and contraindications for transplant will not be reviewed herein as its consideration is complex and uncommon in the typical ICU setting [32, 33] .",
+            "cite_spans": [
+                {
+                    "start": 495,
+                    "end": 499,
+                    "text": "[32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 500,
+                    "end": 503,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Advanced Therapies"
+        },
+        {
+            "text": "Patients with end-stage RVF who are refractory to medical therapy and not candidates for advanced therapies have a poor prognosis and are unlikely to survive cardiac arrest. Therefore, in patients with PH and RV dysfunction, early conversations regarding patient preferences and goals of care are essential, particularly in the ICU setting. Recommendations for limiting life-sustaining therapies may be appropriate. Palliative care and hospice should be considered in the correct setting.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Palliative Care and End of Life"
+        },
+        {
+            "text": "Patients with pulmonary hypertension have significantly elevated morbidity and mortality associated with surgery and anesthesia, in large part due to fluid shifts, mechanical ventilation, and inflammatory mediator release that results in the setting of surgical interventions [33, 36] . Both cardiac and noncardiac surgical patients with PH have higher incidences of postoperative congestive heart failure, hemodynamic instability, sepsis, respiratory failure, and in-hospital death. Given the associated risks, nonemergent surgeries should generally be avoided in the setting of PH-induced RV failure [37] [38] [39] .",
+            "cite_spans": [
+                {
+                    "start": 276,
+                    "end": 280,
+                    "text": "[33,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 281,
+                    "end": 284,
+                    "text": "36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 602,
+                    "end": 606,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 607,
+                    "end": 611,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 612,
+                    "end": 616,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pre-, Peri-, and Postoperative Management Considerations"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Standards for the diagnosis and treatment of patients with COPD: a summary of the ATS/ERS position paper",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Celli",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Macnee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Agusti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Eur Respir J",
+            "volume": "23",
+            "issn": "",
+            "pages": "932--978",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "COPD exacerbations: (2) aetiology",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sapey",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stockley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Thorax",
+            "volume": "61",
+            "issn": "",
+            "pages": "250--258",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Outcomes following acute exacerbations of severe chronic obstructive lung disease. The SUPPORT investigators (Study to Understand Prognoses and Preferences for Outcomes and Risks of Treatments)",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Connors",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "154",
+            "issn": "",
+            "pages": "959--67",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Hospital and 1-year survival of patients admitted to intensive care units with acute exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Seneff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Wagner",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "JAMA",
+            "volume": "274",
+            "issn": "",
+            "pages": "1852--1859",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Infection in the pathogenesis and course of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sethi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "NEJM",
+            "volume": "359",
+            "issn": "",
+            "pages": "2355--65",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Prevalence of viral infection detected by PCR and RT-PCR in patients with acute exacerbation of COPD: a systematic review",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mohan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chandra",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Agarwal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Respirology",
+            "volume": "15",
+            "issn": "",
+            "pages": "536--578",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Pathophysiology of acute exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Papi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Luppi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Franco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Am Thorac Soc",
+            "volume": "3",
+            "issn": "",
+            "pages": "245--51",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Global strategy for the diagnosis, management and prevention of COPD, Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
+            "authors": [],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Global strategy for the diagnosis, management and prevention of chronic obstructive pulmonary disease: GOLD executive summary",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vestbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hurd",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Agusti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "187",
+            "issn": "",
+            "pages": "347--65",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Validation of a novel risk score for severity of illness in acute exacerbations of COPD",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Shorr",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Johannes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Chest",
+            "volume": "140",
+            "issn": "",
+            "pages": "1177--83",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinical practice: acute exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Stoller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "NEJM",
+            "volume": "28",
+            "issn": "",
+            "pages": "988--94",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Effect of systemic glucocorticoids on exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Niewoehner",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Erbland",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Deupree",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "NEJM",
+            "volume": "340",
+            "issn": "",
+            "pages": "1941--1948",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Short-term vs conventional glucocorticoid therapy in acute exacerbations of chronic obstructive pulmonary disease: the REDUCE randomized clinical trial",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Leuppi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Scheutz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bingisser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "JAMA",
+            "volume": "309",
+            "issn": "",
+            "pages": "2223--2254",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Acute respiratory failure due to chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sims",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "The intensive care unit manual",
+            "volume": "",
+            "issn": "",
+            "pages": "715--737",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Anzueto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sethi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Martinez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Proc Am Thorac Soc",
+            "volume": "7",
+            "issn": "",
+            "pages": "554--64",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Contemporary management of acute exacerbations of COPD: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Quon",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Gan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Sin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Chest",
+            "volume": "133",
+            "issn": "",
+            "pages": "756--66",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Antibiotic therapy and treatment failure in patients hospitalized for acute exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Rothberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pekow",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lahti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "JAMA",
+            "volume": "303",
+            "issn": "",
+            "pages": "2035--2077",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Association between antibiotic treatment and outcomes in patients hospitalized with acute exacerbation of COPD treated with systemic steroids",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Stefan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Rothberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Shieh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Chest",
+            "volume": "143",
+            "issn": "",
+            "pages": "82--90",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Antibiotic therapy in exacerbations of chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Anthonisen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Manfreda",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Warren",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Ann Intern Med",
+            "volume": "106",
+            "issn": "",
+            "pages": "196--204",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Once daily ofloxacin in chronic obstructive pulmonary disease exacerbation requiring mechanical ventilation: a randomized placebo-controlled trial",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nouira",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Marghil",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Belghith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Lancet",
+            "volume": "358",
+            "issn": "",
+            "pages": "2020--2025",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Non-invasive ventilation in acute respiratory failure",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Baudouin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Blumenthal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Thorax",
+            "volume": "57",
+            "issn": "",
+            "pages": "192--211",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Noninvasive positive pressure ventilation in the setting of severe acute exacerbations of chronic obstructive pulmonary disease: more effective and less expensive",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Keenan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gregor",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sibbald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Crit Care Med",
+            "volume": "28",
+            "issn": "",
+            "pages": "2094--102",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Does noninvasive positive pressure ventilation improve outcome in acute hypoxemic respiratory failure? A systematic review",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Keenan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sinuff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cook",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Crit Care Med",
+            "volume": "32",
+            "issn": "",
+            "pages": "2516--2539",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "A chart of failure risk for noninvasive ventilation in patients with COPD exacerbation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Confalonieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Garuti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cattaruzza",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Eur Respir J",
+            "volume": "25",
+            "issn": "",
+            "pages": "348--55",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Auto-positive endexpiratory pressure: mechanisms and treatment",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mughal",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Culver",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Minai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cleve Clin J Med",
+            "volume": "72",
+            "issn": "",
+            "pages": "801--810",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Management of pulmonary arterial hypertension",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Mclaughlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Souza",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Am Coll Cardiol",
+            "volume": "65",
+            "issn": "",
+            "pages": "1976--97",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Updated classification of pulmonary hypertension",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simmonneau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gatzoulis",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Adatia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Am Coll Cardiol",
+            "volume": "62",
+            "issn": "",
+            "pages": "32--41",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Management of acute right heart failure in the intensive care unit",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ventetuolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Klinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Ann Am Thorac Soc",
+            "volume": "11",
+            "issn": "",
+            "pages": "811--833",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Management of acute right heart failure in the intensive care unit",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Givertz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Curr Heart Fail Rep",
+            "volume": "9",
+            "issn": "",
+            "pages": "228--263",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Prognostic factors and outcomes of patients with pulmonary hypertension admitted to the intensive care unit",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Huynh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Weigt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sugar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Crit Care",
+            "volume": "27",
+            "issn": "",
+            "pages": "7--13",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Prognostic factors of acute heart failure in patients with pulmonary arterial hypertension",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sztrymf",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Souza",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bertoletti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Eur Respir J",
+            "volume": "35",
+            "issn": "",
+            "pages": "1286--93",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Intensive care unit management of patients with severe pulmonary hypertension and right heart failure",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hoeper",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Granton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "10",
+            "issn": "",
+            "pages": "1114--1138",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Pulmonary hypertension in the intensive care unit",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jentzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mathier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Intensiv Care Med",
+            "volume": "",
+            "issn": "",
+            "pages": "1--17",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "A comparison of continuous intravenous epoprostenol (prostacyclin) with conventional therapy for primary pulmonary hypertension",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Barst",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rubin",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "NEJM",
+            "volume": "224",
+            "issn": "",
+            "pages": "296--301",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Management of severe pulmonary arterial hypertension",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Granton",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Mercier",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Perrot",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Semin Respir Crit Care Med",
+            "volume": "34",
+            "issn": "",
+            "pages": "700--713",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Pulmonary hypertension and major surgery",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pearl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Anesth Analg",
+            "volume": "87",
+            "issn": "",
+            "pages": "812--817",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Pulmonary hypertension: an important predictor of outcomes in patients undergoing noncardiac surgery",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Pasupuleti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Deshpande",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Respir Med",
+            "volume": "105",
+            "issn": "",
+            "pages": "619--643",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Severe pulmonary hypertension complicated postoperative outcome of non-cardiac surgery",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Br J Anaesth",
+            "volume": "99",
+            "issn": "",
+            "pages": "184--90",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Perioperative risk and management of patients with pulmonary hypertension",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Minai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Yared",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Chest",
+            "volume": "144",
+            "issn": "",
+            "pages": "329--369",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF1": {
+            "text": "Indications for ICU admission in patients with COPD exacerbations Severe dyspnea that responds inadequately to initial emergency therapy Changes in mental status (confusion, lethargy, coma) Persistent or worsening hypoxemia (PaO 2 <40 mmHg) and/or severe/ worsening respiratory acidosis (pH <7.25) despite supplemental oxygen and noninvasive ventilation Need for invasive mechanical ventilation Hemodynamic instability and/or need for vasopressors Reprinted with permission of the American Thoracic Society. Copyright \u00a9 2016 American Thoracic Society. Vestbo et al.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Estimated mortality and intubation risk according to the BAP-65 risk score",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Contraindications to use of NPPV in AECOPDRecent facial, upper airway, or gastroesophageal surgeries Active vomiting/high aspiration risk Poor mental status, inability to protect the airway, severe confusion",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Recommended antimicrobial therapy for patients with acute exacerbations of COPD admitted to the ICU",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "5 Indications for invasive mechanical ventilation Intolerance of NIV or NIV failure Respiratory or cardiac arrest Diminished consciousness or severe psychomotor agitation Respiratory pauses Massive aspiration Severe bradycardia Hemodynamic instability without adequate response to fluids or vasoactive medications Severe ventricular arrhythmias Life-threatening hypoxemia Reprinted with permission of the American Thoracic Society. Copyright \u00a9 2016 American Thoracic Society. Vestbo et al. [9] Table 13.6 Recommended initial ventilator settings for patients with AECOPD VC Weaning generally performed with PSV. AC/PC generally avoided. SIMV may be used in select patients Respiratory rate Initial rates should be set to mirror the preintubation respiratory rate with a typical range of 12-25 breaths/min Further titration should be based upon ABG results with goal minute ventilation target to achieve a pH >7.25 and patient tolerance while allowing adequate time for expiration a",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": "Vasodilatory medications available for treatment of acute severe PAH necessitating ICU admission",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF10": {
+            "text": "10 Summary of vasoactive agents and hemodynamic effects",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

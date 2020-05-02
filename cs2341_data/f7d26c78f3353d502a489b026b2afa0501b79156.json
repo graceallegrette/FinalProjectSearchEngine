@@ -1,0 +1,1377 @@
+{
+    "paper_id": "f7d26c78f3353d502a489b026b2afa0501b79156",
+    "metadata": {
+        "title": "Synchronized travel restrictions across cities can be effective in COVID-19 control",
+        "authors": [
+            {
+                "first": "Haiyan",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {},
+                "email": "liuhaiyan@whu.edu.cn"
+            },
+            {
+                "first": "Xuemei",
+                "middle": [],
+                "last": "Bai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Australian National University",
+                    "location": {
+                        "postCode": "0200",
+                        "settlement": "Canberra",
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Huanfeng",
+                "middle": [],
+                "last": "Shen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Wuhan University",
+                    "location": {
+                        "postCode": "430079",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiaoping",
+                "middle": [],
+                "last": "Pang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zeyu",
+                "middle": [],
+                "last": "Liang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yue",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Mobility control measures are of crucial importance for public health planning in combating the COVID-19 pandemic. Previous studies established the impact of population outflow from Wuhan on the spatial spread of coronavirus in China and hinted the impact of the other three mobility patterns, i.e., population outflow from Hubei province excluding Wuhan, population inflow from cities outside Hubei, and intra-city population movement. However, the overall impact of all mobility patterns, or the impact of the different timing of mobility restriction intervention, are not systematically analyzed. Here we apply the cumulative confirmed cases and mobility data of 350 Chinese cities outside Hubei to explore the relationships between all mobility patterns and epidemic spread, and estimate the impact of local travel restrictions, both in terms of level and timing, on the epidemic control based on mobility change. The relationships were identified by using Pearson correlation analysis and stepwise multivariable linear regression, while scenario simulation was used to estimate the mobility change caused by local travel restrictions. Our analysis shows that: (1) all mobility patterns correlated with the spread of the coronavirus in Chinese cities outside Hubei, while the corrleations droppd with the implemetation of . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi. org/10.1101org/10. /2020 travel restrictions; (2) the cumulative confirmed cases in two weeks after the Wuhan lockdown was mainly brought by three patterns of inter-city population movement, while those in the third and fourth weeks after was significantly influenced by the number of intra-city population movement; (3) the local travel restrictions imposed by cities outside Hubei have averted 1,960 (95%PI: 1,474-2,447) more infections, taking 22.4% (95%PI: 16.8%-27.9%) of confirmed ones, in two weeks after the Wuhan lockdown, while more synchronized implementation would further decrease the number of confirmed cases in the same period by 15.7% (95%PI:15.4%-16.0%) or 1,378 (95%PI: 1,353-1,402) cases; and (4) local travel restrictions on different mobility patterns have different degrees of protection on cities with or without initial confirmed cases until the Wuhan lockdown. Our results prove the effectiveness of local travel restrictions and highlight the importance of synchronized implementation of mobility control across cities in mitigating the COVID-19 transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Previous studies prove it is the population mobility that accelerates the spatial spread of the epidemic, while travel restrictions could contribute to the epidemic control. [5] [6] [7] [8] [9] [10] [11] [12] [13] The spring migration (\"chunyun\" in Chinese) of 2020 started on Jan 10, which is the earth's most massive annual human migration. 13 Although Wuhan, the capital city of Hubei Province, suspended all in and out public transport since 10:00 am Jan 23, 2020, about five million people already left Wuhan before the quarantine. 14 Studies show that while the Wuhan lockdown greatly slowed the spread of COVID-19, 6-10 the number of population emigration from Wuhan highly correlated to the imported cases in other cities in China. 8, [11] [12] [13] [15] [16] [17] [18] While the impact of the population outflow from Wuhan is well established, the impact of other mobility patterns on the epidemic trajectory has not been well understood. Local population mobility for a city includes both intra-city and inter-city patterns. The inter-city mobility can be categorized into three sources, i.e., from Wuhan, from Hubei province (excluding Wuhan), and from cities outside Hubei. As nearly two-thirds of population outflow from Wuhan flooded into other cities within the Hubei Province, 13, 17 it is important to consider the population outflow from Hubei (excluding Wuhan) as a potentially most significant source of epidemic transmission risk after Jan 23. The intra-city population movement is also an essential factor-research shows that cities introduced pre-emptive intra-city movement restrictions have 33.3% less confirmed cases in the first week of the epidemic outbreak compared to those started restrictions after the emerging of confirmed cases, 6 pointing to the importance of timing of introducing these measures. For inter-city population movement among cities outside Hubei, which are restricted after the Wuhan lockdown, different studies hold inconsistent reviews. On the one hand, the implementation of inter-city travel restrictions cannot significantly reduce the number of confirmed cases during the first week of city outbreaks; 6 on the other hand, the transmission model of the COVID-19 cannot be accurately established without the inter-city connections. 19 Most of these existing studies are based on one or two mobility patterns, and the overall impact of these four mobility patterns on the spread of the COVID-19 is not well understood. The uncertainty of the number of confirmed cases in the early stage of the epidemic spread, 5, 19 ranging from 427 (officially confirmed) to potentially over 10,000 underscores the importance of considering all four mobility patterns in the COVID-19 spread, perhaps more so than the number of confirmed cases. In this study, we aim to investigate the relationship between population mobility, both inter-city and intra-city, and the spread of COVID-19. Based on the mobility change, the impact of local travel restrictions in other cities, besides the Wuhan lockdown, on the epidemic control was estimated. Given that the three mobility patterns, except the population outflow from Wuhan, are heavily influenced by policy measures introduced by the central and local governments, such investigate is important in evaluating the effectiveness and understanding the influence of timing of different measures, which can in turn inform policy interventions in the future.",
+            "cite_spans": [
+                {
+                    "start": 174,
+                    "end": 177,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 178,
+                    "end": 181,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 182,
+                    "end": 185,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 186,
+                    "end": 189,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 190,
+                    "end": 193,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 194,
+                    "end": 198,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 199,
+                    "end": 203,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 204,
+                    "end": 208,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 209,
+                    "end": 213,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 740,
+                    "end": 742,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 743,
+                    "end": 747,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 748,
+                    "end": 752,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 753,
+                    "end": 757,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 758,
+                    "end": 762,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 763,
+                    "end": 767,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 768,
+                    "end": 772,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 773,
+                    "end": 777,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1293,
+                    "end": 1296,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2287,
+                    "end": 2289,
+                    "text": "19",
+                    "ref_id": null
+                },
+                {
+                    "start": 2565,
+                    "end": 2567,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2568,
+                    "end": 2570,
+                    "text": "19",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We collected the number of laboratory-confirmed cases from daily official reports from the health commissions of the 34 provincial-level administrative units from Jan 23, 2020. The provincial reports include the total instances as well as the breakdown for cities. The city-level data we used includes 367 cities, i.e., four cities directly under the central government, 333 prefecture-level cities, and 29 countylevel cities directly under the provincial government, covering all the areas of mainland China. A total of 350 cities are from outside Hubei.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Number of confirmed cases"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population mobility data"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population mobility data"
+        },
+        {
+            "text": "To capture population movement among and within cities, we derived the mobility data from the Baidu Qianxi (http://qianxi.baidu.com/). 20 The data is calculated and analyzed from the Location Based Service (LBS) of both Baidu Map and one flight path monitoring app --Baidu Tianyan. The data of both 2019 and 2020 were acquired, aligned by the Chinese lunar calendar, from the start of spring migration (Jan 10, 2020).",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 137,
+                    "text": "20",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Population mobility data"
+        },
+        {
+            "text": "The data of population inflow from Wuhan, population inflow from Hubei excluding Wuhan, and intercity population movement were all calculated based on the Baidu Mobility Index. The Baidu Mobility Index records daily outflow and inflow to and from each of the 367 cities, which is comparable among cities. We assume there were five million people outflowed from Wuhan between the start of the spring emigration and the Wuhan lockdown, and scaled the Index to approximate values of population size. For each day, the top 100 destination cities for population outflow from Wuhan and other cities in Hubei were recorded. We believe the data are representative of population outflow from Wuhan and from Hubei excluding Wuhan. 19 For the inter-city connections, we used the daily inflow values of each city. The number of population migration from Hubei was excluded since it was considered separately.",
+            "cite_spans": [
+                {
+                    "start": 721,
+                    "end": 723,
+                    "text": "19",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Population mobility data"
+        },
+        {
+            "text": "The data of the intra-city population movement was counted based on the Baidu Intra-city Mobility Index.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population mobility data"
+        },
+        {
+            "text": "The Intra-city Mobility Index, ranging from 0.3 to 8.0, reflects the proportion of people traveling within cities in the resident population. We used the 0.1 times of the daily Intra-city Mobility Index, ranging from 3.0% to 80.0%, multiplied with the value of permanent population as the proxy daily population intra-city travel data. The data of the permanent population at the end of 2018 was retrieved from the statistical yearbook of provinces and cities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population mobility data"
+        },
+        {
+            "text": "The imported cases and local infected ones might bring by different mobility patterns. Thus, we used the cumulative confirmed cases of two time periods in cities outside Hubei to study their relationship with different mobility data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "The cumulative confirmed cases in two periods were computed to simulate the epidemic spread at different stages. The first period, referred hereafter as Stage one, was the first two weeks after the Wuhan lockdown, from Jan 24 to Feb 06. Since the incubation period for the COVID-19 usually ranged from one to 14 days, the majority of imported cases would be identified in this period. The second period was the two weeks after Stage One, referred hereafter as Stage Two, from Feb 07 to Feb 20. Most of the confirmed cases in this period should be infected in cities outside Hubei.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "The ratio of new confirmed cases in the population outflow was typically used to estimate the virus transmission risk of population outflow. However, the epidemic outbreak might be underestimated at the early stage due to the lack of attention or detection ability. Until the Wuhan shutdown, only 427 cases were confirmed as positive for COVID-19, while the 86% of all infections might be undocumented. 19 Facing such a big gap, we investigate the relationship between mobility and epidemic spread without considering the proportion of the number of confirmed cases in population migration.",
+            "cite_spans": [
+                {
+                    "start": 403,
+                    "end": 405,
+                    "text": "19",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "To identify the impact of different mobility patterns on the epidemic spread, we used linear regression models to assess the relationship between population mobility data and the confirmed cases. 6 In Stage One, the confirmed cases could be imported from Hubei (both Wuhan and cities outside Wuhan), from cities outside Hubei, or from the locality. Therefore, the analysis was performed using the model:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint \u07dd is the constant coefficient that reflects information residue.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "Since the mean incubation period of COVID-19 was 5.2 days (95% confidence interval [CI], 4.1 to 7.0), 21 changing across studies, 7,22,23 we used the mobility data in one week before the Stage One in the model. 7 The data of \u202b\u0727\u202c \u123a \u202b\u0753\u202c \u123b was from Jan 17 to Jan 23, while the data of \u0731 and \u202b\u072b\u202c were all from Jan 17 to Jan 30.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying the relationships between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": ", we used the data after the Wuhan lockdown because it was not the main risk of transmission before that. 17 Thus, the data of \u202b\u0727\u202c \u123a \u0744 \u123b were from Jan 23 to the suspension of all interprovincial transport to and from Hubei, Jan 29 (Table S1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 231,
+                    "end": 240,
+                    "text": "(Table S1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "\u202b\u0727\u202c \u123a \u0744 \u123b"
+        },
+        {
+            "text": "As for Stage Two, the imported cases from Hubei were not considered: \u202b\u0725\u202c is the number of initial confirmed cases until Feb 06.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u202b\u0727\u202c \u123a \u0744 \u123b"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u202b\u0727\u202c \u123a \u0744 \u123b"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u202b\u0727\u202c \u123a \u0744 \u123b"
+        },
+        {
+            "text": "The statistical analysis included two steps. First, Pearson correlation analysis was applied to check whether different mobility patterns were correlated with the spread of COVID-19 in cities outside Hubei in two time periods. Correlated data would be introduced to the following linear regression. Second, stepwise multivariate linear regressions were built to explore the explanatory capacity of mobility data to the confirmed cases. A model with the highest adjusted R 2 was taken as the best-fit one. Cities without confirmed cases until the end of each stage were excluded from the study. Besides for all the cities with confirmed cases after the Wuhan lockdown \u202b\u0725(\u202c ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u202b\u0727\u202c \u123a \u0744 \u123b"
+        },
+        {
+            "text": "We assume, after the Wuhan lockdown, the local travel restrictions in cities outside Hubei contributed to the epidemic control by influencing population mobility. 10, 16 Data for three mobility patterns, except the population outflow from Wuhan, in two scenarios were obtained under assumptions (Table S2) . We assume the transmission conditions and virus characteristics in China would remain unchanged, and the best-fit models generated from the regression analysis were used to estimate the number of confirmed cases in cities outside Hubei based on the mobility data. The differences between the estimated ones and the actually reported ones are caused by the implementation of local travel restrictions, implying their impact on the epidemic control.",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 295,
+                    "end": 305,
+                    "text": "(Table S2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Estimating the impact of local travel restrictions on the epidemic spread"
+        },
+        {
+            "text": "To simulate the scenario of no travel restrictions in cites outside Hubei (Scenario 1), we used the 2019 Baidu data and assumed the mobility scale captured in 2019 would be similar to those of the equivalent time period during 2020. 19 Therefore, we adopted the mobility direction of 2020 and the mobility scale of . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 235,
+                    "text": "19",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Estimating the impact of local travel restrictions on the epidemic spread"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint 2019 to simulate the population mobility after Jan 23, 2020, when there were no local travel restrictions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating the impact of local travel restrictions on the epidemic spread"
+        },
+        {
+            "text": "All data before the Wuhan lockdown remained unchanged. The daily population outflow from Hubei (excluding Wuhan), inter-city population movement, and intra-city population movement after Feb 03, 2019, aligned by the Chinese lunar calendar with Jan 23, 2020, were used as proxy mobility data for the no local travel restrictions status in cities outside Hubei.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating the impact of local travel restrictions on the epidemic spread"
+        },
+        {
+            "text": "To understand the role of the relative timing imposition of local travel restrictions in other cities from the Wuhan lockdown, our Scenario 2 assumes more timely travel restrictions being imposed in cities outside Hubei. The same models and methods were used as above, and the only change was the mobility data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating the impact of local travel restrictions on the epidemic spread"
+        },
+        {
+            "text": "Before Jan 30, cities successively suspended their inter-provincial transport to and from Hubei, and restricted their inter-city and their intra-city population movement to varying degrees. That is to say, the inter-city and intra-city population movements were all limited after Jan 30. We assume all travel restrictions in cities outside Hubei were imposed at the same time as the Wuhan lockdown. The daily population outflow from Hubei excluding Wuhan, and inter-city and intra-city population movement from Jan 31 to Feb 06 replaced those from Jan 23 to Jan 30, as proxy mobility data for the timely restricting travels status.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating the impact of local travel restrictions on the epidemic spread"
+        },
+        {
+            "text": "The Pearson coefficients indicate positive statistical correlations between all mobility patterns and the number of confirmed cases in both Stage One and Stage Two (p<0.01) (Table 1-1 and 1-2, Figure S1 ). It suggests that cities with more population inflow from Wuhan and other cities in Hubei, more population migration from cities outside Hubei, and more intra-city population movement would have more . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 193,
+                    "end": 202,
+                    "text": "Figure S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . The best-fitting linear regression models for epidemic development in both Stage One and Stage Two are listed in Table 2 . In Stage One, three mobility patterns, i.e., population inflow from Wuhan and other cities in Hubei, and inter-city population movement, together with the number of initial confirmed cases, could explain 73.3% of the inter-city differences in newly reported infections in cities outside Hubei. The intra-city population movement is highly correlated with the inter-city one (r=0.812, p<0.01), but its impact on the number of cumulative confirmed cases is less than the inter-city one. This result implies the existence of imported cases from cities outside Hubei. In Stage Two, intra-city population movement and the number of initial confirmed cases could explain 50.9 % of the inter-city differences in newly reported infections in cities outside Hubei. The impact of inter-city population movement is not significant.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 191,
+                    "end": 198,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "In Stage One, the epidemic spread in cities outside Hubei, with or without initial confirmed cases, is significantly influenced by population inflow from Hubei, including from Wuhan and other cities in . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint Hubei. Meanwhile, the inter-city population movement from cities outside Hubei and intra-city population movement have varied impact. For cities without initial confirmed cases, both inter-city and intra-city population movements significantly influenced the epidemic development. In other words, four kinds of mobility patterns jointly affected the epidemic spread in these cities. For cities with initial confirmed ones, both inter-city (from cities outside Hubei) and intra-city population movement have no significant impact on their epidemic development. Two reasons might cause it. One is that the directly imported cases from Hubei took the majority of reported ones in this stage, namely the significance of population inflow from Hubei subjugating others. The cities with initial confirmed cases are the leading destinations for population outflow from Hubei. These cities, taking 32.6% of cities outside Hubei, accommodated 57.9% of population outflow from Wuhan before its closure and 68.1% of population outflow from Hubei excluding Wuhan after the Wuhan lockdown. The second reason is, in these cities, both inter-city (from cities outside Hubei) and intra-city population movement are highly correlated with the number of population inflow from Wuhan (r=0.700 and 0.748 respectively, p<0.01). The inter-city and intra-city mobility data were excluded from the best-fit model due to multicollinearity. . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint Most of the estimated increase in Stage One is due to the population inflow from Hubei after the Wuhan lockdown. If only the population outflow from Hubei was prohibited after the Wuhan lockdown, i.e., the inter-city and intra-city population movement were not restricted in cities outside Hubei, the estimated increase in the number of confirmed cases is 576 (95%PI: 437-716). Thus, more than two-thirds of the expected increase in confirmed cases is due to the population outflow from Hubei (excluding Wuhan) if there were no travel bans except the Wuhan lockdown.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "Intra-city travel ban plays a significant role in preventing local infections. Our results show there are 248 cities that have confirmed cases in Stage two. If there is no intra-city travel restriction in these cities, the confirmed cases are estimated to increase by 33.1% (95%PI: 19.3%-46.9%) of observed ones. The intracity travel bans make the inter-city population movement from Jan 31 to Feb 13, after the public holiday of the spring festival, decreased to 50.1% of that in the last year, ranging from 23.7% to 87.8%. For these cities, the inter-city population movement was averagely decreased to 15.8% of that in the last year, ranging from 2.8% to 55.7%. It probably because of the strict inter-city travel ban that makes the influence of inter-city population movement insignificant on local infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint Although the travel restrictions in Chinese cities outside Hubei have played essential roles in the epidemic control, our results suggest that more timely travel restrictions after the Wuhan lockdown could better control the spread of the virus. If all cities outside Hubei imposed their inter-city, including to and from Hubei, and intra-city travel bans at the same time as the Wuhan lockdown, these cities would report 1,378 ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Relationship between different mobility patterns and epidemic spread"
+        },
+        {
+            "text": "Mobility control measures are of crucial importance for public health planning in the outbreak of the In this study, we explore the relationships between mobility and epidemic spread and If the whole Hubei province was not quarantined after the Wuhan lockdown, further national seeding and subsequent infections might become inevitable. By Mar 12, 2020, Hubei excluding Wuhan has more confirmed cases (17, 795) than China excluding Hubei (13, 032) . 24 Our results suggest that, in cities outside Hubei, the travel restriction of Hubei (excluding Wuhan) is more effective than other inter-city . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 401,
+                    "end": 405,
+                    "text": "(17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "795)",
+                    "ref_id": null
+                },
+                {
+                    "start": 438,
+                    "end": 442,
+                    "text": "(13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 443,
+                    "end": 447,
+                    "text": "032)",
+                    "ref_id": null
+                },
+                {
+                    "start": 450,
+                    "end": 452,
+                    "text": "24",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint and intra-city travel bans in controlling the development of the epidemic in two weeks after the Wuhan lockdown. On Jan 26, all airports and railway stations in Hubei were closed. 25 Before Jan 30, all other provinces in mainland China suspended their inter-provincial road transport to and from Hubei (Table S1) For cities without reported infections before the Wuhan lockdown, the preventive prohibition of both inter-city and intra-city population movement is essential to their epidemic control. The prohibition of inter-city population movement from cities outside the Hubei and intra-city population movement prevented 405 more confirmed cases (95%PI: 342-468) in Stage One (Table S3) , occupying 69.9% of the number of preventions by all local travel bans. The travel controls in cities without initial confirmed cases tend to be relatively late or loose than those in cities having initial infections. From Jan 24 to Jan 30, 2020, the inter-city population movement from cities outside Hubei and intra-city population movement in cities without initial confirmed cases decreased on average to 64.4% and 72.6% of those in the same period of 2019, while the percentage are averagely 59.2% and 65.2% for cities with initial confirmed cases ( Table   . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 446,
+                    "end": 456,
+                    "text": "(Table S1)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 824,
+                    "end": 834,
+                    "text": "(Table S3)",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1391,
+                    "end": 1400,
+                    "text": "Table   .",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint S2). The local travel restrictions were necessary and practical to cities without initial confirmed cases, even if they were not that strict.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Different mobility patterns influenced the COVID-19 spread in different periods. Our results show, in the early stage of epidemic development, it is the inter-city mobility, including from Wuhan, from Hubei excluding Wuhan, and from other cities outside Hubei, that promotes the spatial spread of the virus. After the quarantine of the whole Hubei and the prohibition of inter-city transport, the importance of restricting the intra-city population movement is highlighted. If there were no restrictions on intra-city population movement, the confirmed cases in cities outside Hubei might increase 33.1% (95%PI: 19.3%-46.9%) in the third and fourth weeks after the Wuhan lockdown. The intra-city travel restrictions played vital roles in the epidemic control in China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "It is worth noting that China has implemented many non-pharmacological interventions, not limited to these travel restrictions. Source control measures, like isolating people with the virus, monitoring or quarantining symptoms of healthy contacts, requiring masks for individuals in all public places, etc., have been introduced to reduce potential secondary infections. 26, 27 It is the intensive source control that reduces new local infections. The contribution of population movement from Wuhan or Hubei to subsequent epidemic development might also be dampened due to the implementation of source control measures. 7 Without the implementation of combined source control measures, our study, at least in the model of Stage Two, might have different results.",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "26,",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our study quantified the relationships between mobility patterns and epidemic trajectory in China and highlighted the importance of synchronized travel restrictions across cities. Several policy implications . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint can be drawn. First, the geographical extension of the quarantine should be carefully considered by the government before the official announcement. In the early stage of epidemic development, there might be a nonnegligible number of infected but undetected people in the areas that have geographical connections and frequent traffic with the epidemic-stricken ones, like other cities in Hubei. In particular, there are many asymptomatic virus careers that are highly contagious. 23, 28 On the other hand, the expansion of the quarantined area would also bring substantial economic losses. Whether to include farther hinterlands, and if so to what extent, will need to be carefully considered carefully in making the quarantine decision.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Second, our results show the importance of timely and active local countermeasures by cities outside of the epicenter. While actual travel control measures may differ across cities, simply by compressing the time gap between Wuhan and other cities could further reduce the COVID-19 outbreak. It is important for countries and governments to impose timely interventions to combat the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "LH and BX designed the experiments. LH and LZ collected data. LH analysed data and wrote the first draft, and LY made the figures. LH, BX, SH, and PX interpreted the results and contributed the final manuscript. All authors approved the final version for submission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Contributors"
+        },
+        {
+            "text": "We declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of interest:"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data sharing"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20050781 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data sharing"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "WHO announces COVID-19 outbreak a pandemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": ") 2. WHO. Coronavirus disease 2019 (COVID-19) Situation Report -52",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "There were no newly confirmed cases in four consecutive days in all provinces except for Hubei",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Cities and prefectures in Hubei excluding Wuhan have no new confirmed cases for 9 consecutive days",
+            "authors": [
+                {
+                    "first": "Sina",
+                    "middle": [],
+                    "last": "News",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "COVID-19: challenges to GIS with big data",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The impact of transmission control measures during the first 50 days of the COVID-19 epidemic in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb6105"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chinazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ajelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aba9757"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The effects of human mobility and control measures on the COVID-19 epidemic in China",
+            "authors": [
+                {
+                    "first": "Mug",
+                    "middle": [],
+                    "last": "Kraemer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb4218"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Impact of international travel and border control measures on the global spread of the novel 2019 coronavirus outbreak",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wells",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Monghadas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PNAS",
+            "volume": "117",
+            "issn": "13",
+            "pages": "7504--7513",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.2002616117"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Transmissibility of coronavirus disease 2019 (COVID-19) in Chinese cities with different transmission dynamics of imported cases",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.15.20036541"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Temporal relationship between outbound traffic from Wuhan and the 2019 coronavirus disease (COVID-19) incidence in China",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.15.20034199"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bushman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0822-7"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "COVID-19 control in China during mass population movements at New Year. The",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "30421--30430",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The press conference on COVID-19 in Hubei",
+            "authors": [
+                {
+                    "first": "China",
+                    "middle": [],
+                    "last": "News",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Distribution of the 2019-nCoV Epidemic and Correlation with Population Emigration from Wuhan",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.10.20021824"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Estimation of local novel coronavirus (COVID-19) cases in Wuhan, China from off-site reported cases and population flow data from different sources",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MedRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.02.20030080"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Risk assessment of exported risk of novel coronavirus pneumonia from Hubei Province",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin J Prev Med",
+            "volume": "54",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.cn1121502020021900142."
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "30260--30269",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pei",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb3221"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The lockdown of Hubei is in process: 17 cities stopped public transportation",
+            "authors": [
+                {
+                    "first": "Wuhan",
+                    "middle": [],
+                    "last": "News",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "COVID-19: what is next for public health?",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heymann",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shindo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "542--547",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30374-3"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Taking the right measures to control COVID-19. The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Torok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30152-3"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Can we contain the COVID-19 outbreak with the same measures as for SARS? The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chiew",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "30129--30137",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "represents inter-city population movement, using the number of population inflow from cities outside Hubei; \u202b\u072b\u202c is the number of intra-city population movement; \u202b\u0725\u202c is the number of initial confirmed cases, which is the cumulative confirmed cases until Jan 23 of city",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "the number of cumulative confirmed cases in Stage Two of city \u0745 ; \u0731 is the number of population inflow from cities outside Hubei from Jan 31 to Feb 13;\u202b\u072b\u202c is the number of intra-city population movement from Jan 31 to Feb 13;",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "in Stage One to identify the impact of the same mobility pattern on different kinds of cities. Statistical decisions were all made at a 5% level of significance using SPSS software.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "in the first two weeks after the Wuhan lockdown. Moreover, in Stage Two that local travel bans have been fully implemented, cities with a larger number of inter-city and intra-city population movements would have more local infections.The correlation coefficients between the same mobility pattern and the number of confirmed cases are different in Stage One and Stage Two. In Stage One, the coefficients between the number of population inflow from Wuhan and other cities in Hubei and the number of confirmed cases (r=0.717 and 0.739 respectively, p<0.01) are higher than those of population migration from cities outside Hubei and intracity population movement (r=0.650 and 0.597 respectively, p<0.01), indicating the leading role of imported cases in this time period. In Stage Two, the correlations between mobility patterns and the number of confirmed cases (r<0.5, p<0.01) weaken compared to those in Stage One (r>0.55, p<0.01), suggesting the effects of mobility on epidemic spread might be reduced due to local travel restrictions.Meanwhile, the relationship between population migration from cities outside Hubei and intra-city population movement changes from highly correlated (r=0.812, p<0.01) to moderately correlated (r=0.485, p<0.01), implying the different strictness of inter-city and intra-city travel bans.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "estimate the impact of local travel restrictions on epidemic control. Our findings suggest that the travel bans imposed by cities outside Hubei have prevented 1,960 (95%PI: 1,474-2,447) confirmed cases, taking 22.4% (95%PI: 16.8%-27.9%) of observed ones, in two weeks after the Wuhan lockdown. More timely travel bans would further decrease the number of confirmed cases in the same period by 15.7% (95%PI:15.4%-16.0%) or 1,378 (95%PI: 1,353-1,402) cases. Therefore, besides the lockdown of one epidemic city, the timely implementation of travel restrictions, including both inter-city and intra-city ones, in other cities can effectively control the COVID-19 outbreak.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": ", suggesting the quarantined the whole Hubei Province. Although these travel restrictions have reduced the number of confirmed cases in cities outside Hubei by around 15% of observed ones in two weeks after the Wuhan lockdown, another 10.5% might be prevented by a more timely quarantine of the whole Hubei province. This highlights the importance of timely and coordinated response across localities in epidemic mitigation.For cities with and without initial confirmed cases by the time of Wuhan lockdown, their local epidemics might be dominated by different population mobility patterns. Most cities reporting confirmed cases before the Wuhan shutdown are the leading destinations for population outflow from Wuhan and other cities in Hubei. Cutting off their inter-provincial traffic from Hubei could protect them to a great extent.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": "1. Pearson correlation coefficient (r) between the number of confirmed cases and population mobility data in Stage One. (symbols",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "2. Pearson correlation coefficient (r) between the number of confirmed cases and population mobility data in Stage Two (symbols",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Impact of the different mobility patterns evaluated by linear regression models.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "The differences between the estimated number of confirmed cases and actual reported ones in cities outside Hubei under different scenarios.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "(95%PI: 1,353-1,402) fewer cases than observed ones in Stage One, taking 15.7% (95%PI:15.4%-16.0%).Furthermore, if only Hubei was shut down at the same time as that of Wuhan, the confirmed cases would",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We collated epidemiological data and mobility data from publicly available data sources. All the data sources we used are documented in the main text and supplementary tables.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

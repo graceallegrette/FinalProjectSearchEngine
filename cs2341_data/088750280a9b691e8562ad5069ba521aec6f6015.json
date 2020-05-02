@@ -1,0 +1,2769 @@
+{
+    "paper_id": "088750280a9b691e8562ad5069ba521aec6f6015",
+    "metadata": {
+        "title": "The influence of job satisfaction, resilience and work engagement on turnover intention among village doctors in China: a cross-sectional study",
+        "authors": [
+            {
+                "first": "Xuewen",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Liyan",
+                "middle": [],
+                "last": "Bian",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xue",
+                "middle": [],
+                "last": "Bai",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dezhong",
+                "middle": [],
+                "last": "Kong",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Li",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qing",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ningxiu",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: As the gatekeepers of rural residents' health, teams of village doctors play a vital role in improving rural residents' health. However, the high turnover of village doctors, both individually and collectively, threaten the stability of village medical teams. This research evaluated the influence of job satisfaction, resilience, and work engagement on the village doctors' turnover intention, and explored the mediating role of work engagement and resilience between job satisfaction and the turnover intention of village doctors in China. Methods: A quantitative study using a self-administered questionnaire containing mostly structured items was conducted among village doctors with a sample size of 2693 from 1345 rural clinics in Shandong province, China, during May and June 2019. All variables including demographic characteristics, job satisfaction, resilience, work engagement and turnover intention were based on available literature, and measured on a 5-or 6-point Likert scale. Such statistical methods as one-way ANOVA, bivariate correlation, exploratory factor analysis (EFA), and Structural Equation Modelling (SEM) were used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results: Up to 46.9% of the subjects had a higher turnover intention and more than 26.3% of them had a medium turnover intention. The job satisfaction of village doctors could not only have a direct negative effect on turnover intention (\u03b2 = \u2212 0.37, p < 0.001), but also have an indirect effect through work engagement (\u03b2 = \u2212 0.04,=< 0.001). Meanwhile, work engagement also had a direct negative impact on turnover intention (\u03b2 = \u2212 0.13, p < 0.001), and resilience had an indirect negative impact on turnover intention through work engagement (\u03b2 = \u2212 0.09, p < 0.001). The above results of this study strongly confirmed that job satisfaction, resilience, and work engagement were early, powerful predicators of village doctors' turnover intention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "(Continued on next page) Conclusion: According to the results, the following should be taken seriously to improve job satisfaction: reasonable and fair income, effective promotion mechanism, fair social old-age security, reasonable workload, and strong psychological coping mechanisms for work stress. The turnover intention of village doctors could be reduced through improving job satisfaction, resilience and work engagement.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In 2010, China began to implement integrated management of rural health services, and built standardized village clinics in villages, fundamentally changing the practice mode of village doctors, that is, village doctors must enter village clinics to practice diagnosis and treatment, and they are no longer allowed to operate clinics. Village doctors have been changed from self-employed to public service providers, playing a basic net role in China's rural health care system. They are responsible for providing rural residents with life-cycle care involving prevention, treatment, health protection and rehabilitation, as well as two-way referral between village clinics and urban general hospitals, so that village doctors are the indispensable gatekeepers of health for the vast majority of rural residents in China [1] . With a rural population over 900 million, village doctors in China conduct a much broader scope of work compared to other countries. With the rapid development of China's economy in recent years, the overall quality of village doctors, their service facilities, and the impartiality and accessibility of health services for rural residents have been continuously improved [2] .",
+            "cite_spans": [
+                {
+                    "start": 821,
+                    "end": 824,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1199,
+                    "end": 1202,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Yet village doctors are confronting serious challenges and pressures brought by some reformist policies concerning the medical and health system. The new national essential drugs system requires village doctors to use essential medicines and sell them to patients at zeroprofit purchase price, shifting village doctors' income from drug prices to local government compensation. The low level of government compensation and the delay in obtaining it have greatly reduced the income of village doctors. In 2014, village doctors' average monthly income in Beijing, an economically developed area in China, was only 1293.07 yuan (166.637 euro) [3] . Meanwhile, In rural areas there are many serious dilemmas cannot be ignored, such as urgent demand for medical care, poor working conditions and environment, unsmooth promotion mechanism, limited training opportunities, lack of supervision and competition system, aging village medical team, and shortages of new doctors with professional knowledge and comprehensive quality [4] , low income and rural residents' distrust of their medical qualifications and medical technology make the occupational environment of village doctors increasingly severe [5] . All these factors have been confirmed to have an impact on village doctors' burnout and subsequently turnover [3, 6] . The detection rate of job burnout among village doctors was as high as 68.6, 45.3% of which had high turnover intention [7] . Recently, China's Henan province witnessed two serious cases of village doctors' collective turnover, one involving 36 doctors and the other 28 doctors. As an important part of China's medical and health service team, when village doctors leave collectively, rural medical institutions may face a \"stall\" and rural residents may be trapped in incurable difficulties, resulting in more serious social consequences [1, 8] .",
+            "cite_spans": [
+                {
+                    "start": 640,
+                    "end": 643,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1021,
+                    "end": 1024,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1196,
+                    "end": 1199,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1312,
+                    "end": 1315,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1316,
+                    "end": 1318,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1441,
+                    "end": 1444,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1860,
+                    "end": 1863,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1864,
+                    "end": 1866,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Turnover intention refers to an employee's option to voluntarily vacate their work in a certain period of time [9] . Research on turnover can be traced to 1958 when March and Simon established the participant determination model [7, 10] . Subsequently, scholars have developed a series of theoretical models on turnover research; although the emphases of such models are different, they all state that turnover intention is the main cognitive precursor of turnover behaviour and has a strong explanatory power [11, 12] . Compared with turnover behaviour, turnover intention can better reflect the real management level of an organization. Based on this, this study found that it is more meaningful to explore turnover intention than actual turnover behaviour. Hence the turnover intention of village doctors, rather than their actual behaviour, is the theme of this study.",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 114,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 229,
+                    "end": 232,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 233,
+                    "end": 236,
+                    "text": "10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 510,
+                    "end": 514,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 515,
+                    "end": 518,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Since the training of doctors requires a long-term education and practice [13] , high turnover tendency may lead to huge transition costs and serious loss of patients' confidence, which is a serious problem for the stability of hospitals and the medical system [14, 15] . Numerous studies have analysed the influencing factors of doctors' turnover intention, including a country's medical system, occupational environment, doctor-patient relationship, level of employment and alternative job opportunities, and other external environmental factors [3, [16] [17] [18] . Internal individual factors include gender, age, marital status and work ability [4, 19, 20] . The most widely studied jobrelated factors including working hours, salary levels, social security, job stress and burnout, emotional commitment, job autonomy, fairness of remuneration [21, 22] were always incorporated into studies to explore the comprehensive impact on turnover intention. However, these researches have not involve the impact of resilience. At the same time, the existing studies have mostly used the ttest, Analysis of Variance (ANOVA) and chi-square test, as well as multivariate statistical analysis to analyse the influencing factors of turnover intention [3, 4, [16] [17] [18] [19] [20] [21] [22] . Structural Equation Modelling (SEM) can not only accurately and quantitatively measure the correlation between observed variables, but also track and deeply dig the correlation between latent variables, and even the causal relationship between measured variables. Therefore, this study adopted SEM to deeply explore the linear regression relationship between variables, which can make up for current studies' limitations.",
+            "cite_spans": [
+                {
+                    "start": 74,
+                    "end": 78,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 261,
+                    "end": 265,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 266,
+                    "end": 269,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 548,
+                    "end": 551,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 552,
+                    "end": 556,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 557,
+                    "end": 561,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 562,
+                    "end": 566,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 650,
+                    "end": 653,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 654,
+                    "end": 657,
+                    "text": "19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 658,
+                    "end": 661,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 849,
+                    "end": 853,
+                    "text": "[21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 854,
+                    "end": 857,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1243,
+                    "end": 1246,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1247,
+                    "end": 1249,
+                    "text": "4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1250,
+                    "end": 1254,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1255,
+                    "end": 1259,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1260,
+                    "end": 1264,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1265,
+                    "end": 1269,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1270,
+                    "end": 1274,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1275,
+                    "end": 1279,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1280,
+                    "end": 1284,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Job satisfaction, defined as a personal positive subjective evaluation or attitude towards all aspects of a work environment, is affected by many factors such as the work itself, work challenge, salary system, interpersonal relationships, working conditions, work motivation, organizational environment and so on, and has been typically considered to be the most representative antecedent variable that directly predicts turnover intention of health care providers [21, 23, 24] . Many empirical studies on medical staff have found that job satisfaction is negatively related to turnover intention, and influences it through direct and indirect paths [8, 24, 25] . Recently, a meta-analysis also demonstrated a significant negative correlation between job satisfaction and turnover intention among nurses [26] . In rural South Africa, improving job satisfaction by increasing wages, unblocking promotion channels, and improving guarantees was crucial to reduce the turnover intention of urban primary care physicians [27] . Furthermore, job satisfaction is often the mediator between other factors and turnover intention, for instance, through the mediating effect of job satisfaction, professional identity had an indirect negative effect on turnover intention among township health inspectors in China [7] . The doctor-patient relationship and work engagement also played an indirect role in nursing staffs' turnover through job satisfaction in southern Italy [28] .",
+            "cite_spans": [
+                {
+                    "start": 465,
+                    "end": 469,
+                    "text": "[21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 470,
+                    "end": 473,
+                    "text": "23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 474,
+                    "end": 477,
+                    "text": "24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 650,
+                    "end": 653,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 654,
+                    "end": 657,
+                    "text": "24,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 658,
+                    "end": 661,
+                    "text": "25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 804,
+                    "end": 808,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1016,
+                    "end": 1020,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1303,
+                    "end": 1306,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1461,
+                    "end": 1465,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Work engagement is defined as a positive, affectivemotivational state of work-related well-being, with the characteristics of vigour, dedication and absorption [7, 29] . In countries or regions with limited medical resources, the work engagement of medical staff, in contrast to job burnout and high turnover intention, is recognized as an irreplaceable and much-desired organizational asset [30] . Personal characteristics such as psychological status, job identity and personality affect work engagement. Meanwhile, available work resources, organizational support and fairness, and other work characteristics are also highly positively correlated with work engagement [31, 32] . Accordingly, the outcome variables of work engagement include organizational variables such as organizational efficiency and performance, and personal variables such as job burnout and turnover intention [33, 34] . The total score of work engagement, vigour, dedication and absorption are negatively correlated with turnover intention. Some studies have explored the mediating role of work engagement in turnover intention [28, 35, 36] . Silvia De Simone et al. found that patient satisfaction had a negative effect on nurses' turnover intention through the mediating effect of work engagement in southern Italy [35] . A cross-sectional and correlational study in a Portuguese hospital revealed the mediating effect of job engagement between social support, job satisfaction and turnover intention [37] .",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 163,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 164,
+                    "end": 167,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 392,
+                    "end": 396,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 671,
+                    "end": 675,
+                    "text": "[31,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 676,
+                    "end": 679,
+                    "text": "32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 886,
+                    "end": 890,
+                    "text": "[33,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 891,
+                    "end": 894,
+                    "text": "34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1105,
+                    "end": 1109,
+                    "text": "[28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1110,
+                    "end": 1113,
+                    "text": "35,",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1114,
+                    "end": 1117,
+                    "text": "36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1294,
+                    "end": 1298,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1480,
+                    "end": 1484,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Yet even in the same working environment, facing the same pressure and adversity, not every village doctor will have job burnout or turnover intention. This can be explained by the concept of individual resilience, which refers to a person's ability to recover from traumatic or painful events and achieve good adjustment and higher development [20] . Research have shown that individuals become stronger, more confident and more productive by experiencing stressful events and overcoming them through resilience [38] . In addition, resilience may not alleviate the stress experienced by village doctors, but it can improve their ability to overcome stress and predicament, thereby improving job satisfaction and work engagement, and reducing job burnout and turnover tendency [39] . A national survey of nurses' turnover intentions in South Korea found that resilience and work engagement mediated the effect of work satisfaction and burnout on turnover intention [40] .",
+            "cite_spans": [
+                {
+                    "start": 345,
+                    "end": 349,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 513,
+                    "end": 517,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 777,
+                    "end": 781,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 965,
+                    "end": 969,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Based on the above-mentioned theoretical analysis and empirical demonstration, we attempted to link the relationships among job satisfaction, resilience, work engagement and turnover intention, and a double mediator model was presented in Table 1 and Fig. 1 . We assumed that job satisfaction, resilience and work engagement directly affect turnover intention. Meanwhile, through resilience and work engagement, job satisfaction has an indirect effect on turnover intention, and work engagement mediates the effect of resilience on turnover intention. So, this study aimed to verify the direct impact of job satisfaction, resilience and work engagement on turnover intention, and to analyse and quantify the mediating role of resilience and work engagement between job satisfaction and turnover intention among village doctors in China. This study is the first to consider and explore the influence of job satisfaction, resilience, and work engagement on village doctors' turnover intention in China.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 239,
+                    "end": 246,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 251,
+                    "end": 257,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Background"
+        },
+        {
+            "text": "Jining in southwest Shandong province lags behind the province's eastern part in terms of economic development.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Setting and participants"
+        },
+        {
+            "text": "According to 2018 statistics, the total population of Jining is 8.375 million, of which the rural population is 3.5916 million. Jining has 6489 villages with 5307 village clinics. There are 11,715 village doctors, 870 fewer than in 2017, averaging 2.99 per village. The number of consultations in village clinics is 21,262,000, with an average annual consultation volume of 4006.41 per clinic [41] . As village doctors have a heavy workload, Jining city was taken as the research site to ascertain the turnover intention of village doctors and the influencing factors.",
+            "cite_spans": [
+                {
+                    "start": 393,
+                    "end": 397,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Setting and participants"
+        },
+        {
+            "text": "This cross-sectional study was performed among rural clinics in Jining from March to May in 2019. A hierarchical cluster random sampling technique was used to obtain the ultimate sample. Firstly, according to the level of economic development, Jining City's 11 counties were divided into three layers: better areas, general areas, and poor areas. Secondly, a county was randomly selected from each economic layer as a sample county, i.e. three counties were selected altogether. Thirdly, all village doctors from the selected three counties were taken as survey samples.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Setting and participants"
+        },
+        {
+            "text": "The data was collected through self-administered questionnaires, including six parts besides the cover letters. In order to reduce survey bias, firstly, in the cover letters we stated the purpose and emphasized that the study was anonymous. Secondly, the questionnaires were distributed through cities, counties, townships and villages. At each level, there were people in charge of issuing, collecting and verifying questionnaires, thus reducing the loss and omission of questionnaires. The questionnaires were delivered to 1345 rural clinics through an official letter by Jining Municipal Health Commission. They were completed by 2789 village doctors and 2693 useable questionnaires were returned, i.e. effectiveness exceeded 96%.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Setting and participants"
+        },
+        {
+            "text": "In the design of the questionnaire, this study referred to the National Residents Health Service Questionnaire designed and finalized by a panel of experts of the National Health Committee of the People's Republic of China [42] , and a series of items were revised and supplemented according to the working characteristics of village doctors. The main part of the questionnaire consisted of five parts: social demographic characteristics Table 1 The Theoretical Hypotheses (age, gender, marital status, major, professional ranks and titles, salary, average weekly working hours, educational background, years of work), and questions related to job satisfaction, resilience, work engagement and turnover intention.",
+            "cite_spans": [
+                {
+                    "start": 223,
+                    "end": 227,
+                    "text": "[42]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 438,
+                    "end": 445,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Measures"
+        },
+        {
+            "text": "The Chinese version of the Medical Staff Job Descriptive Index and its related scale, with a Cronbach's alpha coefficient of 0.828 [7, 43] , was used to measure village doctors' job satisfaction. It comprised eight items: workload, colleagues, superiors, environment and facility, promotion, income, social security, and training opportunities. A 6-point Likert scale ranging from 1 (highly disagree) to 6 (highly agree) was utilized to evaluate all these items, and all items were scored in the positive direction.",
+            "cite_spans": [
+                {
+                    "start": 131,
+                    "end": 134,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 135,
+                    "end": 138,
+                    "text": "43]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Job satisfaction"
+        },
+        {
+            "text": "The higher the single item or total score, the higher the village doctors' satisfaction with their current work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Job satisfaction"
+        },
+        {
+            "text": "With a Cronbach's alpha coefficient of 0.782, the Chinese version of the Utrecht Work Engagement Scale was used to measure the village doctors' work engagement [7, 44] . It comprised 17 items, and 3 dimensions were represented by sub-scales: work dedication (5 items), work vigour (6 items), and work absorption (6 items). Using a 7-point Likert scale of 0 (never) to 6 (always), items were measured and scored, and the answers of each village doctor were merged into a summary scale. The higher the score, the higher the enthusiasm for medical work engagement [7] .",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 163,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 164,
+                    "end": 167,
+                    "text": "44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 561,
+                    "end": 564,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Work engagement"
+        },
+        {
+            "text": "Resilience was assessed with the Connor-Davidson Elasticity Scale (CD-RISC), and the Cronbach's alpha was 0.92 [45] . The CD-RISC with 25 items was a self-reported scale with good reliability and validity, and divided into five dimensions: ability, tolerance of negative emotion, acceptance of change, control, and spiritual influence. However, when using CD-RISC to measure the overall population of China, Yu Xiaonan et al. failed to confirm the original five-dimensional model by the statistical method of confirmatory factor analysis, and they instead found three dimensions of psychological resilience: tenacity (13 items), strength (8 items), and optimism (4 items) [46] . A 5-point Likert scale of 1 (complete disagreement) to 5 (complete agreement) was utilized to evaluate all these response to the items. The higher score, the stronger psychological resilience to cope with work pressure.",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 115,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 672,
+                    "end": 676,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Resilience"
+        },
+        {
+            "text": "Village doctors' turnover intention was measured by the Chinese Turnover Intention Scale with 4 items, and the Cronbach's Alpha coefficient was 0.659 [7] . The four items in the questionnaire were: \"I often want to leave my present job\", \"I often want to leave my present career\", \"Recently, I often want to change my job\", and \"I'll probably find a new job next year\". A six-point Likert scale ranging from 1 (highly disagree) to 6 (highly agree) was utilized to evaluate all these items. The higher score indicated the more significant turnover intention.",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 153,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Turnover intention"
+        },
+        {
+            "text": "In this study exploratory factor analysis (EFA) was used to scientifically assess the responsibility and validity of the whole questionnaire. The socio-demographic characteristics of 2693 village doctors were examined by descriptive statistical method. Then, their job satisfaction, resilience, work engagement, and turnover intention were analyzed separately with descriptive analysis and the values of means and standard deviations (SD) were calculated. The correlation between the main observational variables was quantified with the Pearson correlation coefficient. Based on the above research results, the structural equation model (SEM) was used to further explore and quantify the relationship between the four dimensions: job satisfaction, resilience, work engagement, and turnover intention and a bootstrap-based maximum likelihood was applied in the SEM. Several indicators including adjusted goodness of fit index (AGFI), normed fit index (NFI), goodness of fit index (GFI), comparative fit index (CFI), Tucker-Lewis index (TLI) and incremental (IFI) were 0.90 or above, while root mean square error of approximation (RMSEA) was lower than 0.08 [7] , which reflected an acceptable fit between the current data and hypothesized model.",
+            "cite_spans": [
+                {
+                    "start": 1156,
+                    "end": 1159,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "In accordance with the EFA results, the Kaiser-Meyer-Olkin (KMO) of this questionnaire was 0.826 greater than 0.70, indicating a better possibility of factor analysis. Bartlett's test of sphericity was significant (X 2 = 23,795.504, P < 0.001). For factor load analysis, the maximum coefficient of variation method was used for orthogonal rotation (varimax) to obtain the results of the factor load matrix after rotation. The eigenvalues of the four evaluation indexes were all more than 1, and the cumulative variance contribution rate was up to 80.353%. The load values of each item in the corresponding dimension were greater than 0.727, which indicated that the questionnaire structure validity was good. The Cronbach's \u03b1 of the whole questionnaire is as high as 0.848, indicating good reliability of internal consistency [7] .",
+            "cite_spans": [
+                {
+                    "start": 826,
+                    "end": 829,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Reliability and validity"
+        },
+        {
+            "text": "The sociodemographic characteristics of the 2693 village doctors are shown in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Demographic characteristics of participants"
+        },
+        {
+            "text": "The correlation coefficients between four main observation variables all reached a level of significance. Job satisfaction, resilience, and work engagement negatively correlated with turnover intension, and the three positively correlated, as shown in Table 4 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 252,
+                    "end": 259,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Correlations of study variables"
+        },
+        {
+            "text": "The SEM was constructed to interlink and assess the relationship among the four variables (job satisfaction, resilience, work engagement, turnover intention). With generalized least square, the data were fitted to theoretical model, and which was modified according to the model fitting index. The relationship and valid path among four variables were pointed out in the final model (Fig. 2) . Table 5 . When the 95% confidence interval of the estimated mediating effect does not include 0, it indicates that the mediating effect is statistically significant [7] . Job satisfaction positively affected work engagement (\u03b2 = 0.11, p < 0.001) and resilience (\u03b2 = 0.51, p < 0.001), but a negative effect on turnover intention (\u03b2 = \u2212 0.37, p < 0.001); Work engagement negatively affected turnover intention (\u03b2 = \u2212 0.13, p < 0.001); Resilience had a direct positive effect on work engagement (\u03b2 = 0.63, p < 0.001), but no direct effect on turnover intension (\u03b2 = 0.03, p = 0.138), the final result therefore did not support hypothesis 5 (resilience has a negative effect on turnover intention). Table 6 shows Significance test of every mediating pathway. Regarding the path between job satisfaction and turnover intention, work engagement had a significant mediate effect, 95%CI:(\u2212 0.03)-(\u2212 0.01), which was consistent with hypothesis 8. But resilience had no mediate effect, 95%CI:(\u2212 0.02)-0.06, which was contrary to hypothesis7. However, in-depth studies had found that resilience played a mediating role between job satisfaction and work engagement, 95%CI:1.90-2.41, (hypothesis 9), and indirectly affected turnover intention through the mediating role of work engagement, 95%CI: (\u2212 0.02)-(\u2212 0.01) (hypothesis 10).",
+            "cite_spans": [
+                {
+                    "start": 559,
+                    "end": 562,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 383,
+                    "end": 391,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 394,
+                    "end": 401,
+                    "text": "Table 5",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1089,
+                    "end": 1096,
+                    "text": "Table 6",
+                    "ref_id": "TABREF5"
+                }
+            ],
+            "section": "Test of study model"
+        },
+        {
+            "text": "The purpose of this study is to explore the status of turnover intention of village doctors in China and the effects of job satisfaction, resilience, and work engagement on turnover intention. The unique value of this study lies not only in the selection of village doctors as the research object, but also in the incorporation of these four variables into the structural model for the first time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The results show that among the 2693 village doctors surveyed, nearly half, 1263 (46.9%) had high turnover intention, which was not only far higher than secondclass and higher hospital doctors (6.1%) [47] , but also significantly higher than urban community doctors (18.13%) in China [48] and grassroots doctors in other countries, for example, only 11.8% of primary care family physicians had high turnover intention in British [49] . Our study also inquired into the current quality of village doctors. Only 71 (2.6%) had university qualifications or above, and less than 5% had middle and senior professional titles. Although the Chinese government has further lowered the professional title assessment requirements for village doctors, many village doctors still cannot meet the requirements for middle and senior professional titles, which also impacts their income. Chen Zhongqiang, a member of the National Committee of the Chinese People's Political Consultative Conference (CPPCC), found in a rural survey that with no chance of promotion and low pay, village doctors were not treated as well as veterinarians, and even switched to veterinary medicine [50] . Meanwhile, the aging demographic of doctors has become an international issue, and is even more serious in terms of village doctors due to comparatively less funded rural medical resources. Our survey shows that 1987 (73.7%) of village doctors were 40 years old or above, and only 36 (1.3%) were under 30 years old, hence, the age structure of such doctors is older than that of the doctors in city's third level hospitals (32.51% aged 40 and over, 17.84% aged 30 and under). At the same time, due to the influence of family structure, health literacy, and lifestyle, the health evaluation age of village doctors is higher than that of urban doctors of the same age, so the retirement of older village doctors is also a reason for high turnover intention. Therefore, more researches are urgently needed to explore the key factors and influencing mechanism of contributed the most to turnover intention, which was also mentioned in other studies. A survey of Chinese rural physicians showed that job satisfaction had significant negative effects on turnover intention through work engagement and job burnout as mediators [2] . In our study, village doctors were less satisfied with their jobs, especially in terms of workload, promotion, income, social security, and training opportunities ( Table 2 ). The results conformed with a nationwide survey of village doctors' mobility which found that 70% of village doctors were unsatisfied with their income, had no hopes for promotion, and lacked old-age security after retirement [47] .",
+            "cite_spans": [
+                {
+                    "start": 200,
+                    "end": 204,
+                    "text": "[47]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 284,
+                    "end": 288,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 429,
+                    "end": 433,
+                    "text": "[49]",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1161,
+                    "end": 1165,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 2288,
+                    "end": 2291,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 2695,
+                    "end": 2699,
+                    "text": "[47]",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 2459,
+                    "end": 2466,
+                    "text": "Table 2",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The model also demonstrated that work engagement played a mediating role between job satisfaction and turnover intention, and between resilience and turnover intention, which is consistent with other studies. Mi Yu found that, under the direct influence of resilience, work engagement played a mediating role between job environment satisfaction and turnover intention among new nurses [21] . Work engagement is an important evaluation indicator for individual work potential and work efficiency optimization. The improvement of doctors' work engagement can effectively increase an individual's physical and mental health, improve job quality, satisfaction and performance, and reduce depression, and thus positively affect the health of patients.",
+            "cite_spans": [
+                {
+                    "start": 386,
+                    "end": 390,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "All hypotheses in this study were supported except for hypothesis 5 (The village doctors' resilience has a negative effect on turnover intention) and hypothesis 7(The village doctors' job satisfaction has an indirect negative effect on turnover intention through the mediating effect of resilience), and i.e. that resilience had no direct effect on turnover intention, nor did it mediate between job satisfaction and turnover intention, a result contrary to many previous studies [38, 40] . Hodges HF et al. found that enhancing the psychological resilience of nurses in emergency medical center can significantly reduce their turnover rate. Wang M et al. found that the resilience of nurses in first-class tertiary hospitals in China played an intermediary role in job satisfaction and turnover intention. The reason why our finding is different from the above results may be that village doctors mainly deal with frequent and common diseases, and their work stress, work intensity, work trauma and other factors that affect their resilience are lower than hospital nurses, so resilience are not the direct reason for village doctors to leave. However, the study proved that resilience affected turnover intention indirectly through the mediating role of work engagement, and played a significant mediating role in job satisfaction and work engagement. These findings indicated that job satisfaction and work engagement were necessary ways for village doctors to transform the unification of personal value and professional value into continuing their rural medical work. Inspired by these mediation paths, interventions that can sufficiently lower the turnover intention of village doctors should be encouraged. The Chinese government should increase investment in village doctors' income, establish a long-term, reasonable, and effective promotion mechanism, and provide social security to improve the work efficiency and engagement of village doctors. Another possible strategy is to reduce the work loads of village doctors, improve their resilience, and guide them towards positive coping approaches in their daily work.",
+            "cite_spans": [
+                {
+                    "start": 480,
+                    "end": 484,
+                    "text": "[38,",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 485,
+                    "end": 488,
+                    "text": "40]",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, our study revealed four affecting paths of turnover intention, and that job satisfaction, resilience, and work engagement were all accurate predictors of the turnover intention of village doctors. Job satisfaction had the most significant, multi-path impact, followed by work engagement. The reason was that resilience cannot directly affect turnover intention, but rather through the mediating effect of work engagement. Hence, this suggests a more sophisticated and in-depth mechanism in the relationship between resilience and turnover intention. However, the research on the resilience of village doctors is very insufficient at present. In the future, we should not only study the influencing factors, but also study the effective intervention measures of the resilience, and construct perfect protective intervention measures of village doctors from the perspective of predictors, so as to improve their resilience. In addition, because resilience is a multi-dimensional, subjective variable, it is difficult to obtain in-depth and detailed understanding through quantitative research. In the future, qualitative research methods should be adopted to conduct micro and in-depth exploration on the resilience of village doctors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Two limitations of the study should be cleverly addressed. Firstly, although the SEM was used to quantitatively verify the relationship between variables, this study still has limitations to draw definite conclusions based on the cross-sectional design. Secondly, the data were collected through the participants' self-report questionnaires that were not supervised by researchers and returned through an official letter by Jining Municipal Health Commission, rather than face to face investigation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The results show that higher job satisfaction, work engagement, and resilience contribute to reduce turnover intention, which not only provide new ideas to explain the numerous village doctors leaving their jobs, but also offer possible and feasible new methods to reduce turnover intension and behaviour. Future research is proposed to introduce other mediating factors and construct different models to test the influence mechanism of resilience on turnover intention. In the light of the findings, the health government should actively consider multiple measures to improve the job satisfaction, job engagement, and resilience of village doctors. Work-related dimensions should be paid attention to, including establishing effective promotion mechanisms, increase training opportunities, and providing higher and more reasonable income. Simultaneously, qualitative research should be used to explore the factors influencing resilience in depth and detail, and the protective intervention measures should be structured from the perspective of predictors, so as to improve the resilience of village doctors and their adaptability to stress. In this way, the high turnover rate of village doctors should be effectively contained, and the medical team working in China's rural primary medical care can develop stably and dynamically. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A systematic review of burnout among doctors in China: a cultural perspective",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Asia Pac Fam Med",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Job satisfaction of certified primary care physicians in rural Shandong Province, China: a cross-sectional study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMC Health Serv Res",
+            "volume": "19",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Study on current situation and factors influencing the remuneration of rural doctors: a study based on a sample survey taken in Beijing and Linyi",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Chin J Health Policy",
+            "volume": "6",
+            "issn": "5",
+            "pages": "55--61",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Relationship between job burnout and occupational stress among doctors in China",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Adv Nurs",
+            "volume": "59",
+            "issn": "3",
+            "pages": "233--242",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "What do people really know and think about clinical trials? A comparison of rural and urban communities in the south",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Friedman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bergeron",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Foster",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tanner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-H",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Community Health",
+            "volume": "38",
+            "issn": "4",
+            "pages": "642--51",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Gender differences in job quality and job satisfaction among doctors in rural western China",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ying",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMC Health Serv Res",
+            "volume": "17",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The influence of professional identity, job satisfaction, and work engagement on turnover intention among township health inspectors in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Int J Environ Res Public Health",
+            "volume": "15",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The mediating effects of job satisfaction on the association between doctor-patient relationship and OCB among physicians in China",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Iran J Public Health",
+            "volume": "47",
+            "issn": "5",
+            "pages": "698--705",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The effects of organizational learning culture and job satisfaction on motivation to transfer learning and turnover intention",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Egan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bartlett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Hum Resour Dev Q",
+            "volume": "15",
+            "issn": "3",
+            "pages": "279--301",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Dropouts and turnover: the synthesis and test of a causal model of student attrition",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bean",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Res High Educ",
+            "volume": "12",
+            "issn": "2",
+            "pages": "155--87",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Job embeddedness factors as a predictor of turnover intention among infection control nurses in Korea",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Am J Infect Control",
+            "volume": "43",
+            "issn": "11",
+            "pages": "1213--1220",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Analysis of smoking cessation beliefs in pregnant smokers and ex-smokers using the theory of planned behavior",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wilde",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Maes",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Boudrez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Public Health",
+            "volume": "25",
+            "issn": "3",
+            "pages": "267--74",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Evidence-based medicine: assessment of knowledge of basic epidemiological and research methods among medical doctors",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Novack",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jotkowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Knyazer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Postgrad Med J",
+            "volume": "82",
+            "issn": "974",
+            "pages": "817--839",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Turnover intention among intensive care unit nurses in Alexandria",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mosallam",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hamidi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Elrefaay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Egypt. J Egypt Public Health Assoc",
+            "volume": "90",
+            "issn": "2",
+            "pages": "46--51",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Turnover intention and related factors among general practitioners in Hubei, China: a cross-sectional study",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Fam Pract",
+            "volume": "19",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Exploring factors associated with turnover among registered nurse (RN) supervisors in nursing homes",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kash",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Naufal",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cortes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Appl Gerontol",
+            "volume": "29",
+            "issn": "1",
+            "pages": "107--134",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Factors that influence the turnover intention of Chinese village doctors based on the investigation results of Xiangyang City in Hubei Province",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Int J Equity Health",
+            "volume": "13",
+            "issn": "1",
+            "pages": "1--9",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Building a successful partnership between management and clinical leadership: experience from New Zealand",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Malcolm",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Barnett",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hendry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Bmj",
+            "volume": "326",
+            "issn": "7390",
+            "pages": "653--657",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Factors influencing quality of life in patients with active tuberculosis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Marra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cox",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Palepu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Health Qual Life Outcomes",
+            "volume": "2",
+            "issn": "1",
+            "pages": "1--10",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "An exploratory study of resilience and job satisfaction among psychiatric nurses working in inpatient units",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Matos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Neushotz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fitzpatrick",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Int J Ment Health Nurs",
+            "volume": "19",
+            "issn": "5",
+            "pages": "307--319",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Job satisfaction and turnover intention among Iraqi doctorsa descriptive cross-sectional multicentre study",
+            "authors": [
+                {
+                    "first": "Ali",
+                    "middle": [],
+                    "last": "Jadoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Aljunid",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Dastan",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tawfeeq",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mustafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ganasegeran",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Aldubai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sar",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Hum Resour Health",
+            "volume": "13",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The relationship between job satisfaction, work stress, work-family conflict, and turnover intention among physicians in Guangdong, China: a cross-sectional study",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ Open",
+            "volume": "7",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Effects of performance appraisal politics on job satisfaction and turnover intention",
+            "authors": [
+                {
+                    "first": "Jml",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pers Rev",
+            "volume": "33",
+            "issn": "3",
+            "pages": "322--356",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Job satisfaction among radiology assistants: a multicentre cross-sectional study in Italy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gualano",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gili",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bert",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Scaioli",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cerutti",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Siliquini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Med Lav",
+            "volume": "107",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Intermediate linkages in the relationship between job satisfaction and employee turnover",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Mobley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "J Appl Psychol",
+            "volume": "62",
+            "issn": "2",
+            "pages": "237--277",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Job satisfaction, organizational commitment, turnover intention,and turnover: path analyses based on meta-analysis findings",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tett",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Pers Psychol",
+            "volume": "46",
+            "issn": "2",
+            "pages": "259--93",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Job satisfaction and turnover intent of primary healthcare nurses in rural South Africa: a questionnaire survey",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Delobelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rawlinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ntuli",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Malatsi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Decock",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Depoorter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Adv Nurs",
+            "volume": "67",
+            "issn": "2",
+            "pages": "371--83",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "The role of job satisfaction, work engagement, self-efficacy and agentic capacities on nurses' turnover intention and patient satisfaction",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Simone",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Planta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cicotto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Appl Nurs Res",
+            "volume": "39",
+            "issn": "",
+            "pages": "130--170",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Work engagement in Serbia: psychometric properties of the Serbian version of the Utrecht work engagement scale (UWES)",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Petrovi\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vukeli\u0107",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "\u010cizmi\u0107",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front Psychol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Work related well-being. Burnout, work engagement, occupational stress and job satisfaction within a medical laboratory setting",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Narainsamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Svd",
+                    "middle": [],
+                    "last": "Westhuizen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Psychol Afr",
+            "volume": "23",
+            "issn": "3",
+            "pages": "467--74",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Work engagement and occupational stress in nurses and other healthcare workers: the role of organisational and personal factors",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ines",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cinzia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Piergiorgio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Clin Nurs",
+            "volume": "22",
+            "issn": "",
+            "pages": "2614--2638",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Factors influencing the levels of work engagement in physicians from Poland, Serbia and Bulgaria",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wilczy\u0144ski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Swamad",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Subotic",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wizner",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mazgaj",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wajda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Psychiatr Danub",
+            "volume": "27",
+            "issn": "1",
+            "pages": "492--498",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Nurse work engagement impacts job outcome and nurse-assessed quality of care: model testing with nurse practice environment and nurse work characteristics as predictors",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Peter",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Danny",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Olaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Erik",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Front Psychol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "A longitudinal study of the relationship between work engagement and symptoms of anxiety and depression",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Innstrand",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Langballe",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Falkum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Stress Health",
+            "volume": "28",
+            "issn": "1",
+            "pages": "1--10",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Mediating role of work engagement in the relationship between job resources and personal resources with turnover intention among female nurses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shahpouri",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Namdari",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abedi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Appl Nurs Res",
+            "volume": "30",
+            "issn": "",
+            "pages": "216--237",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Effects of work environment and job characteristics on the turnover intention of experienced nurses: the mediating role of work engagement",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Adv Nurs",
+            "volume": "74",
+            "issn": "6",
+            "pages": "1332--1373",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Work engagement, social support, and job satisfaction in Portuguese nursing staff: a winning combination",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Orgamb\u00eddez-Ramos",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Almeida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Appl Nurs Res",
+            "volume": "36",
+            "issn": "",
+            "pages": "37--41",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Burnout and resilience among nurses practicing in high-intensity settings",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Rushton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Batcheller",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schroeder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Donohue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Am J Crit Care",
+            "volume": "24",
+            "issn": "5",
+            "pages": "412--432",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Professional resilience in baccalaureateprepared acute care nurses. FIRST STEPS Nurs Educ Perspect",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hodges",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Keeley",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Troyan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "29",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Impact of resilience and job involvement on turnover intention of new graduate nurses using structural equation modeling",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Jpn J Nurs Sci",
+            "volume": "15",
+            "issn": "4",
+            "pages": "351--62",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Statistical bulletin on the development of health care of jining",
+            "authors": [],
+            "year": 2018,
+            "venue": "Jining Health Committee",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Statistical information center of the national health and Family Planning Commission of China",
+            "authors": [],
+            "year": 2013,
+            "venue": "Fifth National Health Service Survey and Analysis Report",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Job satisfaction of nurses employed in rural and urban long-term care facilities",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Coward",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hogan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Duncan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Horne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hilker",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Felsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Res Nurs Health",
+            "volume": "18",
+            "issn": "3",
+            "pages": "271--84",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Psychological flexibility of nurses in a Cancer hospital: preliminary validation of a Chinese version of the workrelated acceptance and action questionnaire",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Asia Pac J Oncol Nurs",
+            "volume": "5",
+            "issn": "1",
+            "pages": "83--90",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Relationship between resilience, psychological distress and physical activity in Cancer patients: a cross-sectional observation study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Matzka",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "K\u00f6ck-H\u00f3di",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Moses-Passini",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dubey",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jahn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Schneeweiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eicher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS One",
+            "volume": "11",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Factor analysis and psychometric evaluation of the Connor-Davidson resilience scale (CD-RISC) with Chinese people",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Soc Behav Personal",
+            "volume": "35",
+            "issn": "1",
+            "pages": "19--30",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Influencing factors of physicians'turnover intention at public county hospitals:a career stage perspective",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Chin J Hosp Admin",
+            "volume": "30",
+            "issn": "",
+            "pages": "930--934",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "A study on fatigue status and turnover intention of grass-roots medical staff in Guangdong Province",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Guangdong Medicine",
+            "volume": "39",
+            "issn": "",
+            "pages": "91--96",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Assessing predictors of intention to prescribe sick leave among primary care physicians using the theory of planned behaviour",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Nantha",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Fam Pract",
+            "volume": "19",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Million village doctors cannot become reform forgetters",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "China Health Talent",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The village doctors' job satisfaction has a positive effect on resilience 3. The village doctors' job satisfaction has a positive effect on work engagement 4. The village doctors' resilience has a positive effect on work engagement 5. The village doctors' resilience has a negative effect on turnover intention 6. The village doctors' work engagement has a negative effect on turnover intention 7. The village doctors' job satisfaction has an indirect negative effect on turnover intention through the mediating effect of resilience 8. The village doctors' job satisfaction has an indirect negative effect on turnover intention through the mediating effect of work engagement 9. The village doctors' job satisfaction has an indirect positive effect on work engagement through the mediating effect of resilience 10. The village doctors' resilience has an indirect negative effect on turnover intention through the mediating effect of work engagement Fig. 1 The theoretical model and hypotheses Zhang et al.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "The final modified hypothetical model's fit indices were AGFI = 0.911, GFI = 0.935, NFI = 0.964, CFI = 0.966, IFI = 0.966, TLI = 0.959, RMSEA = 0.068, all of which complied with the reference value that presented it as an acceptable model fit. Each path was guided by 2000 repetitions of Biascorrected bootstrap using maximum likelihood estimation, and the results of mediation analysis are shown in",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "The final model and standardised model paths",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "\u2190Work engagement \u22120.13 (\u22120.19)-(\u2212 0.07) 6 Indirect effects Work engagement \u2190Job satisfaction 0.32 0.29-0.36 Turnover intention \u2190Job satisfaction \u22120.04 (\u22120.07)-(\u2212 0.02) Turnover intention \u2190Resilience \u22120.09 (\u22120.12)-(\u2212 0.04)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Abbreviations SD: Standard Deviation; EFA: Exploratory factor analysis; SEM: Structural Equation Modeling; AGFI: Adjust goodness of fit index; NFI: Normed fit index; GFI: Goodness of fit index; CFI: Comparative fit index; TLI: Tucker-Lewis index; IFI: Incremental; RMSEA: Root mean square error of approximation; ANOVA: Analysis of Variance; Cronbach's \u03b1: Cronbach's Alpha coefficient",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Demographic characteristics of participants (n = 2693)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Item scores in job satisfaction, resilience, work engagement and turnover intention",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Correlation coefficients among study variables",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Significance test of the mediating test",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Significance test of every mediating pathway",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors wish to acknowledge research support by The Municipal Health Commission of Jining city, and thankful to all village doctor who participated in this study. Meanwhile, please allow us to pay our respects to Chinese village doctors in this article. In the outbreak of pneumonia caused by a new type of coronavirus infection in China, they are fighting for the health of 900 million rural residents. No matter the old village doctors who are going to retire or the young who just set foot on the job, they have no regrets, no conditions and actively participated in the front-line work of epidemic prevention and control in China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions NL conceived the study. The study was conducted by XZ in consultation with all the co-authors. LB and XB created the new software used in the work; LB, DK, QC and LL performed the statistical analyses in consultation with the other authors. XZ drafted the manuscript and all authors contributed to critically revising the paper. Finally, all authors read and approved the submitted manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "This research was funded by Teacher Support Fund of Jining Medical University (JY2017RW001), which issued a call for proposals to undertake this evaluation. The funding body had representation on the evaluation steering group, but played no role in the collection and analysis of data, nor in the preparation of this paper. The authors' analysis and interpretation of the evidence are their own and not those of the funders.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "Our research group submitted the application materials to Medical Ethics Committee of West China School of Public Health and West China Fourth Hospital. Based on the principles of informed consent and privacy protection, the expert group reviewed the ethical application and thought that this study did not involve the intervention and the collection of human biological samples, and that individuals could not be tracked based on the data contained in the study, therefore, the expert group approved that this study could collect data on the basis of the oral consent of the respondents. The research group did follow the standard procedure carefully to obtain the oral informed consent of the respondents. Prior to the on-site questionnaire survey, each respondent was informed that his / her participation was voluntary and anonymous. Each respondent was also informed that he / she had the right to refuse to participate and the right to terminate participation at any time during the survey. A total of 96 questionnaires of the respondents who dropped out of the survey were destroyed in their presence.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and consent to participate"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Publisher's Note"
+        }
+    ]
+}

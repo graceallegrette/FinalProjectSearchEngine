@@ -1,0 +1,217 @@
+{
+    "paper_id": "845eec554852d08e512156f62f85050b2a8289b0",
+    "metadata": {
+        "title": "Letter to the editor No evidence supports the use of ether and chloroform inhalation for treating COVID-19",
+        "authors": [
+            {
+                "first": "Paulo",
+                "middle": [],
+                "last": "Ricardo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Federal University of Sergipe Universidade Federal de Alagoas",
+                    "location": {
+                        "settlement": "S\u00e3o Crist\u00f3v\u00e3o, Arapiraca",
+                        "country": "Brazil, Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Martins-Filho",
+                "middle": [],
+                "last": "Victor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Federal University of Sergipe Universidade Federal de Alagoas",
+                    "location": {
+                        "settlement": "S\u00e3o Crist\u00f3v\u00e3o, Arapiraca",
+                        "country": "Brazil, Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Santana",
+                "middle": [],
+                "last": "Santos",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Federal University of Sergipe Universidade Federal de Alagoas",
+                    "location": {
+                        "settlement": "S\u00e3o Crist\u00f3v\u00e3o, Arapiraca",
+                        "country": "Brazil, Brazil"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Dear Editor, SARS-CoV-2 has been spreading rapidly across the world as well as the number of fake news on social media regarding harmful or non-harmful treatments which are ineffective for treating COVID-19. In Brazil, the first case of COVID-19 was confirmed on February 26, 2020 and until March 20, 2020 at least 970 cases and seven deaths have been reported. The fear and uncertainty have led people to consume and share mistrust and misinformation on the Internet. Since the first confirmed case in Brazil, fake news about the effectiveness of an ether and chloroform blend known as \"lan\u00e7a perfume\" or \"lol\u00f3\" were spread on social media.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Nowadays, the ecosystem of big data has provided valuable information about online health-related behaviour and new patterns among population groups using social media data. Google Trends may act as an efficient real time surveillance system by monitoring hit searches of specific health issues leading to reliable and meaningful indicators to track health information demand and supply trends (1). We used Google Trends to assess recent search activity (from February 25 to March 20, 2020) on the novel coronavirus in Brazil and the popularity of related search terms. Related searches for coronavirus revealed a high level of interest (a breakout over 5000%) on the information about the use of an ether and chloroform blend in treating COVID-19, especially in the North and Northeast regions which are recognized as the poorest regions in the country.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The use of Internet as a source of health information has increased over the years, but reporting incomplete aspects of scientific studies, misinterpreting the findings and highlighting unusual claims have become common practice. Unfortunately, fake news and misinformation on social media can lead people to make harmful health decisions. It is important to check health information related to COVID-19 from reliable news sources and expert guidance from health authorities and international health organizations, rather than from shared stories in social media. Journalists and health-care professionals should cooperate with an effective communication to enhance healthy attitudes towards the pandemic (2) .",
+            "cite_spans": [
+                {
+                    "start": 705,
+                    "end": 708,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Although the epidemic use of the ether and chloroform as a recreational drug in Brazil has been generally neglected in the world literature of public health (3) and quantitative data of human fatality after acute inhalation exposure to this drug combination are not available, there is evidence from human and animal studies that chloroform may lead to hepatic, renal and cardiovascular injury (4-6). Furthermore, there is no evidence supporting claims that ether and chloroform inhalation is useful in the treatment of COVID-19. Authorities should reinforce the need to seek information from government agencies and national and international health organizations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A google trends-based approach for monitoring NSSI",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bragazzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Psychol Res Behav Manag",
+            "volume": "7",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "2019-nCoV, fake news, and racism",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shimizu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "685--691",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Social rank and inhalant drug use: the case of lan\u00e7a perfume use in S\u00e3o Paulo, Brazil. Drug Alcohol Depend",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Noto",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Anthony",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "International Programme on Chemical Safety (IPCS). Chloroform. Environmental Health Criteria",
+            "volume": "131",
+            "issn": "1-2",
+            "pages": "92--101",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Mechanisms involved in cardiac sensitization by volatile anesthetics: general applicability to halogenated hydrocarbons?",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Himmel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Crit Rev Toxicol",
+            "volume": "38",
+            "issn": "9",
+            "pages": "773--803",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Experimentation\" with chloroform",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hutchens",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "K\u00fcng",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Am J Med",
+            "volume": "78",
+            "issn": "4",
+            "pages": "715--723",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Suggested citation Martins-Filho PR and Santos VS. No evidence supports the use of ether and chloroform inhalation for treating COVID-19. Rev Panam Salud Publica. 2020;44:e41. https://doi.org/10.26633/ RPSP.2020.41",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

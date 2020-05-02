@@ -1,0 +1,685 @@
+{
+    "paper_id": "2310f7d4f82dcf7fd5301033d0b4a2b47d0f3f17",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": ". The incidence of seven categories, total incidence and mortality of infectious diseases from 2008 to 2017, per 100,000 2   Table S2 . Ten Note: Joinpoint regression cannot progress records with dependent variable=0, so the following several diseases did Note: Ranking is based on the incidence of each infectious disease. Abbreviations were showed as follows:",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 139,
+                    "text": "Ten",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 121,
+                    "end": 133,
+                    "text": "2   Table S2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Supplementary Materials"
+        },
+        {
+            "text": "TB, tuberculosis; ID, infectious diarrhea diseases other than cholera, bacterial dysentery, amoebic dysentery, typhoid, and paratyphoid; HFMD, Hand Foot Mouth Disease; SI, seasonal influenza; SF, scarlet fever; AHC, acute hemorrhagic conjunctivitis; T/P, typhoid and paratyphoid; JE, Japanese encephalitis; AIDS, acquired immune deficiency syndrome; HF, hemorrhagic fever; MM, meningococcal meningitis; HD, hydatid diseases; SM, schistosomiasis; NT, neonatal tetanus; H5N1, avian influenza H5N1; H7N9, avian influenza H7N9; H1N1, influenza A H1N1; SARS, severe acute respiratory syndrome. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Materials"
+        },
+        {
+            "text": "Note: non-students cases referred to cases collected in the system, but not students.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Figure S11. The proportions of analyzed cases for students (blue) and non-students (red) without including the analyses at each age from 6 to 22 years in boys and girls across the 10 year study period"
+        },
+        {
+            "text": "across the 10 year study period Figure S13. The comparison of analyzed cases for students and non-students without including the analyses in different provinces across the 10 year study period",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Figure S12. The comparison of proportions of analyzed cases for students and non-students without including the analyses (subfigure A), as well as the trend of non-students cases at each age from 6 to 22 years in boys and girls (subfigure B)"
+        },
+        {
+            "text": "All cases in this study were confirmed cases, according to the diagnosis of diseases that is formulated and released by the National Antibody titer testing. Liver and kidney function test); 2. Imaging examination; 3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Diagnostic Criteria"
+        },
+        {
+            "text": "Sars-CoV laboratory testing (SARS-CoV nucleic acid (RNA) detection; Detection of SARS-CoV specific antigen N protein;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Vaccine-preventable diseases"
+        },
+        {
+            "text": "SARS-CoV specific antibody detection)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Vaccine-preventable diseases"
+        },
+        {
+            "text": "Tuberculosis + + Histological examination of skin lesions ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Bacterial infections"
+        },
+        {
+            "text": "Patients had travel and residence history in epidemic area within 2 months before onset.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Contact history:"
+        },
+        {
+            "text": "Patients had direct or indirect contact with rats or their excreta (faeces, or urine), secretions, etc. within 2 months prior to onset of disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Contact history:"
+        },
+        {
+            "text": "In the febrile period, there were increased white blood cell counts and thrombocytopenia in peripheral blood, and abnormal lymphocytes appeared. Blood concentration (hypotensive shock stage) or hemodilution (oliguria stage)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Routine blood"
+        },
+        {
+            "text": "Urine protein positive, may appear under the microscope hematuria, tubular urine. There may be gross hematuria and membrane in urine; Large fused cells can be found in the sediment of urine",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Routine urine"
+        },
+        {
+            "text": "Blood creatinine and urea nitrogen were increased Serum specific IgM antibody was positive.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Blood biochemical examination"
+        },
+        {
+            "text": "The serum specific IgG titer was 4 times higher in the convalescence phase than in the acute phase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Blood biochemical examination"
+        },
+        {
+            "text": "needs to rely on specific serological examination. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Blood biochemical examination"
+        },
+        {
+            "text": "It occurs in the winter and spring season, or the body or clothing of patients often has body lice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Epidemiological history:"
+        },
+        {
+            "text": "The detection of Rickettsia prowazek antibody in the serum samples of patients serves as a serological diagnosis of epidemic typhus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Test for Rickettsia prowazek antibody"
+        },
+        {
+            "text": "In the Weil-Felix reaction, the serum OX 19 bacterial strain agglutination titer was greater than 1:160, and the serum agglutination titer increased by 4 times or more with the increase of the disease course, which was a positive test of antibody for typhus infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Weil-Felix reaction"
+        },
+        {
+            "text": "Indirect immunofluorescence test was performed on the serum of patients with known antigens of Rickettsia prowazek. Indirect immunofluorescence test showed that serum antibody titer IgM of Rickettsia prowazek was greater than or equal to 1:40, or IgG was greater than or equal to 1:160, or twice the antibody titer of serum samples was increased by 4 times or more to test positive for typhus infection antibody.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Indirect immunofluorescence assay was used to detect Rickettsia prowazek antibody"
+        },
+        {
+            "text": "The PCR amplification of Rickettsia prowazek DNA fragments from the blood samples of patients was effective and positive for Rickettsia prowazek.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Polymerase linked reaction (PCR) was used to detect the fragment of Rickettsia prowazek gene"
+        },
+        {
+            "text": "Qualified laboratory samples or blood samples were inoculated directly into guinea pigs to isolate Rickettsia prowazek.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Rickettsia prowazek separation"
+        },
+        {
+            "text": "2.1. Clinical symptoms\uff1aRelated clinical symptoms (omitted).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Endemic typhus"
+        },
+        {
+            "text": "Most of them occur in autumn and winter, but there is no obvious seasonality in temperate and subtropical regions, and most of them have flea contact history or live in rat-infested areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Epidemiological history:"
+        },
+        {
+            "text": "The detection of rickettsia mooseri antibody in the serum samples of patients serves as a serological diagnosis of epidemic typhus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Test for rickettsia mooseri antibody"
+        },
+        {
+            "text": "In the Weil-Felix reaction, the serum OX 19 bacterial strain agglutination titer was greater than 1:160, and the serum agglutination titer increased by 4 times or more with the increase of the disease course, which was a positive test of antibody for typhus infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Weil-Felix reaction"
+        },
+        {
+            "text": "Indirect immunofluorescence test was performed on the serum of patients with known antigens of rickettsia mooseri. Indirect immunofluorescence test showed that serum antibody titer IgM of rickettsia mooseri was greater than or equal to 1:40, or IgG was greater than or equal to 1:160, or twice the antibody titer of serum samples was increased by 4 times or more to test positive for typhus infection antibody.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Indirect immunofluorescence assay was used to detect rickettsia mooseri antibody"
+        },
+        {
+            "text": "The PCR amplification of rickettsia mooseri DNA fragments from the blood samples of patients was effective and positive for rickettsia mooseri.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Polymerase linked reaction (PCR) was used to detect the fragment of rickettsia mooseri gene"
+        },
+        {
+            "text": "Qualified laboratory samples or blood samples were inoculated directly into guinea pigs to isolate rickettsia mooseri.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Rickettsia mooseri separation"
+        },
+        {
+            "text": "Based on the epidemiological data, clinical symptoms and laboratory test results, a comprehensive analysis of suspected diagnosis and clinical diagnosis was made.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Principles of diagnosis"
+        },
+        {
+            "text": "increased obviously, and polynuclear white blood cells increased mainly. Sugar and chloride significantly reduced, protein content increased. However, in the early stage of the course of disease, only the pressure is increased and the appearance is clear, followed 3.4.2 Detection of neisseria meningitidis specific IgG antibody in convalescent serum showed a 4-fold or more increase in titer than that in acute phase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Principles of diagnosis"
+        },
+        {
+            "text": "Patients had a history of unsafe sex, or a history of sexual infection, or multiple sexual partners. The mother of the newborn patient had a history of gonorrhea.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Principles of diagnosis"
+        },
+        {
+            "text": "3. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Laboratory Tests:"
+        },
+        {
+            "text": "Histopathologic changes of stage iii syphilis were observed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Histopathological examination"
+        },
+        {
+            "text": "Most had a history of unsafe sex, or a history of sexual infection, or multiple sexual partners.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Contact history:"
+        },
+        {
+            "text": "Early recessive syphilis: in the past 2 years, the following cases occurred: There is no clear history of syphilis diagnosis or treatment. Cerebrospinal fluid tests may be performed when conditions permit to exclude asymptomatic neurosyphilis. Recessive syphilis usually has no obvious abnormality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Contact history:"
+        },
+        {
+            "text": "The birth mother was a syphilis patient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Contact history:"
+        },
+        {
+            "text": "6.2.1 Dark field microscopy, silver plating staining or nucleic acid amplification test Treponema pallidum can be found in skin and mucous membrane lesions or tissue samples of early fetal transmission of syphilis, or nucleic acid amplification tests test positive for treponema pallidum nucleic acid.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Laboratory Tests:"
+        },
+        {
+            "text": "Serological test of syphilis was as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serological test of syphilis"
+        },
+        {
+            "text": "A) Positive serological test of treponema pallidum at birth, titer greater than or equal to 4 times that of the mother before delivery, ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serological test of syphilis"
+        },
+        {
+            "text": "Based on the epidemiological history, clinical manifestations and laboratory examination, the diagnosis was made. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Principles of diagnosis"
+        },
+        {
+            "text": "Due to the window period of detection, antibody detection, nucleic acid detection and HIV virus isolation test should be comprehensively applied in laboratory detection according to the situation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "General"
+        },
+        {
+            "text": "The results of the screening test are responsive, suggesting that HIV antibodies may be positive, which needs to be confirmed by further supplementary tests. The results of the screening test showed no response and HIV antibody was negative.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "HIV antibody screening test"
+        },
+        {
+            "text": "A) HIV-1 antibody positive (+) shall meet one of the following criteria:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "1) At least two env bands (gp41 and gp160/gp120) appear, or at least one env band and at least one gag or pol band appear simultaneously;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "2) It meets the positive criteria provided by the state-approved HIV antibody confirmation kit.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "B) HIV-2 antibody positive (+) shall meet one of the following criteria:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "1) There are at least two env belts (gp36 and gp140/ gp105).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "2) In line with the positive criteria provided by the state-approved HIV antibody confirmation kit.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "C) Negative HIV antibody (-): there is no specific band of HIV antibody. D)HIV antibody uncertainty (\u00b1): specific bands of HIV antibody appear, but not enough to determine positive.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Determination of HIV antibody confirmation test results"
+        },
+        {
+            "text": "Positive results were confirmed and HIV antibody was reported. The positive test results were negative and HIV antibody was reported. The results of the confirmatory test were inconclusive, and HIV antibody was reported to be inconclusive, and it was suggested to follow up 2 to 4 weeks later or to have HIV nucleic acid test as soon as possible. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Treatment of HIV antibody confirmation test results"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical symptoms\uff1aHave different subtypes, including H7, H9N2, H10N7, and H5N1. Related clinical symptoms (omitted)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Epidemiological history: (omitted)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Epidemiological history: Had contact with suspected or clinically or laboratory-confirmed SARS cases 14 days before onset, especially close contact with them",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Cases have clear evidence of transmission to others, especially to multiple persons who have been diagnosed with suspected or clinically or laboratory-confirmed SARS cases",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Had history of contact with masked civet or related wildlife within 14 days prior to onset of illness, such as having been to the premises and environment where masked civets or related wildlife are raised, sold, transported, processed or cooked, and having direct contact with their secretions and/or excreta",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "B) Those with 5 item and etiological examination of trachea and bronchial secretions meeting the requirements of 4.1.a item or",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A) Having 3 item and meeting the requirements of 4.3 item in pleural hydrothorax or pleural pathology examination",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "B) Those that have 3.3 item and pleural effusion and meet the requirements of 4",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Source of diagnostic criteria, detailed testing methods, instruments, procedures, etc",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "CPs/mL suggested that HIV infection, negative cannot exclude HIV infection",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Immunological test is the main test index for the staging of HIV infection and AIDS and the evaluation of efficacy, mainly using CD4+T lymphocyte test, divided into CD4+T lymphocyte count and percentage",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "This was suitable for adults and children over 5 years old. The CD4+T lymphocyte count in this group was \u2265500/mm3, indicating no immune deficiency. 350/mm3-499/mm3 indicated mild immunodeficiency",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "3--349",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "For children aged 5 years and under. The percentage of CD4+T lymphocytes in peripheral blood T cells in this group was > 35%",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "12 months old ~ 36 months old), or > 25% (37 months old -60 months old), indicating no immune deficiency.30%-35% (< 12 months of age), or 25%-30% (12 months of age-36 months of age), or 20%-25% (37 months of age ~ 60 months of age)",
+            "authors": [
+                {
+                    "first": "&gt;",
+                    "middle": [],
+                    "last": "30%",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Source of diagnostic criteria, detailed testing methods, instruments, and procedures, etc",
+            "authors": [],
+            "year": null,
+            "venue": "WS 293-2019\" replacing \"WS 293-2008",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Contact history: Patient has received treatment of blood, blood products or other human tissues, cell components, or organ transplantation; A history of hemodialysis, unsafe injection or other invasive operations, such as surgery, endoscopy, endoscopy, puncture, catheter, intubation, oral treatment, acupuncture, beauty treatment, tattoo, pedicure, etc.; previous history of paid blood supply; a history of B) The clinical manifestations are characteristic of chronic hepatitis C",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "C) Liver histopathological examination shows the characteristics of chronic hepatitis C",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "D) Imaging and other auxiliary examinations are characteristic of chronic hepatitis C",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "E) Acute hepatitis c has been ruled out with an epidemiological history or unknown duration of infection",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Hepatitis C cirrhosis: both anti-HCV and HCV RNA are positive and meet any of the following criteria: A) The clinical manifestations are characteristic of hepatitis C cirrhosis",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "B) Liver histopathology showed the characteristics of hepatitis C cirrhosis",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "C) Imaging and other auxiliary examinations are characteristic of hepatitis c cirrhosis",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Source of diagnostic criteria, detailed testing methods, instruments, and procedures, etc",
+            "authors": [],
+            "year": null,
+            "venue": "WS 213-2018\" replacing \"WS 213-2008",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Implementation time",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "2018--2026",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "year trends in incidence, mortality, number of cases and deaths of 44 notifiable infectious diseases among Chinese children and adolescents aged 6-22 years by sex, 2008-2017 3 Table S3. The annual percentage changes (APC) and the joinpoint year range for 44 current notifiable infectious diseases in China from 2008 to 2017 4 Table S4. The domestic classification of current notifiable infectious diseases in China The national coverage rate of the CISDCP network reporting by year from 2008 to 2017 in township level and county and above level The national coverage rate of the CISDCP network reporting by province in township level and county level and above from 2008 to 2017 Flowchart of data filtering and management from the National Notifiable The annual percentage changes (APC) and turning point in the trend from 2008 to 2017 for total and seven categories of infectious diseases using the joinpoint regression models Ranks of mortality or number of deaths for 44 notifiable infectious diseases during the past 10-years from 2008 to The trends of incidence of each infectious disease in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 The comparison of incidence of 44 current notifiable infectious diseases in boys and girls Trends in the number of cases by age from 6 to 22 years for each infectious disease in boys and girls, from 2008 to 2017 The seasonal variation by month of seven categories of 44 notifiable infectious diseases in 2017 The comparison of incidence of seven categories of 44 notifiable infectious diseases in different regions in 2017The proportions of analyzed cases for students (blue) and non-students (red) without including the analyses at each age from 6 to 22 years in boys and girls across the 10 year study period The comparison of proportions of analyzed cases for students and non-students without including the analyses (subfigure A), as well as the trend of non-students cases at each age from 6 to 22 years in boys and girls (subfigure B) across the 10 year study period The comparison of analyzed cases for students and non-students without including the analyses in different provinces across the 10 year study period",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "not have the results of Joinpoint regression (Cholera, Plague, Hepatitis D, Diphtheria, Neonatal Tetanus, Poliomyelitis, Filariasis, H7N9, H5N1, H1N1, and SARS). The results from Seasonal Influenza 1 were based on the full range 2008 to 2017 years without excluding the extreme value in 2009 when the Seasonal Influenza outbreak in China; The results from Seasonal Influenza 2 were based on the full range 2008 to 2017 years but we excluded the extreme value in 2009 when the Seasonal Influenza outbreak in China. The results from Schistosomiasis 1 were based on the full range 2008 to 2017 years without excluding the extreme value in 2015 when the Schistosomiasis outbreak in China; The results from Schistosomiasis 2 were based on the full range 2008 to 2017 years but we excluded the extreme value in 2015 when the Schistosomiasis outbreak in China.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "The national coverage rate of the CISDCP network reporting by year from 2008 to 2017 in township level and county and above level Figure S2. The national coverage rate of the CISDCP network reporting by province in township level and county level and above from 2008 to 2017 (A, D G-county level and above; B, E, H-township level; C, F, I-national total) Flowchart of data filtering and management from the National Notifiable Infectious Disease Surveillance System Figure S4. The annual percentage changes (APC) and turning point in the trend from 2008 to 2017 for total and sevencategories of infectious diseases using the joinpoint regression modelsNote: * represented that the APCs were statistically significant during the study period. Red pots represented the observed incidence of each year. If there was only one fitted trend line with green color, it meant that there were no joinpoints years during the past 10 years. But if there were two fitted trend lines with green and blue color, it meant that there was one joinpoints year during the 10 years using the Joinpoint regression model. * represented the statistical significant trends",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Ranks of mortality or number of deaths for 44 notifiable infectious diseases during the past 10-years from 2008 to 2017",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "The trends of incidence of Haemorrhagic Fever in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-2. The trends of incidence of Mumps in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-3. The trends of incidence of Rubella in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-4. The trends of incidence of Measles in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-5-1. The trends of incidence of Seasonal Influenza in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 with full range (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-5-2. The trends of incidence of Seasonal Influenza in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 excluded the extreme value in 2009 when the Seasonal Influenza outbreak in China (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-6. The trends of incidence of Hepatitis B in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-7. The trends of incidence of Hepatitis A in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-8. The trends of incidence of Pertussis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-9. The trends of incidence of Infectious diarrhea in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-10. The trends of incidence of Dysentery in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-11. The trends of incidence of Hand, Foot, and Mouth Disease in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-12. The trends of incidence of Acute Haemorrhagic Conjunctivitis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-13. The trends of incidence of Typhoid/Paratyphoid in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-14. The trends of incidence of Malaria in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-15. The trends of incidence of Japanese Encephalitis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-16. The trends of incidence of Typhus in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-17-1. The trends of incidence of Schistosomiasis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 with full range (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-17-2. The trends of incidence of Schistosomiasis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 excluded the extreme value in 2015 when the Schistosomiasis outbreak in China (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-18. The trends of incidence of Kala-azar in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-19. The trends of incidence of Dengue in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-20. The trends of incidence of Brucellosis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-21. The trends of incidence of Hepatitis E in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-22. The trends of incidence of Rabies in both genders and its joinpoint(s) during the past 10-years from 2008 to Figure S6-23. The trends of incidence of Hydatid disease in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-24. The trends of incidence of Leptospirosis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-25. The trends of incidence of Anthrax in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-26. The trends of incidence of Tuberculosis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-27. The trends of incidence of Scarlet Fever in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-28. The trends of incidence of Meningococcal Meningitis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-29. The trends of incidence of Leprosy in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-30. The trends of incidence of Gonorrhoea in both genders and its joinpoint(s) during the past 10-years from Figure S6-31. The trends of incidence of Syphilis in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-32. The trends of incidence of HIV/AIDS in both genders and its joinpoint(s) during the past 10-years from 2008 to 2017 (* represented the statistical significant trends. Legends were the same to Figure S2) Figure S6-33. The trends of incidence of Hepatitis C in both genders and its joinpoint(s) during the past 10-years from Figure S7. The comparison of incidence of 44 current notifiable infectious diseases in boys and girls from 2008 to 2017 (using the chi-square test) Figure S8-1. Trends in the number of cases by age from 6 to 22 years for quarantinable diseases in boys and girls, from 2008 to 2017 Figure S8-2. Trends of the number of cases by age from 6 to 22 years for vaccine-preventable diseases in boys and girls from 2008 to 2017 Figure S8-3. Trends of the number of cases by age from 6 to 22 years for gastrointestinal/enterovirus diseases in boys and girls, from 2008 to 2017 Figure S8-4. Trends of the number of cases by age from 6 to 22 years for vector-borne diseases in boys and girls from 2008 to Trends of the number of cases by age from 6 to 22 years for zoonotic infections in boys and girls from 2008 to Figure S8-6. Trends of the number of cases by age from 6 to 22 years for bacterial infections in boys and girls from 2008 to Figure S8-7. Trends of the number of cases by age from 6 to 22 years for sexually transmitted and blood-borne infections in boys and girls from 2008 to The seasonal variation by month of seven categories of 44 notifiable infectious diseases in 2017Note: There are diseases with single-digit cases without trends by month that were not presented in the figure.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "The comparison of incidence of seven categories of 44 notifiable infectious diseases in different regions in 2017 Note:** represented the statistical tests were significant using the chi-square test. A total of 31 provinces in mainland of China were classified into seven regions including Northeast (Heilongjiang, Jilin, Liaoning and Inner Mongolia), Eastern China (Shandong, Jiangsu, Shanghai, Zhejiang, Anhui, Jiangxi, and Fujian), Northern China (Hebei, Beijing, Tianjin, and Shanxi), Central China (Henan, Hubei, and Hunan), Southern China (Guangdong, Guangxi, and Hainan), Southwest (Sichuan, Yunnan, Guizhou, Chongqing, and Tibet), and Northwest (Xinjiang, Ningxia, Qinghai, Shannxi, and Gansu).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "by typical changes. The cerebrospinal fluid of patients with outbreak shock is usually clear, and the protein, of ecchymosis (spot) tissue fluid and cerebrospinal fluid smear, gram negative renal diplococcus can be found in polynuclear white blood cells or outside cells. 3.3.2 Neisseria meningitidis was positive in cerebrospinal fluid, blood and tissue fluid of stasis (spot). 3.3.3 The specific nucleic acid of neisseria meningitidis tested positive in cerebrospinal fluid, blood and tissue fluid of petechiae specific polysaccharide antigen of neisseria meningitidis was tested positive for cerebrospinal fluid samples in the acute phase.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Having a clear history of unsafe sex, as opposed to having unprotected sex 2 years ago; B) Those who have had consistent clinical manifestations of stage I or ii syphilis, but have not been diagnosed and treated at that time; C) Sex with a clear history of early syphilis infection. Late recessive syphilis: infection time in more than 2 years. Those unable to determine the time of infection is also considered as late recessive syphilis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "and positive serological test of treponema pallidum (see a.4.2); B) IgM antibody test of treponema pallidum: positive (see a.4.3.8);C) For children who cannot be diagnosed with fetal-transmitted syphilis at birth, serological test of treponema pallidum changed from negative to positive or titer increased during any follow-up, and serological test of treponema pallidum was positive (",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "The domestic classification of current notifiable infectious diseases in China Influenza A H1N1 was listed into Group B in April 30th of 2009, but incorporated into seasonal influenza of Group C since November of 2013. SARS, Severe Acute Respiratory Syndrome; AIDS, Acquired Immune Deficiency Syndrome; HFMD, Hand, Foot, and Mouth Disease; Dysentery, Bacillary Dysentery and Amoebic Dysentery",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Health Commission of China. All notifications of targeted infectious diseases, according to the International Classification of Diseases (ICD 10) were verified by recording staff. Records that indicate a misdiagnosis or false reporting are removed to ensure accurate and complete data. The diagnostic procedures, instruments, reagents and imaging features involved in each standard are available in the links of each disease: http://wsbz.nhc.gov.cn/wsbzw/BzcxAction.do?dispatch=goBzgg Table S5. Summary of diagnostic criteria for 44 notifiable infectious diseases in the laboratory tests",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "1 Smear gram staining microscopic examination Clinical suspected patients take secretions, smear, gram staining microscopic examination, the typical multicellular leukocyte gram negative diplococcus. Microscopic examination of positive urethral secretions in male gonococcal urethritis with obvious urethral symptoms has diagnostic value. See URL below. 3.2 Neisseria gonorrhoeae culture Urethral or cervical secretions or other clinical specimens are taken for neisseria gonorrhoeae culture, from which typical morphological colonies with positive oxidase test can be isolated. Take bacterial colony to do smear examination, visible gram negative dicoccus, glucose fermentation test decomposition glucose, does not decompose other sugars.3.3 Neisseria gonorrhoeae nucleic acid testSamples of urine, urethra or cervical secretions were collected and tested positive for gonococcal nucleic acid (See URL below).Most had a history of unsafe sex, or a history of sexual infection, or multiple sexual partners. A history of primary or secondary syphilis may be present. The duration of illness is more than 2 years. Cerebrospinal fluid examination (mainly used for the diagnosis of neurosyphilis) White blood cell count \u226510\u00d7106/L, protein content > 500mg/L, and no other cause for these abnormalities. The CSF VDRL test (or RPR/TRUST test) or fta-abs test (or TPPA/TPHA test) is positive.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": "Tests:",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF10": {
+            "text": "The confirmed cases: 8. Source of diagnostic criteria, detailed testing methods, instruments, and procedures, etc: \"WS 273-2018\" replacing \"WS 273-2007\" (Health Industry Standard of China) http://wsbz.nhc.gov.cn/wsbzw/upload/StandardLibrary/7ac0b3790c8742b7821dd7ddf56394a0.pdf 9. Release and implementation time HIV/AIDS 1. Clinical symptoms\uff1aRelated clinical symptoms (omitted). Having a history of sexually transmitted diseases 2.2 Having unsafe sex (including homosexual and heterosexual sexual contact) 2.3 History of drug abuse with shared syringes 2.4 History of iatrogenic exposure 2.5 Occupational exposure histories 2.6 Spouse or sexual partner of HIV/AIDS patients 2.7 Children born to HIV/AIDS mothers",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF11": {
+            "text": "Pathogen detection 3.3.1 HIV isolation test HIV infection is reported by positive test results, while HIV infection cannot be ruled out by negative test results.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

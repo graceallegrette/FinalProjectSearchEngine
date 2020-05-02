@@ -1,0 +1,2221 @@
+{
+    "paper_id": "d873e54f68ff11110fa02662eecfcbe5cb7711ed",
+    "metadata": {
+        "title": "Nonsteroidal anti-inflammatory drug therapy for neonatal calf diarrhea complex: Effects on calf performance 1",
+        "authors": [
+            {
+                "first": "C",
+                "middle": [
+                    "G"
+                ],
+                "last": "Todd",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Guelph",
+                    "location": {
+                        "postCode": "N1G 2W1",
+                        "settlement": "Guelph",
+                        "region": "Ontario",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "S",
+                "middle": [
+                    "T"
+                ],
+                "last": "Millman",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "D",
+                "middle": [
+                    "R"
+                ],
+                "last": "Mcknight",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "T",
+                "middle": [
+                    "F"
+                ],
+                "last": "Duffield",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Guelph",
+                    "location": {
+                        "postCode": "N1G 2W1",
+                        "settlement": "Guelph",
+                        "region": "Ontario",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "K",
+                "middle": [
+                    "E"
+                ],
+                "last": "Leslie",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Guelph",
+                    "location": {
+                        "postCode": "N1G 2W1",
+                        "settlement": "Guelph",
+                        "region": "Ontario",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The aim of this study was to examine the efficacy of meloxicam (MEL) as supportive therapy for calves with neonatal calf diarrhea complex. For this double-blind controlled trial, 62 Holstein male calves were purchased at birth and transported to a research facility. At the naturally occurring onset of diarrhea, defined as the first occurrence of a fecal score greater than 2 on a 4-point scale, calves were enrolled in the study. Each calf with diarrhea was randomly assigned to receive a single subcutaneous injection of MEL at a rate of 0.5 mg/kg of BW or an equal volume of placebo (PLA) solution. Milk, starter ration, and water intakes were determined daily for each calf from arrival until 56 d of age. The calves were weighed on arrival and each week thereafter. Time to weaning and weaning weight were recorded for each calf. Crude associations between treatment and each outcome variable were examined using t-tests and Pearson chi-squared tests. Subsequently, multivariable regression models were constructed to examine the impact of MEL therapy on meaningful outcome variables. The primary experimental unit in all analyses was the individual calf. In total, 56 calves presented with clinical signs of diarrhea and were enrolled in the study. Two PLA-treated calves died after being enrolled in the study, and there was no calf mortality among the MEL-treated calves. For calves that developed diarrhea after 10 d of age, MEL-treated calves were more likely to consume their entire daily milk allowance (P < 0.05) as compared with PLA-treated calves. Meloxicam-treated calves began consuming starter ration earlier (P < 0.01) and at a greater rate (P < 0.001), and consumed more water (P < 0.001) compared with PLA-treated animals. Over the study period, calves treated with MEL gained BW at a faster rate (P < 0.01) than calves treated with PLA. There was no difference in weaning weight (P > 0.05), but MEL-treated calves tended to wean earlier (P = 0.11) than PLA-treated calves. These results demonstrate that calves receiving a single injection of MEL at the onset of diarrhea had improved appetite and performance compared with PLA-treated calves. Thus, MEL is an effective supportive therapy for neonatal calf diarrhea complex.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Neonatal calf diarrhea complex is a leading cause of morbidity and mortality in preweaned dairy calves. Incidence risks for calfhood diarrhea range between 10 and 35% (Virtala et al., 1996; Donovan et al., 1998; Svensson et al., 2003) . Furthermore, it is estimated that diarrhea accounts for greater than 50% of preweaned calf deaths (USDA, 2008) . Thus, there is a considerable need for research into prevention and supportive therapies for this disease complex.",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 189,
+                    "text": "(Virtala et al., 1996;",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 190,
+                    "end": 211,
+                    "text": "Donovan et al., 1998;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 212,
+                    "end": 234,
+                    "text": "Svensson et al., 2003)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 335,
+                    "end": 347,
+                    "text": "(USDA, 2008)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The main etiologic agents of diarrhea in dairy calves are Escherichia coli K99 (F5), Salmonella spp., rotavirus, coronavirus, and Cryptosporidium parvum. These pathogens cause specific enteric infections, resulting in secretory or malabsorptive diarrhea, along with inflammation of the intestinal epithelium (Naylor, 2002; Foster and Smith, 2009) . Sickness behavior is an integrated response to infection and inflammation, involving characteristic behavioral and physiological changes, including loss of appetite, somnolence, increased thermoregulatory behavior, and reduced social activity (Hart, 1988) .",
+            "cite_spans": [
+                {
+                    "start": 308,
+                    "end": 322,
+                    "text": "(Naylor, 2002;",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 323,
+                    "end": 346,
+                    "text": "Foster and Smith, 2009)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 592,
+                    "end": 604,
+                    "text": "(Hart, 1988)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "It has been reported that altering the activity of cyclooxygenase-2 (COX-2) may be a way of mitigating sickness behavior and enhancing disease recovery (Lugarini et al., 2002) . Meloxicam (MEL) is a nonsteroidal anti-inflammatory drug (NSAID) that preferentially inhibits COX-2 and has a half-life of approximately 26 h in bovine plasma (European Agency for the Evaluation of Medicinal Products, 2007) . A field study reported that MEL administration to calves with diarrhea resulted in improvements in clinical variables (Philipp et al., 2003) . The objective of the present study was to examine the efficacy of MEL as a supportive therapy for calves with neonatal calf diarrhea complex. The hypothesis underlying this study was that NSAID therapy at the onset of diarrhea would attenuate sickness behavior, as well as alleviate malaise and gastrointestinal discomfort, thereby encouraging calves to maintain a strong appetite during sickness and supporting calf performance.",
+            "cite_spans": [
+                {
+                    "start": 152,
+                    "end": 175,
+                    "text": "(Lugarini et al., 2002)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 362,
+                    "end": 401,
+                    "text": "Evaluation of Medicinal Products, 2007)",
+                    "ref_id": null
+                },
+                {
+                    "start": 522,
+                    "end": 544,
+                    "text": "(Philipp et al., 2003)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "All study procedures were reviewed and approved by the University of Guelph Animal Care Committee.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Holstein male calves were purchased at birth from 3 collaborating dairy farms in eastern Ontario, Canada. At the time of purchase, each calf was examined by a research technician, and any calf exhibiting signs of clinical illness or that had received medication in the early postnatal period, remained on the farm of birth and was excluded from the trial. All calves were uniquely identified with Canadian Cattle Identification Agency tags at birth. Calves were fed colostrum until they left the farm of birth; each farm had its own specific colostrum management protocol. Briefly, 2 of the farms offered calves approximately 3 L of colostrum by nurse bottle at first discovery, after the colostrum of the dam had been harvested. The third farm fed calves 4 L of pooled colostrum by esophageal feeder within 6 h of birth. There was no evaluation of colostrum quality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "This study was conducted at the Calf Research Facility, Kemptville Campus, University of Guelph, Kemptville, Ontario, Canada. Space was available for 31 calves on site. Thus, the study was conducted in two 8-wk trials. At 1 to 3 d of age, the calves were transported from their farm of birth to the research site. On arrival, each calf was weighed using a calibrated livestock scale, and its umbilicus was disinfected with 7% tincture of iodine. In addition, 2 mL of Vitamin E-A-D Injectable (300, 100,000, and 10,000 IU/mL, respectively; Servi-Vet Inc., Montreal, Quebec, Canada) and 1 mL of Dystosel Injectable (3 mg/mL of selenium and 136 IU/mL of vitamin E; Pfizer Canada Animal Health Group, Kirkland, Quebec, Canada) were administered intramuscularly to each calf on the left side of the neck, using an 18-gauge, 2.5-cm needle. To determine the uniformity among calves for transfer of maternal immunoglobulins, a blood sample was collected by jugular venipuncture (10-mL Vacutainer without anticoagulant; BD, Franklin Lakes, NJ) on the day of calf arrival. After clotting at room temperature, the sample was centrifuged (1,500 \u00d7 g for 5 min at room temperature), and serum was harvested and frozen for storage. At a later date, the serum was analyzed for serum total protein (TP) concentration by refractometry (Leica Vet360, Richmond Hill, Ontario, Canada). Calves were neither castrated nor dehorned during this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "The calves were housed in individual polyethylene hutches (Poly Square Calf Nursery, Agri-Plastics, Grassie, Ontario, Canada). Each calf was tethered with a chain lead and had access to the outdoors. The hutches were located on a gravel base and the interiors of the hutches were bedded with wood shavings. Hutch placement prevented physical contact between the calves, but allowed visual and auditory contact. Ambient maximum temperature and relative humidity were recorded daily using a calibrated thermohygrometer (Digital Relative Humidity/Temperature Meter with Minimum/Maximum Memory, Fisher Scientific Company, Ottawa, Canada). The management conditions to which the calves were exposed were representative of commercial dairy operations in Ontario, and were in accordance with the policies and guidelines of the Canadian Council on Animal Care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "Calves were provided with 2 L of unpasteurized saleable whole milk (3.9% butterfat, 3.4% protein) by nurse bottle twice daily, at 0800 and 1630 h, from arrival until weaning. Ad libitum calf starter ration (18.0% CP, 3.0% fat, and 2.70 Mcal/kg of ME; Calf Starter with Rumensin, Shur-Gain, St. Mary's, Ontario, Canada) and water were available to the calves throughout the study period, beginning on the day of arrival. Milk, calf starter ration, and water intakes were determined daily for each calf from arrival until 56 d of age. The calves were weaned from the milk diet once they were older than 28 d of age and had consumed a minimum of 750 g/d of calf starter ration for 3 consecutive days. All calves were weighed weekly until 56 d of age and on the day of weaning. Any calf that died during the experimental period was submitted to the Animal Health Laboratory, Kemptville Campus, University of Guelph, for necropsy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calf Performance Measures"
+        },
+        {
+            "text": "Individual calf fecal consistency scores were assigned daily, using a 4-point scale (1 = normal, firm stool; 2 = soft, does not hold form; 3 = runny, spreads easily; 4 = liquid, devoid of solid matter), as described by Larson et al. (1977) . To standardize the fecal scoring system, descriptions and photographs of fecal consistency were provided to the technical staff. Diarrhea was defined as a fecal score greater than 2. Fecal scores of 3 and 4 were described as mild and severe diarrhea, respectively. At the naturally occurring onset of diarrhea, defined as the first occurrence of a fecal score greater than 2, the calves were enrolled in the study. However, for those calves that presented clinical signs of diarrhea before 1 wk of age, enrollment was delayed by 1 d and fecal consistency was reassessed during the ensuing 24-h period. This practice was used to confirm that a truly active first case of diarrhea was identified. The study calves were randomly assigned to receive a single subcutaneous injection of MEL (Metacam 20 mg/mL solution for injection for cattle, pigs and horses, Boehringer Ingelheim Vetmedica GmbH, Ingelheim, Germany) at a rate of 0.5 mg/kg of BW or an equal volume of placebo (PLA) solution. The PLA solution was a clear yellow sterile solution, identical in appearance to the test article, and was formulated as the vehicle without MEL (Boehringer Ingelheim Vetmedica GmbH). For this study, MEL was obtained with an Experimental Studies Certificate (No. 50002) under the authority of Health Canada, Veterinary Drugs Directorate.",
+            "cite_spans": [
+                {
+                    "start": 219,
+                    "end": 239,
+                    "text": "Larson et al. (1977)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study Enrollment and Treatment Allocation"
+        },
+        {
+            "text": "The MEL and PLA treatments were randomized according to a formal random allocation process and blocked for severity of diarrhea (mild vs. severe diarrhea). To ensure that the technical staff was blinded to treatment assignment and that randomization was achieved, the treatments were prepared in double-blind vials and administered in numerical sequence as calves were enrolled in the study. All MEL and PLA treatments were administered at approximately 0930 h on the day of enrollment, under the skin of the neck, anterior to the right shoulder using a 20 gauge, 2.5-cm needle. Injection sites were examined daily for signs of swelling. Beginning on the day of enrollment, the calves were also provided with ad libitum oral electrolyte solution (Calf-Lyte II, V\u00e9toquinol, Lavaltrie, Quebec, Canada), and supplementation continued until fecal consistency returned to a fecal score of 1 or 2. The mean daily intake of oral electrolyte solution for the calves was 3.4 \u00b1 1.0 L. In addition, any calf with diarrhea or other clinical illness that required intravenous fluid or antimicrobial therapy was treated as indicated in the standard operating procedures for therapy of the specific clinical illness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Enrollment and Treatment Allocation"
+        },
+        {
+            "text": "All statistical analyses were performed using SAS (SAS Inst. Inc., Cary, NC). Summary statistics were generated, and crude associations between treatment and each outcome variable were examined using t-tests and Pearson chi-squared tests. Subsequently, multivariable regression models with repeated measures statements were constructed to examine the impact of treatment with MEL on the following dependent variables: milk consumption, starter ration intake, water intake, BW gain, weaning weight, and weaning age. The primary experimental unit in all analyses was the individual calf.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Milk consumption was modeled as a dichotomous outcome, in that calves did or did not consume their entire daily milk allowance. Observations from the 2-wk period immediately after the onset of diarrhea were included in this analysis. The final model for the odds of milk consumption was fit with a binomial distribution and logit link function.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Three models for starter ration intake were constructed: time to starter consumption, rate of starter consumption, and total starter intake over the study period. Time to starter consumption was defined as the number of days after developing diarrhea that each calf took to consume a minimum of 100 g of calf starter ration for 2 consecutive days. Median time to starter consumption was determined based on Kaplan-Meier survival function estimates. Cox proportional hazards regression analysis was conducted to examine the association between treatment and time to starter consumption, while controlling for the effects of significant covariates. An exact method was used to handle ties between calves that began consuming calf starter ration on the same day. Rate of starter consumption was modeled using a normal distribution and identity function. Inclusion in this model was conditional on calves satisfying the time to starter consumption criteria. Finally, a GLM was constructed to evaluate total starter ration intake over the 8-wk study period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Daily water consumption was modeled using a normal distribution and identity function. The final multivariable model included only those observations that were collected after the onset of clinical signs of diarrhea and calves were enrolled in the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "The model for rate of BW gain after diarrhea was fit using a normal distribution and identity function. In addition, a GLM was constructed to examine the association between treatment and total BW gain over the 8-wk study period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Body weight at weaning was evaluated using a GLM. Kaplan-Meier survival function estimates were used to estimate the median time to weaning for each treatment group. A Cox proportional hazards regression model was constructed to examine the effect of treatment on time to weaning, while controlling for the effects of significant covariates. The exact method was used to handle ties between calves that were weaned on the same day of age. Table 1 contains the predictor variables considered for inclusion in the multivariable models. Correlations between all predictor variables were examined to iden-tify highly collinear relationships. If any 2 predictor variables were identified as strongly collinear, the more biologically relevant predictor was chosen for inclusion in the model. The assumption of linearity between continuous predictor variables and each outcome was assessed by visual examination of smoothed scatter plots and the introduction of quadratic terms into the models. The full model was reduced using a manual backward elimination procedure. Predictor variables with P-values less than 0.05 were retained in the final model. Confounding was evaluated by removing individual predictor variables from the model and then determining the change in model coefficients. Any nonsignificant predictor variable causing greater than a 30% change in model coefficients on removal was considered a confounding variable and was included in the final model. Two-way interactions between MEL treatment and significant main effect predictor variables were evaluated by addition of product terms to the model. Statistically significant 2-way interaction terms (P < 0.05) were included in the final model. When significant interactions with treatment were identified, the data were stratified on the variable that was causing the effect modification and reanalyzed.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 439,
+                    "end": 446,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Once the final multivariable models were constructed, the assumptions of homoscedasticity and normality of residuals were evaluated and model diagnostics were performed. Plots of residuals, leverage, and DFFITS were examined to identify outliers, high leverage points, and influential observations. The fit of each mixed model was evaluated and the appropriate correlation structure was determined by identifying that which yielded the smallest Akaike information criterion. For survival analyses, log cumulative hazard plots were visually inspected to verify the assumption of proportional hazards. In addition, sensitivity analysis was used to evaluate the assumption of independent censoring.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "A total of 62 Holstein calves were purchased between May 2 and July 18, 2005. One calf died before enroll-ment in the study. Of the remaining animals, 56 calves presented with naturally occurring neonatal calf diarrhea and were enrolled in the study. The calves received either MEL (n = 28) or PLA (n = 28) treatment. One MEL-treated calf was excluded from all statistical analyses because it was enrolled and treated before the actual onset of its first case of diarrhea. In addition, 1 MEL calf and 1 PLA calf developed severe cases of oral necrobacillosis that required a regimen of systemic antibiotic treatment; accordingly, these calves were also excluded. Therefore, data on 26 MEL-and 27 PLAtreated calves were available for analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Two PLA-treated calves died after enrolling in the study. In one case, necropsy established that death was associated with subacute enteritis, acute bacterial colitis, necrotizing rumenitis, and mild cryptosporidiosis. The principal cause of death for the second calf was cryptosporidiosis. There was no mortality among the MEL-treated calves. No adverse reactions were observed after treatment with MEL or PLA solution.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "There was no association between farm of origin and treatment assignment (P = 0.53) or trial (P = 0.77). The calves did not differ for BW at arrival by treatment (MEL = 46.5 kg and PLA = 46.1 kg; P = 0.80) or by trial (trial 1 = 46.8 kg and trial 2 = 45.8 kg; P = 0.54). The MEL-and PLA-treated calves did not differ for mean serum TP concentration (4.0 and 4.1 g/dL, respectively; P = 0.89). However, calves from the second trial had a greater serum TP concentration, relative to calves in the first trial (5.5 and 2.6 g/dL, respectively; P < 0.001). The mean age for enrollment in the study, at first evidence of diarrhea, was 10.5 and 9.2 d for the MEL-and PLA-treated calves, respectively (P = 0.22), and age at enrollment did not differ by trial (trial 1 = 9.0 d and trial 2 = 10.6 d; P = 0.14). All these relationships provide strong evidence that blind random assignment of calves to treatment groups was successful.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The final model for milk consumption controlled for the effects of arrival BW, age at treatment, and time relative to onset of diarrhea. A first-order autoregressive correlation structure was used to adjust for the correla- Offered into all of the models (i.e., odds of milk consumption, time to starter consumption, rate of starter consumption, total starter consumption over the 8-wk study, water intake, rate of BW gain, total BW gain over the 8-wk study, BW at weaning, and time to weaning). tion between daily milk intakes from individual calves. Overall, MEL-treated calves were 2.6 times more likely than PLA-treated calves to consume all milk offered (P < 0.05). However, the final regression model for milk intake included an interaction between treatment and age at treatment. Thus, milk consumption was stratified by 3 different treatment ages that were representative of the sample population. There was no difference in milk consumption for calves that had been treated with MEL or PLA at less than 7 d of age [n = 17, odds ratio (OR) = 1.33; P = 0.52] or between 8 and 10 d of age (n = 18, OR = 0.80; P = 0.80). However, for those calves that developed diarrhea and were enrolled after 10 d of age, the odds of MEL-treated calves consuming their entire milk allowance were 5.30 times greater than the odds for PLA-treated calves (n = 18, OR = 5.30; P < 0.05).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The Kaplan-Meier survival function estimates for time to starter consumption show that MEL-treated calves began consuming starter ration earlier than PLA-treated calves (Figure 1 ). The median time to starter consumption for the MEL-and PLA-treated calves was 12 and 17 d, respectively. The Wilcoxon test indicated that the survival functions for time to starter consumption for the MEL-and PLA-treated calves were different (\u03c7 2 = 8.55; P < 0.01). A Cox proportional hazards model for time to starter consumption, stratified by treatment and controlling for the effects of farm of origin, arrival BW, and age at treatment, was constructed. On any given day after the onset of diarrhea, the probability that MEL-treated calves had begun consuming starter ration was 3.19 times greater than the probability for PLA-treated calves (hazard ratio = 3.19; P < 0.001). Two PLA-treated calves died before fulfilling the starter consumption criteria and, accordingly, were censored from this analysis. The log cumulative hazard plot for time to starter consumption tended to support the assumption of proportional hazards because the curves were parallel along the sections that included the most observations. A mixed model for rate of starter ration consumption was constructed, and the model residuals indicated that starter intake was increasingly more variable over time. Thus, a heterogeneous first-order autoregressive correlation structure was applied to account for the temporal dependence in the starter ration intake measurements. An interaction between treatment and time was included in the final model. As such, starter ration consumption was stratified by week and least squares means were generated. After satisfying the starter consumption criteria, the MEL-treated calves consumed starter ration at a faster rate than PLA-treated calves (P < 0.001; Table 2 ). However, statistical differences for starter ration consumption by time were observed only during wk 5 (P < 0.001; Table 2 ). Over the course of the 8-wk study period, treatment with MEL was associated with significantly improved total starter ration intake, with MEL-treated calves consuming 12.2 kg more starter ration than PLA-treated calves (39.5 and 27.3 kg, respectively; P < 0.01).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 169,
+                    "end": 178,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1859,
+                    "end": 1866,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 1985,
+                    "end": 1992,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The final multivariable model for water consumption controlled for the effects of farm of origin, arrival BW, time relative to diarrhea, ambient maximum temperature, and ambient maximum relative humidity. There was no interaction between treatment and the significant main effect predictors. The final model was fit with a heterogeneous first-order autoregressive correlation structure. Furthermore, a square-root transfor- mation was used to help normalize the distribution of the model residuals. The least squares means for water consumption have been back-transformed and are presented accordingly in Table 2 . Calves treated with MEL consumed significantly more water than PLA-treated calves (P < 0.001). Specifically, this effect can be attributed to the improved water intake by MEL-treated calves from wk 3 through 6 after diarrhea (P < 0.05; Table 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 605,
+                    "end": 612,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 851,
+                    "end": 858,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The rate of BW gain after onset of diarrhea for the MEL-and PLA-treated calves was evaluated using a mixed model. The final multivariable model controlled for the effects of farm of origin, age at treatment, and time relative to diarrhea. No significant interaction between treatment and age at treatment or time was identified. A heterogeneous first-order autoregressive correlation structure was applied to account for the correlation between weekly BW measurements. Overall, MEL-treated calves gained BW at a faster rate than PLA-treated animals (P < 0.01; Table 2 ). Body weight gain was stratified by week, and the least squares means indicated that MEL-treated calves tended to gain more BW during wk 4 and wk 6 after the onset of diarrhea (P < 0.1 and P < 0.1; respectively, Table 2 ). Total BW gain during the study period was also regressed on MEL treatment. On average, calves receiving MEL gained an additional 4.3 kg of BW during the 8-wk study period, as compared with PLA-treated calves (32.4 and 27.1 kg, respectively; P < 0.01).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 560,
+                    "end": 567,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 782,
+                    "end": 789,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "There was no difference in weaning weight for MELand PLA-treated calves (65.7 kg and 66.6 kg, respectively; P = 0.33). However, the Kaplan-Meier survival function estimates for time to weaning suggest that calves receiving MEL tended to wean earlier than PLAtreated calves (Figure 2 ). The median times to weaning for MEL-and PLA-treated calves were 41 and 47 d, respectively. The Wilcoxon test supports that there was a significant reduction in time to weaning for calves receiving MEL therapy (\u03c7 2 = 6.26; P < 0.05). Cox proportional hazards regression analysis indicated that MEL treatment tended to reduce time to weaning by 65% compared with PLA-treated animals (hazard ratio Starter intake is stratified by week, and time is measured relative to satisfying the starter consumption criteria. The criteria for time to starter consumption indicated that calves had to consume a minimum of 100 g of starter ration for 2 consecutive days. 5 Water intake is adjusted for the effects of farm of origin, arrival BW, ambient maximum temperature, and ambient maximum relative humidity. The back-transformed mean, LCL, and UCL are presented. 6 Water intake and BW gain are stratified by week, and time is measured relative to onset of diarrhea. 7 BW gain is adjusted for the effects of farm of origin and age at treatment. = 1.65; P = 0.111). The log cumulative hazard plot for time to weaning verified the assumption of proportional hazards because the 2 curves were parallel.",
+            "cite_spans": [
+                {
+                    "start": 940,
+                    "end": 941,
+                    "text": "5",
+                    "ref_id": null
+                },
+                {
+                    "start": 1137,
+                    "end": 1138,
+                    "text": "6",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 273,
+                    "end": 282,
+                    "text": "(Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "There was an extremely high incidence of naturally occurring diarrhea in this study; greater than 90% of the calves presented with clinical signs of diarrhea and were enrolled in the trial. The 2 main factors that likely contributed to the increased incidence of neonatal calf diarrhea complex in this population of calves were poor colostrum management and exposure to C. parvum.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Total protein content was measured as an indicator of serum IgG concentrations and the adequacy of colostrum feeding. The serum TP results showed that the MEL-and PLA-treated calves did not differ for immunocompetence; however, the results also indicated that overall colostrum management could have been improved. Serum TP is commonly used to assess passive transfer status in calves (Calloway et al., 2002) . A test value of less than 5.2 g/dL was applied to identify calves with failure of passive transfer (FPT), and it was determined that 77% of the calves had FPT. The risk of FPT in this study was greater than that found in many other populations of calves (Besser et al., 1991; Filteau et al., 2003; Trotz-Williams et al., 2008a; Beam et al., 2009 ). Nevertheless, the increased FPT reported in this study is comparable with the immunocompetence status of calves in commercial veal facilities (Stull and McDonough, 1994) . It is recognized in the literature that decreased serum TP is a significant risk factor for morbidity and mortality in young calves (Par\u00e9 et al., 1993; Donovan et al., 1998) . Thus, the increased incidence of calf diarrhea in this study may have partially resulted from calves not receiving enough good-quality colostrum in a timely manner after birth.",
+            "cite_spans": [
+                {
+                    "start": 385,
+                    "end": 408,
+                    "text": "(Calloway et al., 2002)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 665,
+                    "end": 686,
+                    "text": "(Besser et al., 1991;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 687,
+                    "end": 708,
+                    "text": "Filteau et al., 2003;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 709,
+                    "end": 738,
+                    "text": "Trotz-Williams et al., 2008a;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 739,
+                    "end": 756,
+                    "text": "Beam et al., 2009",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 902,
+                    "end": 929,
+                    "text": "(Stull and McDonough, 1994)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1064,
+                    "end": 1083,
+                    "text": "(Par\u00e9 et al., 1993;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1084,
+                    "end": 1105,
+                    "text": "Donovan et al., 1998)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The second factor that likely influenced the incidence of neonatal calf diarrhea complex was heightened exposure to C. parvum. At the time this study was conducted, the incidence of neonatal calf diarrhea, and in particular, the occurrence of diarrhea associated with C. parvum, was increased throughout Ontario (Trotz-Williams et al., 2005 , 2008b . In 2002, the within-herd prevalence for C. parvum shedding by calves on 51 Ontario dairy farms was between 0 and 70% (Trotz-Williams et al., 2005) . In 2003, the withinherd prevalence for C. parvum shedding by calves on 11 Ontario dairy farms was between 35 and 100% (Trotz-Williams et al., 2007) . In the summer and fall of 2004, the within-herd prevalence for C. parvum shedding by calves on 119 Ontario dairy farms was between 0 and 80% (Trotz-Williams et al., 2008b) . Moreover, this research group found that the odds of diarrhea were 5.3 times greater among calves shedding C. parvum as compared with nonshedding calves (Trotz-Williams et al., 2007) . Thus, it is evident that C. parvum infection and diarrhea are common among preweaned dairy calves in Ontario, and can be a widespread problem on a given farm. The authors of this study had previously acquired calves from the 3 source farms used in this research. As such, at the onset of the study, the authors were familiar with the typical rates of neonatal diarrhea and C. parvum isolation in calves from these farms and had expected the incidence of diarrhea to be increased. Fecal samples were collected from the calves, and it was determined that C. parvum was the primary agent of infection, but rotavirus and coronavirus were also isolated from the feces of some of the calves (Todd, 2007) . Thus, the increased incidence of naturally occur- ring diarrhea among the calves may have been due to C. parvum being spread between calves and throughout the study environment.",
+            "cite_spans": [
+                {
+                    "start": 312,
+                    "end": 340,
+                    "text": "(Trotz-Williams et al., 2005",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 341,
+                    "end": 348,
+                    "text": ", 2008b",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 468,
+                    "end": 497,
+                    "text": "(Trotz-Williams et al., 2005)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 618,
+                    "end": 647,
+                    "text": "(Trotz-Williams et al., 2007)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 791,
+                    "end": 821,
+                    "text": "(Trotz-Williams et al., 2008b)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 977,
+                    "end": 1006,
+                    "text": "(Trotz-Williams et al., 2007)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1694,
+                    "end": 1706,
+                    "text": "(Todd, 2007)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Sick animals often become anorectic, have an increased threshold for thirst, and have reduced motivation to seek out food and water resources. Hart (1988) examined the biological basis of sickness behavior and argued that anorexia and adipsia are part of a highly evolved strategy to combat infection. Briefly, in response to peripheral infection, mononuclear phagocytic cells secrete proinflammatory cytokines (IL-1\u03b2, IL-6, and tumor necrosis factor-\u03b1), which carry signals to the central nervous system (CNS) to induce the sickness response (Dantzer, 2001) . In modern livestock production systems, subtle changes in appetite and thirst are often used as behavioral cues to help identify sick animals and opportunities for intervention (Sowell et al., 1999; Thomson and White, 2006; Huzzey et al., 2007; Weary et al., 2009) . However, when sick animals routinely receive supportive care and veterinary treatment, the effects of sickness behavior responses, such as anorexia and adipsia, on convalescence needs to be taken into consideration (Millman, 2007) .",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 154,
+                    "text": "Hart (1988)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 543,
+                    "end": 558,
+                    "text": "(Dantzer, 2001)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 738,
+                    "end": 759,
+                    "text": "(Sowell et al., 1999;",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 760,
+                    "end": 784,
+                    "text": "Thomson and White, 2006;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 785,
+                    "end": 805,
+                    "text": "Huzzey et al., 2007;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 806,
+                    "end": 825,
+                    "text": "Weary et al., 2009)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 1043,
+                    "end": 1058,
+                    "text": "(Millman, 2007)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The study results indicate that treatment with MEL was associated with an improved appetite for milk, as evidenced by the greater odds of calves consuming the entire daily milk allowance. The differences in milk intake between MEL-and PLA-treated calves may have been due to the anti-inflammatory activity of MEL. Enteric infection would likely have stimulated the release of proinflammatory cytokines into the periphery, which would have communicated with the CNS to induce anorexia and sickness behavior (Johnson, 1998) . However, administering MEL to calves at the onset of diarrhea may partially block the proinflammatory cytokine pathways and, accordingly, inhibit the inflammatory response. Central and peripheral proinflammatory cytokine concentrations were not measured in this study; therefore, it cannot be confirmed that these mechanisms were involved in, or responsible for, the differences in milk consumption between MEL-and PLA-treated calves. Despite these questions about the proximate mechanisms behind this behavioral response, the results clearly demonstrate that during an episode of neonatal calf diarrhea complex, MEL therapy was important in enabling a strong appetite for milk.",
+            "cite_spans": [
+                {
+                    "start": 506,
+                    "end": 521,
+                    "text": "(Johnson, 1998)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Differences in milk consumption between the MELand PLA-treated calves were observed only for those calves that developed diarrhea and were enrolled in the study after 10 d of age. This effect could have been due to differences in appetite development. However, Appleby et al. (2001) reported that calves fed ad libitum milk from artificial teats will often consume more than 7 L of milk per day during the first week of life. Thus, even though in the present study the calves were fed a restricted milk diet, it is likely that after the first few days of life, the calves had adapted to the whole milk diet and the mechanisms for sucking were developed. An alternative explanation is that the differences in milk consumption between the younger and older calves were a consequence of the causal agents of diarrhea. In this study, a larger percentage of calves that enrolled after 10 d of age had C. parvum isolated in their feces, whereas a greater number of younger calves had diarrhea associated with rotavirus or coronavirus (Todd, 2007) . The pathophysiology of cryptosporidiosis and viral diarrhea is different (Foster and Smith, 2009) , which could offer some insight into the calf age effects on milk consumption.",
+            "cite_spans": [
+                {
+                    "start": 261,
+                    "end": 282,
+                    "text": "Appleby et al. (2001)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1028,
+                    "end": 1040,
+                    "text": "(Todd, 2007)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1116,
+                    "end": 1140,
+                    "text": "(Foster and Smith, 2009)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In addition to improvements in milk intake, MELtreated calves began consuming calf starter ration significantly earlier after the onset of diarrhea and at a faster rate, and they consumed significantly more water than PLA-treated animals. These effects are likely not the result of differences in the duration of neonatal calf diarrhea complex because the MEL-and PLA-treated calves did not differ for time to resolution of abnormally fluid feces (Todd, 2007) . Thus, one can hypothesize that MEL administration mitigated the sickness behavior response, which in turn resulted in improved appetite for the calf starter ration and increased thirst. The differences in water intake, however, coincide with periods in which MEL-treated calves were consuming significantly larger quantities of starter ration than PLA-treated animals. Given that water and calf starter intake are strongly correlated (Kertz et al., 1984) , the increased consumption of starter ration may have stimulated the calves to consume more water.",
+            "cite_spans": [
+                {
+                    "start": 447,
+                    "end": 459,
+                    "text": "(Todd, 2007)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 896,
+                    "end": 916,
+                    "text": "(Kertz et al., 1984)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "There is only one other clinical trial that has formally evaluated the therapeutic value of an NSAID as an adjunct treatment for neonatal calf diarrhea complex in dairy calves (Barnett et al., 2003) . Those researchers concluded that calves with putative hemorrhagic enteritis benefited from a single treatment of flunixin meglumine, as evidenced by fewer morbid days and a reduced need for antimicrobial therapy. Milk replacer, grain, and water intakes were not measured; hence, the effect of flunixin meglumine on calf appetite is unknown. However, several other studies have identified positive associations between NSAID therapy and appetite in sick animals. Baile et al. (1981) demonstrated that after a bacterial pyrogen endotoxin challenge, sheep receiving a single dose of dipyrone consumed more concentrate pelleted ration than saline-treated control animals. Indomethacin treatment has been reported to attenuate lipopolysaccharide-induced anorexia in rats (Langhans et al., 1989) , chickens (Johnson et al., 1993) , and pigs (Johnson and von Borell, 1994) . Furthermore, the selective COX-2 inhibitor NS-398 has been shown to mitigate the suppression of food intake in rats after lipopolysaccharide administration (Lugarini et al., 2002) .",
+            "cite_spans": [
+                {
+                    "start": 176,
+                    "end": 198,
+                    "text": "(Barnett et al., 2003)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 663,
+                    "end": 682,
+                    "text": "Baile et al. (1981)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 967,
+                    "end": 990,
+                    "text": "(Langhans et al., 1989)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1002,
+                    "end": 1024,
+                    "text": "(Johnson et al., 1993)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1036,
+                    "end": 1066,
+                    "text": "(Johnson and von Borell, 1994)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1225,
+                    "end": 1248,
+                    "text": "(Lugarini et al., 2002)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Overall, MEL-treated calves experienced greater BW gain after diarrhea compared with PLA-treated calves. This increased growth can likely be attributed to differences in metabolism and nutrient intake. During disease states, proinflammatory cytokines target the CNS and other organ systems, including skeletal muscle, the liver, and adipose tissue, to cause a shift in the balance between anabolic to catabolic processes (Johnson, 1997) . Proinflammatory cytokines in the CNS inhibit the production of GHRH and thyrotropin-releasing hormone, thereby leading to reductions in plasma concentrations of GH and IGF-I (Sartin et al., 1998) . In skeletal muscle, proinflammatory cytokines cause increased muscle protein catabolism and reduced AA uptake (Johnson, 1997) . Many of the AA from muscle proteolysis are diverted to the liver to support acute phase protein production. Positive acute phase proteins are markers of inflammation and are synthesized in large numbers in response to immune activation (Horadagoda et al., 1999) . The release of proinflammatory cytokines also affects fat metabolism in adipose tissue, causing increased lipolysis and reduced lipoprotein lipase activity (Johnson, 1997) . These metabolic responses, together with changes in milk consumption, may have contributed to the slight depression in BW gain by MEL-and PLA-treated calves during wk 2 after diarrhea. However, this reduction in growth was more marked for PLAtreated calves. Therefore, MEL therapy may have acted by mitigating some of the sickness-induced changes in metabolism. During the later stages of the study period, MEL-treated calves tended to experience larger BW gain than PLA-treated animals. These differences in growth were probably an effect of improved consumption of milk and calf starter ration by MEL-treated calves. In feedlot cattle with bovine respiratory disease, long-term improvements in BW gain after treatment with MEL and antimicrobial therapy, compared with a positive control, have also been reported (Friton et al., 2005) .",
+            "cite_spans": [
+                {
+                    "start": 421,
+                    "end": 436,
+                    "text": "(Johnson, 1997)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 613,
+                    "end": 634,
+                    "text": "(Sartin et al., 1998)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 747,
+                    "end": 762,
+                    "text": "(Johnson, 1997)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1001,
+                    "end": 1026,
+                    "text": "(Horadagoda et al., 1999)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1185,
+                    "end": 1200,
+                    "text": "(Johnson, 1997)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2017,
+                    "end": 2038,
+                    "text": "(Friton et al., 2005)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Meloxicam-treated calves tended to wean from the milk diet earlier than PLA-treated calves. Given that the weaning criterion was based on starter ration intake, the differences in age at weaning can be attributed to the earlier and faster rate of starter consumption for the MEL-treated calves, as compared with PLAtreated calves. The earlier time to weaning did not correlate with reduced weaning weights. Thus, one can hypothesize that in terms of starter consumption and growth performance, PLA-treated calves lagged behind MEL-treated animals by almost 1 wk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "It should be noted that 4 highly influential observations were included in the final Cox proportional hazards model for time to weaning. Specifically, 2 MEL-treated and 2 PLA-treated calves experienced poor starter ration consumption and did not fulfill the weaning criteria by the conclusion of the 56-d observation period. Therefore, these calves were handled as censored animals in the weaning age analyses. During model validation, these censored calves were identified as having a large impact on the regression coefficients of the final Cox proportional hazards model for time to weaning. Outliers and influential observations can be excluded from analysis, but only if appropriate justification can be provided. If these 4 calves were removed from the data set, the median time to weaning for MEL-and PLA-treated calves would be 40 and 46 d, respectively. Furthermore, treatment would be associated with a hazard ratio of 2.27, indicating that MEL treatment reduced time to weaning by 127%. However, a valid reason for excluding these data from analysis could not be identified. Thus, the 4 very influential calves were included in the final model for time to weaning, even though they may have masked some of the effect of MEL therapy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In conclusion, this study demonstrates that calves with neonatal calf diarrhea complex experience some of the characteristic behaviors of sickness, including changes in appetite and depressed growth. The results also indicate that calves receiving a single injection of MEL therapy at the onset of diarrhea had improved appetite and performance compared with PLA-treated animals. In particular, treatment with MEL was associated with improved milk consumption during an episode of neonatal calf diarrhea complex, as well increased intake of calf starter ration and water. The greater nutrient intake by MEL-treated calves also supported increased BW gains and a reduction in the time to weaning. Therefore, MEL appears to be an effective supportive therapy for calves with neonatal calf diarrhea complex in terms of calf performance, appetite, and animal welfare.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Performance and feeding behaviour of calves on ad libitum milk from artificial teats",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Appleby",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Weary",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chua",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Appl. Anim. Behav. Sci",
+            "volume": "74",
+            "issn": "",
+            "pages": "191--201",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Endotoxin-elicited fever and anorexia and elfazepamstimulated feeding in sheep",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Baile",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Naylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mclaughlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Catanzaro",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Physiol. Behav",
+            "volume": "27",
+            "issn": "",
+            "pages": "271--277",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Evaluation of flunixin meglumine as an adjunct treatment for diarrhea in dairy calves",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Barnett",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sischo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Reynolds",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "223",
+            "issn": "",
+            "pages": "1329--1333",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Prevalence of failure of passive transfer of immunity in newborn heifer calves and associated management practices on US dairy operations",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Beam",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lombard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kopal",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Garber",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Winter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hicks",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schlater",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Dairy Sci",
+            "volume": "92",
+            "issn": "",
+            "pages": "3973--3980",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Comparison of three methods of feeding colostrum to dairy calves",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Besser",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gay",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Prtichett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "198",
+            "issn": "",
+            "pages": "419--422",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Comparison of refractometers and test endpoints in the measurement of serum protein concentration to assess passive transfer status in calves",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Calloway",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tyler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tessman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hostetler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Holle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "221",
+            "issn": "",
+            "pages": "1605--1608",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Cytokine-induced sickness behavior: Mechanisms and implications",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dantzer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Ann. N. Y. Acad. Sci",
+            "volume": "933",
+            "issn": "",
+            "pages": "222--234",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Associations between passive immunity and morbidity and mortality in dairy heifers in Florida, USA",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Donovan",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Dohoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Montgomery",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bennett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Prev. Vet. Med",
+            "volume": "34",
+            "issn": "",
+            "pages": "31--46",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Scientific discussion for Metacam. Committee for Medicinal Products for Veterinary Use",
+            "authors": [],
+            "year": 1997,
+            "venue": "",
+            "volume": "323",
+            "issn": "",
+            "pages": "1--83",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Health status and risk factors associated with failure passive transfer of immunity in newborn beef calves in Quebec",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Filteau",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bouchard",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fecteau",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dutil",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Dutremblay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Can. Vet. J",
+            "volume": "44",
+            "issn": "",
+            "pages": "907--913",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Pathophysiology of diarrhea in calves",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Foster",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Vet. Clin. North Am. Food Anim. Pract",
+            "volume": "25",
+            "issn": "",
+            "pages": "13--36",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Long-term effects of meloxicam in the treatment of respiratory disease in fattening cattle",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Friton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cajal",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ramirez-Romero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Vet. Rec",
+            "volume": "156",
+            "issn": "",
+            "pages": "809--811",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Biological basis of the behavior of sick animals",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Neurosci. Biobehav. Rev",
+            "volume": "12",
+            "issn": "",
+            "pages": "123--137",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Acute phase proteins in cattle: Discrimination between acute and chronic inflammation",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Horadagoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M G"
+                    ],
+                    "last": "Knox",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gibbs",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W J"
+                    ],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Horadagoda",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E R"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Eckersall",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Vet. Rec",
+            "volume": "144",
+            "issn": "",
+            "pages": "437--441",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Prepartum behavior and dry matter intake identify dairy cows at risk for metritis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Huzzey",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Veira",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Weary",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Dairy Sci",
+            "volume": "90",
+            "issn": "",
+            "pages": "3220--3233",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Inhibition of growth by pro-inflammatory cytokines: An integrated view",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Anim. Sci",
+            "volume": "75",
+            "issn": "",
+            "pages": "1244--1255",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Immune and endocrine regulation of food intake in sick animals",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Domest. Anim. Endocrinol",
+            "volume": "15",
+            "issn": "",
+            "pages": "309--319",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Central and peripheral prostaglandins are involved in sickness behavior in birds",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Curtis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dantzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kelley",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Physiol. Behav",
+            "volume": "53",
+            "issn": "",
+            "pages": "127--131",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Lipopolysaccharide-induced sickness behavior in pigs is inhibited by pretreatment with indomethacin",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Borell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Anim. Sci",
+            "volume": "72",
+            "issn": "",
+            "pages": "309--314",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Ad libitum water intake by neonatal calves and its relationship to calf starter intake, weight gain, feces score, and season",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Kertz",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Reutzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Mahoney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J. Dairy Sci",
+            "volume": "67",
+            "issn": "",
+            "pages": "2964--2969",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Verapamil and indomethacin attenuate endotoxin-induced anorexia",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Langhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Harlacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Scharrer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Physiol. Behav",
+            "volume": "46",
+            "issn": "",
+            "pages": "535--539",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Guidelines toward more uniformity in measuring and reporting calf experimental data",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Owen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Albright",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Appleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "J. Dairy Sci",
+            "volume": "60",
+            "issn": "",
+            "pages": "989--991",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "A role for cyclooxygenase-2 in lipopolysaccharide-induced anorexia in rats",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Lugarini",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hrupka",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Plata-Salaman",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Langhans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Am. J. Physiol. Regul. Integr. Comp. Physiol",
+            "volume": "283",
+            "issn": "",
+            "pages": "862--868",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Sickness behaviour and its relevance to animal welfare assessment at the group level",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Millman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Anim. Welf",
+            "volume": "16",
+            "issn": "",
+            "pages": "123--125",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Neonatal ruminant diarrhea. Pages 352-366 in Large Animal Internal Medicine",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Naylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Effect of birth weight, total protein, serum IgG and packed cell volume on risk of neonatal diarrhea in calves on two California dairies",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Par\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Thurmond",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gardner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Picanso",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Can. J. Vet. Res",
+            "volume": "57",
+            "issn": "",
+            "pages": "241--246",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Efficacy of meloxicam (Metacam \u00ae ) as adjunct to a basic therapy for the treatment of diarrhoea in calves",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Philipp",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "During",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Salamon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Acta Vet. Scand",
+            "volume": "44",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Endocrine modulation of physiological responses to catabolic disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sartin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Elsasser",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Mcmahon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Domest. Anim. Endocrinol",
+            "volume": "15",
+            "issn": "",
+            "pages": "423--429",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Feeding and watering behavior of healthy and morbid steers in a commercial feedlot",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Sowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Branine",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G P"
+                    ],
+                    "last": "Bowman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hubbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sherwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Quimby",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Anim. Sci",
+            "volume": "77",
+            "issn": "",
+            "pages": "1105--1112",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Multidisciplinary approach to evaluating welfare of veal calves in commercial facilities",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Stull",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Mcdonough",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J. Anim. Sci",
+            "volume": "72",
+            "issn": "",
+            "pages": "2518--2524",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Morbidity in Swedish dairy calves from birth to 90 days of age and individual calf-level risk factors for infectious diseases",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Svensson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lundborg",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Emanuelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Olsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Prev. Vet. Med",
+            "volume": "58",
+            "issn": "",
+            "pages": "179--197",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Backgrounding beef cattle",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Thomson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "White",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Vet. Clin. North Am. Food Anim. Pract",
+            "volume": "22",
+            "issn": "",
+            "pages": "373--398",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "An evaluation of meloxicam as supportive therapy for neonatal calf diarrhea complex",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Todd",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Prevalence of Cryptosporidium parvum infection in southwestern Ontario and its association with diarrhea in neonatal dairy calves",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Trotz-Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Jarvie",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peregrine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Can. Vet. J",
+            "volume": "46",
+            "issn": "",
+            "pages": "349--351",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Passive immunity in Ontario dairy calves and investigation of its association with calf management practices",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Trotz-Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peregrine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Dairy Sci",
+            "volume": "91",
+            "issn": "",
+            "pages": "3840--3849",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Calf-level risk factors for neonatal diarrhea and shedding of Cryptosporidium parvum in Ontario dairy calves",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Trotz-Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Nydam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peregrine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Prev. Vet. Med",
+            "volume": "82",
+            "issn": "",
+            "pages": "12--28",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Association between management practices and within-herd prevalence of Cryptosporidium parvum shedding on dairy farms in southern Ontario",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Trotz-Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Duffield",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Nydam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peregrine",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Prev. Vet. Med",
+            "volume": "83",
+            "issn": "",
+            "pages": "11--23",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Part II: Changes in the U.S. Dairy Industry",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Usda",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Morbidity from non-respiratory diseases and mortality in dairy heifers during the first three months of life",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Virtala",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Mechor",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Grohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Erb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "208",
+            "issn": "",
+            "pages": "2043--2046",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "BOARD-INVITED REVIEW: Using behavior to predict and identify ill health in animals",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Weary",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Huzzey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A G"
+                    ],
+                    "last": "Von Keyserlingk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Anim. Sci",
+            "volume": "87",
+            "issn": "",
+            "pages": "770--777",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Kaplan-Meier survival function curves for time to starter consumption.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Kaplan-Meier survival function curves for time to weaning.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Predictor variables considered for inclusion in the multivariable regression models",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Effects of meloxicam therapy on starter ration intake (kg/d), water intake (L/d), and BW gain (kg/wk) Starter intake is adjusted for the effects of farm of origin.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

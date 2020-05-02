@@ -1,0 +1,471 @@
+{
+    "paper_id": "e9eb97b0610b3fcbcd8b42eaeeeb5af2f7f15b07",
+    "metadata": {
+        "title": "Article history: Osong Public Health and Research Perspectives We thank the relevant ministries, including the Ministry of Interior and Safety, Si/Do and Si/Gun/Gu, medical staffs in health centers, and medical facilities for their efforts in responding to the COVID-19 outbreak. COVID-19 National Emergency Response Center, Epidemiology and Case Management Team Korea Centers for Disease Control and Prevention (KCDC)",
+        "authors": [
+            {
+                "first": "Eun",
+                "middle": [
+                    "Kyeong"
+                ],
+                "last": "Jeong",
+                "suffix": "",
+                "affiliation": {},
+                "email": "jeongek@korea.kr"
+            },
+            {
+                "first": "Man",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jieun",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joongho",
+                "middle": [],
+                "last": "Jo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jungwoo",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Taeyoung",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jin",
+                "middle": [],
+                "last": "Gwack",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jin",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Eunmi",
+                "middle": [],
+                "last": "Park",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Seong",
+                "middle": [
+                    "Sun"
+                ],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Junghee",
+                "middle": [],
+                "last": "Hyun",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Boyeong",
+                "middle": [],
+                "last": "Ryu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Suk",
+                "middle": [],
+                "last": "Yoon",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hwami",
+                "middle": [],
+                "last": "Jang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yeowon",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hyeyoung",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sangeun",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hwan",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Woo",
+                "middle": [],
+                "last": "Shin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Daehyeon",
+                "middle": [],
+                "last": "Choi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Ko",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Unna",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Since the first reported cases of coronavirus disease 2019 in the Republic of Korea, there have been 30 confirmed cases as of February 17 th , 2020. The epidemiological and clinical characteristics of 28 cases have been previously reported [1] .",
+            "cite_spans": [
+                {
+                    "start": 240,
+                    "end": 243,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Contact tracing is essential for containing COVID-19 within the community. In Korea, an established system exists where public health centers conduct epidemiological investigations and instigate the quarantine/isolation of suspected cases, thus interrupting the line of transmission. This approach has been particularly successful in containing COVID-19 in the early phase of the outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Here, we summarize the investigation into the first 30 cases of COVID-19, and the 2,370 individuals who came into contact with these original 30 cases in Korea. The study includes calculation of secondary attack rates among different age groups and modes of transmission of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Demographic, epidemiological, and early clinical information were retrieved from COVID-19 reporting and surveillance data from Korea Centers for Disease Control and Prevention (KCDC).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "As in the previous report, the patient's age was provided on the date of diagnosis, and key indicators were identified by an epidemiological investigator who participated in the field investigation and the epidemiological investigation team [1] . Data presented in this study may change depending on further epidemiological investigations.",
+            "cite_spans": [
+                {
+                    "start": 241,
+                    "end": 244,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "The working definition for \"close contact (or high risk exposure)\" was being within 2 meters of a COVID-19 case and \"daily contact (or low risk exposure)\" was defined as having proximity with a person who was a confirmed COVID-19 case, without having had close contact. The classification was then repealed and was integrated into \"contact (regardless of level of exposure).\" All contacts who were asymptomatic were mandated to self-quarantine for 14 days and were put under active surveillance by public health workers who called twice a day to check presence of fever or respiratory symptoms. A smartphone-based, \"self-assessment app,\" was introduced as an additional tool to track symptoms of COVID-19. and CCTV have been used to complete the contact tracing of COVID-19 cases [7] .",
+            "cite_spans": [
+                {
+                    "start": 780,
+                    "end": 783,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Between"
+        },
+        {
+            "text": "There are certain limitations that should be considered in ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Between"
+        },
+        {
+            "text": "There was no conflicts of interest to declare. to control a new outbreak of COVID-19 in most scenarios [6] .",
+            "cite_spans": [
+                {
+                    "start": 103,
+                    "end": 106,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conflicts of Interest"
+        },
+        {
+            "text": "In Korea, various tracking measures such as the history of clinic visits, GPS of cell phones, credit card transaction logs,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Epidemiology and Case Management Team, Korea Centers for Disease Control and Prevention. Early Epidemiological and Clinical Characteristics of 28 Cases of Coronavirus Disease in South Korea",
+            "authors": [],
+            "year": 2020,
+            "venue": "Osong Public Health Res Perspect",
+            "volume": "11",
+            "issn": "1",
+            "pages": "8--14",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: A study of a family cluster",
+            "authors": [
+                {
+                    "first": "Jfw",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--537",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "A familial cluster of infection associated with the 2019 novel coronavirus indicating potential person-to-person transmission during the incubation period",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Characteristics of COVID-19 infection in Beijing",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect",
+            "volume": "80",
+            "issn": "4",
+            "pages": "401--407",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Active Monitoring of Persons Exposed to Patients with Confirmed COVID-19 -United States",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Burke",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Midgley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dratch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "69",
+            "issn": "9",
+            "pages": "245--251",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellewell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abbott",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gimma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Glob Health",
+            "volume": "8",
+            "issn": "4",
+            "pages": "488--96",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Epidemiology & Case Management Team, Korea Centers for Disease Control & Prevention. Contact Transmission of COVID-19 in South Korea: Novel Investigation Techniques for Tracing Contacts",
+            "authors": [],
+            "year": 2020,
+            "venue": "Osong Public Health Res Perspect",
+            "volume": "11",
+            "issn": "1",
+            "pages": "60--63",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "this study. Firstly, this is a summary of the first 30 cases of COVID-19 in Korea, when containment of cases and contacts was the mainstay of the control strategy. Following the increase in the number of cases above 30, the strategy shifted from containment to mitigation, which is now applied in many parts of the world. Secondly, potential risk factors such as the characteristics of a household and other transmission routes were not assessed and would merit further study. However, the observations reported in this study underscores the infectious nature of COVID-19 in households and identify the main drivers that facilitate secondary transmission in the community. This summary identifies the overall risk of symptomatic transmission of COVID-19 in the early phase of the disease. Implementation of basic infection control practices, such as isolation of family members who are symptomatic, and enhancement of hand hygiene measures, which may lead to a reduction in transmission of COVID-19. Future analyses should attempt to incorporate screening of COVID-19 and serology in symptomatic and asymptomatic contacts.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "January 24 th and March 10 th , a total of 2,370 individuals were contact traced to the first 30 cases of COVID-19. There were 12 individuals who contracted COVID-19, 14.26; Table 1). The number of traced individuals from a case ranged from 15 to 649 people and the mean monitored time per person ranged from 5.7 to 31.3 days (Table 2). CI = confidence interval. *Provisional data, as of March 13 th 2020. Table 1. Demographics of traced individuals and secondary attack rates for COVID-19, Republic of Korea.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Number of traced individuals and secondary transmissions by cases of COVID-19, Republic of Korea.contacts, which is in line with other reports. In the earlier reports, familial clusters of COVID-19 had been reported and household transmission was thought to be a major driver in the spread of the outbreak in the community[2,3]. Of the first 262 COVID-19 cases in Beijing, China, 133 (50.8%) were family cluster cases[4]. In the US, active symptom monitoring was performed for 445 close contacts of the 12 cases with travel-related COVID-19, resulting in symptomatic cases with This study suggested that contact tracing was critical in the containment of the COVID-19 outbreak in the early phase in Korea. Contact tracing relies on other concurrent aspects of the COVID-19 containment strategies such as investigating, classifying, tracking, and managing contacts by identifying the patient's route. A mathematical model predicted that highly effective contact tracing and quarantine was sufficient enough",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

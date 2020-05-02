@@ -1,0 +1,859 @@
+{
+    "paper_id": "ea2c56be23c5e3fb8261d9612585433aa12f1cec",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Kyong",
+                "middle": [
+                    "Ran"
+                ],
+                "last": "Peck",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "https://icjournal.org \" What's true of all the evils in the world is true of plague as well. It helps men to rise above themselves.\" -Albert Camus, The Plague About two months have just passed since the first report of patients with pneumonia of unknown cause in Wuhan, Hubei Province, China. The outbreak of infection with the novel coronavirus, now named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread to 25 countries since [1] . The global number of cases exceeded 70,000, of which more than 800 occurred outside China. Some suggest that the epidemic is showing signs of slowing down, as the number of new cases in China has been declining in recent days. However, it seems to be too early to relax; during the last two weeks troubling signs have been observed elsewhere in the world -cases without identifiable links are being reported in countries with close proximity and a high volume of traffic with China, including Korea.",
+            "cite_spans": [
+                {
+                    "start": 452,
+                    "end": 455,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Transmission dynamics from the earliest period of the outbreak showed the characteristics which might make containment difficult [2, 3] . A relatively large proportion of mild cases, high viral shedding at the symptom onset, and slowly progressive clinical course undermine the effectiveness of the classic \"search and isolate\" strategy. Characteristics of coronavirus disease 2019 (COVID-19) more closely resemble those of influenza A(H1N1) pdm09, which we failed to contain, than those of SARS-CoV in 2003. However, prevention and control strategies are more difficult than those for influenza pandemic, since morbidity is different and no vaccine or specific treatment agents against this new virus are expected in the near future. The recent identification of locally transmitted cases outside China without identifiable links suggests that the containment strategy might have reached its limit. While we have concentrated our effort on the containment of imported cases so far, what we have observed are calls for the preparation for the next stage: sustained transmission in countries outside China.",
+            "cite_spans": [
+                {
+                    "start": 129,
+                    "end": 132,
+                    "text": "[2,",
+                    "ref_id": null
+                },
+                {
+                    "start": 133,
+                    "end": 135,
+                    "text": "3]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Even if a widespread epidemic does occur, the magnitude and velocity of the epidemic would be the critical factors determining its impact on society. Rapid spread with a high number of cases will saturate the capacity of healthcare system, resulting in excessively high toll of mortality and morbidity; in contrast, slower propagation will allow us time and resources for adequate preparation and management. Thus, efforts for mitigating transmission risk is still important even in the worst situation. Weak spots in systems and societies should be identified. History of recent epidemics -SARS, Ebola, and MERS -universally taught us that healthcare facilities, which comprise the pillars of our healthcare, are at particular risk at the time of epidemic. Hospitals have become stages of super-spreading events during SARS and MERS outbreaks [4, 5] . Outpatients and emergency departments, which serve as gatekeepers of hospitals, are expected to be most exposed. Facilities should formulate detailed plans for safe and effective screening, isolation, and testing of suspected cases ( Table 1) ; otherwise, an increased number of patients and confusion on the front line may make those places epicenter of hospital-associated outbreaks. A dedicated triage area, perhaps makeshift, can serve as a safety barrier for a healthcare facility. Triage could utilize a clinical pathway to manage patients with symptoms of acute respiratory illness: for example, test and treat for influenza or other bacterial causes first with voluntary home isolation, then test for COVID-19 if unresponsive 3 -5 days later [6] . Use of telemedicine or electronic prescription can be considered to reduce the need for outpatient visits. Hospitals should also build contingency plans for general wards and intensive care units. Care for numerous patients with COVID-19 would require a large number of airborne infections isolation rooms (AIIR) which greatly exceed the current capacity. Building temporary AIIRs with mobile negative-air machines or by adjusting ventilation systems can be useful alternatives, as demonstrated in Korea during the MERS outbreak. Heating, ventilation, and air conditioning (HVAC), along with sewage and waste handling, should be reviewed when general-purpose wards need be used for management of COVID-19 patients. Private practices and pharmacies face unique challenges, due to lack of capacity for isolation and testing. Effective workflow for screening and referral of patients are necessary, and public health authorities should work with the community to provide adequate support to this foundation of our healthcare.",
+            "cite_spans": [
+                {
+                    "start": 844,
+                    "end": 847,
+                    "text": "[4,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 848,
+                    "end": 850,
+                    "text": "5]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1603,
+                    "end": 1606,
+                    "text": "[6]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1087,
+                    "end": 1095,
+                    "text": "Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Early diagnosis and isolation of cases will slow the transmission, mitigate the risk of outbreaks, and improve clinical outcomes. Most recent cases diagnosed in Singapore, Japan, and Korea demonstrate that the case definition based on travel history or contact with confirmed cases became insufficient. More systematic surveillance among acute respiratory illness is now required. United States Center for Disease Control and Prevention recently announced that it will consider adding SARS-CoV-2 to its existing influenza-like illness surveillance [7] . We believe that other countries should also prepare for implementing similar measures, and they could benefit from global coordination. Healthcare facilities need to conceive effective pathways to screen, test, and isolate patients with acute respiratory infections in various care settings. Surge capacity of laboratories is also of important concern and the development of rapid, point-of-care test will greatly relieve the laboratory burden and contribute to rapid diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 548,
+                    "end": 551,
+                    "text": "[7]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Sustained transmission of SARS-CoV-2 in the community will result in a surge of patients, both with and without COVID-19. Efforts should be made to provide adequate care for both groups of patients. Multiple media reports from Wuhan and Hubei province tell the story of sick people unable to access medical care. Overflow of healthcare system will unequivocally lead to suboptimal outcome in all patients regardless of their diagnosis. Surge capacities should be prepared, in terms of infrastructures, human and material resources, procedures, and organizations. Healthcare facilities should secure extra beds and instruments (e.g., ventilators) for surge capacity. Patients who could be cared at home or at long-term care facilities should be discharged, and elective medical care could be postponed. Resources for care of patients with COVID-19 needs to be checked and stocked. While their effects are yet to be proven by clinical trials, agents such as lopinavir/ritonavir, interferon, chloroquine, and remdesivir have been used for treatment [8, 9] . Antibiotics are expected to be administered to many patients, thus their stocks and contingency supply plan must be reviewed. Medical surge operation cannot be executed effectively by individual facilities alone. Public health authorities should coordinate joint operations to utilize limited resources in the most effective way. Designating hospitals for COVID-19 care would be more beneficial for the efficient use of limited resources and could maintain essential healthcare for patients requiring emergent or intensive management for other diseases.",
+            "cite_spans": [
+                {
+                    "start": 1046,
+                    "end": 1049,
+                    "text": "[8,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1050,
+                    "end": 1052,
+                    "text": "9]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Control of a large epidemic will require individual cooperation from the public [10] . Common sense etiquettes will help mitigate the risk of transmission: hand hygiene, cough etiquette, and avoiding crowded places for high-risk people (e.g., elderly or immunocompromised). People with mild symptoms of acute respiratory illness are not likely to benefit from medical care, regardless of etiologic agents. Visiting healthcare facilities without proper protection will risk others if one has COVID-19, or risk oneself otherwise. The public should be advised to stay home if mildly ill, and seek medical care in a coordinated way if symptoms persist or aggravate. There still remains approximately a month until the flu season is expected to end and Streptococcus pneumoniae causes bacterial pneumonia year wise. Vaccination for influenza and pneumococcus, particularly for the high-risk population, should be recommended. Decrease in those conditions will reduce the burden on healthcare system and also lower the risk of contracting COVID-19 in healthcare settings. Healthcare authorities should prepare a sufficient amount of influenza vaccines for the next season.",
+            "cite_spans": [
+                {
+                    "start": 80,
+                    "end": 84,
+                    "text": "[10]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Places of mass congregation, such as supermarkets, hotels, conferences, religious services, and schools, deserve special interest. They can serve as focal points of small outbreaks; even when they don't, patients visiting public places before isolation leads to massive contact tracing, which consumes precious resources and elicits public anxiety. Temporary closure of schools and non-critical services could be considered. At places staying open, observation of personal hygiene is likely to be helpful for lowering transmission risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "As physicians working in the field of infectious diseases, it is heartbreaking to hear reports on the current situation in Wuhan. Much of the sufferings of people in the city are for the good of us outside, rather than for their own good. We are greatly indebted to their sacrifice; it has earned us valuable time to prepare for the next stage. We, as medical professionals and as a society, should not spend in vain the time earned with so much suffering.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Special thanks to the people in Wuhan and the great effort of China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Coronavirus disease 2019 (COVID-19), Situation Report -29",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "SARS-CoV-2 viral load in upper respiratory specimens of infected patients",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "SARS in healthcare facilities",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Mcdonald",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Simor",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Maloney",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ofner",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lando",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcgeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Jernigan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Toronto and Taiwan. Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "777--81",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "MERS-CoV outbreak following a single patient exposure in an emergency room in South Korea: an epidemiological outbreak study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ha",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ryu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Huh",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ki",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Peck",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Dhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "388",
+            "issn": "",
+            "pages": "994--1001",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Therapeutic and triage strategies for 2019 novel coronavirus disease in fever clinics",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "United States Centers for Disease Control and Prevention. Transcript for CDC media telebriefing: update on COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "A review of treatment modalities for Middle East Respiratory Syndrome",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fisher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Antimicrob Chemother",
+            "volume": "71",
+            "issn": "",
+            "pages": "3340--50",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Washington State 2019-nCoV Case Investigation Team. First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debolt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lofy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wiesman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bruce",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Spitters",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ericson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wilkerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tural",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Diaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fox",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pallansch",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Weldon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Biggs",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Uyeki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pillai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Uzicanin A; CDC Community Mitigation Guidelines Work Group. Community mitigation guidelines to prevent pandemic influenza -United States",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Qualls",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Levitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kanade",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wright-Jegede",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dopson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Biggerstaff",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "MMWR Recomm Rep",
+            "volume": "66",
+            "issn": "",
+            "pages": "1--34",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Practical suggestions for contingency plans Settings Suggestions Triage \u2022 Dedicated triage/walk-in clinic for patients with acute respiratory infections. \u2022 Room/area for specimen collection can be a delicate issue. \u2022 Transport and testing capacities should be provided. Acute respiratory illness clinics \u2022 Test for influenza and consider preemptive oseltamivir. \u2022 Advise to revisit 3-5 days later for further evaluation (SARS-CoV-2 test and chest X-ray) if no improvement seen. Patient isolation in the healthcare settings \u2022 Operate dedicated wards, preferably in a building separated from the rest of the facilities. \u2022 Separate route of movement, preferably with dedicated corridors and elevators. \u2022 Temporary airborne infections isolation rooms (AIIR) using mobile negative-air machines or by adjusting ventilation can be alternatives for fully equipped AIIRs. Procedures and tests \u2022 Avoid unnecessary aerosol-generating procedures (AGP). \u2022 If necessary, perform AGPs in AIIR by trained personnel with proper personal protective equipment (PPE). \u2022 Most radiologic test rooms are not equipped to meet the requirement for AIIR -separate dedicated radiology suites are ideal; if unavailable, consider adjusting ventilation to generate negative pressure. Advance knowledge on air change per hour would be helpful to determine safe interval between tests. \u2022 Avoid futile care. Personnel \u2022 Train medical and non-medical personnel for adequate use of PPE and providing care with PPE donned. Consider differential level of PPE according to risk. \u2022 Plan contingency work shifts with limited number of HCWs in case of mass isolation after unexpected exposure. \u2022 Vaccination for influenza and pneumococcus, as indicated. \u2022 Personal hygiene: hand hygiene, respiratory etiquette. \u2022 Staying home when feeling ill (voluntary home isolation). \u2022 Wearing facemasks when feeling ill or at crowded places. \u2022 Cancellation of mass gathering. \u2022 Social distancing: increase the distance between persons when possible. \u2022 Cleaning frequently touched surfaces and objects. \u2022 Staying home for people who are old (>65 years) or who have chronic illnesses. \u2022 Vaccination for influenza and pneumococcus, as indicated.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Express sincere gratitude to Dr. Yea-Jean Kim for critical reading of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGEMENTS"
+        }
+    ]
+}

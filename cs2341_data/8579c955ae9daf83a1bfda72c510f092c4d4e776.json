@@ -1,0 +1,311 @@
+{
+    "paper_id": "8579c955ae9daf83a1bfda72c510f092c4d4e776",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The crude rate from aggregated data (the total number of deaths divided by the total number of cases) does not give a timely estimate during the course of the outbreak. The final CFR will be different from the early outbreak as the report of affected person's outcome will be delayed inherently. Change in CFR in the progress of an epidemic has been observed in other outbreaks of novel viruses. In the earlier phase of severe acute respiratory syndrome epidemic in 2003, the CFR was reported to be less than 4%, which was ended up to be 9.6%. 3 Reports on the COVID-19's CFR also varied by timeline that started from 5.8% to 1.4% in Wuhan, China. 4 The exact CFR from COVID-19 that reflects the true disease severity will likely be unveiled when the dust settles down after weeks or months.",
+            "cite_spans": [
+                {
+                    "start": 648,
+                    "end": 649,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Moreover, the current CFRs place 'reported' number of deaths in the numerator and 'reported' number of confirmed cases in the denominator in each country. It may not reflect the true number of deaths (numerator) and COVID-19 cases (denominator) occurred in each country. Given the difference of testing capabilities and public health response policy for detection of COVID-19 cases between countries, it is imperative to check the completeness of death reports following COVID-19, before making a comparison between the countries. It is also dependent on each country's surveillance performance to detect cases of COVID-19. It is speculated that most of asymptomatic or presymptomatic cases would not be tested for COVID-19 in many places, resulting in higher CFR by smaller denominator.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The age structure of affected population should be also accounted for a fair comparison. In Korea, the low CFR, 1.3% as of March 25, 2020, could have resulted from the larger proportion of younger confirmed cases resulting larger denominator of low-risk population. Difference in age structure of affected population between countries may guide to the true burden of COVID-19 in terms of disease severity and fatality proportions. Age-specific or agestratified CFR will be useful in comparing between the countries with different affected age groups. difference between the two countries sharply decreases among the individuals older than 70. Thus, taking the age structure of confirmed cases into account is crucial for a fair comparison as it shows the difference in the age-adjusted CFR between the two countries is considerably reduced (2.4% vs. 4.2%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Lastly, CFR should be interpreted cautiously given the time difference between disease onset and death. Fatal cases used to be ascertained as COVID-19 cases much earlier, and thus the denominator of the fatality rate should be the total number of cases confirmed at the same time as those who died in the numerator. That is, the denominator and the numerator of CFR should be composed of patients infected at the same time as those who died in order to accurately represent the actual CFR. 6 Most of the recently diagnosed patients in many countries are still likely to be in the care-state. That is, the cross-sectional comparison of these figures may be biased since the time span for illness is different among countries during the course of the ongoing epidemic. To avoid this bias, time-delay adjusted estimates between symptom onset and death need to be calculated for a fair comparison of CFRs among different countries. 7 Russell et al. 8 proposed a delay-adjusted CFR to correct the delay between confirmation-and-death, using the distribution of the delay from hospitalization-todeath for cases that are fatal from Wuhan, China.",
+            "cite_spans": [
+                {
+                    "start": 490,
+                    "end": 491,
+                    "text": "6",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 928,
+                    "end": 929,
+                    "text": "7",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 945,
+                    "end": 946,
+                    "text": "8",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In conclusion, estimating the CFR is a high priority in response to COVID-19 pandemic. Yet, its interpretation must be made cautiously during the middle of outbreak as such biases should be considered before drawing causal inferences from observational data. Collection and in-depth analysis of fatality data in systematic manner should be in place in near future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization",
+            "authors": [],
+            "year": 2020,
+            "venue": "Coronavirus disease 2019 (COVID-19) Situation Report-67",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Ministry of Health and Welfare. Coronavirus disease 2019 (COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "SARS: the new challenge to international health and travel medicine",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Venkatesh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "East Mediterr Health J",
+            "volume": "10",
+            "issn": "4-5",
+            "pages": "655--62",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Report of the WHO-China joint mission on coronavirus disease 2019 (COVID-19)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "16--24",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Case-fatality rate and characteristics of patients dying in relation to COVID-19 in Italy",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Onder",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rezza",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brusaferro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA. Forthcoming",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Real estimates of mortality following COVID-19 infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baud",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nielsen-Saines",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Musso",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pomar",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Favre",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "20",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bushman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kishore",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Niehus",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "De Salazar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Med. Forthcoming",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Using a delay-adjusted case fatality ratio to estimate under-reporting",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellewell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abbott",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Jarvis",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Van Zandvoort",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "shows number of deaths and age-specific CFRs of Korea, Italy, and China. 2,5 Crude CFR in Korea appears to be one fifth lower than that of Italy (1.3% vs. 7.2%), but the 2/3 https://jkms.org https://doi.org/10.3346/jkms.2020.35.e137Fig. 1. Case fatality rates in selected countries with confirmed cases and death from coronavirus disease 2019, as Ministry of Health and Welfare, Republic of Korea, March 25, 2020 5 ; b Adjusted to the age distribution of total confirmed cases of three countries combined.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

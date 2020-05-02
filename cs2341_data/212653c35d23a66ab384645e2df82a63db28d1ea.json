@@ -1,0 +1,1045 @@
+{
+    "paper_id": "212653c35d23a66ab384645e2df82a63db28d1ea",
+    "metadata": {
+        "title": "Using ILI surveillance to estimate state-specific case detection rates and forecast SARS-CoV-2 spread in the United States",
+        "authors": [
+            {
+                "first": "Justin",
+                "middle": [
+                    "D"
+                ],
+                "last": "Silverman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Penn State University",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Alex",
+                "middle": [
+                    "D"
+                ],
+                "last": "Washburne",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Montana State University",
+                    "location": {}
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Detection of SARS-CoV-2 infections to date has relied on RT-PCR testing. However, a 10 failure to identify early cases imported to a country, bottlenecks in RT-PCR testing, and the existence of infections which are asymptomatic, sub-clinical, or with an alternative presentation than the standard cough and fever have resulted in an under-counting of the true prevalence of SARS-CoV-2. Here, we show how publicly available CDC influenza-like illness (ILI) outpatient surveillance data can be repurposed to estimate the detection rate of symp-15 tomatic SARS-CoV-2 infections. We find a surge of non-influenza ILI above the seasonal average and show that this surge is correlated with COVID case counts across states. By quantifying the number of excess ILI patients in March relative to previous years and comparing excess ILI to confirmed COVID case counts, we estimate the symptomatic case detection rate of SARS-CoV-2 in the US to be 1/100 to 1/1000. This corresponds to approximately 20 10 million presumed symptomatic SARS-CoV-2 patients across the US during the week starting on March 15, 2020. Combining excess ILI counts with the date of onset of community transmission in the US, we also show that the early epidemic in the US was unlikely to be doubling slower than every three days. Together these results suggest a conceptual model for the COVID epidemic in the US in which rapid spread across the US are combined with 25 a large population of infected patients with presumably mild-to-moderate clinical symptoms. We emphasize the importance of testing these findings with seroprevalence data, and discuss the broader potential to repurpose outpatient time series for early detection and understanding of emerging infectious diseases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Here, we quantify background levels of non-influenza ILI over the past 10 years and identify a recent surge of non-influenza ILI starting the first week of March, 2020. This surge of excess 1 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The ongoing SARS-CoV-2 pandemic continues to cause tremendous morbidity and mortality around the world [1, 2] . Regional preparation for the pandemic requires forecasting the growth rate of the epidemic, the timing of the peak, the demand for hospital resources, and the degree to which current policies may curtail the epidemic, all of which benefit from accurate estimates of the true prevalence of the virus within a population [3] . Confirmed cases are thought to be 35 underestimates of true prevalence due to some unknown combination of patients not reporting for testing, testing not being conducted, and false-negative test results. Estimating the true prevalence informs the scale of upcoming hospital, ICU and ventilator surges, the proportion of individuals who are susceptible to contracting the disease, and estimates of key epidemiological parameters such as the epidemic growth rate and the fraction of infections which are sub-clinical. 40 The current literature suggests that the predominant symptoms associated with COVID are fever, cough and sore-throat; that is, patients often present with an influenza-like illness (ILI) yet test negative for influenza [4, 5] . With many COVID patients having a similar presentation as patients with influenza, existing surveillance networks in place for tracking influenza could be used to help track COVID.",
+            "cite_spans": [
+                {
+                    "start": 103,
+                    "end": 106,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 107,
+                    "end": 109,
+                    "text": "2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 431,
+                    "end": 434,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 953,
+                    "end": 955,
+                    "text": "40",
+                    "ref_id": null
+                },
+                {
+                    "start": 1175,
+                    "end": 1178,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1179,
+                    "end": 1181,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "30"
+        },
+        {
+            "text": "ILI correlates with known patterns of SARS-CoV-2 spread across states within the US, suggesting the surge is unlikely to be due to other endemic respiratory pathogens, yet is orders of magnitude larger than the number of confirmed COVID cases reported. Together this suggests that the 50 true prevalence of SARS-CoV-2 within the US is much larger than currently appreciated and that even the highest symptomatic case detection rates are likely lower than 3% corresponding to approximately 9 million new ILI cases due to SARS-CoV-2. Our analysis provides empirical corroboration of previous hypotheses of substantial undocumented cases [6] yet places the estimated undocumented case rate an order of magnitude higher than prior reports [6] . Moreover, these 55 updated prevalence estimates predict that epidemic doubling times greater than 3.5 days [7, 8] would be unable to account for the magnitude of the ILI surge. We test our hypothesis of sub 3-day doubling times in the US by analyzing both state and national COVID surveillance data, finding a broad agreement of doubling time less than 3.5 days in both confirmed COVID case counts and documented COVID deaths. Our findings highlight probable trajectories of the US 60 epidemic and provide evidence for a conceptual model for COVID spread in the US in which more rapid spread than previously reported is coupled with a larger undiagnosed population to give rise to currently observed trends.",
+            "cite_spans": [
+                {
+                    "start": 735,
+                    "end": 738,
+                    "text": "[6]",
+                    "ref_id": null
+                },
+                {
+                    "start": 848,
+                    "end": 851,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 852,
+                    "end": 854,
+                    "text": "8]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "30"
+        },
+        {
+            "text": "We identified excess ILI cases by first subtracting cases due to influenza and then subtracting the seasonal signal of non-influenza ILI (Figure 1 ). Many states, including Washington, New York, Oregon, Pennsylvania, Maryland, Colorado, New Jersey, and Louisiana, have had a recent surge in number of non-influenza ILI cases far in excess of seasonal norms. For example, in the second week of March, 2020, Oregon saw 50% higher non-influenza ILI than it had ever seen since the 70 inception of the ILINet surveillance system within the US. We find that with 95% probability approximately 4% of all outpatient visits in Oregon during this time were for ILI that could not be explained by either influenza or the normal seasonal variation of respiratory pathogens. We find that as the seasonal surge of endemic non-influenza respiratory pathogens declines, this excess ILI correlates more strongly with state-level patterns of newly confirmed COVID cases suggesting that 75 this surge is a reflection of ILI due to SARS-CoV-2 (Pearson \u03c1 = 0.8 and p < 10 \u221210 for the last two weeks; Figure S1 ). To equate this surge to state-wide or national case counts, we assume that the average number of patients seen per week by sentinel providers is representative of their respective states that week. Using this assumption, the total excess non-influenza ILI across the US was approximately 9.2 million excess individuals in the week starting March 15th, 2020 compared to 80 the same week in 2019 (95% credible interval of 8.0-10.1 million).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 146,
+                    "text": "(Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1080,
+                    "end": 1089,
+                    "text": "Figure S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Influenza like illness surge"
+        },
+        {
+            "text": "The rate at which SARS-CoV-2+ patients with ILI symptoms are identified as having COVID varies by state and over time ( Figure S2 ). Our estimated symptomatic case detection rates have been increasing over the month of March, which can be expected given increases in testing capacity across 85 the US since the February 28 detection of community transmission in Washington State. For the latest week ending March 14, COVID cases in the states with the highest estimated symptomatic case detection rate (Washington, Nevada, and Michigan) are only capturing approximately 1% of ILI surges in those states (Figure 2 ). Across the entire US we find the average symptomatic case detection rate to be 0.75% (95% credible interval 0.59%-1.0%). ",
+            "cite_spans": [
+                {
+                    "start": 603,
+                    "end": 612,
+                    "text": "(Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 120,
+                    "end": 129,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "Symptomatic Case Detection Rate"
+        },
+        {
+            "text": "The true prevalence of SARS-CoV-2 is unknown. However, if we assume the excess non-influenza ILI is almost entirely due to SARS-CoV-2, an assumption that becomes more valid as the virus becomes more prevalent, we can use the excess non-influenza ILI to understand the constraints and mutual dependence of exponential growth rates, the rate of subclinical infections, and the time 95 between the onset of infectiousness and a patient reporting as ILI Figure 3 . With a January 15 start date of the US epidemic [9] , allowing early stochasticity from start-time to the onset of regular exponential growth, we find that it's impossible to explain the ILI surge with an epidemic whose doubling time is longer than 3.5-days, as such slow growth scenarios fail to reach the observed excess ILI even when accounting for possible asymptomatic cases. 100 We tested our hypothesized constraint that doubling times across the US would be shorter than 3.5 days by analyzing the doubling time confirmed COVID cases and deaths due to COVID. We find that both confirmed case data and COVID fatality data support our estimated doubling-time bound derived from ILI data. Across the entire US, the doubling rate for deaths due to COVID is 2.520 days (\u00b10.001, p-value of test that doubling rate is less than 3.5 days approximately 0) 105 and the doubling time for confirmed cases is 2.455 days (\u00b10.001, p-value of test that doubling rate is less than 3.5 days approximately 0). Under a 4-day lag from the onset of infectiousness to reporting as ILI, these doubling times capture the ILI surge with clinical rates of 4.4% and 3.3%, respectively.",
+            "cite_spans": [
+                {
+                    "start": 450,
+                    "end": 458,
+                    "text": "Figure 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 509,
+                    "end": 512,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 842,
+                    "end": 845,
+                    "text": "100",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Epidemic Growth Rates and Clinical Rates"
+        },
+        {
+            "text": "Here we use outpatient ILI surveillance data from around the US to estimate the prevalence of SARS-CoV-2+. We find a clear, anomalous surge in ILI outpatients during the COVID epidemic that correlates with the progression of the epidemic across the US. The surge of non-influenza ILI outpatients is much larger than the number of confirmed case in each state, providing evidence of large numbers of symptomatic probable COVID cases that remain undetected. Moreover, this 115 excess ILI surge allows us to develop a bound for the slowest epidemic doubling time, and the lowest clinical rate that would still be consistent with the observed surge. We test whether or not observed epidemic doubling times are shorter than our upper-bound and find that the observed doubling time for both confirmed cases and deaths is faster than 3 days within the US. Together, the surge in ILI and analysis of doubling times suggest that SARS-CoV-2 has spread rapidly throughout the 120 US since it's January 15th start date and is likely accompanied by a large undiagnosed population of potential COVID outpatients with presumably milder clinical symptoms than would be thought based on prior studies of SARS-CoV-2+ inpatients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "110"
+        },
+        {
+            "text": "Our study has several limitations. First, the observed ILI surge may represent more than just SARS-CoV-2 infected patients. A second epidemic of a non-seasonal pathogen that presents 125 with ILI or changing patient behaviors causing higher rates of presentation for typical seasonal ILI could confound our estimates of ILI due to SARS-CoV-2. Alternatively, it is also possible that our use of ILI data has underestimated the prevalence of SARS-CoV-2 within the US. While early clinical reports focused on cough and fever as the dominant features of COVID [5] , other reports have documented digestive symptoms as the complaint affecting up to half of patients 130 with laboratory-confirmed COVID [11] , and alternative presentations, including asymptomatic or unnoticeable infections, could result in ILI surges underestimating SARS-CoV-2 prevalence.",
+            "cite_spans": [
+                {
+                    "start": 556,
+                    "end": 559,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 697,
+                    "end": 701,
+                    "text": "[11]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "110"
+        },
+        {
+            "text": "Additionally, our models have several limitations. First we assume that ILI prevalence within states can be scaled to case counts at the state level. This is based on the assumption that the average number of cases seen by sentinel providers in a given week is representative of the 135 average number of patients seen by all providers within that state in a given week. Errors in this assumptions would cause proportional errors in our estimated case counts and symptomatic case detection rate. Second, our epidemic models are crude, US-wide SEIR models varying by growth rate alone and as such do not capture regional variation or intervention-induced changes in transmission. Our models were used to estimate growth rates from ILI for testing with COVID 140 data and to estimate the mutual dependency of growth rate, the lag between the onset of infection and presentation to a doctor, and clinical rates; these models were not intended to be fine-grained forecasts for municipality hospital burden and other common goals for COVID models. Finer models with regional demographic, and case-severity compartments are needed to translate our range of estimated prevalence, growth rate, and clinical rates into actionable models for public 145 health managers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "110"
+        },
+        {
+            "text": "While an ILI surge tightly correlated with COVID case counts across the US strongly suggests that SARS-CoV-2 has potentially infected millions in the US, laboratory confirmation of our hypotheses are needed to test our findings and guide public health decisions. Our conceptual model for the epidemic with the US makes clear and testable predictions. Our model would suggest rela-150 tively high rates of community seropositivity in states that have already seen an ILI surge. A study of ILI patients from mid-march who were never diagnosed with COVID could test our model's predictions about the number and regional prevalence of undetected COVID cases presenting with ILI during that time. If seroprevalence estimates are consistent with our estimated prevalence from these ILI analyses, it would strongly suggest lower case severity rates for COVID and indicate the value of ILI and other public time-series of outpatient illness in facilitating early estimates of crucial epidemiological parameters for rapidly unfolding, novel pandemic diseases. Since not all novel pandemic diseases are expected to present with influenza-like symptoms, surveillance of other common presenting illnesses in the outpatient setting could provide a vital tool for rapidly understanding and responding to novel infectious diseases. 160 ",
+            "cite_spans": [
+                {
+                    "start": 1317,
+                    "end": 1320,
+                    "text": "160",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "110"
+        },
+        {
+            "text": "In what follows, let i index state i and let t index week t (with t = 0 referring to October 3, 2010; the start of ILINet surveilance). Our analysis centers around decomposing the probability of testing positive for COVID, \u03b4 into the product of the symptomatic case detection rate for ILI patients, \u03b4 s , and the probability that a COVID patients presents to the clinic with ILI, \u03b4 c . ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Since 2010 the CDC has maintained ILINet for weekly influenza surveillance. Each week approximately 2,600 enrolled providers distributed throughout all 50 states as well as Puerto Rico, the District of Columbia and the US Virgin Islands, report the total number of patient encounters n it and the total number of which met criteria for influenza-like illness (ILI -defined as a temperature for influenza y f lu it . Therefore ILINet data can be thought of as a weekly state-level time-series representing the superimposed prevalence of various viruses which can cause ILI. ILINet data was obtained through the CDC FluView Interactive portal [13] .",
+            "cite_spans": [
+                {
+                    "start": 641,
+                    "end": 645,
+                    "text": "[13]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Sources"
+        },
+        {
+            "text": "In addition to ILINet data, US State population data for the 2020 year was downloaded from https://worldpopulationreview.com/states/. The number of primary care providers in each state 180 per 100,000 residents b was obtained from Becker's Hospital Review [14] . COVID confirmed case counts were obtained from The New York Times' database maintained at https://github.com/nytimes/covid-19-data. This dataset contains the daily cumulative confirmed case count for COVID for each state z il for day l.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 260,
+                    "text": "[14]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Sources"
+        },
+        {
+            "text": "Within the ILINet dataset, New York City and New York were summed into a combined New York variable representing both New York city and the surrounding state. Due to incomplete data in one or more of the data-sources described above the Virgin Islands, Puerto Rico, The Commonwealth of the Northern Mariana Islands, and Florida were excluded from subsequent analysis. In addition, daily cumulative confirmed COVID cases were converted to weekly counts of new cases b\u1ef9",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "185"
+        },
+        {
+            "text": "To subtract influenza signal from y it we assume that the population of patients with ILI within a state are the same population that are potentially tested for influenza. This assumption allows us to calculate the number of non-influenza ILI cases as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Extracting non-influenza ILI signal"
+        },
+        {
+            "text": "The resulting time-series\u1ef9 it are shown in Figure S4 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 43,
+                    "end": 52,
+                    "text": "Figure S4",
+                    "ref_id": "FIGREF8"
+                }
+            ],
+            "section": "Extracting non-influenza ILI signal"
+        },
+        {
+            "text": "4 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Extracting non-influenza ILI signal"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050542 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "We identified ILI surges in\u1ef9 it by training a model on\u1ef9 it for all data prior to July 21, 2019. We then used this model to predict the prevalence of non-influenza ILI (\u03c0 it ) for dates after and including July 21, 2019. We calculated the ILI surge as the difference between the observed proportion of non-influenza ili\u1ef9 it /n it and\u03c0 it .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying ILI Surges"
+        },
+        {
+            "text": "More specifically, to account for variation in the number of reporting providers, we trained the following binomial logistic-normal model",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying ILI Surges"
+        },
+        {
+            "text": "We made the following prior specifications: We set the bandwidth parameter for the squared exponential kernel as \u03c1 = 3 representing a strong local correlation in time that died off sharply beyond 3 weeks, \u03b1 = 1 representing a signal to noise ratio of of approximately 1, \u03c5 = 1 and 195 \u03be = 1 representing weak prior knowledge regarding the overall scale of variation in the the latent space. Finally, we set \u03b8 = \u22122.197 representing an off-season prevalance of 0.1% non-influenza ILI. Samples from the posterior predictive density p(\u03c0 it |y i1 , . . . ,\u1ef9 iT , n i1 , . . . , n iT ) were collected using the function basset from the R package stray [15]; a total of 4000 such samples were collected in this analysis. We define the prevalence of non-influenza ILI in excess of normal seasonal variation",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying ILI Surges"
+        },
+        {
+            "text": "To exclude variation attributable to unseasonably high rates of other ILI causing viruses (such as the outbreak of RSV in Washington state in November-December 2019) we only investigate y * it for sets of 1 or more weeks (t, t + 1, . . . , t + K) such that the following criteria are met:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying ILI Surges"
+        },
+        {
+            "text": "1. the 2nd order moving average of y * i(t+k) < y * i(t+k+1) must remain positive for all K 205 2. at least one week in (t, t + 1, . . . , t + K) corresponds to a week after February 23, 2020",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying ILI Surges"
+        },
+        {
+            "text": "Together these criteria for attributing excess non-influenza ILI to COVID reflect our assumption that we expect COVID must be increasing within communities since Febuary 23, 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying ILI Surges"
+        },
+        {
+            "text": "As COVID new case countsz it represent the number of confirmed cases in an entire state and ILINet data represents the number of cases seen by a select number of enrolled providers, we must estimate scaling factors w i to enable comparison of ILINet data to confirmed case counts at the who state level. Let \u03c0 * it denote the probability that a patient with ILI in state i has COVID as estimated from ILINet data. Let p i denote the population of state i and let b i denote the number of primary care providers per 100,000 people in state i. We simulated the number of COVID cases (excess ILI meeting criteria above) as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calculating scaling factors to relate ILINet data to COVID case numbers 210"
+        },
+        {
+            "text": "That is we translate the inferred proportion of individuals with ILI due to COVID to the state level by considering the average number of patients seen by each provider in the study ( nit dit ) and the number of primary care providers in state i ( bipi 10 5 ). Notably to account for potential errors in these scaling factors, we add propogate uncertainty into our calculation by using Monte-Carlo simulation of the average number of patients seen by each provider in the study. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calculating scaling factors to relate ILINet data to COVID case numbers 210"
+        },
+        {
+            "text": "Assuming that the majority of SARS-CoV-2 testing within the US has been directed by patient symptoms [16] , the pool of newly diagnosed SARS-CoV-2+ patients is a subset of the pool of SARS-CoV-2+ patients who are identified as having ILI. Therefore, we calculate the probability that a symptomatic SARS-CoV-2+ patient will be identified as having SARS-CoV-2 as \u03b4 s it =z ij /\u03c0 * it 220 ( Figure S2 ).",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 105,
+                    "text": "[16]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 388,
+                    "end": 397,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "Estimating symptomatic case detection rates"
+        },
+        {
+            "text": "To account for the contribution of assymptomatic SARS-CoV-2+ patients we use a recent analysis of cohort surveillance from the Diamond Princess [10] . Monte-Carlo simulations were used to propagate error from our uncertainty regarding potential asymptomatic infections affecting the 225 clinical rate \u03b4 c into our calculation of posteriors for epidemic trajectories. To match posterior estimates from Mizumoto et al. [10] , we use quantile matching to parameterize \u03b4 c \u223c Beta(\u03b1, \u03b2) to achieve a mean of .179 and a 95% probability set of (.155, .202). We include this contribution to the overall detection rate \u03b4 it as \u03b4 it = \u03b4 s \u03b4 c it .",
+            "cite_spans": [
+                {
+                    "start": 144,
+                    "end": 148,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 417,
+                    "end": 421,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accounting for asymptomatic patients"
+        },
+        {
+            "text": "For a given epidemic growth rate, the clinical rate was estimated by comparing the excess ILI across the US y \u2020 t = i y \u2020 it to the number of infections one might expect under simulated epidemic parameterized by the growth rate. An SEIR model,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Epidemic growth rates and clinical rates 230"
+        },
+        {
+            "text": "was parameterized for the US to a timescale of units days by setting \u03b6 = 3.23 \u00d7 10 \u22125 corresponding to a crude birth rate of 11.8 per 1000 per year, a baseline mortality rate \u03c9 b = 2.38 \u00d7 10 \u22127 corresponding to 8.685 per 1000 per year, an infectious mortality rate \u03c9 i = 2.62 \u00d7 10 \u22127 , incubation period \u03b3 \u22121 of 3 days, infectious period \u03bd \u22121 of 10 days, and \u03b2 parameterized to ensure I(t) grew with a specified exponential growth rate early in the epidemic. A total of 14,000 simulations were run, 235 each having a unique exponential growth rates, r, drawn uniformly from r \u2208 [log(2)/7, log(2)/1.5], reflecting doubling times in the range of 1.5 \u2264 t 2 \u2264 7 days. Each simulation was initialized with (S, E, I, R, t) = (3.27 \u00d7 10 8 , 0, 1, 0, 0) where time 0 was January 15. To simulate the stochastic time it took from the first case to the onset of regular exponential growth, a Gillespie algorithm was used from the initial conditions until either t = 50 240 (March 5, 2020) or E(t) + I(t) = 100. The output from Gillespie simulations was input as an initial value into the system of differential equations and integrated until the August 5, 2020. The number of infected individuals on a given day was the last observed I(t) for that day, and a weekly pool of infected patients was computed by a moving sum over the number of infected individuals every day for the past week, I w (t) = k=6 k=0 I t\u2212k .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Epidemic growth rates and clinical rates 230"
+        },
+        {
+            "text": "Defining Y t = i y \u2020 it as the national excess ILI, the clinical rate was",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "245"
+        },
+        {
+            "text": "for a given time delay t d it takes from the onset of infectiousness to a patient reporting to the doctor with ILI. An estimate of clinical rate as a function of exponential growth rate was obtained by a generalized additive model log(\u03b4 c ) = s(log(r)))+ where s(.) denotes a piece-wise cubic spline. Simulated epidemic trajectories were matched to posterior samples of Y t through kernel density estimation. For t corresponding to the weeks starting on March 8 and 15, 2020, the density each simulated trajectory I(t) was evaluated against the density v t \u223c log-normal(0, 0.1)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "245"
+        },
+        {
+            "text": "6 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "245"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050542 doi: medRxiv preprint where noise v t was added to account for additional sources of error in our calculations of scaling 250 factors, and p is a density estimated via kernel density estimation. The two weeks in March were chosen as the ILI surge had the largest correlation with covid case counts during these two weeks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "Doubling times for confirmed cases and deaths due to COVID were estimated using Poisson regression with a log-link with an intercept and a covariate for the day of the epidemic. Poisson 255 regression parameters r were converted to doubling times d using d = log(2)/r.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Estimating Doubling Times"
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "7"
+        },
+        {
+            "text": "The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. Non\u2212Influenza ILI Proportion Figure 1 : The excess non-influenza ILI is extracted from all non-influenza ILI by identifying the amount of non-influenza ILI in excess of seasonal norms (blue point and error bars represent the posterior median and 95% credible set for ILI not explained by non-COVID endemic respiratory pathogens). A binomial logistic-normal non-linear regression model was fit to non-influenza ILI data from 2010-2018 (grey lines). The model predicted the expected amount of non-influenza ILI in the 2019-2020 season (grey ribbons represent the 95% and 50% credible sets; the black line represents the posterior median). Observed non-influenza ILI outside of the 95% credible set was attributed to COVID based on the observed correlation across states with newly confirmed COVID case rates ( Figure S1 ). A number of regions are not represented due to insufficient laboratory influenza data to complete our analysis (see Methods for full details).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 163,
+                    "end": 171,
+                    "text": "Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 942,
+                    "end": 951,
+                    "text": "Figure S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. : Assuming the non-influenza excess ILI for the week starting March 15 consists entirely of patients with COVID, the probability that a symptomatic COVID+ patient will be detected varies by state but even the highest symptomatic case detection rates are likely below 3%.In Figure  S2 we show how the symptomatic case detection rate varies over time across states. Figure 3 : (a) 14,000 random SEIR models predict a range of current number of COVID cases in the US; less transparant trajectories are better agreements with the ILI surge under an assumption that 17% of infections are subclinical [10] . The inset plot shows COVID forecasts comparable to weekly ILI counts (red dots) by summing I(t) over the prior week. A t 2 = 3.5 day doubling time (solid black lines) is the slowest possible growth rate which can account for the observed data with a 4-day lag between the onset of infectiousness and reporting as ILI. Faster doubling times, such as t 2 = 1.6 (dashed black lines) can explain observed ILI data but require a larger rate of subclinical infections to do so. (b) Different growth rates imply different clinical rates in order to account for the excess ILI surge, and the relationship between growth rate and clinical rate varies with the unknown time it takes from the onset of infectiousness to presentation an ILI outpatient. The estimated 2.4-2.5 day doubling times across the US, for example, produce an estimated 3-4% clinical rate.",
+            "cite_spans": [
+                {
+                    "start": 753,
+                    "end": 757,
+                    "text": "[10]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 431,
+                    "end": 441,
+                    "text": "Figure  S2",
+                    "ref_id": "FIGREF7"
+                },
+                {
+                    "start": 522,
+                    "end": 530,
+                    "text": "Figure 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "9"
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "11"
+        },
+        {
+            "text": "The copyright holder for this preprint Figure S3 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 39,
+                    "end": 48,
+                    "text": "Figure S3",
+                    "ref_id": "FIGREF12"
+                }
+            ],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "12 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. Figure S1 : Excess ILI correlates strongly with patterns of newly confirmed COVID cases. This correlation is strongest for the last two weeks of data, when other seasonal respiratory pathogens are at their lowest.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 170,
+                    "text": "Figure S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "13 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. Figure S2 : Since March 1, 2020, the case-detection of symptomatic COVID patients has increased by a factor of \u2248 100. This likely represents increased awareness of community transmission within the US combined with increased availability of testing. Still, the symptomatic case detection rate remains below 1% for most states with many states with detection rates closer to 0.1%.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 170,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "14 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. 15 . CC-BY 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050542 doi: medRxiv preprint Arkansas  California  Colorado  Connecticut  Delaware   30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27   30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 524,
+                    "text": "Arkansas  California  Colorado  Connecticut  Delaware   30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27   30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22  27  30  35  40  45  50  2  7  12  17  22",
+                    "ref_id": null
+                }
+            ],
+            "section": "(which was not peer-reviewed)"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A novel coronavirus from patients with pneumonia in china",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus disease 2019 (covid-19): situation report",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Organization",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "59",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Fundamental principles of epidemic spread highlight the immediate need for large-scale serological surveys to assess the stage of the sars-cov-2 epidemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lourenco",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Paton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ghafari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kraemer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Simmonds",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Klenerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in wuhan, china: a descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "265",
+            "issn": "10223",
+            "pages": "507--513",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in wuhan, china",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (sars-cov2)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shaman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Nowcasting and forecasting the potential domestic 275 and international spread of the 2019-ncov outbreak originating in wuhan, china: a modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "10225",
+            "pages": "689--697",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "First case of 2019 novel coronavirus in the united states",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ericson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wilkerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Estimating the asymptomatic proportion of coronavirus disease 2019 (covid-19) cases on board the diamond princess cruise ship, yokohama, japan",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mizumoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kagaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zarebski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chowell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eurosurveillance",
+            "volume": "25",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Once the signal attributable to influenza is extracted, the proportion of Patient encounters in which patient had non-influenza ILI (\u1ef9 it /n it ) displays strong seasonal trends. The most notable deviations from these trends occur around Febuary",
+            "authors": [
+                {
+                    "first": "S4",
+                    "middle": [],
+                    "last": "Figure",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF2": {
+            "text": "8C] or greater, and a cough or sore-throat without a known cause of than influenza; y it ) [12]. Let d it denote the number of reporting providers in state i in week t. For scale, in the 2018-2019 season ILINet reported approximately 60 million outpatient visits. Coupled to these data are weekly state-level reports from clinical and public health labs detailing the number of patient samples tested for influenza n f lu it as well as the number of these samples which are positive 175",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Figure 2: Assuming the non-influenza excess ILI for the week starting March 15 consists entirely of patients with COVID, the probability that a symptomatic COVID+ patient will be detected varies by state but even the highest symptomatic case detection rates are likely below 3%.In Figure S2 we show how the symptomatic case detection rate varies over time across states.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Doubling times for deaths due to COVID vary by states. Estimated doubling time and standard error are plotted. The median doubling for states is shown in red and falls below our bound of 3.5 days. Doubling times of confirmed cases is shown in",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF12": {
+            "text": "Doubling times of Confirmed Cases vary by states.... Estimated doubling time and standard error are plotted. The median doubling for states is shown in red and falls below our bound of 3.5 days.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "[11] L. Pan, M. Mu, H. Ren et al., \"Clinical characteristics of covid-19 patients with digestive symptoms in hubei, china: a descriptive, cross-sectional, multicenter study,\" Am J Gastroenterol, care-physician-supply-in-all-50-states-ranked.html 295 [15] J. D. Silverman, K. Roche, Z. C. Holmes, L. A. David, and S. Mukherjee, \"Bayesian Multino-",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

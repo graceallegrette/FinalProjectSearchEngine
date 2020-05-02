@@ -1,0 +1,834 @@
+{
+    "paper_id": "f616a4bfbfb135e9709d553e13fff682cbbd71f3",
+    "metadata": {
+        "title": "Targeting the catecholamine-cytokine axis to prevent SARS-CoV-2 cytokine storm syndrome",
+        "authors": [
+            {
+                "first": "Maximilian",
+                "middle": [
+                    "F"
+                ],
+                "last": "Konig",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Lustgarten Laboratory",
+                    "institution": "Howard Hughes Medical Institute at The Johns Hopkins Kimmel Cancer Center",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mike",
+                "middle": [],
+                "last": "Powell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Verena",
+                "middle": [],
+                "last": "Staedtke",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ren-Yuan",
+                "middle": [],
+                "last": "Bai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "L"
+                ],
+                "last": "Thomas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nicole",
+                "middle": [],
+                "last": "Fischer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sakibul",
+                "middle": [],
+                "last": "Huq",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Adham",
+                "middle": [
+                    "M"
+                ],
+                "last": "Khalafallah",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University School of Medicine",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Allison",
+                "middle": [],
+                "last": "Koenecke",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University",
+                    "location": {
+                        "settlement": "Stanford",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nickolas",
+                "middle": [],
+                "last": "Papadopoulos",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Lustgarten Laboratory",
+                    "institution": "Howard Hughes Medical Institute at The Johns Hopkins Kimmel Cancer Center",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kenneth",
+                "middle": [
+                    "W"
+                ],
+                "last": "Kinzler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Lustgarten Laboratory",
+                    "institution": "Howard Hughes Medical Institute at The Johns Hopkins Kimmel Cancer Center",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bert",
+                "middle": [],
+                "last": "Vogelstein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Lustgarten Laboratory",
+                    "institution": "Howard Hughes Medical Institute at The Johns Hopkins Kimmel Cancer Center",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Joshua",
+                "middle": [
+                    "T"
+                ],
+                "last": "Vogelstein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins University",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Susan",
+                "middle": [],
+                "last": "Athey",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University",
+                    "location": {
+                        "settlement": "Stanford",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shibin",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Lustgarten Laboratory",
+                    "institution": "Howard Hughes Medical Institute at The Johns Hopkins Kimmel Cancer Center",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chetan",
+                "middle": [],
+                "last": "Bettegowda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Lustgarten Laboratory",
+                    "institution": "Howard Hughes Medical Institute at The Johns Hopkins Kimmel Cancer Center",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "MD",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "to be driven by acute respiratory distress syndrome (ARDS) and a dysregulated immune response to SARS-CoV-2 2-4 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Emerging evidence suggests that a subset of COVID-19 is characterized by the development of a cytokine storm syndrome (CSS) that resembles cytokine release syndrome (CRS) in chimeric antigen receptor (CAR)-T cell therapy 2, 4, 5 . Hyper-inflammation in COVID-19 is associated with elevation of proinflammatory cytokines including interleukin (IL)-6, IL-2R, IL-8, tumor necrosis factor-\u03b1, and granulocytecolony stimulating factor 4,6 . This is similar to the exuberant cytokine production by lung-infiltrating monocytes/macrophages and pneumocytes observed in SARS-CoV and MERS-CoV infection 7 .",
+            "cite_spans": [
+                {
+                    "start": 221,
+                    "end": 223,
+                    "text": "2,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 224,
+                    "end": 226,
+                    "text": "4,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 227,
+                    "end": 228,
+                    "text": "5",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Targeting the hyper-inflammation in COVID-19 may be critical for reducing mortality. IL-6 levels diverge profoundly between non-survivors and survivors in the third week after symptom onset and are predictors of COVID-19 severity and in-hospital mortality 1, 8, 9 . Tocilizumab, a monoclonal antibody targeting the IL-6 receptor, is currently being investigated for the treatment of patients with COVID-19-CSS (ChiCTR2000029765, NCT04306705, NCT04310228) [10] [11] [12] . Pending data from randomized controlled trials, retrospective data from 21 patients with severe or critical COVID-19 treated with tocilizumab suggests that inhibition of the IL-6 signaling axis is highly effective 13 . However, given the cost, immunosuppression, and potential adverse reactions of tocilizumab, this strategy will likely be restricted to select patients in developed countries.",
+            "cite_spans": [
+                {
+                    "start": 259,
+                    "end": 261,
+                    "text": "8,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 262,
+                    "end": 263,
+                    "text": "9",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 455,
+                    "end": 459,
+                    "text": "[10]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 460,
+                    "end": 464,
+                    "text": "[11]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 465,
+                    "end": 469,
+                    "text": "[12]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We have recently shown that CRS observed with bacterial infections, CAR-T cells, and other T cell-activating therapies is accompanied by a surge in catecholamines 14 . Catecholamines enhance inflammatory injury by augmenting the production of IL-6 and other cytokines through a self-amplifying feed-forward loop in immune cells that requires alpha-1 adrenergic receptor (\u237a1-AR) signaling 14 .",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 165,
+                    "text": "14",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Prophylactic inhibition of catecholamine synthesis with metyrosine, a tyrosine hydroxylase antagonist, reduced levels of catecholamines and cytokine responses and resulted in markedly increased survival following various inflammatory stimuli in mice. Similar protection against a hyper-inflammatory stimulus was observed with prazosin, demonstrating that \u237a1-AR antagonists can also prevent cytokine storm 14 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. The findings discussed herein offer a rationale for studying \u237a1-AR antagonists in the prophylaxis of COVID-19-CSS. However, all drugs can have unanticipated side effects, and the incompletely understood relationship between hypertension and COVID-19 suggests caution in using any agent that impacts blood pressure 15 . Prospective, double-blinded clinical trials of \u237a1-AR antagonists in high-risk patients, when administered prior to symptom onset, will therefore be required to assess their utility in preventing COVID-19-CSS. Prazosin is inexpensive and safe, as has been documented by long-term . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 471,
+                    "end": 473,
+                    "text": "15",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051565 doi: medRxiv preprint treatment of millions of patients with benign prostatic hyperplasia, hypertension, and other conditions. We emphasize that the extensive experience with using prazosin for other indications should prioritize -not obviate -rigorous, controlled clinical research rather than indiscriminate off-label use in patients exposed to SARS-CoV-2. Such trials could be expeditiously implemented in areas suffering from high infection rates that threaten to overwhelm hospital capacity. We encourage readers to recommend specific populations and trial designs to test the hypothesis proposed herein. *adjusted for comorbid hypertension, ischemic heart disease, acute myocardial infarction, heart failure, chronic obstructive pulmonary disease, diabetes mellitus, benign prostatic hyperplasia, and post-traumatic stress disorder identified from health care encounters in the prior year as well as age and year. A . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "COI: In 2017, Johns Hopkins University filed a patent application on the use of various drugs to prevent cytokine release syndromes, on which V.S., R.B., B.V., K.W.K., and S.Z. are listed as inventors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051565 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Intensive Care Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Dysregulation of immune response in patients with COVID-19 in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clinical Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "COVID-19: consider cytokine storm syndromes and immunosuppression",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Mcauley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tattersall",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Manson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30628-0"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical and immunologic features in severe and moderate forms of Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Channappanavar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Semin Immunopathol",
+            "volume": "39",
+            "issn": "",
+            "pages": "529--568",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Detectable serum SARS-CoV-2 viral load (RNAaemia) is closely associated with drastically elevated interleukin 6 (IL-6) level in critically ill COVID-19 patients",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The Potential Role of IL-6 in Monitoring Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Social Science Research Network",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Chinese Clinical Trial Register (ChiCTR) -The world health organization international clinical trials registered organization registered platform",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Tocilizumab vs CRRT in Management of Cytokine Release Syndrome (CRS) in COVID-19 -Full Text View -ClinicalTrials",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Favipiravir Combined With Tocilizumab in the Treatment of Corona Virus Disease 2019 -Full Text View -ClinicalTrials",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Effective Treatment of Severe COVID-19 Patients with Tocilizumab",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "ChinaXiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Disruption of a self-amplifying catecholamine loop reduces cytokine release syndrome",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Staedtke",
+                    "suffix": ""
+                },
+                {
+                    "first": "R-Y",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nature",
+            "volume": "564",
+            "issn": "",
+            "pages": "273--280",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "COVID-19 and the cardiovascular system",
+            "authors": [
+                {
+                    "first": "Y-Y",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-T",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Reviews Cardiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41569-020-0360-5"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": ", no controlled trials have examined the benefits of \u237a1-AR antagonism for the prevention of CSS and ARDS in human subjects. To investigate a potential role for \u237a1-AR antagonists in preventing poor outcomes in ARDS, we conducted a retrospective analysis of hospitalized patients diagnosed with ARDS. Using data from the Truven Health MarketScan Research Database (2010-2017), we identified 12,673 men (age 45-64) with \"ARDS\" as identified using International Classification of Diseases (ICD)-9and ICD-10 diagnosis codes. Of these, 1,189 patients (9.4%) were prescribed \u237a1-AR antagonists in the previous year, 8.1% died in the hospital, and 15.6% received invasive mechanical ventilation. Logistic regression models were used to estimate adjusted odds ratios (AOR) and confidence intervals (CI) correlating receipt of \u237a1-AR antagonists (doxazosin, prazosin, silodosin, terazosin, and tamsulosin) in the previous year with these outcomes. Models were adjusted for comorbid conditions in the prior year as well as age and year of hospital admission.We found that patients with prior use of \u237a1-AR antagonists had lower adjusted odds of the composite of invasive mechanical ventilation and mortality compared to non-users (AOR 0.80, 95% CI 0.69-0.94, p=0.008)(Figure 1). The unadjusted association was similar in magnitude (OR 0.80, 95% CI 0.68-0.94, p=0.007), as were results analyzing each component endpoint separately. Mirroring findings from pre-clinical models, these findings support a clinical rationale to study \u237a1-AR antagonists in the prophylaxis of ARDS and states of local and systemic immune dysregulation. Given the limitations of claims databases and retrospective analyses, our data on their own cannot establish causality or a therapeutic benefit of \u237a1-AR antagonists.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Logistic regression of the composite of invasive mechanical ventilation and in-hospital mortality in patients with ARDS who are on \u237a1-AR antagonists using data from MarketScan Research Database.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ": We thank Adam Sacarny (Columbia University) for advice in processing and analyzing health care claims data. Dr. Sacarny was not compensated for his assistance. This study used the MarketScan Research Databases. References: 1 Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. The Lancet 2020; : S0140673620305663.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

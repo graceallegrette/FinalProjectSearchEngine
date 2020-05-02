@@ -1,0 +1,533 @@
+{
+    "paper_id": "ebc12ee1c427ca09f54831a71f26123ee95c9b6a",
+    "metadata": {
+        "title": "Assessment of Specimen Pooling to Conserve SARS CoV-2 Testing Resources",
+        "authors": [
+            {
+                "first": "Baha",
+                "middle": [],
+                "last": "Abdalhamid",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska Medical Center",
+                    "location": {
+                        "settlement": "Omaha",
+                        "region": "NE"
+                    }
+                },
+                "email": "babdalhamid@unmc.edu"
+            },
+            {
+                "first": "Christopher",
+                "middle": [
+                    "R"
+                ],
+                "last": "Bilder",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska-Lincoln",
+                    "location": {
+                        "settlement": "Lincoln",
+                        "region": "NE"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Emily",
+                "middle": [
+                    "L"
+                ],
+                "last": "Mccutchen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska Medical Center",
+                    "location": {
+                        "settlement": "Omaha",
+                        "region": "NE"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Steven",
+                "middle": [
+                    "H"
+                ],
+                "last": "Hinrichs",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska Medical Center",
+                    "location": {
+                        "settlement": "Omaha",
+                        "region": "NE"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Scott",
+                "middle": [
+                    "A"
+                ],
+                "last": "Koepsell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska Medical Center",
+                    "location": {
+                        "settlement": "Omaha",
+                        "region": "NE"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [
+                    "C"
+                ],
+                "last": "Iwen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska Medical Center",
+                    "location": {
+                        "settlement": "Omaha",
+                        "region": "NE"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The United States is experiencing an acute shortage of reagents important for performance of assays for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of COVID-19 in clinical specimens.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "To determine whether saving in reagents for detection of SARS CoV-2 can be accomplished using the optimal parameters for group testing of pooled specimens in a public health laboratory.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The most efficient specimen pool size was determined using a web-based application.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Parameters affecting the optimal pool size of 5 specimens were: prevalence rate of 5%, a lower limit of detection of 1 to 3 RNA copies per microliter, sensitivity and specificity of 100%, twostage pooling algorithm, and a range of pool sizes of 3 to 10 samples. Experimental pools were created using 50 microliter from each confirmed nasopharyngeal positive patient specimen mixed with 4 negative patient specimens (50 microliter each) for a total volume of 250 microliter. Viral RNA was then extracted from each pool and subsequently tested with the SARS-CoV-2 RT-PCR assay that was developed by the CDC and used according to the instructions of manufacturer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Studies were conducted in the Nebraska Public Health Laboratory with samples collected from individual patients throughout the state. All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity. : medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Question What are the potential benefits and limitations of specimen pooling for the detection of SARS-CoV-2)? Findings A predictive algorithm was validated and subsequently used to determine the optimal specimen pool in a public health laboratory with a positive test rate of less than 10%. A pool of five specimens maintained the sensitivity of the assay and provided an increase of up to 133% in the number of samples able to be tested.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "This study demonstrated that group testing using pooled specimens was a viable method for enhancing test capacity to allow for, limited resources to have greater impact.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "All authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "A total of 21 SARS CoV-2 confirmed positive samples and 84 SARS CoV-2 confirmed negative samples were used to create 21 pools. The positive specimens were selected for Ct values indicating a relatively low amount of viral RNA. The method was then tested on an unselected group of 60 community nasopharyngeal specimens.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants"
+        },
+        {
+            "text": "Following extraction and RT-PCR amplification, all 21 pools were characterized as SARS-CoV-2 RNA detected with Ct values within -1 and 5 Ct of the original samples. The analysis of 60 community specimens, grouped in 12-pools, determined that two pools were positive followed by identification of two detected specimens among the 60 tested. This was accomplished with a total of 22 reactions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Group testing may result in the saving of reagents and personnel time with an overall increase in testing capability of at least 69% when the positive laboratory test rate is 10% or less.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion and Relevance"
+        },
+        {
+            "text": "All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion and Relevance"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion and Relevance"
+        },
+        {
+            "text": "Since the first detection in Wuhan, China in December 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the pathogen of coronavirus diseases 2019 (COVID-19), has spread worldwide to now be considered a pandemic 1,2 . The United States (US) is experiencing an acute shortage of certain reagents important for performance of assays for the detection of SARS-CoV-2. Some areas of the US have stopped testing due to lack of test supplies. The ability to rapidly diagnosis COVID-19 is important for evaluating the spread of disease and for tracing the contacts of infected individuals. All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The assay developed by the Centers for Disease Control and Prevention (CDC) for detection of SARS-CoV-2 and approved for use under emergency use authorization (EUA) by the FDA has been widely employed by public health laboratories throughout the US 3 . This assay employs an extraction procedure of viral RNA from specimens collected by nasopharyngeal (NP) swabs. The second step in the assay employs reverse transcription and amplification using a real time PCR instrumentation. The assay therefore requires two kits, one for extraction and another for amplification of the target and detection. We investigated whether a strategy used in the testing of blood prior to transfusion could have application for conservation of scarce reagents for the SARS CoV-2 assay 4,5 . The process of group testing that employs sample pooling is used for detection of the human immunodeficiency virus, and hepatitis B and C viruses 4 in blood products. Key principles for successful application of group testing involve knowledge of the limit-of-detection, sensitivity and specificity of the assay, and the prevalence of disease in the population. The goal of the process is to determine a pool size that provides the greatest conservation of resources while maintaining the reliable performance of testing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This report describes a proof-of-concept for group testing of pooled specimens for the diagnosis of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "To assess the group testing strategy, the first step was to calculate the most efficient pool size using a web-based application for pooling as described at https://www.chrisbilder.com/shiny. Although the prevalence of COVID-19 in Nebraska has not been specifically defined by comprehensive epidemiology studies, the observed specimen positive rate within the tested community has been around 5% for the past two weeks. The following parameters and assumptions used in this calculation included an experimental All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods and Results"
+        },
+        {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods and Results"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint prevalence rate of 5%, an assay lower limit-of-detection of 1 to 3 RNA copies/\u00b5l, a sensitivity and specificity of 100%, a two-stage pooling algorithm, and a range of pool sizes of 3 to 10 samples 6 . These calculations predicted a pool size of 5 samples would provide the largest reduction in the expected number of tests of 57% when compared to testing specimen separately (Table 1) . To examine this approach in a clinical situation, 60 specimens from individuals at risk for COVID-19 as determined by the public health department were separated randomly into 12 pools, which were processed as described.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 519,
+                    "end": 528,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Methods and Results"
+        },
+        {
+            "text": "Two of the pools were All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods and Results"
+        },
+        {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods and Results"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint characterized as \"2019-nCoV detected\" by the assay. All individual specimens within each of the two identified pools were re-tested with two positive samples identified for an overall positive rate of 3.3%. The total reactions used were 22 for an overall conservation of 38 extraction kits and 38 amplification reagents. As a modification to the CDC-Diagnostic Panel and to address for the potential of reduced sensitivity of testing, all pools that tested with Ct values between 40-45 cycles would have been split and re-tested individually. None of the pools tested in this study showed this late amplification.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods and Results"
+        },
+        {
+            "text": "Group testing of pooled samples has been successfully employed by the blood procurement and infectious disease testing for many years 5 . The strategy became effective due to the development of highly sensitive molecular based assays and several studies reported on statistical measures to determine appropriate parameters for use 6 . This study examined whether pooling was feasible using an EUA SARS CoV-2 assay in a public health setting where the desire to test large numbers of individuals has been impacted by the scarcity of key resources.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 135,
+                    "text": "5",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The predictive algorithm indicated a pooling ratio of 1 to 5 was expected to retain accuracy of the test and result in greater efficiency of test resources. Results of this study indicated that all positive samples by the non-pooled method were detected in pools with four other negative samples.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The practical application of this process was confirmed with 60 samples from the community resulting in the saving of reagents and personnel time that could expand testing to an additional 38 samples. Assuming a consistent positivity rate, this strategy would expand testing by 133%. Table 2 summarizes the impact of different positive test rates on the overall efficiency of test resources. All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 284,
+                    "end": 291,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint During a rapidly changing epidemic, testing strategies will need to adapt to potential increases in the positive test rate. Additionally, studies are needed on the impact of new assays and different extraction methods on the recovery of RNA and overall test sensitivity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Group testing of pooled specimens requires the use of highly sensitive assays to avoid missing low positive samples. Strategies must be employed to closely monitor the use of pooling as the positive rate of test specimens increases in an outbreak of disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "This study showed that pooling is an effective approach to expand the impact of limited test resources and reagents during specific stages of an infectious disease outbreak. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint The optimal sample pool size was determined based on the least number of tests and the following parameters: prevalence rate (5%), a lower limit of detection of 1 to 3 RNA copies/\u00b5l, sensitivity and specificity for the assay of 100%. al . he \u00b5l, All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.03.20050195 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19-New Insights on a Rapidly Changing Epidemic",
+            "authors": [
+                {
+                    "first": "Del",
+                    "middle": [],
+                    "last": "Rio",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Malani",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Diagnostic Testing for the Novel Coronavirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sharfstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mello",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Safety Considerations in the Laboratory Testing of Specimens Suspected or Known to Contain the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Iwen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Stiles",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pentella",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Am J Clin Pathol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ajcp/aqaa047"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pooling nasopharyngeal/throat swab specimens to increase testing capacity for influenza viruses by PCR",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Van",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Warshauer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Clin Microbiol",
+            "volume": "50",
+            "issn": "3",
+            "pages": "891--896",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.05631-11"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Hepatitis B, hepatitis C and HIV transfusiontransmitted infections in the 21st century",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Dwyre",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Fernando",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Holland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Vox Sang",
+            "volume": "100",
+            "issn": "1",
+            "pages": "92--98",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "on 21 SARS CoV-2 confirmed positive samples was performed using the CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel kit (CDC, Atlanta, GA). With this assay, a positive COVID-19 result was determined when both nucleocapsid targets (N1 and N2) reached a defined threshold prior to an amplification cycle of 40. COVID-19 positive specimens with a range of cycle threshold (Ct) values from 18.23 to 37.96 for N1 and from 17.33 to 38.65 for N2 were included in this study (Table 1). Note that a low Ct values indicated the presence of higher amounts of viral RNA and high Ct values indicated lower amounts. Pools were created using 50 \u00b5l from a confirmed NP positive patient specimen added to 50 \u00b5l from each of 4 negative NP patient samples for a final volume of 250 \u00b5l. Nucleic acid (NA) extraction was performed on each pool using either the QIAGEN EZ1 Virus Mini Kit v2.0 (QIAGEN, Germantown, MD) or the QIAGEN manual extraction kit according to manufacturer's instructions. Real-time RT-PCR was performed on the extracted NA using the CDC Diagnostic Panel following the manufacturer's instructions. The results showed that all 21pooled specimens were positive within a range of -1.1 Ct to 5.09 Ct difference from the original samples",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Optimal sample pool size Graphical comparison of initial pool size compared to expected number of tests per individual using the Shiny application for pooled testing available at https://www.chrisbilder.com/shiny.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Comparison of threshold cycles between the original and pooled COVID-19 positive samples a . Ct, cycle threshold a : The extraction platforms included both automated and manual procedures. b : The N1 and N2 targets were used to detect SARS-CoV-2 during the PCR assay. rights reserved. No reuse allowed without permission.author/funder, who has granted medRxiv a license to display the preprint in perpetuity.The copyright holder for this preprint (which was not peer-reviewed) is the. https://doi.org/10.1101/2020.04.03.20050195",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Comparison of optimal pool size and prevalence rates on test efficiency a . The Shiny application for pooled testing available at https://www.chrisbilder.com/shiny was used for calculations. rights reserved. No reuse allowed without permission.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors thank the staff of the Biology Section within the Nebraska Public Health Laboratory for processing of the specimens and performance of the assay. This study did not require IRB approval because it described a diagnostic method and was not considered human research according to national regulations. The FDA reviewed the procedure as part of a EUA approved diagnostic procedure.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgement"
+        }
+    ]
+}

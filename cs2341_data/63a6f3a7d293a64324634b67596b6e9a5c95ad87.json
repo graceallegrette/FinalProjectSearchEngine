@@ -1,0 +1,1667 @@
+{
+    "paper_id": "63a6f3a7d293a64324634b67596b6e9a5c95ad87",
+    "metadata": {
+        "title": "Adaptive cyclic exit strategies from lockdown to suppress COVID-19 and allow economic activity",
+        "authors": [
+            {
+                "first": "Omer",
+                "middle": [],
+                "last": "Karin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yinon",
+                "middle": [
+                    "M"
+                ],
+                "last": "Bar-On",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Weizmann Institute of Science",
+                    "location": {
+                        "postCode": "76100",
+                        "settlement": "Rehovot Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tomer",
+                "middle": [],
+                "last": "Milo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Itay",
+                "middle": [],
+                "last": "Katzir",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Avi",
+                "middle": [],
+                "last": "Mayo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yael",
+                "middle": [],
+                "last": "Korem",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Boaz",
+                "middle": [],
+                "last": "Dudovich",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Amos",
+                "middle": [
+                    "J"
+                ],
+                "last": "Zehavi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tel Aviv University",
+                    "location": {
+                        "settlement": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nadav",
+                "middle": [],
+                "last": "Davidovich",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ben-Gurion University",
+                    "location": {
+                        "settlement": "Beer-Sheva",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ron",
+                "middle": [],
+                "last": "Milo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Weizmann Institute of Science",
+                    "location": {
+                        "postCode": "76100",
+                        "settlement": "Rehovot Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Uri",
+                "middle": [],
+                "last": "Alon",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Many countries have applied lockdown to suppress COVID-19, with devastating economic consequences. Here we propose exit strategies from lockdown that suppress the epidemic and provide sustainable, albeit reduced, economic activity. We use mathematical models to show that a cyclic schedule of 4-day work and 10-day lockdown, or similar variants that can be adapted in response to epidemiological observations, can in certain conditions suppress the epidemic while providing part-time employment. The cycle reduces the reproduction number R by a combination of reduced exposure time and a resonance effect where those infected during work days reach peak infectiousness during lockdown days. Throughout, full epidemiological measures need to continue including hygiene, physical distancing and extensive testing and contact tracing. Adaptive work-lockdown cycles can provide epidemic control and offer predictability to many economic sectors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Current approaches to suppress COVID-19 use testing, contact tracing, physical distancing, identification of regional outbreaks, compartmentalization into geographical regions down to the neighborhood and company level, and population-level quarantine known as lockdown (Flaxman, Mishra, Gandy, Unwin, et al. 2020; Ferguson et al. 2020; C. J. Wang, Ng, and Brook 2020; Chen et al. 2020 ) . The aim is to flatten the infection curve and prevent overload of the medical system until a vaccine becomes available.",
+            "cite_spans": [
+                {
+                    "start": 270,
+                    "end": 314,
+                    "text": "(Flaxman, Mishra, Gandy, Unwin, et al. 2020;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 315,
+                    "end": 336,
+                    "text": "Ferguson et al. 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 337,
+                    "end": 368,
+                    "text": "C. J. Wang, Ng, and Brook 2020;",
+                    "ref_id": null
+                },
+                {
+                    "start": 369,
+                    "end": 385,
+                    "text": "Chen et al. 2020",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Lockdown is currently in place in many countries, at a large economic and social cost, including unemployment on a massive scale. If a lockdown is successful in reducing the number of critical cases, a decision must be reached on how to exit it. In the absence of herd immunity or vaccine, the main concern is the risk of resurgence of the epidemic. One strategy proposes reinstating lockdown when a critical number of cases is exceeded in a resurge, and stopping lockdown again once cases drop below a low threshold (Kissler et al., n.d.; Ferguson et al. 2020) . While this strategy can prevent the health services from becoming overloaded, it leads to economic uncertainty and continues to accumulate cases with each resurgence (Fig. 1A , S1).",
+            "cite_spans": [
+                {
+                    "start": 517,
+                    "end": 539,
+                    "text": "(Kissler et al., n.d.;",
+                    "ref_id": null
+                },
+                {
+                    "start": 540,
+                    "end": 561,
+                    "text": "Ferguson et al. 2020)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 730,
+                    "end": 738,
+                    "text": "(Fig. 1A",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "need to re-enter prolonged lockdown. b) A cyclic work-lockdown strategy prevents resurges by keeping average R<1. It thus allows earlier exit form lockdown, and provides a clear part-time work schedule. Simulations use the SEIR-Erlang deterministic model with mean latent period of 3 days and mean infectious period 4 days ( Bar-On et al. 2020) . Transmission rates provide R in lockdown and work days of and . .6 R L = 0 R W = 2",
+            "cite_spans": [
+                {
+                    "start": 325,
+                    "end": 344,
+                    "text": "Bar-On et al. 2020)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "Here we propose an exit strategy that can suppress the epidemic while allowing sustained, albeit reduced, economic activity. We carefully suggest an exit strategy that can be implemented at a point where lockdown has succeeded in stabilizing the number of daily cases to a value that the health system can support.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "The basic idea is to keep the effective reproduction number R, defined as the average number of people infected by each infected individual, below 1. When R is below 1, the number of infected people declines exponentially, a basic principle of epidemiology.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "To reduce R below 1, we propose a cyclic schedule with a period of two weeks, with k continuous days of work and 14-k days of lockdown. Extensive epidemiological measures including rapid testing and contact isolation should be used throughout.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "By \"work days\" we mean release from lockdown with strict hygiene and physical distancing measures on the same k weekdays for everyone. The nature of the release from lockdown can be tuned. It can include the entire population except for quarantined infected individuals and people in risk groups who may be in quarantine. More conservatively, it can include workers in shifts in selected sectors of the economy. Remote work should be encouraged for sectors that can work from home.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "The cyclic strategy reduces R by two effects: restriction and resonance . The restriction effect is a reduction in the time T that an infectious person is in contact with many others. For example, a 4-day work:10-day lockdown cycle reduces T to 2/7 T \u2248 0.3T.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "The resonance effect uses the timescales of the virus against itself (Fig. 2) . Most infected people are close to peak infectiousness for about 3-4 days, beginning \u22483 days after being exposed He et al. 2020) . A proper work-lockdown cycle, such as a 4-work:10-lockdown schedule, allows most of those infected during the work days to reach maximal infectiousness during lockdown, and thus avoid infecting many others. Those with symptoms can be infectious for longer ) , but will remain quarantined and hence also do not infect many others. Similarly, asymptomatic cases infected at work will spend the vast majority of their infectious period under lockdown. Infections will happen at home during lockdown days. Family-level rapid testing and quarantine when symptoms arise can help shorten infection chains.",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 207,
+                    "text": "He et al. 2020)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 69,
+                    "end": 77,
+                    "text": "(Fig. 2)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Fig. 1 | Cyclic work-lockdown strategy can control the epidemic and offer predictable part-time employment. a) Exit from lockdown carries the risk of resurgence of the epidemic, with"
+        },
+        {
+            "text": "SARS-CoV-2 has an average latent (non-infectious) period of about 3 days. A 14-day cycle in which people enter lockdown after 3 or 4 work days benefits from this property. Even those infected on the first day of work spend most of their latent period at work and reach peak infectiousness during lockdown. This reduces the number of secondary infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 2 | The cyclic exit strategy is aided by placing peak infectiousness in the lockdown days."
+        },
+        {
+            "text": "Simulations using a variety of epidemiological models, including SEIR models calibrated for COVID-19 and stochastic network-based simulations, show that a cyclic strategy can suppress the epidemic provided that the lockdown is effective enough (Fig. 3) . A 4-10 cycle seems to work well with estimated parameters, and is robust to uncertainties in the model (Fig. S2,S3) . A strong lockdown as in Wuhan (estimated R~0.3 (C. ) suppresses the epidemic with a 4:10 cycle even if workday R is as large as in the early days of the epidemic in Europe (R~3-4 (Flaxman, Mishra, Gandy, and Others 2020) ). A weaker lockdown (R=0.6-0.8) can support a cyclic strategy with 2-4 work days when strict measures are enforced during workdays providing R~1.5-2. Ideally, measures will eventually bring down R during workdays below 1, as in South Korea's control of the epidemic in early 2020, making lockdown unnecessary. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 244,
+                    "end": 252,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 358,
+                    "end": 370,
+                    "text": "(Fig. S2,S3)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Fig. 2 | The cyclic exit strategy is aided by placing peak infectiousness in the lockdown days."
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "4"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "4"
+        },
+        {
+            "text": "An important consideration is that the cyclic strategy is adaptive, and can be tuned when conditions change and the effects of the approach are monitored. If one detects, for example, that a 4:10 strategy leads to an increasing trend in cases, one can shift to a cycle with fewer work days. Conversely, if one observes a strong decreasing trend, one can shift to more work days and gain economic benefit (Fig 4) . A conservative approach can exit lockdown with 1 day of work, build up to two days, and so on.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 404,
+                    "end": 411,
+                    "text": "(Fig 4)",
+                    "ref_id": null
+                }
+            ],
+            "section": "4"
+        },
+        {
+            "text": "(a) If average R is above 1, cases will show a rising trend, and number of work days in the cycle can be reduced to achieve control. (b) Number of work days per cycle can be increased when control meets a desired health goal.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "Measures will be required during the work days to ensure that people do not excessively compensate for the lockdown periods by having so many more social 5 . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "connections that R is significantly increased. This may include sound epidemiological measures such as banning large events and clear communication campaigns by the health authorities to enhance adherence to hygiene and physical distancing. During days of lockdown, shared work spaces can be disinfected to reduce future infection through surfaces. Extensive rapid testing and contact tracing should be developed and extended in parallel (Linnarsson 2020) .",
+            "cite_spans": [
+                {
+                    "start": 438,
+                    "end": 455,
+                    "text": "(Linnarsson 2020)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "The economic benefits of a cyclic strategy include part-time employment to millions who have been put on leave without pay or who have lost their jobs. This mitigates massive unemployment and business bankruptcy during lockdown. Prolonged unemployment during lockdown and the recession that is expected to follow can reduce worker skill (Krebs 2007; Edin and Gustavsson 2008; Davis and von Wachter 2011; Schmieder, von Wachter, and Bender 2016;  Carlsson-Szlezak, Reeves, and Swartz 2020) and carries major societal drawbacks (Nichols, Mitchell, and Lindner 2013) . Unemployment also has detrimental health effects which include exacerbation of existing physical and mental illnesses.",
+            "cite_spans": [
+                {
+                    "start": 337,
+                    "end": 349,
+                    "text": "(Krebs 2007;",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 350,
+                    "end": 375,
+                    "text": "Edin and Gustavsson 2008;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 376,
+                    "end": 403,
+                    "text": "Davis and von Wachter 2011;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 404,
+                    "end": 444,
+                    "text": "Schmieder, von Wachter, and Bender 2016;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 445,
+                    "end": 445,
+                    "text": "",
+                    "ref_id": null
+                },
+                {
+                    "start": 526,
+                    "end": 563,
+                    "text": "(Nichols, Mitchell, and Lindner 2013)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "The lockdown phases of the cyclic strategy with fixed week days is easy to enforce. The strategy offers a measure of economic predictability, potentially enhancing consumer and investor confidence in the economy which is essential for growth and recovery (Akerlof and Shiller 2010; Keynes 2018) . It can also be equitable and transparent in terms of who gets to exit lockdown.",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 281,
+                    "text": "(Akerlof and Shiller 2010;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 282,
+                    "end": 294,
+                    "text": "Keynes 2018)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "For these reasons, a cyclic strategy can be maintained for far longer than continuous lockdown. This allows time for developing a vaccine, treatment, effective testing and buildup of herd immunity without overwhelming health care capacity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "The cyclic strategy does not seem to have a long-term cost in terms of health compared to a start-stop lockdown policy triggered by resurges. Comparing the two strategies shows that in the mid-term and long term, the start-stop strategy accumulates more cases due to resurges (Fig. 5) . This does not depend heavily on parameters: the fundamental reason is that start-stop uses feedback to keep average R near 1, with new cases arising during surges, whereas the cyclic strategy keeps average R below one, with exponentially decaying new cases. It thus prevents resurges. If desired, the cyclic strategy can also keep cases near a low constant rate, by adjusting k according to epidemiological measurements.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 276,
+                    "end": 284,
+                    "text": "(Fig. 5)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Fig. 4 | The cyclic strategy can be tuned according to the trends in case numbers over weeks."
+        },
+        {
+            "text": "Regions that adopt this strategy are predicted to resist infections from the outside. Infections entering from the outside cannot spread widely because average R<1. After enough time, there is even a possibility for the epidemic to be eradicated, in the absence of unknown reservoirs or mutations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 5 | The cumulative number of cases under a cyclic strategy is lower at long times than in a strategy that restarts lockdown when the epidemic resurges. Cumulative number of cases is shown for the simulations of Fig 1a (red) and Fig1b (blue). Even though exit from lockdown occurred earlier in the cyclic strategy case, the cumulative number of cases associated with this strategy is lower in the long term than the accumulated cases when lockdown is released and then restarted once the epidemic resurges."
+        },
+        {
+            "text": "The cyclic strategy can work in regions with insufficient tests, as long as the cyclic schedule can be maintained. This may apply to a large part of the earth's population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 5 | The cumulative number of cases under a cyclic strategy is lower at long times than in a strategy that restarts lockdown when the epidemic resurges. Cumulative number of cases is shown for the simulations of Fig 1a (red) and Fig1b (blue). Even though exit from lockdown occurred earlier in the cyclic strategy case, the cumulative number of cases associated with this strategy is lower in the long term than the accumulated cases when lockdown is released and then restarted once the epidemic resurges."
+        },
+        {
+            "text": "The exact nature of the intervention can be tuned to optimize economy and minimize infection. The general message is that we can tune lockdown exit strategies to balance the health pandemic and the economic crisis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 5 | The cumulative number of cases under a cyclic strategy is lower at long times than in a strategy that restarts lockdown when the epidemic resurges. Cumulative number of cases is shown for the simulations of Fig 1a (red) and Fig1b (blue). Even though exit from lockdown occurred earlier in the cyclic strategy case, the cumulative number of cases associated with this strategy is lower in the long term than the accumulated cases when lockdown is released and then restarted once the epidemic resurges."
+        },
+        {
+            "text": "7 . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. 5 | The cumulative number of cases under a cyclic strategy is lower at long times than in a strategy that restarts lockdown when the epidemic resurges. Cumulative number of cases is shown for the simulations of Fig 1a (red) and Fig1b (blue). Even though exit from lockdown occurred earlier in the cyclic strategy case, the cumulative number of cases associated with this strategy is lower in the long term than the accumulated cases when lockdown is released and then restarted once the epidemic resurges."
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint S=1 is used to model situations far from herd immunity. The values used for \u03b2 are defined in each plot where . The analytical solution for cyclic / \u03b3 R = \u03b2 strategies is in (SI). This deterministic model describes a fully-mixed population. This is, in a sense, a worst-case scenario, because population structure typically reduces outbreak peak size (House and Keeling 2011) .",
+            "cite_spans": [
+                {
+                    "start": 426,
+                    "end": 450,
+                    "text": "(House and Keeling 2011)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fig. 5 | The cumulative number of cases under a cyclic strategy is lower at long times than in a strategy that restarts lockdown when the epidemic resurges. Cumulative number of cases is shown for the simulations of Fig 1a (red) and Fig1b (blue). Even though exit from lockdown occurred earlier in the cyclic strategy case, the cumulative number of cases associated with this strategy is lower in the long term than the accumulated cases when lockdown is released and then restarted once the epidemic resurges."
+        },
+        {
+            "text": "The SEIR model describes an exponential distribution of the lifetimes of the exposed and infectious compartments. In reality these distributions show a mode near the mean. To describe this, we split E and I into two artificial serial compartments each with half the mean lifetime of the original compartment (Champredon, Dushoff, and Earn 2018 . In the figures we used \u03c3E \u03b3I , dI /dt \u03b3I \u03b3I 2 2 \u2212 2 1 2 = 2 1 \u2212 2 2 I = I 1 + I 2 S=1, describing a situation far from herd immunity. As a result, case numbers are in arbitrary units, and can describe large or small outbreaks.",
+            "cite_spans": [
+                {
+                    "start": 308,
+                    "end": 343,
+                    "text": "(Champredon, Dushoff, and Earn 2018",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SEIR-Erlang model:"
+        },
+        {
+            "text": "We also simulated a stochastic SEIR process on social contact networks. Each node i represents an individual and can be in a susceptible, exposed, infected or removed state (i.e. quarantined, recovered or dead). Lifetime in the E and I states is drawn from an Erlang distribution with means and . The total T E T I infectivity of a node is drawn from a long tailed distribution to account for \u03b2 i super-spreaders. The probability of infection per social link j, , is set either q ij constant for all links connected to node i or drawn from an exponential distribution to account for heterogeneity in infection rates. Node states are updated at each time step. Network models include Erdos-Renyi and small world networks. During lockdown, a fraction of the links are inactivated (same links for each lockdown phase).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SEIR model on social networks with epidemiological measures:"
+        },
+        {
+            "text": "In order for restriction of exposure time to be effective, probability of infection must drop appreciably when exposure time is reduced. This requires a low average infection probability per unit time per social contact, q, so that probability of infection, p=1-exp(-qT), does not come close to 1 for exposure time T on the order of days. For COVID-19, an infected person infects on the order of R=3 people on average during the infectious period of mean duration D=4 days. If the mean number of social contacts is C, which is estimated at greater than 10, one has q~DR/C<0.1/day. Thus infection probability on the scale of hours to a few days is approximately linear with exposure time: 1-exp(-qT)~qT. This is consistent with the observation that infected people do not typically infect their entire household, and with the linearity observed in influenza transmission (Cui et al. 2011) . We also tested a scenario using network models in which some contacts have much higher q than others (exponentially distributed q between links). A mildly lower R in lockdown is required to provide a given benefit of the cyclic strategy than when q is the same for all links.",
+            "cite_spans": [
+                {
+                    "start": 870,
+                    "end": 887,
+                    "text": "(Cui et al. 2011)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Linearity of transmission risk with exposure time:"
+        },
+        {
+            "text": "9 . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Linearity of transmission risk with exposure time:"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Linearity of transmission risk with exposure time:"
+        },
+        {
+            "text": "10 . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SEIR-Erlang model simulation showing the initial growth phase of an epidemic in the first two weeks, triggering a lockdown of 7 weeks. Lockdown is reinstated one a threshold of cases is exceeded. We show three scenarios with different effective reproduction numbers after lockdown is first lifted (R W =1.4, R W =2.0 and R W =2.8), leading to a wide distribution of the time at which the case threshold is crossed and lockdown is reinstated."
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SEIR-Erlang model simulation showing the initial growth phase of an epidemic in the first two weeks, triggering a lockdown of 7 weeks. Lockdown is reinstated one a threshold of cases is exceeded. We show three scenarios with different effective reproduction numbers after lockdown is first lifted (R W =1.4, R W =2.0 and R W =2.8), leading to a wide distribution of the time at which the case threshold is crossed and lockdown is reinstated."
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "11"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https: //doi.org/10.1101 //doi.org/10. /2020 ",
+            "cite_spans": [
+                {
+                    "start": 85,
+                    "end": 102,
+                    "text": "//doi.org/10.1101",
+                    "ref_id": null
+                },
+                {
+                    "start": 103,
+                    "end": 122,
+                    "text": "//doi.org/10. /2020",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "11"
+        },
+        {
+            "text": "Here to provide the same serial interval duration as in the SEIR model, and S=1. /7 day \u03b3 = 1 \u22121",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. S3 An SIR deterministic model captures some of the effects. The SIR model (right panel) lacks the exposed (non-infectious) compartment. It shows that the cyclic lockdown strategies can control the epidemic, but at smaller parameter regions for each given strategy than the SEIR-Erlang model (left panel). The difference is biggest at large ratios of R at work and lockdown. The SIR model is . The replication number is"
+        },
+        {
+            "text": "12 . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effective R in the SIR model is the average R weighted by the fraction of time for work and lockdown. For analytical work on optimal epidemic control in an SIR model see [ https://osf.io/rq5ct/ ]."
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effective R in the SIR model is the average R weighted by the fraction of time for work and lockdown. For analytical work on optimal epidemic control in an SIR model see [ https://osf.io/rq5ct/ ]."
+        },
+        {
+            "text": "Stochastic simulation of a 4-work-10-lockdown cyclic strategy using a SEIR process simulated on a contact network. Infected nodes versus time from a simulation run using the SEIRSplus package from the Bergstrom lab, https://github.com/ryansmcgee/seirsplus . Contact network has a power-law-like degree distribution with two exponential tails, with mean degree of 15, N=10^4 nodes, sigma=gamma=1/3.5 days, beta=0.95 till day 14, lockdown beta=0.5 with mean degree 2 (same edges removed every lockdown period), work day beta=0.7. Probability of meeting a non-adjacent node randomly at each timestep instead of a neighbor node is p=1 before day 14, in lockdown p=0, workday p=0.3. Testing is modeled to quarantine 1% of infected nodes per day, with no contact tracing. Shaded regions are lockdown periods, light gray regions are workdays. Initial condition were 10 exposed and 10 infected nodes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Fig. S4"
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "13"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.04.20053579 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "13"
+        },
+        {
+            "text": "Extended lockdowns are resulting in widespread unemployment and business bankruptcy. Governments step in to address these economic challenges and thus government expenditure skyrockets while revenues plummet. The implication of this is growing public deficits. Finally, consumer demand declined precipitously in part because purchases that conflict with the social isolation imperative are viewed by consumers as unsafe or simply banned outright by the government. Moreover, lower employment also means lower aggregate income and therefore consumption. To conclude, the Covid-19 induced crisis has led to an employment and business crisis on the supply side, a suppression of demand and growing government deficits. The longer the lockdown period, the worse these problems will become.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "The cyclic lockdown alternative, coupled with government business subsidies, holds several advantages when compared to full lock-down mode.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "On the supply side, the cyclic alternative substitutes unemployment with part-time employment for many workers. Considering the well-established research literature on the long-term unemployment scarring effect this has important long-term economic and welfare advantages. First, long-term unemployment (6 months or more) leads to human capital depreciation that in 1 turn reduces productivity, employability and wages (Krebs 2007; Edin and Gustavsson 2008; Davis and von Wachter 2011; Schmieder, von Wachter, and Bender 2016) . In instances of widespread unemployment, individual workers decline in productivity and could have an aggregate long-term depressing effect on productivity growth in the entire economy (Carlsson-Szlezak, Reeves, and Swartz 2020) . Long-term unemployment also exerts negative effects on social capital: in this context, the deterioration of social networks that help the unemployed to find appropriate employment opportunities (Machin and Manning 1998) . Adverse physical and mental effects are also associated with long-term unemployment (Nichols, Mitchell, and Lindner 2013) .",
+            "cite_spans": [
+                {
+                    "start": 419,
+                    "end": 431,
+                    "text": "(Krebs 2007;",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 432,
+                    "end": 457,
+                    "text": "Edin and Gustavsson 2008;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 458,
+                    "end": 485,
+                    "text": "Davis and von Wachter 2011;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 486,
+                    "end": 526,
+                    "text": "Schmieder, von Wachter, and Bender 2016)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 955,
+                    "end": 980,
+                    "text": "(Machin and Manning 1998)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1067,
+                    "end": 1104,
+                    "text": "(Nichols, Mitchell, and Lindner 2013)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "Second, a cyclic strategy would keep many businesses running, albeit at less than full capacity, thus avoiding temporary or permanent shutdown. It is considerably easier to extend the operations of running enterprises than to establish new ones. Moreover, even temporary shutdowns, intended to reduce labor and fixed costs during hard times, negatively affect investor and consumer confidence in firms. For this reason, even during the Great Recession temporary shutdowns were relatively rare as managers understood that it is better to suffer losses in the short-term than to endanger the enterprise's reputation among investors and consumers (Brown, Carpenter, and Petersen 2019) .",
+            "cite_spans": [
+                {
+                    "start": 644,
+                    "end": 681,
+                    "text": "(Brown, Carpenter, and Petersen 2019)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "Preventing complete firm shutdown could also alleviate some of the more negative psychological-based consequences of economic crises. Shutdowns not only influence an individual firm's reputation, but also that of the entire economy if shutdowns are prevalent. Pessimistic 'animal spirits' (Akerlof and Shiller 2010; Keynes 2018 ) emanated by the general appearance of a fallen economy permeate the investment world and undermine recovery. The more businesses are closed down, the more difficult will it be to convince investors to renew investment and jumpstart the economy.",
+            "cite_spans": [
+                {
+                    "start": 289,
+                    "end": 315,
+                    "text": "(Akerlof and Shiller 2010;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 316,
+                    "end": 327,
+                    "text": "Keynes 2018",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "On the demand side, layoffs predictably lead to a decline in consumer buying power and a depression of aggregate demand. In contrast, the employed not only have higher income then the unemployed, they also have more confidence in their future income flow. This confidence implies that they are less likely than the unemployed to defer consumption to a later date because they fear that their income sources would dry up.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "Finally, governments across the world comprehend that the Covid-19 crisis requires expansive government investment to avert an economic and humanitarian disaster. However, this implies running deficits. The cyclic strategy does not mean that the government can simply trust the private sector to pay wages on par with the norm during the pre-crisis era. Given depressed demand, absent government subsidies many businesses would be unable to cover their costs in full, even if workers receive only compensation for part-time work. In addition, without government supplements many families would be unable to make ends meet even assuming that the breadwinners work part time. Nevertheless, the fact that some production would continue implies that the private sector shortfall that the government needs to cover would be smaller than what would be the case under full lockdown. As a result, government's fiscal burden would be lighter under a cyclic strategy than full lockdown mode.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "From an economic perspective, however, a cyclic strategy such as 4-10 has some disadvantages. Primarily, not all economic sectors and countries benefit similarly from the scheme. Services that rely on physical human congregation such as flights, hotels or restaurants are unlikely to operate anywhere near normal under this scheme. Even if governments loosen restrictions on congregation, most people would refrain from patronizing large-scale entertainment events, for example, as long as a substantial perceived Covid-19 health risk is present. Under such circumstances, such businesses may prefer full lockdown anticipating that the 'all clear' signal would arrive earlier than under the cyclic scheme. Unfortunately, full lockdown cannot guarantee that resurgence would not occur. Resurgence would place businesses that are highly reliant on their potential customers' sense of Covid-19 risk/health in a position that is no better, and perhaps even worse (due to costs associated with reopening and closure) than under a cyclic strategy that can prevent resurges.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "The cyclic scheme also presupposes that in a few sequential work days (eg 4) it is possible to deliver products/services effectively even if in a more limited manner. However, the production process in numerous economic activities is based on work cycles longer than four days. Indeed, some production activities are predicated on 'continuous processing/production' in which work interruptions, such as equipment maintenance, are rare. In some cases, shifting from continuous processing to semi-continuous operations would require reorganization of work. In others, cessation of activities comes at high cost due, for example, to undesirable chemical reactions that occur when material flow stops. However, it should be noted, that many of the economic activities to which this issue applies are currently considered by governments as essential (e.g., oil refineries, pharmaceutical plants) and therefore continue to operate almost at full capacity under lockdown mode and would do so under the cyclic scheme as well.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": "The economic sectoral composition of different countries differs and accordingly so would their gains from adopting a cyclic exit strategy. Countries that are disproportionately reliant on recreation and tourism would gain less than countries in which a large share of economic activity relies on manufacturing or agriculture. The cost-benefit analysis of adopting this scheme for each country would be different. Even if only part of the economy benefits from a cyclic strategy, economic benefits are expected to be significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SI section: Economic perspective on cyclic lockdown strategies"
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "16"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10. 1101 /2020 ",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "1101",
+                    "ref_id": null
+                },
+                {
+                    "start": 103,
+                    "end": 108,
+                    "text": "/2020",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "16"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism",
+            "authors": [
+                {
+                    "first": "George",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Akerlof",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robert",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Shiller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "SARS-CoV-2 (COVID-19) by the Numbers",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bar-On",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yinon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Avi",
+                    "middle": [],
+                    "last": "Flamholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rob",
+                    "middle": [],
+                    "last": "Phillips",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ron",
+                    "middle": [],
+                    "last": "Milo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The Temporary Shutdown Decision: Lessons from the Great Recession",
+            "authors": [
+                {
+                    "first": "James",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Robert",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bruce",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Carpenter",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Petersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Managerial and Decision Economics",
+            "volume": "40",
+            "issn": "7",
+            "pages": "772--86",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Understanding the Economic Shock of Coronavirus",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Carlsson-Szlezak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Martin",
+                    "middle": [],
+                    "last": "Philipp",
+                    "suffix": ""
+                },
+                {
+                    "first": "Paul",
+                    "middle": [],
+                    "last": "Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Swartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Harvard Business Review",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Equivalence of the Erlang SEIR Epidemic Model and the Renewal Equation",
+            "authors": [
+                {
+                    "first": "David",
+                    "middle": [],
+                    "last": "Champredon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jonathan",
+                    "middle": [],
+                    "last": "Dushoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "David",
+                    "middle": [],
+                    "last": "Earn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/319574"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "COVID-19 Control in China during Mass Population Movements at New Year",
+            "authors": [
+                {
+                    "first": "Simiao",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Juntao",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Weizhong",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chen",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Till",
+                    "middle": [],
+                    "last": "B\u00e4rnighausen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "764--66",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Transmission of Pandemic Influenza A (H1N1) Virus in a Train in China",
+            "authors": [
+                {
+                    "first": "Fuqiang",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Huiming",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lei",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dapeng",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Canjun",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dingming",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jian",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Epidemiology / Japan Epidemiological Association",
+            "volume": "21",
+            "issn": "4",
+            "pages": "271--77",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Recessions and the Cost of Job Loss",
+            "authors": [
+                {
+                    "first": "Steven",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Till",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wachter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Working Paper Series. National Bureau of Economic Research",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3386/w17638"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Time Out of Work and Skill Depreciation",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Edin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Magnus",
+                    "middle": [],
+                    "last": "Per-Anders",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gustavsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "ILR Review",
+            "volume": "61",
+            "issn": "2",
+            "pages": "163--80",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Impact of Non-Pharmaceutical Interventions (NPIs) to Reduce COVID19 Mortality and Healthcare Demand",
+            "authors": [
+                {
+                    "first": "Neil",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Daniel",
+                    "middle": [],
+                    "last": "Laydon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gemma",
+                    "middle": [
+                        "Nedjati"
+                    ],
+                    "last": "Gilani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Natsuko",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kylie",
+                    "middle": [],
+                    "last": "Ainslie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marc",
+                    "middle": [],
+                    "last": "Baguelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sangeeta",
+                    "middle": [],
+                    "last": "Bhatia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Report",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Estimating the Number of Infections and the Impact of Non-Pharmaceutical Interventions on COVID-19 in 11 European Countries",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flaxman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gandy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Others",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Estimating the Number of Infections and the Impact of Non-Pharmaceutical Interventions on COVID-19 in 11 European Countries",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flaxman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gandy",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Unwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Coupland",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mellan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Report",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.25561/77731"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Temporal Dynamics in Viral Shedding and Transmissibility of COVID-19",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eric",
+                    "middle": [
+                        "H Y"
+                    ],
+                    "last": "Xi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Peng",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xilong",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jian",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xinxin",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yiu",
+                    "middle": [
+                        "Chung"
+                    ],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.15.20036707"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Epidemic Prediction and Control in Clustered Populations",
+            "authors": [
+                {
+                    "first": "Thomas",
+                    "middle": [],
+                    "last": "House",
+                    "suffix": ""
+                },
+                {
+                    "first": "Matt",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Theoretical Biology",
+            "volume": "272",
+            "issn": "1",
+            "pages": "1--7",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The General Theory of Employment, Interest, and Money",
+            "authors": [
+                {
+                    "first": "John",
+                    "middle": [],
+                    "last": "Keynes",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Maynard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Social Distancing Strategies for Curbing the COVID-19 Epidemic",
+            "authors": [
+                {
+                    "first": "Stephen",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kissler",
+                    "suffix": ""
+                },
+                {
+                    "first": "Christine",
+                    "middle": [],
+                    "last": "Tedijanto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marc",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yonatan",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Grad",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.22.20041079"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Job Displacement Risk and the Cost of Business Cycles",
+            "authors": [
+                {
+                    "first": "Tom",
+                    "middle": [],
+                    "last": "Krebs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "The American Economic Review",
+            "volume": "97",
+            "issn": "3",
+            "pages": "664--86",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "To Stop COVID-19, Test Everyone",
+            "authors": [
+                {
+                    "first": "Sten",
+                    "middle": [],
+                    "last": "Linnarsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Medium. Medium",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Substantial Undocumented Infection Facilitates the Rapid Dissemination of Novel Coronavirus (SARS-CoV2)",
+            "authors": [
+                {
+                    "first": "Ruiyun",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sen",
+                    "middle": [],
+                    "last": "Pei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bin",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yimeng",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tao",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wan",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jeffrey",
+                    "middle": [],
+                    "last": "Shaman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb3221"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The Causes and Consequences of Long-Term Unemployment in Europe",
+            "authors": [
+                {
+                    "first": "Stephen",
+                    "middle": [],
+                    "last": "Machin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Alan",
+                    "middle": [],
+                    "last": "Manning",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "CEPDP. London",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Consequences of Long-Term Unemployment",
+            "authors": [
+                {
+                    "first": "Austin",
+                    "middle": [],
+                    "last": "Nichols",
+                    "suffix": ""
+                },
+                {
+                    "first": "Josh",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "Stephan",
+                    "middle": [],
+                    "last": "Lindner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "PDF?source=post_page---------------------------",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "The Effect of Unemployment Benefits and Nonemployment Durations on Wages",
+            "authors": [
+                {
+                    "first": "Johannes",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Schmieder",
+                    "suffix": ""
+                },
+                {
+                    "first": "Stefan",
+                    "middle": [],
+                    "last": "Till Von Wachter",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bender",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "The American Economic Review",
+            "volume": "106",
+            "issn": "3",
+            "pages": "739--77",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Evolving Epidemiology and Impact of Non-Pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China",
+            "authors": [
+                {
+                    "first": "Chaolong",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xingjie",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Huan",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Qi",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jiao",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Na",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Epidemiology . medRxiv",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.03.20030593"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chun",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Jason",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robert",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Brook",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.3151"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Cyclic strategy with k workdays and 14-k lockdown days controls the epidemic for a wide range of work-day and lockdown-day effective replication numbers. Each regionshows the maximal number of work days in a 14-day cycle that provide decline of the epidemic (downward trend of case numbers over time). Simulation used a SEIR-Erlang deterministic model with mean latent period of 3 days and infectious periods of 4 days.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": ") . This describes Erlang-distributed lifetimes (the distribution of the sum of two exponentially distributed random variables) with the same mean transition rates as the original SEIR model. Thus,",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "and T I =4 days based on literature [SARS-COv2 by the numbers]. The panels show the regions in which effective R<1 when these parameters are varied: T E =3d and T I =6d, T E =4.5 d and T I =4d, and T I =6d, T E =4.5 d. Differences are small.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

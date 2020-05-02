@@ -1,0 +1,1211 @@
+{
+    "paper_id": "4593d1ecbaa167a2d3e910ccc986f5c4b5ecbbc8",
+    "metadata": {
+        "title": "Review CEPI: Driving Progress Toward Epidemic Preparedness and Response",
+        "authors": [
+            {
+                "first": "Dimitrios",
+                "middle": [],
+                "last": "Gouglas",
+                "suffix": "",
+                "affiliation": {},
+                "email": "dimitrios.gouglas@cepi.net."
+            },
+            {
+                "first": "Mario",
+                "middle": [],
+                "last": "Christodoulou",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Stanley",
+                "middle": [
+                    "A"
+                ],
+                "last": "Plotkin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [],
+                "last": "Hatchett",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The Coalition for Epidemic Preparedness Innovations (CEPI) was formed in the aftermath of the 2014-2015 Ebola outbreak in west Africa to support the development of vaccines that could improve the world's preparedness against outbreaks of epidemic infectious diseases. Since its launch in 2017, CEPI has mobilized more than US$750 million to support its mission to develop vaccines against agents such as Lassa virus, Middle East respiratory syndrome coronavirus, and Nipah virus, as well as several rapid-response vaccine platforms to accelerate response times to unexpected epidemic threats. CEPI has also played a leading role in fostering institutional partnerships between public-and private-sector organizations to optimize allocation of resources for vaccine development against its priority pathogens. CEPI's priorities include diversification of its current vaccine research and development investment portfolio to include additional pathogens, such as Rift Valley fever and chikungunya; establishment of technical and regulatory pathways for vaccine development across CEPI's portfolio; development of sustainable manufacturing solutions for vaccine candidates nearing completion of safety and immunogenicity testing in humans; and creation of investigational stockpiles of its vaccine candidates for use in emergency situations. This commentary provides an overview of the global health challenges CEPI was established to address and its achievements to date, and indicates priorities for funding and coordination in the coming years.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In recent decades, the world has been shaken by the emergence and spread of new viral diseases. Although the world's response to the 2014-2015 Ebola epidemic was laudable, there is a general consensus that much more could have been done to prevent the deaths of thousands of people and billions of dollars of economic damage as a result of this epidemic (1) . Despite many laboratory studies of candidate vaccines, before the trials of the vesicular stomatitis virus-Ebola virus vaccine (Merck, Kenilworth, New Jersey) in Guinea in 2016, no vaccine had ever been developed in time to alter the course of a new disease outbreak, and that vaccine arrived late in the epidemic (2) . Until quite recently, coordination of stakeholder responses across institutions and sectors has lagged behind the epidemic curves of emerging infectious diseases (EIDs) (3) . Research and development (R&D) priorities for improving preparedness have been driven primarily by bioterrorism concerns in some countries, leaving sparse product development pipelines for EIDs that fall outside national security agendas (2) . In addition, development of EID countermeasures has been unappealing for manufacturers, who see little commercial benefit, because of the sporadic disease burden and lengthy, risky, and costly product development (4) .",
+            "cite_spans": [
+                {
+                    "start": 354,
+                    "end": 357,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 674,
+                    "end": 677,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 849,
+                    "end": 852,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1093,
+                    "end": 1096,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1312,
+                    "end": 1315,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "These challenges notwithstanding, the west African Ebola epidemic led to a paradigm shift in EID preparedness (5, 6) . Experimental vaccines and therapeutics were deployed during this outbreak, thanks to over a decade of R&D into biodefense-related Ebola countermeasures and because the vesicular stomatitis virus-Ebola virus vaccine manufactured by Merck demonstrated effectiveness in field trials (7) . How-ever, none of these products was ready to deploy in time to change the course of the outbreak, due to the insufficiency of clinical data on safety and efficacy plus absence of product stockpiles. Although the trials assessing the vesicular stomatitis virus-Ebola virus vaccine did not commence until late in the epidemic, their success suggested a pathway for better preparedness against future epidemics: namely, advancement of biomedical countermeasures through human trials in anticipation of emergencies and making the most promising of these quickly available for efficacy testing and use if and when emergencies were to occur.",
+            "cite_spans": [
+                {
+                    "start": 110,
+                    "end": 113,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 114,
+                    "end": 116,
+                    "text": "6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 399,
+                    "end": 402,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In acknowledgment that a better system would be needed to improve the world's preparedness and response capacity against future epidemic threats (3, (8) (9) (10) , several important initiatives were launched shortly after the 2014-2015 Ebola epidemic had been contained. In May 2016, the World Bank established the Pandemic Emergency Finance Facility to quickly release funds to affected countries for epidemic responses (11) . At the same time, the World Health Organization (WHO) published its Blueprint priority diseases list for EID preparedness and response, identifying 11 pathogens with the potential to cause severe outbreaks in the near term. The initial list, as of May 2016 (8) (12) , comprised Crimean-Congo hemorrhagic fever (priority list); Ebola virus disease, Marburg virus disease (priority list); Lassa fever (priority list); MERS-CoV, severe acute respiratory syndrome (priority list); Nipah and henipaviral diseases (priority list); Rift Valley fever (priority list); Zika virus (priority list); Disease X (priority list); arenaviral hemorrhagic fevers other than Lassa fever (watchlist); chikungunya (watchlist); highly pathogenic coronaviral diseases other than MERS and severe acute respiratory syndrome (watchlist); emergent nonpolio enteroviruses, including EV71, D68 (watchlist); and severe fever with thrombocytopenia syndrome (watchlist).",
+            "cite_spans": [
+                {
+                    "start": 145,
+                    "end": 148,
+                    "text": "(3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 149,
+                    "end": 152,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 153,
+                    "end": 156,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 157,
+                    "end": 161,
+                    "text": "(10)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 421,
+                    "end": 425,
+                    "text": "(11)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 689,
+                    "end": 693,
+                    "text": "(12)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Earlier that year, inspired by a call for a new vaccine fund (5), global thought leaders from governments, industry, and civil society also met at the World Economic Forum in Davos, Switzerland, and agreed to explore new ways to drive product innovation for high-priority epidemic threats (13) .",
+            "cite_spans": [
+                {
+                    "start": 289,
+                    "end": 293,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "After the Davos 2016 meeting, 3 task teams convened in 2016 between February and June to define sustainable solutions for development of EID vaccines to improve global preparedness and response capacity (6, (11) (12) (13) . The task teams comprised 200 thought leaders and experts representing more than 80 organizations, who drew insights from WHO Blueprint priorities (12) , industry, and civilsociety perspectives on the role of vaccines for the prevention of humanitarian crises caused by EIDs. Each task team explored challenges for the development of EID vaccines that could be used in epidemics, including pathogen prioritization, clinical development, manufacturing capacity, regulatory pathways, models for product development partnerships, and funding strategies (13, 14) .",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 206,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 207,
+                    "end": 211,
+                    "text": "(11)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 212,
+                    "end": 216,
+                    "text": "(12)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 370,
+                    "end": 374,
+                    "text": "(12)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 773,
+                    "end": 777,
+                    "text": "(13,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 778,
+                    "end": 781,
+                    "text": "14)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FORMATION OF THE COALITION FOR EPIDEMIC PREPAREDNESS INNOVATIONS"
+        },
+        {
+            "text": "Task team recommendations led to the formation of the Coalition for Epidemic Preparedness Innovations (CEPI) (13, 14) . A coalition by design, CEPI reflects an explicit awareness that no organization can drive vaccine development against known EIDs or unknown pathogens of epidemic potential (i.e., Disease X) alone. Only together, through a multilateral and collaborative approach, can the complexities of vaccine development and delivery be addressed for the public good. As such, CEPI was formally launched at the 2017 World Economic Forum meeting in Davos, with close to US$500 million initial funding from the governments of Norway, Japan, and Germany, the Bill & Melinda Gates Foundation, and Wellcome (15) .",
+            "cite_spans": [
+                {
+                    "start": 109,
+                    "end": 113,
+                    "text": "(13,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 114,
+                    "end": 117,
+                    "text": "14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 708,
+                    "end": 712,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FORMATION OF THE COALITION FOR EPIDEMIC PREPAREDNESS INNOVATIONS"
+        },
+        {
+            "text": "CEPI's initial strategic objectives, established in 2016 (13) , were aimed at advancing vaccine candidates against each of its first priority pathogens (Lassa virus, MERS-CoV, a Nipah virus) through to evidence of safety and immunogenicity in humans (phase 2a) by 2022 and to establish a diverse portfolio of platform technologies that can accelerate development, manufacture, and clinical evaluation of vaccines in response to outbreaks of new EIDs, designated \"Disease X\" by WHO. In January 2019, CEPI expanded its list of priority pathogens to include chikungunya and Rift Valley fever. According to initial estimates, a minimum of $1 billion would be required to bring at least 4 EID vaccines through to the end of phase 2a trials and to fund investigational stockpiles of these in case of an international health emergency (16) .",
+            "cite_spans": [
+                {
+                    "start": 57,
+                    "end": 61,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 828,
+                    "end": 832,
+                    "text": "(16)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FORMATION OF THE COALITION FOR EPIDEMIC PREPAREDNESS INNOVATIONS"
+        },
+        {
+            "text": "Two years into operation, CEPI has already secured more than $750 million to support its mission, through the contributions of 7 government donors, the European Commission, and 2 philanthropic organizations. Three calls for proposals have been issued, inviting applications for R&D investment. Two of these calls invited applications for vaccine development against specific priority EIDs: initially against Lassa virus, MERS-CoV, and Nipah virus (17) , and more recently against Rift Valley fever and chikungunya. Another call invited applications for rapid-response platform technologies to accelerate development of vaccines in response to epidemic outbreaks of known EIDs or of unexpectedly emerging infections (Disease X) (18) . Socalled vaccine platform technologies comprise standardized, reproducible manufacturing processes that can be adapted to produce vaccines against different pathogens. The flexibility of these platforms improves manufacturing efficiency and can shorten the overall time frame for vaccine development (19) (20) (21) .",
+            "cite_spans": [
+                {
+                    "start": 447,
+                    "end": 451,
+                    "text": "(17)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 727,
+                    "end": 731,
+                    "text": "(18)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1034,
+                    "end": 1038,
+                    "text": "(19)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1039,
+                    "end": 1043,
+                    "text": "(20)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1044,
+                    "end": 1048,
+                    "text": "(21)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FUNDING FOR EID VACCINES AND PLATFORM TECHNOLOGIES"
+        },
+        {
+            "text": "CEPI has also recently invited proposals for bloodspecimen collection from survivors of Lassa fever to support improved characterization of immune response and support development of assays and standards. Should this approach prove effective for Lassa virus, CEPI will also consider expanding it for MERS-CoV and Nipah virus. As of September 2019, CEPI has signed 16 partnership agreements with vaccine development partners (Table 1) . These agreements will enable accelerated development of Lassa, MERS-CoV, Nipah, and Rift Valley fever vaccine candidates over 5 years from the late preclinical phase to phase 2, and manufacture of an investigational stockpile for use in large-scale efficacy trials during an outbreak, as well as late-stage clinical development of advanced chikungunya vaccines to accelerate regulatory approval so at-risk populations have access to these vaccines.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 424,
+                    "end": 433,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "FUNDING FOR EID VACCINES AND PLATFORM TECHNOLOGIES"
+        },
+        {
+            "text": "So far, CEPI has initiated projects to develop 17 vaccine candidates against its priority pathogens-including 5 against Lassa virus, 4 against MERS-CoV, 4 against Nipah virus, 2 against Rift Valley fever, and 2 against chikungunya-and 3 vaccine manufacturing platforms. To demonstrate the advantage of these platforms, additional vaccine candidates will be produced and tested, including 2 against influenza, 2 against rabies, 1 against MERS-CoV, 1 against Marburg virus, 1 against Lassa fever, 1 against respiratory syncytial virus, and 1 against yellow fever. (26) . Other approaches, such as RNA vaccines, are in earlier phases of development but show great promise for application against multiple pathogens and rapid production. In addition, CEPI has set aside funds to support the development of Ebola vaccines. This research funding will be complementary to current efforts in this field, and investments will be coordinated with other funders, where necessary, to avoid duplication of work.",
+            "cite_spans": [
+                {
+                    "start": 562,
+                    "end": 566,
+                    "text": "(26)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FUNDING FOR EID VACCINES AND PLATFORM TECHNOLOGIES"
+        },
+        {
+            "text": "Over the past 2 years, CEPI has made efforts to engage and coordinate its work with partners throughout global health and vaccine development. To ensure the sustainability of its approach to vaccine development, the coalition has been working with industry partners-from small biotechnology companies to large manufacturers-through partnerships that share the risks of vaccine development (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 389,
+                    "end": 398,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "FOSTERING A COALITION APPROACH TO VACCINE DEVELOPMENT"
+        },
+        {
+            "text": "CEPI also coordinates its efforts with several multilateral partners, principally through an interinstitutional roundtable, which we refer to as the Joint Coordination Group. The Joint Coordination Group includes WHO and key organizations responsible for vaccine procurement, delivery, and implementation, as well as representatives of important regulatory agencies, and works to identify ways in which predictable access to vaccines for priority populations can be achieved in emergency situations. The overall goal for the Joint Coordination Group is to optimize allocation of resources across disease areas and vaccine development, to minimize funding overlap with partners, and to improve response times to unexpected epidemic threats. Preparing for the next epidemic requires investment in platforms capable of rapid vaccine development and coordination among multiple stakeholders, to which CEPI and its coalition partners have committed substantial resources and attention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FOSTERING A COALITION APPROACH TO VACCINE DEVELOPMENT"
+        },
+        {
+            "text": "As CEPI begins to turn its promises into progress, several challenges ought to be acknowledged. First, vaccine development is widely acknowledged as a long, complex process, often lasting over 10 years from discovery to licensure (27) . Second, vaccine development is inherently risky, with at least two-thirds of preclinical vaccine candidates likely to fail before reaching clinical proof of concept (28) .",
+            "cite_spans": [
+                {
+                    "start": 230,
+                    "end": 234,
+                    "text": "(27)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 402,
+                    "end": 406,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "In view of this risk of failure, the full cost of successfully advancing a vaccine candidate from preclinical to clinical efficacy trials and readiness for emergency use can vary, on average, from $300 million to $500 million (28) . CEPI has so far committed more than $458 million to EID vaccinedevelopment projects, and whereas the full costs of vaccine development are expected to be shared with funding and development partners, concrete clinical outcomes are likely going to take several years to materialize. If vaccines were to be developed for all of the EIDs prioritized by WHO, an average $2.8-3.7 billion would be needed to support vaccine development through phase 2 trials, depending on cost structures of vaccine development programs and R&D pipeline attrition (28) . Improved coordination among industry, global health, and civil-society institutions, and guidance from regulators will also be needed to determine the public health needs for key diseases and to iron out technical and regulatory pathways for feasible vaccine development.",
+            "cite_spans": [
+                {
+                    "start": 226,
+                    "end": 230,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 775,
+                    "end": 779,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "As additional resources become available (29) , CEPI is diversifying its current vaccine R&D investment portfolio to include additional pathogens, beginning with chikungunya, a debilitating mosquito-borne disease spread by Aedes aegypti and A. albopictus, that affects millions of people globally, and Rift Valley fever, a viral zoonosis of cattle and other domesticated livestock that also infects humans (30) . Chikungunya infection can lead to substantial morbidity; patients can experience arthralgia for months or even years, and chronic inflammatory rheumatic disease develops in small subset of patients (28) . The substantial burden of this disease, for example, coupled with a large vaccine pipeline relative to other EIDs, could justify investments that might yield clinically relevant outcomes in a shorter time. The quantity of antigen is generally expected to be different across EIDs; however, not knowing what quantity of antibody would be required to induce protection against chikungunya could make the identification of situations that would allow statistical demonstration of efficacy challenging. Feasibility of development would consequently depend on technical hurdles and regulatory guidance for appropriate clinical trial design.",
+            "cite_spans": [
+                {
+                    "start": 41,
+                    "end": 45,
+                    "text": "(29)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "(30)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 611,
+                    "end": 615,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "In the case of Rift Valley fever, 9 outbreaks have occurred between 2000 and 2016, with more than 4,600 confirmed and suspected cases and more than 950 deaths (31) . Viral transmission in people occurs primarily through contact with the blood or organs of infected animals (31) . However, Aedes and Culex mosquitoes can also act as viral reservoirs and vectors (31) . Rift Valley fever has a wide geographical range, spreading throughout Africa and into the Saudi Arabian peninsula (32) . Risk of further spread into Europe and North America is also high (31) . No licensed vaccine is available for human use, but at least 2 vaccine candidates are currently in phase 2 trials (28) .",
+            "cite_spans": [
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "(31)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 273,
+                    "end": 277,
+                    "text": "(31)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 361,
+                    "end": 365,
+                    "text": "(31)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 482,
+                    "end": 486,
+                    "text": "(32)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 555,
+                    "end": 559,
+                    "text": "(31)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 676,
+                    "end": 680,
+                    "text": "(28)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "Definition of regulatory pathways for clinical trials and emergency use will need to account for the specifics of each vaccine and the challenges posed by each EID. At present, it is unclear how regulatory processes for vaccine candidates could be accelerated in the event of an outbreak of known EIDs or Disease X. Enhanced regulatory guidance and normative directions by coalition partners will be needed for approval of clinical trials and equitable access to EID vaccines during outbreaks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "Prioritization of various countermeasures (e.g., human vaccine vs. animal vaccines, or their combinations) might also be required to optimize development of the most effective preparedness strategies for unexpected emergencies related to EID outbreaks, such as Rift Valley fever and MERS-CoV. As EID threats evolve, increased coordination with WHO and public health agencies worldwide will be required to ensure product development is prioritized accordingly.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "Sustainable manufacturing solutions will also need to be negotiated soon for vaccine candidates nearing completion of safety and immunogenicity testing in humans. Mechanisms for funding and maintaining global stockpiles of investigational vaccines must be established. As vaccine candidates continue to move through development, CEPI and its coalition partners soon must lay out a concrete plan for how such a procurement and stockpiling system could be established, how much a system would cost, by whom it would be operated, and when it would need to be operationalized.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FUTURE CHALLENGES"
+        },
+        {
+            "text": "EIDs remain a major threat to global health security 4 years after the 2014-2015 Ebola outbreak in west Africa. This threat is only likely to grow in the coming years as various ecological, demographic, and economic factors accelerate disease emergence and re-emergence. In 2018 alone, there were outbreaks of 6 of the 10 WHO priority pathogens (33), including 2 separate Ebola outbreaks in the Democratic Republic of Congo. Thankfully, thousands of doses of the vesicular stomatitis virus-Ebola virus vaccine have already been manufactured and the vaccine's rollout will help avert a large-scale epidemic. In the context of Ebola, CEPI plans to make R&D investments that complement current research efforts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        },
+        {
+            "text": "Thanks to partnership efforts between CEPI and a broad range of vaccine developers, 5 vaccine candidates against Lassa fever, 4 for MERS-CoV, and 4 for Nipah virus are under development; 2 Rift Valley vaccine candidates are about to initiate late-stage preclinical development; and 2 chikungunya vaccine candidates are about to resume latestage clinical development with additional CEPI funding. Some of these vaccine candidates hopefully will meet the safety and immunogenicity profiles required for investigational stockpiling and use in large clinical trials and humanitarian responses in outbreak conditions. The development of 3 rapid-response platform technologies for other threatening EIDs has also been initiated, including pilots for Lassa fever, MERS-CoV, influenza, rabies, respiratory syncytial virus, Marburg virus, and yellow fever. CEPI will continue to enhance epidemic preparedness through targeted funding and technical oversight. Ultimately, however, CEPI's success will depend on the strength of the coalition's collaborative efforts across sectors, institutions, and geographic regions to develop effective EID vaccines and to ensure equitable access to them in global health emergencies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The economic and social burden of the 2014 Ebola outbreak in West Africa",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huber",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Stevens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Clin Infect Dis",
+            "volume": "218",
+            "issn": "5",
+            "pages": "698--704",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Preparing for the next Zika",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hoyt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hatchett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat Biotech",
+            "volume": "34",
+            "issn": "4",
+            "pages": "384--386",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Will Ebola change the game? Ten essential reforms before the next pandemic. The report of the Harvard-LSHTM independent panel on the global response to Ebola",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sridhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pate",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Lancet",
+            "volume": "386",
+            "issn": "",
+            "pages": "2204--2221",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The complexity and cost of vaccine manufacturing-an overview",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Plotkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cunningham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "33",
+            "pages": "4064--4071",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Establishing a global vaccine-development fund",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Plotkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aaf",
+                    "middle": [],
+                    "last": "Mahmoud",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Farrar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "N Engl J Med",
+            "volume": "373",
+            "issn": "4",
+            "pages": "297--300",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Pandemic Emergency Finance Facility",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Efficacy and effectiveness of an rVSV-vectored vaccine in preventing Ebola virus disease: final results from the Guinea ring vaccination, open-label, cluster-randomised trial (Ebola \u00c7a Suffit!)",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Henao-Restrepo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Camacho",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Longini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Lancet",
+            "volume": "389",
+            "issn": "",
+            "pages": "505--518",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "World Health Organization. An R&D Blueprint for Action to Prevent Epidemics: Plan of Action",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Report of the United Nations Secretary-General's High-Level Panel on Access to Medicines. Promoting Innovation and Access to Health Technologies",
+            "authors": [],
+            "year": 2016,
+            "venue": "High-Level Panel on Access to Health Technologies",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The next epidemic-lessons from Ebola",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gates",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "N Engl J Med",
+            "volume": "372",
+            "issn": "15",
+            "pages": "1381--1384",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Commission on a Global Health Risk Framework for the Future; National Academy of Medicine, Secretariat. The Neglected Dimension of Global Security",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Annual Review of Diseases Prioritized Under the Research and Development Blueprint",
+            "authors": [],
+            "year": 2018,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Setting strategic objectives for the Coalition of Epidemic Preparedness Innovations: an exploratory decision analysis process",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gouglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hoyt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Peacocke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "INFORMS J Appl Anal",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "New vaccines against epidemic infectious diseases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "R\u00f8ttingen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gouglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Feinberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "N Engl J Med",
+            "volume": "376",
+            "issn": "7",
+            "pages": "610--613",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "CEPI-a new global R&D organisation for epidemic preparedness and response",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Brende",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Farrar",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gashumba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Lancet",
+            "volume": "389",
+            "issn": "",
+            "pages": "233--235",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Coalition for Epidemic Preparedness Innovations Preliminary Business Plan",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Prioritizing investments in new vaccines against epidemic infectious diseases: a multi-criteria decision analysis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gouglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Marsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JMCDA",
+            "volume": "26",
+            "issn": "3-4",
+            "pages": "153--163",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Coalition for Epidemic Preparedness Innovations. Calls for proposals",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Rapid development of vaccines against emerging pathogens: the replication-deficient simian adenovirus platform technology",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Warimwe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "",
+            "pages": "4461--4464",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Novel vaccine technologies: essential components of an adequate response to emerging viral diseases",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mascola",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Fauci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "JAMA",
+            "volume": "319",
+            "issn": "14",
+            "pages": "1431--1432",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Building systems to support development of drugs for biodefense",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Drug Dev Res",
+            "volume": "68",
+            "issn": "4",
+            "pages": "183--185",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Chikungunya vaccine study in previously exposed adults",
+            "authors": [],
+            "year": 2019,
+            "venue": "Themis Bioscience",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Study to Assess the safety and immunogenicity of a chikungunya virus vaccine candidate (VLA1553) in healthy volunteers",
+            "authors": [
+                {
+                    "first": "Valneva",
+                    "middle": [],
+                    "last": "Austria",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Lassa fever vaccine-Inovio Pharmaceuticals/United States Army Medical Research Institute of Infectious Diseases",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Inovio-Doses-1st-Subject-in-Phase-12-Clinical-Trial--For-Vaccine-Against-Deadly-MERS-Infection",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Safety and immunogenicity of a candidate MERS-CoV vaccine (MERS001)",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Risk in vaccine research and development quantified",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pronker",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Weenen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Commandeur",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS One",
+            "volume": "8",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Estimating the cost of vaccine development against epidemic infectious diseases: a cost minimisation study",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gouglas",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hendersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Lancet Glob Health",
+            "volume": "6",
+            "issn": "12",
+            "pages": "1386--1396",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "FPA-SC1-CEPI-2019 -Grant to the Coalition for Epidemic Preparedness Innovations (CEPI)",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Meeting the challenge of epidemic chikungunya",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Morens",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Fauci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect Dis",
+            "volume": "214",
+            "issn": "5",
+            "pages": "434--435",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "World Health Organization. Rift Valley fever",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Rift Valley fever and a new paradigm of research and development for zoonotic disease control",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Dar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mcintyre",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hogarth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "2",
+            "pages": "189--193",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Why aren't we worried about the next epidemic?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "CEPI's R&D portfolio includes several vaccines based on attenuated viruses, viral vectors, DNA, RNA, and protein-based approaches. Some of these technologies are established and already being tested in the clinic, such as a measles-vector-based vaccine against chikungunya developed by Themis Bioscience (Vienna, Austria) (22); an attenuated virus vaccine against chikungunya developed by Valneva (Vienna, Austria) (23); a DNA-based vaccine against Lassa virus (24) and MERS-CoV, being developed by Inovio Pharmaceuticals (Plymouth Meeting, PA) (25); and an adenovirus-vector-based vaccine against MERS-CoV, being developed by the University of Oxford (Oxford, United Kingdom)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ", comprised Crimean Congo hemorrhagic fever; chikungunya; Ebola virus disease; Marburg virus disease; Lassa fever; Middle East respiratory syndrome-related coronavirus (MERS-CoV); severe acute respiratory syndrome; Nipah virus disease; Rift Valley fever; severe fever with thrombocytopenia syndrome; and Zika virus. The revised list, as of February 2018",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Coalition for Epidemic Preparedness Innovations Vaccine-Development Partnerships up to March 2019",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Author affiliations: Coalition for Epidemic Preparedness Innovation, Oslo, Norway (Dimitrios Gouglas, Mario Christodoulou, and Richard Hatchett); and Vaxconsult, Doylestown, Pennsylvania (Stanley A. Plotkin).The content is the responsibility of the authors and does not necessarily represent the official views of the Coalition for Epidemic Preparedness Innovations.Conflict of interest: none declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "paper_id": "3576be15e43a9224dc88101b7423dc1bcd89f9e0",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Porcine epidemic diarrhea virus (PEDV; Figure 1 ) causes acute outbreaks of severe diarrhea and vomiting in all ages of swine, with high morbidity (often 100%) and variable mortality (low in older pigs, but as high as 50 to 100% in young pigs). It is spread via the fecal-oral route, and laboratory testing is the only way to diagnose the virus. Even though PEDV exists in many parts of the world, the first known detection in the United States was reported in May 2013, and it remains unclear how the virus entered the country. As of 1 Nov. 2013, the virus is continuing to spread, with almost 1,000 confirmed PEDV cases in 18 states. The most current information regarding PEDV status in the US can be found at the websites for the National Pork Board (www.pork.org) and the American Association of Swine Veterinarians (www.aasv.org).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 39,
+                    "end": 47,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Introduction"
+        },
+        {
+            "text": "Scientists at the Veterinary Diagnostic Laboratory, Iowa State University (ISU), first detected a transmissible gastroenteritis (TGE) viruslike disease in late April of 2013. Initial diagnostic tests were focused on detecting TGE virus and, thus, failed to identify PEDV. However, ISU scientists suspected a TGE-like virus to be involved and submitted fecal samples to the electron microscopy facility at the USDA-ARS National Animal Disease Center where a coronavirus was identified on 10 May 2013. Within the next week, ISU scientists had confirmed a coronavirus with a pan-coronavirus PCR test and notified scientists at the USDA-APHIS National Veterinary Services Laboratories (NVSL). Working together, ISU and NVSL scientists independently confirmed the virus as PEDV, a member of the porcine coronavirus family that includes TGE virus and porcine respiratory coronavirus in the US. Sequencing the viral genome found it to be > 99% identical to PEDV strains in Asia, where PEDV continues to cause ongoing disease challenges for pork producers (Huang et al., 2013) . Currently, there is no effective treatment for the virus, other than supportive care to combat dehydration, and there are no effective approved vaccines to prevent PEDV-caused disease.",
+            "cite_spans": [
+                {
+                    "start": 1048,
+                    "end": 1068,
+                    "text": "(Huang et al., 2013)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In June 2013, the National Pork Board funded research projects to study the ecology of PEDV, with the goal of completing the projects within six months and using this information to quickly develop control strategies. Initial research identified contaminated swine transport trailers as key promoters of the spread of PEDV and a critical control point being trailers departing from the abattoir.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A second request for proposals in October 2013 is emphasizing research on development and duration of immunity of sows post-outbreak and the impact on nursing and weaned piglets to help eliminate the virus from a herd. Websites for the National Pork Board and American Association of Swine Veterinarians contain the most current information on PEDV and efforts to control this disease. \u2022 This virus causes severe diarrhea and vomiting in young pigs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "\u2022 Porcine epidemic diarrhea virus does not infect humans and is not a food safety risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "\u2022 This virus is already found in many countries around the world, and there is no US official regulation of the virus and no export restrictions to other countries. Figure 1 . Electron micrograph of porcine epidemic diarrhea virus, which is a member of the Coronaviridae family, from an infected pig in the United States. The arrows point to the \"halo\" that is a characteristic of coronaviruses, and the black bar in the lower right corner represents 100 nm.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 165,
+                    "end": 173,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Introduction"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Origin, evolution, and genotyping of emergent porcine epidemic diarrhea virus strains in the United States",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dickerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pi\u00f1eyro",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kiehne",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Opriessnig",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Meng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "mBio",
+            "volume": "4",
+            "issn": "5",
+            "pages": "737--750",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00737-13"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Research Service, National Animal Disease Center, Ames, IA, USA \u00a9 Kehrli, Stasko, and Lager doi:10.2527/af.2014-0006 Implications \u2022 On 16 May 2013, the USDA Animal and Plant Health Inspection Service, National Veterinary Services Laboratories reported the detection of porcine epidemic diarrhea virus in the United States for the first time.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Judith Stasko is the Head of Microscopy Services which provides histology, digital pathology, electron microscopy and flow cytometry services to the research program at the National Animal Disease Center, USDA-ARS, Ames, Iowa. She is the NADC's electron microscopist and with over twenty-five years of experience in the field. Her work has appeared in numerous scientific publications supporting the research at NADC as well as several universities, private industry and scientists around the world. In 2011 she was awarded the Rosemary and Donald Ostermeier Award from the National Society of Histotechnology for her dedication and devotion to her profession, co-workers, staff and place of employment.Dr. Lager is a Research Veterinary Medical Officer working at the National Animal Disease Center, USDA-ARS, Ames, IA. He has worked in the swine virology project since he began his USDA career in 1989. His scientific interests are the pathogenesis of virus-induced reproductive failure and respiratory diseases of swine, vaccine development, and virus discovery. He has conducted applied and basic studies working with RNA and DNA viruses that cause significant losses to pork producers and is an author or coauthor on over 135 journal papers. He has extensive experience conducting swine studies that includes biocontainment work experiences at the BSL2, BSL3Ag, and BSL-4 levels.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "About the Authors"
+        }
+    ]
+}

@@ -1,0 +1,1056 @@
+{
+    "paper_id": "84ec505f6754acfa30efe97f2d2497fefa07ca63",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Federico",
+                "middle": [],
+                "last": "Coccolini",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Emergency Surgery Unit & Trauma Center",
+                    "institution": "Pisa University Hospital",
+                    "location": {
+                        "settlement": "Pisa",
+                        "country": "Italy"
+                    }
+                },
+                "email": "federico.coccolini@gmail.com"
+            },
+            {
+                "first": "Gennaro",
+                "middle": [],
+                "last": "Perrone",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Massimo",
+                "middle": [],
+                "last": "Chiarugi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Emergency Surgery Unit & Trauma Center",
+                    "institution": "Pisa University Hospital",
+                    "location": {
+                        "settlement": "Pisa",
+                        "country": "Italy"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Francesco",
+                "middle": [
+                    "Di"
+                ],
+                "last": "Marzo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Luca",
+                "middle": [],
+                "last": "Ansaloni",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ildo",
+                "middle": [],
+                "last": "Scandroglio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Pierluigi",
+                "middle": [],
+                "last": "Marini",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mauro",
+                "middle": [],
+                "last": "Zago",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Paolo",
+                "middle": [],
+                "last": "De Paolis",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Francesco",
+                "middle": [],
+                "last": "Forfori",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ferdinando",
+                "middle": [],
+                "last": "Agresta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alessandro",
+                "middle": [],
+                "last": "Puzziello",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Domenico",
+                "middle": [],
+                "last": "D&apos;ugo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elena",
+                "middle": [],
+                "last": "Bignami",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Valentina",
+                "middle": [],
+                "last": "Bellini",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Pietro",
+                "middle": [],
+                "last": "Vitali",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Flavia",
+                "middle": [],
+                "last": "Petrini",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Barbara",
+                "middle": [],
+                "last": "Pifferi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Francesco",
+                "middle": [],
+                "last": "Corradi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Antonio",
+                "middle": [],
+                "last": "Tarasconi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vittoria",
+                "middle": [],
+                "last": "Pattonieri",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Elena",
+                "middle": [],
+                "last": "Bonati",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Luigi",
+                "middle": [],
+                "last": "Tritapepe",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vanni",
+                "middle": [],
+                "last": "Agnoletti",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Davide",
+                "middle": [],
+                "last": "Corbella",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Massimo",
+                "middle": [],
+                "last": "Sartelli",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fausto",
+                "middle": [],
+                "last": "Catena",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The current COVID-19 pandemic underlines the importance of a mindful utilization of financial and human resources. Preserving resources and manpower is paramount in healthcare. It is important to ensure the ability of surgeons and specialized professionals to function through the pandemic. A conscious effort should be made to minimize infection in this sector. A high mortality rate within this group would be detrimental. This manuscript is the result of a collaboration between the major Italian surgical and anesthesiologic societies: ACOI, SIC, SICUT, SICO, SICG, SIFIPAC, SICE, and SIAARTI. We aim to describe recommended clinical pathways for COVID-19-positive patients requiring acute non-deferrable surgical care. All hospitals should organize dedicated protocols and workforce training as part of the effort to face the current pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The current COVID-19 pandemic, \"when the destructive effects of natural or man-made forces overwhelm the ability of a given area or community to meet the demand for health care\" [1] , demands the best disaster/mass casualty incident (MCI) response. During MCIs, preserving financial and human resources is crucial. A good organization and a preventive approach are mandatory in the phase of MCI response called mitigation. In order to minimize resource exhaustion, the use of surgical appliances and staff must be well pondered and balanced [2] . Surgeons and sub-specialized workers in general are a valuable resource during MCI. Infection or death of sub-specialized staff must be minimized to preserve the ability to face surgical emergencies and associated activities that will continue to occur or perhaps increase during MCI. In fact, any lack of specialized teams occurring during a pandemic cannot be easily addressed by reintegrating retirees or replenishing the ranks with new staff, which would also be inevitably associated with a lowered standard of care, hence, the requirement to skeletonize surgical activities during a pandemic. When possible, all surgical procedures on all suspected COVID-19 patient should be postponed until confirmed infection clearance. Minimal staff should be involved when deferral is not possible. If a large number of senior surgeons is exposed to infected patients, the possibility for them to become infected and require self-isolation is real and could potentially result in a dangerous shortage of senior expertise within surgical teams. Resource usage should be carefully considered when planning scheduled procedures, particularly with regard to materials, staff, devices, intensive care beds, blood components, etc. Caring for resource-intensive patients might be controversial during MCIs.",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 181,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 541,
+                    "end": 544,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "This manuscript is the result of a collaboration between the major Italian surgical and anesthesiologic societies: ACOI, SIC, SICUT, SICO, SICG, SIFIPAC, SICE, and SIAARTI. We aim to describe recommended clinical pathways for COVID-19-positive patients requiring acute non-deferrable surgical care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "All known or suspected COVID-19-positive patients requiring surgical intervention must be treated as positive until proven otherwise in order to minimize infection spread. Protocolized clearly defined pathways must be available to healthcare professionals caring for these patients. Allocating dedicated senior staff to key management roles is crucial to minimize COVID-19 spread. All staff must be specifically trained to don, doff, and dispose of personal protection equipment (PPE) including masks (level 2 or 3 filtering face piece (FFP) depending on the aerosol-generating risk level), eye protection, double non-sterile gloves, gowns, suites, caps, and socks (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 665,
+                    "end": 674,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Main text"
+        },
+        {
+            "text": "In-transit surgical patients proceeding through the theater block must not stop in the anesthetic bay, recovery room, or any place other than the COVID-dedicated operating room (OR). They must be taken directly to a designated OR that must be adequately marked with clearly visible door signs. In the event that the scheduled surgical procedure does not require a general anesthetic and if the clinical situation allows, patients should continue to wear a protective mask for the entire duration of the procedure (Fig. 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 513,
+                    "end": 521,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Main text"
+        },
+        {
+            "text": "It is important to underline how all non-COVID patients must be protected. Established separate pathways must exist to keep suspected/infected patients apart from non-COVID ones. PPEs or at least masks must be enforced for all non-COVID patients during all inhospital transfers in order to minimize infection risk in the event that they cross the path or come in proximity of a COVID patient. Careful planning and segregation of infected patients may help minimize staff shortages related to uncontrolled viral spread.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Main text"
+        },
+        {
+            "text": "Designated COVID operating areas (COA) must be allocated to COVID patients' urgent/emergent operating. The OR closest to the entrance of the theater block entrance should be the first one designated to COVID patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Location"
+        },
+        {
+            "text": "When multiple procedures must be simultaneously performed, operating rooms must be utilized in order of proximity to the theater block entrance in order to minimize environmental contamination in the theater block.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Location"
+        },
+        {
+            "text": "Patient transit to and from the COA must be as quick as possible. A pre-defined direct path must be kept as short as possible and away from other patients and people in general within the hospital in order to minimize the chances of infection. If inter-hospital patient transfer or transfer from other buildings within the hospital is required, a dedicated vehicle should be used. Transfer personnel should be specifically trained and equipped with PPEs. The patient's compartment in the transport vehicle is ideally kept separate from the driver. A Biocontainment unit may be utilized. If a patient is taken to the COA from any adjacent premise, a stretcher might be used for transport. All precautionary measures apply to the use of the stretcher and to the personnel responsible for the transfer ( Table 1 , Fig. 1 ) both during and after transport is completed, with immediate sanitization required (Tables 2 and 3 ). Utilized lifts must be sanitized. If any unexpected contamination occurs during transport (i.e., patient vomiting or else), adequate dedicated sanitization should take place. A dedicated specifically trained 24/7 cleaning team from the local contracted cleaning service might prove a valuable resource.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 801,
+                    "end": 808,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 811,
+                    "end": 817,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 903,
+                    "end": 918,
+                    "text": "(Tables 2 and 3",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Patient transport"
+        },
+        {
+            "text": "Any non-intubated patient must wear a surgical mask, disposable waterproof gloves, disposable cap, and shoe covers during transport. When possible, the patient's hands should be sanitized before transport. Transport operators must sanitize hands and wear PPEs before transfer and should minimize contact with patients. Coded routes should be followed and hospital public areas avoided. Anyone crossing the path of an infected patient should be preemptively alerted in order to minimize contact. Well-organized logistics will contribute to minimizing disposables wastage. Dedicated wellidentifiable containers for infectious-risk health waste (IRHW) should be used for potentially infected disposables. Lastly, COVID patients should be transported in the most professional and confidential way possible in order to minimize unjustified alarmism. Dedicated areas allocated to infected patients awaiting transfer to the COA must be preemptively identified in the emergency department. The patient's transfer from the emergency department to the COA should be streamlined in order to avoid all unnecessary contacts. Each hospital should provide a step by step, well-defined path pre-allocating some corridors and elevators to COVID patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient transport"
+        },
+        {
+            "text": "It is important to minimize the total number of operators working in the designated COA. Whenever possible, it is important to minimize to number of people working on a single infected case; ideally, this should also apply to cases spanning over multiple shifts. Operations for COVID patients might be organized with a dedicated on-call shift. This might require overnight or out of hours activities to optimize resource usage. This approach might facilitate segregation between COVID and non-COVID patients, who will continue to require surgical care. PPEs and stock required for hand hygiene must be constantly replenished within the COA. A specifically allocated filter area designed for COVID patients to enter the COA must be equipped with PPEs, hand hygiene station, and a dedicated IRHW bins. Handling of potentially infected linen should be adequately managed too. The use of machinery intended to facilitate moving and transferring patients should be minimized. All COA doors must be kept closed (including accessory rooms, sterilization spaces), and any equipment not necessary for the intervention must be moved away from COVID patients transit route.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "COVID operating area"
+        },
+        {
+            "text": "Special attention should be given to what, in non-COVID times, is routine practice. Staff taking responsibility for positive or suspected infected patients must be limited to those who need to be primarily involved in each operation. A record must be kept of all operators involved in procedures on potentially infected patients. Personnel equipped with full PPEs must receive the patient in the COA, transfer the patient to the operating room minimizing environmental contamination and, after time-out, proceed to move the patient on the operating table in the allocated OR. All non-intubated patients must wear a surgical mask. Medical records must remain outside the OR and must be consulted and updated there after adequate doffing. Intraoperative document consultation is discouraged and should be minimized.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Taking charge of the patient in COVID operating area"
+        },
+        {
+            "text": "Negative pressure ORs would be ideal to minimize infection risk [3, 4] . However, ORs are normally designed to have positive pressure air circulation. A high air exchange cycle rate (\u2265 25 cycles/h) contributes to effectively reduce the viral load within ORs [2] . Equipment kept in each OR must be minimized to what is strictly necessary on a case to case basis. Once the operation starts, all efforts must be made to use what is available in the room and minimize staff transiting in and out the OR, in order to minimize infection risk. Standard anesthetic trolleys should be replaced with dedicated pre-prepared ones with minimal but adequate stock. All required surgical material (i.e., stitches, scalpel blades) must be preemptively prepared in a sterilizable steel wire basket. Dedicated IRHW containers must be used for infected and sharp disposable instruments. Alcoholic solution for hand hygiene must always be available. Avoiding non-strictly necessary commonly used non-disposable devices is recommended. Disposable material in general should be preferred, including linen. All operators (i.e., surgeon, anesthetist, nurses, technicians) should enter the OR timely, aiming to minimize time spent within the OR itself. Once in the OR, they should not leave until the operation is completed, and once out they should not re-enter.",
+            "cite_spans": [
+                {
+                    "start": 64,
+                    "end": 67,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 68,
+                    "end": 70,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 258,
+                    "end": 261,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Operating room preparation"
+        },
+        {
+            "text": "All operators must wear the required PPE before meeting the infected patient. The patient's receiving personnel inside the COA filter area must perform hand hygiene and wear full PPE.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Personnel dressing"
+        },
+        {
+            "text": "While taking care of infected patients, gloves should be changed immediately after contact with infected material (objects, surfaces, etc.) or if any damage occurs. Operator with a beard should exert special attention to the fit of the mask ensuring adequate protection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Personnel dressing"
+        },
+        {
+            "text": "Some procedures likely to generate aerosolized particles have been associated with increased coronavirus transmission: tracheal intubation, non-invasive ventilation, tracheostomy, cardiopulmonary resuscitation, and manual ventilation before intubation and bronchoscopy [5, 6 ]. An FFP3 mask should be therefore worn by operators working closer to the patient during these procedures.",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 272,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 273,
+                    "end": 274,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Personnel dressing"
+        },
+        {
+            "text": "Given the conjunctiva's susceptibility to viral transmission, it is important to wear visors or goggles to protect the eyes from potential exposure of viral particles [7] .",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 170,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Personnel dressing"
+        },
+        {
+            "text": "Careful anesthesiologic planning is recommended to minimize any infection potentially associated with unexpected complex endotracheal intubation procedures. A more liberal use of intubation might be justified in patients with acute respiratory failure, bypassing noninvasive ventilation techniques (e.g., CPAP or biPAP) in order to minimize the transmission risks [5] . Disposable airway equipment should be preferred. Medical and nursing staff must be equipped with FFP3 filters during laryngoscopy and intubation [5] . Intubations techniques with the highest chance of first-time success should be preferred to avoid repeated airway instrumentation [4, 5] . Awake intubation techniques should be avoided. At the end of these procedures, all staff directly performing the procedure must immediately replace the first pair of gloves and other PPEs in case heavy contamination risk exists (i.e., in the event that vomiting, coughing, or else has occurred). Fiberscope intubation, unless specifically All suspected or infected patients must be managed with the maximum attention.",
+            "cite_spans": [
+                {
+                    "start": 364,
+                    "end": 367,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 515,
+                    "end": 518,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 651,
+                    "end": 654,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 655,
+                    "end": 657,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "All personnel in contact with the patient must wear PPE.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "Transfers must be protected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "Infected patients must be moved as little as possible through the hospital.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "Transfer routes must be precisely planned and be as short as possible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "The COVID operating area should be in a dedicated and possibly separate area.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "COVID operating room must be dedicated and as close as possible to the entrance of the theater block.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "Disposable material should be preferred.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Anesthesiologic consideration"
+        },
+        {
+            "text": "Transport personnel should be the same from transport origin to destination.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Minimal material should be used for each intervention."
+        },
+        {
+            "text": "Once the patient has entered, the OR doors must be closed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Minimal material should be used for each intervention."
+        },
+        {
+            "text": "Operators (i.e., surgeon, anesthetist, nurses, technicians) should enter the OR in a timely manner to minimize exposure to infected patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Minimal material should be used for each intervention."
+        },
+        {
+            "text": "Personnel involved in the intervention should not leave the OR during the procedure.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Minimal material should be used for each intervention."
+        },
+        {
+            "text": "Clinical documentation must remain outside the OR At the end of each intervention all disposable materials must be disposed of and all surfaces and electromedical devices accurately cleaned and disinfected. PPE must be removed and disposed of outside the OR in dedicated doffing areas ensuring the virus is not transmitted to the healthcare worker.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "High OR air exchange cycles are recommended (> 25 exchanges/h)."
+        },
+        {
+            "text": "OR and surrounding donning/doffing areas must be sanitized as soon as possible after each procedure.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "High OR air exchange cycles are recommended (> 25 exchanges/h)."
+        },
+        {
+            "text": "After each procedure, all involved personnel, whenever possible, should shower.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "High OR air exchange cycles are recommended (> 25 exchanges/h)."
+        },
+        {
+            "text": "Recovery phase after surgery must be done in OR, before transfer the ward/ICU. indicated, should be avoided as it may generate aerosolization [5] . Rapid sequence intubation (RSI) should be considered to avoid manual ventilation and potential aerosolization. If manual ventilation is required, small current volumes should be used. If available, a closed suction system should be preferred during airway aspiration. Disposable covers should be used whenever possible to reduce equipment contamination. If a patient is transferred directly from the intensive care unit, a dedicated transport ventilator should be utilized. In order to reduce aerosolization risks, the gas flow should be turned off and the endotracheal tube clamped with forceps when switching from the portable device to the OR ventilator [4] . When possible, a dedicated ventilator should be used in the OR for general anesthesia in positive or suspected positive COVID-19 patients. Invasive procedures like for example the placement of intercostal catheters, central venous catheters, or similar should be performed at the patient's bedside, rather than in the OR. When a general anesthetic is required, a HEPA (high-efficiency particulate air) filter should be connected to the patient end of the breathing circuit and another one between the expiratory limb and the anesthetic machine [2, 6] . Alternatively, for pediatric patients or other patients in whom additional dead space or the weight of the filter may be problematic, the HEPA filter must be placed at the expiratory end of the circuit (before the exhalation re-enters the ventilator). The gas sampling tube must also be protected by a HEPA filter. Both HEPA filters and soda lime must be changed after each case [4] . At the end of the surgery, during the recovery phase, the patient must be assisted directly in the OR until ready to be transferred back to the inpatients place of stay. The time patients spend returning to wards must be reduced in order to minimize contact between COVID-positive patients and the surrounding environment.",
+            "cite_spans": [
+                {
+                    "start": 142,
+                    "end": 145,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 805,
+                    "end": 808,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1355,
+                    "end": 1358,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1359,
+                    "end": 1361,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1743,
+                    "end": 1746,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "High OR air exchange cycles are recommended (> 25 exchanges/h)."
+        },
+        {
+            "text": "The OR door must be kept closed at all times and clear signs should discourage unnecessarily entering the room. Supplying materials to the OR during surgery should also be discouraged. The scout nurse, in collaboration with the operating surgeon, should anticipate what is needed during the operation before the same starts. Surgeons should preferably perform the operation with what is available in the OR once the operation started. Any essential retrieval of necessary equipment should be done by staff outside the OR. Personnel present in the OR during surgery must not leave the room. Electromedical devices (i.e., ultrasound) and surfaces must be used with adequate protective cover and adequately sanitized at the end of the operation. The surgical team will drape the patient according to the surgical procedure, replacing the surgical mask with FFP2 filter and wearing long shoe covers before doing so. All personnel in direct contact with the patient must wear a double pair of gloves at all times, even while operating. After the patient left the OR, logistics should allow as much time as possible before the next procedure takes place, to reduce possible air contamination. This time depends on the number of air exchanges/hour of the specific room. Air exchange cycles should be increased whenever possible to \u2265 25 exchanges/h [2] . After the case, all areas at risk of contamination must be cleaned and disinfected ( Table  2 ). Efforts should be made to minimize the contamination risk associated with specimens sent to the pathology department. No data currently exist on COVID-19 viral load in bodily fluids or tissue samples.",
+            "cite_spans": [
+                {
+                    "start": 1341,
+                    "end": 1344,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1432,
+                    "end": 1440,
+                    "text": "Table  2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Intraoperative management"
+        },
+        {
+            "text": "Staff not directly involved in the patient's care should leave the OR at the end of the operation and remove all PPEs in a dedicated doffing area following the sequence described below. A clean area should be accessed only after the doffing procedure is complete. All used PPEs must be disposed of through IRHW containers. Scrubs must be replaced after each procedure following showering, whenever possible. Personnel responsible for transferring the patient away from the operating room must follow separate access routes and wear PPEs different from the ones worn in the OR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PPE undressing/removal"
+        },
+        {
+            "text": "The healthcare professional must take all care not to become infected while removing PPE; this must be done through an adequate procedure preventing recontamination of the operator's clothing and hands. The first pair of gloves is likely to be heavily contaminated and must be removed first. All other PPEs must be considered infected as well and removed with care during the doffing procedure, especially if the patient had a cough. Protective suite, shoe cover, and head cap must be subsequently removed. Face mask and glasses must be then removed, taking care to handle the face mask by the ear laces and without touching its external side. The second pair of gloves must be removed as the very last PPE and hands disinfection with hydro-alcoholic solution must be accurately performed immediately after.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Instructions for PPE removal"
+        },
+        {
+            "text": "The OR and surrounding exchange areas must be sanitized as soon as possible after each procedure, with particular attention to all objects used when caring for infected patients. Similarly, all areas where COVID patients have transited must be carefully sanitized too. All personnel must contribute to maintain a clean environment including floors and surfaces in general. All potentially infected single-use materials should be disposed of through IRHW containers. Reusable materials should be decontaminated, washed, dried, and or disinfected/sterilized, based on the likelihood of infection. Electromedical equipment (i.e., ventilator, radiological equipment) must be cleaned with chloro-derivate solution, rinsed and dried, and then disinfected with chloroderivate solution in a concentration \u2265 0.1% or 1000 ppm (parts per million) with contact time superior to 1 min [8, 9] (Table 2) . Full PPE must be worn during the sanitizing procedure. Disposable materials only (i.e., double gloves, paper towel) should be used for cleaning. Anything disposable kept inside the OR during the operation must be disposed of through IRHW containers, even if not used.",
+            "cite_spans": [
+                {
+                    "start": 872,
+                    "end": 875,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 876,
+                    "end": 878,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 879,
+                    "end": 888,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Environmental sanitization"
+        },
+        {
+            "text": "It is advisable to set up a dedicated container for hazardous medical waste immediately outside the OR, to immediately dispose of all contaminated disposable material and PPEs. Containers should be closed and sealed before being transferred to the collection point. All sharps should be disposed of in a dedicated rigid plastic container. PPE should be worn when closing and transporting containers and removed immediately after. Any visibly damaged or contaminated container must be promptly replaced.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Waste disposal"
+        },
+        {
+            "text": "Linen can be contaminated and must therefore be handled and transported with care, aiming to prevent infection spread. Disposable laundry should be preferred, when possible. All linen (sheets, pillowcases, crossbars, etc.) should be handled wearing PPE during collection, not placed on surfaces or floors, but directly inside dedicated containers. These must be sealed and immediately sent for cleaning and sterilization, limiting them being left outside the OR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Linen management"
+        },
+        {
+            "text": "Instituting precise well-established plans to perform undeferrable surgical procedures and emergencies on COVID-19-positive patient is mandatory. Hospitals must prepare specific internal protocols and arrange adequate training of the involved personnel. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "NAEMT National Survey on EMS preparedness for disaster and mass casualty incident response",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goodwin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Preparing for a COVID-19 pandemic: a review of operating room outbreak response measures in a large tertiary hospital in Singapore",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Goh",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tay",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Soh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Can J Anaesth",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "COVID-19) situation summary",
+            "authors": [],
+            "year": 2019,
+            "venue": "Centers for Disease Control and Prevention. Coronavirus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Ng BSW What we do when a COVID-19 patient needs an operation: operating room preparation and guidance",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Foong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Can J Anaesth",
+            "volume": "",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Outbreak of a new coronavirus: what anaesthetists should know",
+            "authors": [
+                {
+                    "first": "Pwh",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hota",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Br J Anaesth",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Special article: personal protective equipment for care of pandemic influenza patients: a training workshop for the powered air purifying respirator",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tompkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kerchberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Anesth Analg",
+            "volume": "111",
+            "issn": "",
+            "pages": "933--978",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan. China: JAMA; 2020",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kampf",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Todt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pfaender",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Steinmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Hospital Infection",
+            "volume": "104",
+            "issn": "",
+            "pages": "246--251",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bushmaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Holbrook",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gamble",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Williamson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "COVID-19 surgical patients management flowchart",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "MCIs: Mass casualty events; PPE: Personal protection equipment; FFP: Filtering face piece; COA: COVID operating area; IRHW: Infectious-risk health waste; HEPA: High-efficiency particulate air; RSI: Rapid sequence intubation",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Necessary personal protection equipment",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Sanitization sequence Surface and electromedical sanitization sequence 1. Clean with chloro-derivate solution 2. Rinse and dry 3. Disinfect with chloro-derivate solution in a concentration \u2265 0.1% or 1000 ppm; time of contact must be superior to 1 min ppm parts per million",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "COVID-19 surgical patients' managementKey aspects in COVID-19 surgical patient management",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": " FC, GP, MC, FdM, LA, IS, PM, MZ, PdP, FF, FA, AP, DD, EB, VB, PV, FP, BP, FCo,  AT, VP, EB, LT ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1,
+                    "end": 95,
+                    "text": "FC, GP, MC, FdM, LA, IS, PM, MZ, PdP, FF, FA, AP, DD, EB, VB, PV, FP, BP, FCo,  AT, VP, EB, LT",
+                    "ref_id": null
+                }
+            ],
+            "section": "Authors' contributions"
+        }
+    ]
+}

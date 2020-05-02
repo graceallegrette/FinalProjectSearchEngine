@@ -1,0 +1,2546 @@
+{
+    "paper_id": "a6b0f6b85b36a9f15b8dd7293ff9c68d7f10f932",
+    "metadata": {
+        "title": "Clinical Manifestations of Children with COVID-19: a Systematic Review",
+        "authors": [
+            {
+                "first": "Tiago",
+                "middle": [
+                    "H"
+                ],
+                "last": "De Souza",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Pediatric Intensive Care Unit",
+                    "institution": "State University of Campinas (UNICAMP)",
+                    "location": {
+                        "settlement": "Campinas",
+                        "region": "SP",
+                        "country": "Brazil"
+                    }
+                },
+                "email": "tiago.souza@hc.unicamp.br"
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [
+                    "A"
+                ],
+                "last": "Nadal",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Pediatric Intensive Care Unit",
+                    "institution": "State University of Campinas (UNICAMP)",
+                    "location": {
+                        "settlement": "Campinas",
+                        "region": "SP",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Roberto",
+                "middle": [
+                    "J N"
+                ],
+                "last": "Nogueira",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Pediatric Intensive Care Unit",
+                    "institution": "State University of Campinas (UNICAMP)",
+                    "location": {
+                        "settlement": "Campinas",
+                        "region": "SP",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ricardo",
+                "middle": [
+                    "M"
+                ],
+                "last": "Pereira",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Pediatric Intensive Care Unit",
+                    "institution": "State University of Campinas (UNICAMP)",
+                    "location": {
+                        "settlement": "Campinas",
+                        "region": "SP",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marcelo",
+                "middle": [
+                    "B"
+                ],
+                "last": "Brand\u00e3o",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Pediatric Intensive Care Unit",
+                    "institution": "State University of Campinas (UNICAMP)",
+                    "location": {
+                        "settlement": "Campinas",
+                        "region": "SP",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tiago",
+                "middle": [],
+                "last": "Henrique De Souza",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [],
+                "last": "Antonio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hersan",
+                "middle": [],
+                "last": "Nadal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Roberto",
+                "middle": [],
+                "last": "Jos\u00e9",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Negr\u00e3o",
+                "middle": [],
+                "last": "Nogueira",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ricardo",
+                "middle": [],
+                "last": "Mendes Pereira",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Marcelo",
+                "middle": [],
+                "last": "Barciela",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The coronavirus disease 2019 outbreak is an unprecedented global public health challenge, leading to thousands of deaths every day worldwide. Despite the epidemiological importance, clinical patterns of children with COVID-19 remain unclear. Objective: To describe the clinical, laboratorial and radiological characteristics of children with COVID-19. Data Sources: The Medline database was searched between December 1 st 2019 and March 30 th 2020. Study Selection: Inclusion criteria were: (1) studied patients younger than 18 years old;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "(2) presented original data from cases of COVID-19 confirmed by reverse-transcription polymerase chain reaction; and (3) contained descriptions of clinical manifestations, laboratory tests or radiological examinations. Data Extraction: Number of cases, gender, age, clinical manifestations, laboratory tests, radiological examinations and outcomes. Results: A total of 34 studies (1,118 cases) were included. From all the cases, 1,111 had their severity classified: 14.3% were asymptomatic, 36.4% were mild, 46.0% were moderate, 2.2% were severe and 1.2% were critical. The most prevalent symptom was fever (16.3%), followed by cough (14.4%), nasal symptoms (3.6%), diarrhea (2.7%) and nausea/vomiting (2.5%). One hundred forty-five (12.9%) children were diagnosed with pneumonia and 43 (3.8%) upper airway infections were reported. Reduced lymphocyte count were reported in 13.1% of cases. Abnormalities on computed tomography was reported in 62.7% of cases. The most prevalent abnormalities reported were ground glass opacities, patchy shadows and consolidations. Only one death was reported.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In late December 2019, Chinese authorities informed the World Health Organization (WHO) that, due to unknown cause, an outbreak of pneumonia emerged in Wuhan, Hubei province. On January 7, 2020, a new type of coronavirus (severe acute respiratory syndrome coronavirus 2, SARS-CoV-2) was isolated and few days after the disease has been named \"coronavirus disease 2019\" (abbreviated \"COVID-19\"). The first death caused by COVID-19 was on January 9, 2020, in Wuhan and since then more than 370,000 cases and 16,000 deaths occurred worldwide. 1 Nowadays, the death toll in Italy has exceeded double the number registered in China and the United States became the new COVID-19 epicenter.",
+            "cite_spans": [
+                {
+                    "start": 540,
+                    "end": 541,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In spite of stepped-up efforts to contain the pandemic, the number of affected patients and the death toll continue to rise. Elderly patients infected with SARS-CoV-2 are at high risk to have severe acute respiratory syndrome, complications and death. 2 Due to unknown reasons, children with COVID-19 appear to have a milder clinical course compared to adults, and reports of death are scarce. 3, 4 However, pediatric population may play a major role in community spread of SARS-CoV-2. In addition to viral shedding in nasal secretions, there is evidence of fecal shedding for several weeks after diagnosis, which poses a challenge for infection control. 5 Despite the epidemiological importance, clinical patterns of children with COVID-19 remain unclear. The WHO recommends testing all suspected cases, however, . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 252,
+                    "end": 253,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 394,
+                    "end": 396,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 397,
+                    "end": 398,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 655,
+                    "end": 656,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint children infected with SARS-CoV-2 may not meet all the criteria required in the suspected case definition. 6 The objective of this study is to describe the clinical, laboratorial and radiological characteristics of children with COVID-19 reported in the literature.",
+            "cite_spans": [
+                {
+                    "start": 244,
+                    "end": 245,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "This review was performed in accordance with the Preferred Reporting Items for Systematic and Meta-Analysis (PRISMA) statement. 7, 8 The Medline database was searched using the following search strategy: ((((covid-19) OR coronavirus) OR SARS-CoV-2)) AND (((((((pediatrics) OR children) OR neonates) OR child) OR neonate) OR infant) OR infants). No language restrictions were applied. Articles published between December 1 st 2019 and March 25 th 2020 were evaluated for inclusion. No attempts were made to contact the study authors for identifying missing and confusing data. A manual search of the references found in the selected articles and reviews was also performed.",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 130,
+                    "text": "7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 131,
+                    "end": 132,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Two authors (THS and JAN) screened the titles and abstracts independently and in duplicate for potential eligibility. They subsequently read the full texts to determine final eligibility. Discrepancies were resolved through discussion and consensus, and if necessary, the assistance of a third author (MBB) was sought.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Selection"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study Selection"
+        },
+        {
+            "text": "A structured data extraction form was piloted and then used to extract data from the reports of all included studies in duplicate and independently by two authors (THS and JAN). Discrepancies in extracted data were resolved through discussion. The following data were extracted, when available, from each elected article: first author, publication year, study design, number of cases, gender, age, clinical manifestations, laboratory tests, radiological examinations and outcomes (discharged, still hospitalized or death).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Extraction"
+        },
+        {
+            "text": "When sufficient data was reported, the cases were classified into the following clinical types: 9 1. Asymptomatic infection: without any clinical symptoms and signs and the chest imaging is normal, while the SARS-CoV-2 nucleic acid test was positive or the serum-specific antibody was retrospectively diagnosed as infection. 3. Moderate: presented as pneumonia. Frequent fever and cough, mostly dry cough, followed by productive cough , some may have wheezing, but no . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 97,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Extraction"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint obvious hypoxemia such as shortness of breath, and lungs can hear sputum or dry snoring and / or wet snoring. Some cases may have no clinical signs and symptoms, but chest computed tomography (CT) shows lung lesions, which are subclinical. 4 . Severe: Early respiratory symptoms such as fever and cough, may be accompanied by gastrointestinal symptoms such as diarrhea. The disease usually progresses around 1 week, and dyspnea occurs, with central cyanosis.",
+            "cite_spans": [
+                {
+                    "start": 347,
+                    "end": 348,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "Oxygen saturation is less than 92%, with other hypoxia manifestations. 5. Critical: Children can quickly progress to acute respiratory distress syndrome (ARDS) or respiratory failure, and may also have shock, encephalopathy, myocardial injury or heart failure, coagulation dysfunction, and acute kidney injury, including multiple organ dysfunction. Can be life threatening.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "Of 205 potentially relevant articles identified by the search strategy, 34 met the inclusion criteria. A total of 1112 descriptions of pediatric cases 3,5,10-37 and 6 neonate cases 38-41 of COVID-19 were obtained, being that 639 were males 477 were females, and 2 were not disclosed. The flow diagram (Figure 1 ) summarizes the steps followed to identify the studies meeting the inclusion criteria.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 301,
+                    "end": 310,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Study Selection and Characteristics"
+        },
+        {
+            "text": "Sixteen studies were case reports, 12 21 1 in Korea, 15 and 1 in Vietnam. 24 . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 35,
+                    "end": 37,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 38,
+                    "end": 40,
+                    "text": "21",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 53,
+                    "end": 55,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 74,
+                    "end": 76,
+                    "text": "24",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study Selection and Characteristics"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "A total of 1111 cases had their severity classified based on the reported clinical data. One hundred fifty-nine (14.3%) cases were asymptomatic, 404 (36.4%) were mild, 511 (46.0%) were moderate, 24 (2.2%) were severe and 13 (1.2%) were critical cases. Table 1 summarizes the severity of illness reported in each included study.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 252,
+                    "end": 259,
+                    "text": "Table 1",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Severity of illness"
+        },
+        {
+            "text": "The most prevalent symptom was fever, reported in 16.3% of the cases, followed by cough (14.4%), nasal symptoms (3.6%), diarrhea (2.7%), nausea/vomiting (2.5%), fatigue (1.8%) and respiratory distress (1.1%). One hundred forty-five (12.9%) children were diagnosed with pneumonia and 43 (3.8%) upper airway infections were reported.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical manifestations"
+        },
+        {
+            "text": "Amongst the most common clinical signs described were pharyngeal erythema (7.1%), tachycardia (6.4%) and tachypnea (4.6%) on admission. All the clinical manifestations reported in the selected studies and their relative frequencies are described in Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 249,
+                    "end": 256,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Clinical manifestations"
+        },
+        {
+            "text": "All clinical manifestations described in each study are presented in eTable 1 in the Supplement.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical manifestations"
+        },
+        {
+            "text": "Twenty-five studies detailed the white blood cell count of 168 cases. 10 ",
+            "cite_spans": [
+                {
+                    "start": 70,
+                    "end": 72,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Laboratorial characteristics"
+        },
+        {
+            "text": "Twenty-five studies reported 180 cases which underwent chest CT. 3, 10, 19, 22, 23, 25, [27] [28] [29] [31] [32] [33] 11, 34, [36] [37] [38] [39] [12] [13] [14] [15] [16] [17] [18] One hundred thirteen (62.7%) CT scans presented abnormalities. The . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 65,
+                    "end": 67,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 68,
+                    "end": 71,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 72,
+                    "end": 75,
+                    "text": "19,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 76,
+                    "end": 79,
+                    "text": "22,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 80,
+                    "end": 83,
+                    "text": "23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 84,
+                    "end": 87,
+                    "text": "25,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 88,
+                    "end": 92,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 93,
+                    "end": 97,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "[29]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 103,
+                    "end": 107,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 108,
+                    "end": 112,
+                    "text": "[32]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 113,
+                    "end": 117,
+                    "text": "[33]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 118,
+                    "end": 121,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 122,
+                    "end": 125,
+                    "text": "34,",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 126,
+                    "end": 130,
+                    "text": "[36]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 131,
+                    "end": 135,
+                    "text": "[37]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 136,
+                    "end": 140,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 141,
+                    "end": 145,
+                    "text": "[39]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 146,
+                    "end": 150,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 151,
+                    "end": 155,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 156,
+                    "end": 160,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "[16]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 171,
+                    "end": 175,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Radiological features"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint most prevalent abnormalities reported were ground glass opacities, patchy shadows and consolidations. In the study of Lu et al. involving 171 cases, ground glass opacities and patchy shadowings were observed in 32.7% and 31% of cases, respectively. 3 Pleural effusion was observed in a 2-month-old child with simultaneus RSV and SARS-CoV-2 infections. 11",
+            "cite_spans": [
+                {
+                    "start": 356,
+                    "end": 357,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "Clinical outcomes of death, discharged or still hospitalized were described for 365 cases in 28 studies. 3, 5, 19, 21, 22, 24, [26] [27] [28] [29] [30] [31] 10, [32] [33] [34] [36] [37] [38] [39] 41, [12] [13] [14] [15] [16] [17] [18] Of these, 62 cases were still hospitalized when studies were submitted, 302 were discharged and 1 died.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 107,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 108,
+                    "end": 110,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 111,
+                    "end": 114,
+                    "text": "19,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 115,
+                    "end": 118,
+                    "text": "21,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 119,
+                    "end": 122,
+                    "text": "22,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 123,
+                    "end": 126,
+                    "text": "24,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 127,
+                    "end": 131,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 132,
+                    "end": 136,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 142,
+                    "end": 146,
+                    "text": "[29]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 147,
+                    "end": 151,
+                    "text": "[30]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 152,
+                    "end": 156,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 157,
+                    "end": 160,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "[32]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "[33]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 171,
+                    "end": 175,
+                    "text": "[34]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "[36]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 181,
+                    "end": 185,
+                    "text": "[37]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 186,
+                    "end": 190,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 191,
+                    "end": 195,
+                    "text": "[39]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 196,
+                    "end": 199,
+                    "text": "41,",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 200,
+                    "end": 204,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 210,
+                    "end": 214,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 215,
+                    "end": 219,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 220,
+                    "end": 224,
+                    "text": "[16]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 225,
+                    "end": 229,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 230,
+                    "end": 234,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "In our study, we described the main clinical, laboratorial and radiological characteristics of children infected with SARS-CoV-2 reported in the literature. It was observed that only a small proportion of infected children became severely or critically ill. About half of the children with COVID-19 were asymptomatic or mild cases, and several were classified as moderate due to radiological abnormalities in spite of their mild clinical manifestations. The prognosis seems to be very good, with recovery described in the vast majority of reported cases. Only one death was reported in the included studies, a 10-month-old child with intussusception. 3 Since COVID-19 has a favorable clinical course in children, the importance of pediatric cases is mainly due to epidemiological issues. Despite being mild or asymptomatic cases, prolonged viral shedding in stool and nasal secretions made children facilitators of viral transmission. 5, 42 In the study of Xu et al., eight of ten children with SARS-CoV02 had persistently positive rectal swabs even after their nasopharyngeal tests . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 651,
+                    "end": 652,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 935,
+                    "end": 937,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 938,
+                    "end": 940,
+                    "text": "42",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint were negative. 42 . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 122,
+                    "end": 124,
+                    "text": "42",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint Our study has some limitations. Firstly, data from the same patient may have been presented in more than one included study. Secondly, the majority of data are from China, and may not be generalized for other populations. . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint 6 (0.6%) Sputum 6 (0.6%) Hypoxemia 5 (0.5%) Abdominal pain 2 (0.2%) Sneezing 2 (0.2%) Cyanosis 2 (0.2%) Lymphadenopathy 1(0.1%) * expressed in absolute number and percentage in relation to the total of cases described (n = 151).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19): Situation Report -64",
+            "authors": [],
+            "year": 2019,
+            "venue": "World Health Organization. Coronavirus Disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Characteristics and outcomes of 21 critically Ill patients with COVID-19 in washington state",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Arentz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Yim",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Klaff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.4326"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "SARS-CoV-2 Infection in Children",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2005073"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical characteristics of coronavirus disease 2019 in china",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A case series of children with 2019 novel coronavirus infection: clinical and epidemiological features",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa198"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Clinical outcome of 55 asymptomatic cases at the time of hospital admission infected with SARS-Coronavirus-2 in Shenzhen",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. J Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jiaa119"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: Explanation and elaboration",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Liberati",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Altman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tetzlaff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Med",
+            "volume": "6",
+            "issn": "7",
+            "pages": "1--28",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.1000100"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Moher",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Liberati",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tetzlaff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "PLoS Med",
+            "volume": "6",
+            "issn": "7",
+            "pages": "1--6",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.1000097"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The Society of Pediatrics Chinese Medical Association, the Editorial Board Chinese Journal of Pediatrics. Recommendations for the diagnosis, prevention and control of the 2019 novel coronavirus infection in children (first interim edition)",
+            "authors": [],
+            "year": 2020,
+            "venue": "Chinese J Pediatr",
+            "volume": "58",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0578-1310.2020.0004"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Clinical characteristics of 24 asymptomatic infections with COVID-19 screened among close contacts in Nanjing, China. Sci China Life Sci",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11427-020-1661-4"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Clinical and CT imaging features of the COVID-19 pneumonia: Focus on pregnant women and children",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jinf.2020.03.007"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Three children who recovered from novel coronavirus 2019 pneumonia. J Paediatr Child Health",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/jpc.14871"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Insight into COVID-2019 for pediatricians",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pediatr Pulmonol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ppul.24734"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Clinical features of pediatric patients with COVID-19: a report of two family cluster cases",
+            "authors": [
+                {
+                    "first": "Ji L-N",
+                    "middle": [],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "World J Pediatr",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12519-020-00356-2"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "First pediatric case of coronavirus disease 2019 in Korea",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Korean Med Sci",
+            "volume": "35",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "A 55-day-old female infant infected with COVID 19: presenting with pneumonia, liver injury, and heart damage",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jiaa113"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Detection of novel coronavirus by RT-PCR in stool specimen from asymptomatic child",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Emerg Infect Dis J",
+            "volume": "26",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2606.200301"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "2019-novel coronavirus infection in a threemonth-old baby",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "58",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0578-1310.2020.0006"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "First case of severe childhood novel coronavirus pneumonia in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "58",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0578-1310.2020.0005"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "COVID-19 in children: initial characterization of the pediatric disease",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xi",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pediatrics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1542/peds.2020-0834"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "A well infant with coronavirus disease 2019 (COVID-19) with high viral load",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kam",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Yung",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa201"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "Jf-W",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-H",
+                    "middle": [],
+                    "last": "Kok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "20",
+            "pages": "30154--30163",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "High-resolution computed tomography manifestations of 5 pediatric patients with 2019 novel coronavirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Comput Assist Tomogr",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/RCT.0000000000001023"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "The first infant case of COVID-19 acquired from a secondary transmission in Vietnam",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "L V",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Child Adolesc Heal",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2352-4642(20)30091-2"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Asymptomatic cases in a family cluster with SARS-CoV-2 infection",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "4",
+            "pages": "30114--30120",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "The different clinical characteristics of corona virus disease cases between children and their families in China -the character of children with COVID-19",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "707--713",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/22221751.2020.1744483"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Clinical features and chest CT findings of coronavirus disease 2019 in infants and young children",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-D",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "22",
+            "issn": "3",
+            "pages": "215--220",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Twin girls infected with SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "G-X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A-M",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "22",
+            "issn": "3",
+            "pages": "221--225",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Clinical and epidemiological features of 36 children with coronavirus disease 2019 (COVID-19) in Zhejiang, China: an observational cohort study",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30198-5"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "First case of 2019 novel coronavirus infection in children in Shanghai",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "58",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0578-1310.2020.0002"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Clinical analysis of 31 cases of 2019 novel coronavirus infection in children from six provinces (autonomous region) of northern China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ju",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "58",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.cn112140-20200225-00138"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Clinical characteristics of children with coronavirus disease",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Curr Med Sci",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11596-020-2172-6"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Clinical and CT features in pediatric patients with COVID-19 infection: Different points from adults",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pediatr Pulmonol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ppul.24718"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Analysis of CT features of 15 children with 2019 novel coronavirus infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Yun",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "58",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0578-1310.2020.0007"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Novel coronavirus infection in hospitalized infants under 1 year of age in China",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2131"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Clinical features of severe pediatric patients with coronavirus disease 2019 in Wuhan: a single center's observational study",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "World J Pediatr",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12519-020-00354-4"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Detection of Covid-19 in children in early january 2020 in Wuhan, China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2003717"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "First case of neonate infected with novel coronavirus pneumonia in China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "58",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3760/cma.j.issn.0578-1310.2020.0009"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "SARS-CoV-2 infection with gastrointestinal symptoms as the first manifestation in a neonate",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X-W",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L-K",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Er Ke Za Zhi",
+            "volume": "22",
+            "issn": "3",
+            "pages": "211--214",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Neonatal early-onset infection with SARS-CoV-2 in 33 neonates born to mothers with COVID-19 in Wuhan, China. JAMA Pediatr",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jamapediatrics.2020.0878"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Clinical features and obstetric and neonatal outcomes of pregnant patients with COVID-19 in Wuhan, China: a retrospective, singlecentre, descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "20",
+            "pages": "30176--30182",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0817-4"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Updated guidance on evaluating and testing persons for coronavirus disease",
+            "authors": [
+                {
+                    "first": "Alert",
+                    "middle": [],
+                    "last": "Cdc Health",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Network",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "World Health Organization. Global Surveillance for human infection with coronavirus disease (COVID-19)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Lymphopenia predicts disease severity of COVID-19: a descriptive and predictive study",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Signal Transduct Target Ther",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41392-020-0148-4"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "laboratory tests or radiological examinations.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Mild: symptoms of acute upper respiratory tract infection, including fever, fatigue, myalgia, cough, sore throat, runny nose, and sneezing. Physical examination shows congestion of the pharynx and no auscultatory abnormalities. Some cases may have no fever, or have only digestive symptoms such as nausea, vomiting, abdominal pain and diarrhea.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Elevated C-reactive protein (CRP) levels were described in 59 of 300 cases(19.6%), reported in 22 studies.3,[11][12][13][14][15][16]18,19,22,[24][25][26][27][28][29][30][31]33,36,38,39 . Zheng et al reported a median CRP level of 15.5 mg/dL (IQR 0.93-25.04) in 25 cases, and Cai et al. a median of 7.5 mg/dL in 10 cases. Procalcitonin levels were elevated in 139 of 275 cases (50.5%), reported in 14 studies. 3,16,18,19,24,26,29-31,33,36,38-40 Cai et al reported a median procalcitonin level of 0.07 ng/dL in 10 cases. Increased liver enzymes were described in 56 of 288 cases (19.4%), reported in 16 studies. 3,13,16,19,22,24,26-31,33,36,38,40 Zheng et al reported a median of 12 U/L in 25 cases, and Cai et al. a median alanine aminotransferase and aspartate aminotransferase level of 18.5 U/L and 27.7 U/L, respectively, in 10 cases.Co-infections with other pathogens were reported in 5 studies.11,27,32,33,36 Two patients were reported with influenza A, 5 with influenza B, 3 with respiratory syncytial virus (RSV), 1 with cytomegalovirus, 7 with Mycoplasma pneumoniae and 1 with Enterobacter aerogenes.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "This raises concerns about the possibility of a fecal-oral route of transmission. The role of children in the transmission chain needs to be urgently clarified to establish social and public health policies for the protection of vulnerable populations, such as the elderly and people with comorbidities. Testing people who meet the COVID-19 suspected case definition is essential for clinical management and outbreak control. The Centers for Disease Control and Prevention (CDC) recommends that clinicians should decide to test patients based on the presence of signs and symptoms compatible with COVID-19. The WHO, CDC and several other government health agencies emphasize fever and respiratory symptoms in the criteria for suspected cases, however, we observed in our study that only 16.3% of pediatric cases had fever. 43,44 Since many are asymptomatic or mild cases, children certainly are not tested as often as adults, leading to an underestimate of the true numbers of infected people and increased transmission of the virus. Guan et al. demonstrated pronounced lymphopenia in adults with COVID-19, especially in severe cases, where the observed prevalence was 96.1%. 4 Some authors even suggest that lymphopenia is a predictor of prognosis in adult patients with COVID-19. 45 tIn our study, decreased lymphocyte count was described in only 13.1% of infected children, in contrast with adults, in which 80% of the non-severe cases have lymphopenia.With this, lymphopenia may not be a reliable indicator of COVID-19 in children.Similarly to adults, the most prevalent abnormalities on chest CT of children with COVID-19 were ground glass opacities and patchy shadowings. However, while 86.2% of adults cases presented any abnormalities on chest CT, the same occurred in only 62.7% of children in the selected studies. Descriptions of chest x-rays of pediatric cases are scarce and would be usefull for resource-limited settings.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Most children with COVID-19 have a favorable clinical course and their clinical manifestations differ widely from adults cases. Fever and respiratory symptoms should not be considered a hallmark of COVID-19 in children. With this, pediatricians should have a high level of clinical suspicion to diagnose children infected with SARS-Cov-2, as the majority of pediatric cases are asymptomatic or mild. Regardless of the favorable prognosis, it is important that the child's role in the contamination chain is precisely established and considered.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Clinical manifestations reported in the selected studies.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses flow diagram of selection process.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "-19,21,24,25,28,30,38-40 11 were case series 5,10,11,22,23,26,27,35-37,41 and 6 were retrospective studies. 3,20,29,31-34 With the exception of 5 multicenter studies, 5,20,29,31,32 all others were unicentric studies. Thirty-one studies were conducted in China, 3,5,10-14,16-20,22,23,25-41 1 in Singapore,",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "6%) were within normal ranges. Normal or elevated lymphocytes count were detailed in 24 studies, involving 148 cases.11,[13][14][15][16][17][18][19][21][22][23][24][25][26][27][28][29][30][31]33,[36][37][38][39][40] Normal lymphocyte count were reported in 68.9% and elevated in 12.2% of cases. Reduced lymphocyte count were reported in 45 of 344 (13.1%) cases.3,11,[13][14][15][16][17][18][19][21][22][23][24][25][26][27][28][29][30][31][32][33][36][37][38][39][40] . Zheng et al reported a median white is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.blood cell count of 6.2 \u00d7 10 9 /L [interquartile range (IQR) 4.30-9.85] and median lymphocyte count of 2.19 \u00d7 10 9 /L (IQR 1.15-3.31) of 25 pediatric patients.Normal or elevated platelet count were detailed in 12 studies, involving 27 cases.[15][16][17]19,22,[24][25][26]28,30,36,38 Normal platelet count were reported in 81.5% (22/27) and elevated in 3.7% (1/27) of cases. Increased platelet count were reported in 6 of 58(10.3%)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Severity of illness and characteristics of cases reported.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Distributions of clinical manifestations of children with COVID-19 described in the selected studies.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": ". https://doi.org/10.1101/2020.04.01.20049833 doi: medRxiv preprint",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Distributions of clinical manifestations of children with COVID-19 described in the selected studies.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Thank you to Carolina Grotta Ramos Telio for her review of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "* Values are expressed as N and relative frequencies. Studies that described asymptomatic cases were not included in this table.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

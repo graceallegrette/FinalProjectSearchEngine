@@ -1,0 +1,982 @@
+{
+    "paper_id": "a900993fe303c21df9d99b62d54a9d876a41a8ae",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Aysegul",
+                "middle": [
+                    "Ulu"
+                ],
+                "last": "Kilic",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erciyes University",
+                    "location": {
+                        "settlement": "Kayseri",
+                        "country": "Turkey"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fatih",
+                "middle": [],
+                "last": "Kara",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "General Directorate of Public Health",
+                    "location": {
+                        "settlement": "Ankara",
+                        "country": "Turkey"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Emine",
+                "middle": [],
+                "last": "Alp",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Turkish Ministry of Health",
+                    "location": {
+                        "settlement": "Ankara",
+                        "country": "Turkey"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mehmet",
+                "middle": [],
+                "last": "Doganay",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erciyes University",
+                    "location": {
+                        "settlement": "Kayseri",
+                        "country": "Turkey"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "months, 8098 people are infected, and 774 people died. Since 2004, to our knowledge, there have been no new cases reported in the world. MERS-CoV also causes a severe respiratory disease with symptoms of fever, cough and shortness of breath. The disease was seen for the first time in September 2012 in Saudi Arabia, and all the patients with MERS-CoV had a history of travel or residence in the Arabian Peninsula and nearby countries. Outside the Arabian Peninsula, the disease was seen in the Republic of Korea in 2015. Again, the outbreak was associated with a traveler returning from the Arabian Peninsula. To date, 2494 people have been infected, and there 858 related deaths were reported related to MERS [2, 3] .",
+            "cite_spans": [
+                {
+                    "start": 711,
+                    "end": 714,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 715,
+                    "end": 717,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "2019-nCoV is placed within the beta-coronavirus family, where SARS-CoV and MERS-CoV were also found. The 2019-nCoV genome has been reported to show a 70% similarity with the SARS CoV. The genomes of these viruses and beta coronaviruses have shown to be closely related to the bat SARS-like coronavirus isolate Bat-SL-CoVZC45. The origin of 2019-nCoVs is still under investigation [4, 5] .",
+            "cite_spans": [
+                {
+                    "start": 380,
+                    "end": 383,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 384,
+                    "end": 386,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "Keywords: Corona; coronavirus; outbreak; pandemic; public health; Turkey; Turkish perspective.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "Cases of pneumonia of unknown etiology were first reported on December 31, 2019, in Wuhan City, Hubei Province, China. It is stated that there is a cluster in the employees of Wuhan South China Seafood City Market (a wholesale fish and livestock market selling different animal species) in the south of Wuhan. Findings compatible with fever, dyspnea and bilateral lung pneumonic infiltration were detected in most cases. Fatal cases were reported so far have generally been older individuals or individuals with concomitant systemic disease [6] [7] [8] . The first imported case is a 61-year-old Chinese woman reported from Thailand on January 13, 2020. On January 14, 2020, a male patient in his 30s was reported by the Ministry of Health of Japan as the second imported case. The two imported cases were reported from Thailand and Japan, who have a travel history to Wuhan province, with no history of visiting the seafood market where the first cluster was identified. The virus was defined by authorities as coronaviruses on January 7, 2020, and refined down the total number of the cases. As the number of cases has increased, Chinese authorities have quarantined the city of Wuhan and many other cities, suspended travel in and out in Hubei province [6] [7] [8] .",
+            "cite_spans": [
+                {
+                    "start": 541,
+                    "end": 544,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 545,
+                    "end": 548,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 549,
+                    "end": 552,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1256,
+                    "end": 1259,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1260,
+                    "end": 1263,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1264,
+                    "end": 1267,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "An early report of 41 patients published in The Lancet, provided even more detailed information and many epidemiological and clinical studies have been reported consequently [6] . Common symptoms of infection were respiratory symptoms, fever, cough, and dyspnea. More severe cases were presented with pneumonia, severe acute respiratory infection, kidney failure. Asymptomatic people reported carrying the virus in the respiratory tract. A 33 years old German businessman infected from a Chinese colleague who has no symptoms or signs [9] .",
+            "cite_spans": [
+                {
+                    "start": 174,
+                    "end": 177,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 535,
+                    "end": 538,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "At the end of January 2020, 2019-nCoV declared as global health emergency by the World Health Organization. The researchers tried to estimate the size of the epidemic in Wuhan and predict the risk for local and global dimensions. The mean incubation period was found to be 5.2 days (4.1 to 7), the basic reproductive number was estimated to be 2.2 (95% CI, 1.4 to 3.9). The researchers calculated the number of infected patients as 75.800 for January 2020 (about 10 times that reported) using travel data. They found doubling time as 6.4 days and R 0 as 2.68. The researchers were assumed that the outbreak would peak in April and if necessary measures are taken and the growth rate of the epidemics slows down, the transmission of the virus can be reduced by 25%. Thus, the total number of cases can be decreased by 50%. The fatality rate of disease was reported as 2% by early February [10] . Non-survivors that have been reported so far are generally older or have concomitant systemic disease. Systemic symptoms, lymphopenia and thrombocytopenia were found more common and radiological involvement was more severe among people over 60. High CRP and LDH levels were also reported more frequently among older patients. A study found that the median age of patients died as 75 (48-89). On the other hand, children were less susceptible to viruses or had a mild infection as compared with adults [7, 11] . Studies calculated a basic reproduction number (R 0 ) of the disease to foresee how far the virus spread. A study of 425 patients found a basic reproduction number as 2.2% (95% CI, 1,4 to 3.9) [12] . The WHO (World Health Organization) estimated that each individual infected with 2019-nCoV transmitted the virus to an average of 1.4 to 2.5 others for the earlier phase of the outbreak. That means 2019-nCoV less contagious than SARS, which had an R 0 of 3, but more contagious than seasonal flu.",
+            "cite_spans": [
+                {
+                    "start": 888,
+                    "end": 892,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1396,
+                    "end": 1399,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1400,
+                    "end": 1403,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1599,
+                    "end": 1603,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "An important group affected by these outbreaks is healthcare workers. During the SARS-CoV outbreak, Dr. Carlos Urbani has gone during his scientific investigations. In recent outbreak also Dr. Li, who tried to warn people about the virus, shared the same fate with his colleague and has also died from novel coronavirus.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "Polymerase Chain Reaction-based tests are used for the diagnosis of the disease, preferably from the obtained low respiratory tract samples (such as sputum and/ or endotracheal aspirate). Researches also detected the virus from the blood and feces specimens [7, 13] . To our knowledge, there is no specific antiviral treatment for 2019-nCoV. Since the pathogenesis is not fully known, the treatment is supportive and aimed to prevent secondary infections and complications. Randomized controlled studies are underway in China for some drugs, such as Remdesivir (a nucleotide analogue), which was first developed for the treatment of Ebola [14] . Compassionate use of this drug also successfully experienced in a US patient during the outbreak [13] . Also, chloroquine, interferon and protease inhibitors, such as ritonavir, lopinavir/ritonavir, reported being effective in inhibiting the virus invitro [13, 14] . To our knowledge, there is currently no vaccine to prevent 2019-nCoV infection.",
+            "cite_spans": [
+                {
+                    "start": 258,
+                    "end": 261,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 262,
+                    "end": 265,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 639,
+                    "end": 643,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 743,
+                    "end": 747,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 902,
+                    "end": 906,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 907,
+                    "end": 910,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "On ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Novel Coronavirus Outbreak"
+        },
+        {
+            "text": "Against the epidemic of coronavirus, an operation center was established in Ankara within the General Directorate of Public Health. A scientific board worked in the center, scanning all the recent information in the world and monitored them closely and instantly. To take necessary precautions in all health care facilities, all actual developments about the epidemic of coronavirus, especially in China and other countries shared correctly and securely by the Ministry of Health. Besides the Risk Assessment and Scientific Board, other institutions (e.g., Turkish Airlines, General Directorate of Border and Coastal Health, General Directorate of Public Hospitals) were also involved in the process. The meetings for novel coronavirus (2019-nCoV) disease continued for 24/7. The essential preventive measures have been taken compatible with the WHO recommendations. Health checks to identify sick passengers who may come from risky areas were performed at all entry points of the country, such as airports and sea entry points. Early warning systems activated in all borders of the country. Specific actions were taken in case of the determination of any suspicion of illness. Infection control measures primarily hand hygiene and the proper use of personal protective equipment (such as medical mask, N95/FFP2, face shields, gloves) were promoted by health authorities. A guideline for health care professionals was established immediately, including the definition of suspected and definite cases, also preventive and control measures for transmission of disease in all healthcare facilities. The guideline included algorithms for healthcare workers for how to manage the disease, transport and referral criteria of patients and clearly defined the duties and responsibilities of facilities. The guideline also included information for people coming from or going to countries where disease experienced. This guideline, which is constantly updated, is available on the official website of the General Directorate of Public Health. Respiratory tract samples from patients compatible with the definition of possible cases were resulted in a few days. During this time, cases were isolated in health facilities until the sample result is obtained.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infection Control and Prevention Perspective in Turkey [16]"
+        },
+        {
+            "text": "The travels to China have been stopped all over the country; the arrivals of those coming from China have also been suspended. The Turkish Air Force A400M military transport aircraft took off in mid-February to Wuhan as a part of the major evacuation operation planned by the Ministry of Health. The aircraft carried a health team included two infectious disease specialists, four infection control nurses and medical supplies for China. After health checks, there were no signs of disease in any 42 Turkish passengers on board, and these people isolated for 14 days in a hospital prepared after they arrived in Ankara.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infection Control and Prevention Perspective in Turkey [16]"
+        },
+        {
+            "text": "The origin of the 2019-nCoV and its ability of the spreading among humans are still remaining unknown. Many factors may be contributed to the emergence and spread of previous outbreaks. Increased human population, climate change, increased wildlife and human contact, advances in the diagnosis of infections and increased international travel and transport are among them. In recent years, more than 20 viruses emerged or reemerged worldwide. Most of them were zoonotic viruses. All these refer to ' one health concept,' which means human health is closely linked to the health of animals and the environment. It is essential to embed this strategy into the health care systems of countries [17] .",
+            "cite_spans": [
+                {
+                    "start": 691,
+                    "end": 695,
+                    "text": "[17]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Human coronavirus circulation in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Killerby",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Biggs",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Haynes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Dahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mustaquim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Clin Virol",
+            "volume": "101",
+            "issn": "",
+            "pages": "52--58",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Preparation for Possible Sustained Transmission of 2019 Novel Coronavirus: Lessons From Previous Epidemics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Swerdlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1960"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Middle East Respiratory Syndrome Coronavirus Transmission",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Killerby",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Biggs",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Midgley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Gerber",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Infect Dis",
+            "volume": "26",
+            "issn": "",
+            "pages": "191--199",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Serological Evidence of Bat SARS-Related Coronavirus Infection in Humans",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "China. Virol Sin",
+            "volume": "33",
+            "issn": "",
+            "pages": "104--111",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A Novel Coronavirus Genome Identified in a Cluster of Pneumonia Cases -Wuhan",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "China CDC Weekly",
+            "volume": "2",
+            "issn": "",
+            "pages": "61--63",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Novel coronavirus (2019-nCoV) situation reports",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rothe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schunk",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sothmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bretzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Froeschl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wallrauch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2001468"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "30260--30269",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--537",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "First Case of 2019 Novel Coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debolt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lofy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wiesman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bruce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Evolution and Emergence of Pathogenic Viruses: Past, Present, and Future",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Parvez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Parveen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Intervirology",
+            "volume": "60",
+            "issn": "",
+            "pages": "1--7",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "the 11 th of February, WHO announced an official name for the disease caused by new coronavirus disease: COVID-19, which refers to Co (Corona), VI (virus), D (disease), and 19 (the year 2019 that it is first discov-ered). To date (15 th February 2020), the virus was detected in 67.191 people worldwide, about 66 thousand of which are within the borders of mainland China. The other countries reporting the highest number of cases are Japan (338), Singapore (72), Hong Kong (56), Thailand (34) and South Korea (28). While nearly 200 thousand people were kept under observation, the number of people who lost their lives increased to 1,527. Only four deaths out of China were reported from Hong Kong (1), Philippines (1), Japan (1) and France (1) [15].",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Financial Disclosure: The authors declared that this study has received no financial support. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest: No conflict of interest was declared by the authors."
+        }
+    ]
+}

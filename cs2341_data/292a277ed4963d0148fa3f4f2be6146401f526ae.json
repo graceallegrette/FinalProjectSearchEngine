@@ -1,0 +1,734 @@
+{
+    "paper_id": "292a277ed4963d0148fa3f4f2be6146401f526ae",
+    "metadata": {
+        "title": "Title: Study of Epidemiological Characteristics and In-silico Analysis of the Effect of 1 Interventions in the SARS-CoV-2 Epidemic in India Title: Study of Epidemiological Characteristics and In-silico Analysis of the Effect of 28 Interventions in the SARS-CoV-2 Epidemic in India",
+        "authors": [
+            {
+                "first": "Archisman",
+                "middle": [],
+                "last": "Mazumder",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vishwesh",
+                "middle": [],
+                "last": "Bharadiya",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Parul",
+                "middle": [],
+                "last": "Berry",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mehak",
+                "middle": [],
+                "last": "Arora",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mudit",
+                "middle": [],
+                "last": "Agarwal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mohak",
+                "middle": [],
+                "last": "Gupta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Priyamadhaba",
+                "middle": [],
+                "last": "Behera",
+                "suffix": "",
+                "affiliation": {},
+                "email": "13e-mail:priya.madhaba@gmail.com"
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Mudit",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mohak",
+                "middle": [],
+                "last": "Agarwal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Priyamadhaba",
+                "middle": [],
+                "last": "Gupta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Behera",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "(",
+                "middle": [
+                    "M"
+                ],
+                "last": "Arora",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "A",
+                "middle": [],
+                "last": "33 Mazumder",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "V",
+                "middle": [],
+                "last": "Bharadiya",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "P",
+                "middle": [],
+                "last": "Berry",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [],
+                "last": "Agarwal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [],
+                "last": "Gupta",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Article Summary Line: The 21 day lockdown in India to slow the COVID 19 epidemic in the 22 country has still not shown significant results, but the earlier interventions done are showing 23 their effect now.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Running title: In-silico analysis of SARS-CoV-2 epidemic in India",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Abstract :",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "After SARS-CoV-2 set foot in India, the Indian Government took a number of steps to limit the 37 spread of the disease in the country. This study involves assessing how the disease affected the 38 population in the initial days of the epidemic. Data was collected from government controlled 39 and crowdsourced websites and then put through analysis and calculations. With a study on age 40 and sex parameters of 413 patients, the median age of the affected individuals was found out to 41 be 36 years (IQR 25-54 years) with 20-39 years males being the most affected group. The 42 number of affected males (66.34%) was more than that of the females(33.66%).Using SIR 43 model, the range of contact rate(\u03b2) of India was calculated and the role of public health 44 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "interventions was assessed which proved that the interventions were effective for a little while 45 but the effect reduced due to violations. there is some evidence pointing to a possibility of airborne and faeco-oral transmission as well 56 (6, 7). According to few case studies, transmission may also occur via viral shedding in \"pre-57 symptomatic\" individuals during the incubation period (8, 9).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The incubation period for COVID-19 is thought to be within 14 days of exposure, with a median 59 incubation period of 4-5 days (4, 10, and 11). The median age of patients affected by 60 is 47 years with the most common clinical findings being fever and cough (4, 12). Other 61 symptoms include expectoration, headache, myalgia fatigue, and diarrhoea and haemoptysis in 62 rare cases. About 18% of patients develop shortness of breath (4). Severe disease has been 63 shown to occur in 14% of patients with older age and pre-existing chronic disease being risk 64 factors for severe disease (4, 13). Critical disease requiring intensive care unit admission has 65 been reported in 5 percent, and overall case-fatality rate as 2.3% (13). Currently, there are no 66 approved treatments for COVID-19 and clinical trials such as the WHO SOLIDARITY trial are 67 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "58"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint underway to evaluate the effectiveness of drugs like lopinavir-ritonavir, remedisvir, 68 hydroxychloroquine and azithromycin (3, 14) .",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 272,
+                    "text": "(3,",
+                    "ref_id": null
+                },
+                {
+                    "start": 273,
+                    "end": 276,
+                    "text": "14)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "58"
+        },
+        {
+            "text": "India reported its first case of COVID-19 on 30 January, 2020; a medical student who had should represent what is happening in the real world. The most basic of these models is the SIR 90 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "70"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint (susceptible-infected-removed) model (19,20), which we've used in the current Indian scenario 91 to determine the range in which contact rate \u03b2 lies and also calculate the range of the current 92 reproduction number, R t .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "70"
+        },
+        {
+            "text": "In the first part of our paper, we outline the several public health measures taken by India in 94 response to the COVID-19 outbreak. We then study and analyze the epidemiological parameters 95 of COVID-19 in India using publicly available data till 28 March 2020. Finally, we use the SIR there were more social distancing measures in March which were then followed by lockdowns, 105 ultimately culminating in a nation-wide 21 day lockdown from 25 March, 2020 (Table 1) 106 METHODS:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 460,
+                    "end": 469,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "93"
+        },
+        {
+            "text": "Epidemiological analysis:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "107"
+        },
+        {
+            "text": "108 Data Source-The raw data was collected from the patient database of covid19india.org which is 109 a crowdsourced patient database for positive cases of SARS-CoV-2 which have been confirmed 110 by laboratory testing, including data from state government and central government agencies 111 (https://www.covid19india.org/). The data was taken for cases confirmed on 28 March, 2020 or 112 earlier. Only those patient data were analyzed which had both age and sex data of the patient 113 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "107"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint mentioned. For convenience of analysis, patients whose age data was given as a range were 114 excluded.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "107"
+        },
+        {
+            "text": "Study population -The above method yielded a sample of size n=413. Of these patients, the 116 status of the patient as of 28th March 2020 was not known for 13 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "115"
+        },
+        {
+            "text": "Study Design -For the epidemiological analysis part of the study, we used a descriptive design.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "117"
+        },
+        {
+            "text": "After collecting the data analysis was done in regard to the age distribution, status of patients and 119 sex distribution using Microsoft Office Excel 2007. Fatality ratio in any category was found out 120 by dividing the number of deaths in the category by the number of affected individuals of that 121 category. Central tendencies for age of patients of various categories were also calculated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "118"
+        },
+        {
+            "text": "Mathematical analysis:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "122"
+        },
+        {
+            "text": "Study Design-The transmission rate \u03b2 is used to describe the flow of individuals in a population 124 going from a susceptible state to an infected state, and it is important to obtain a realistic estimate 125 of the transmission rates in order to create useful and realistic simulation models for decision 126 support. Accurate estimation of this rate is important because it can have a major influence on 127 disease predictions and conclusions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "123"
+        },
+        {
+            "text": "We have used the data available till 4th April to estimate the two parameters, \u03b2 and R t (time 129 varying reproductive number) used in the SIR model (www.statista.com). We assumed that the 130 recovery rate \u03b3 would remain constant for the population. We plotted the \u03b3 distribution curve till 131 3rd April and took the mean value of \u03b3. Since the effect of interventions would reflect in the 132 contact rate \u03b2, we then took the value of \u03b3 to be constant equal to the mean and ran the SIR ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "128"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "157"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint \u03b2 and \u03b3 are useful in the SIR model using the following differential equations- ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "157"
+        },
+        {
+            "text": "Assuming the present scenario in India where I<<N and R<<N, S is almost equal to N. So S/N=1.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "161"
+        },
+        {
+            "text": "Putting this in equation 2 and integrating, we get 163",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "162"
+        },
+        {
+            "text": "Where A is determined the number of cases at t=0.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "162"
+        },
+        {
+            "text": "Study setting-\u03b2, the effective contact rate reflects the force of infection of the disease. It is 166 time-varying, and helps us understand at what rate the epidemic is progressing. We have 167 analyzed the data from the initial period of the COVID epidemic in India, till 4 April 2020 and 168 calculated the \u03b2 and the R t for the same.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "165"
+        },
+        {
+            "text": "Data variables, Sources and Analysis-\u03b3 was calculated to be 0.103(the removal rate followed CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "169"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "169"
+        },
+        {
+            "text": "For recovered patients, most were in the 20-39 age group followed by the 40-59 years age group. 190 Table 3 gives the current status of patients across age and sex, and Table 2 gives the age and 191 gender distribution with normalized values with respect to percentage in Indian population.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 100,
+                    "end": 107,
+                    "text": "Table 3",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 169,
+                    "end": 176,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "185"
+        },
+        {
+            "text": "Mathematical analysis:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "192"
+        },
+        {
+            "text": "After running multiple simulations, all assuming different values of \u03b2, we found that the value of 194 \u03b2 in the current India scenario calculated from the trendline of real data lies around 0.258. ,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "193"
+        },
+        {
+            "text": "which is also visible in the graph of real-time active cases lying between 0.24 and 0.29 ( Figure   196 3).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 91,
+                    "end": 103,
+                    "text": "Figure   196",
+                    "ref_id": "FIGREF25"
+                }
+            ],
+            "section": "195"
+        },
+        {
+            "text": "Also visible in the graph, is the real data line shifting from 0.24 to 0.28 from day 8. Also, as R t = 198 \u03b2/\u03b3, the value of the Reproduction number is found to be varying between 2.4-2.9 in the Indian 199 scenario until 4thApril 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "197"
+        },
+        {
+            "text": "Considering the present trend of \u03b2, India can have more than 9700 active cases by the end of the 201 21 day lockdown.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "200"
+        },
+        {
+            "text": "203 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION:"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION:"
+        },
+        {
+            "text": "The median age of affected patients in our study sample of 413 was 36 years(IQR 25-54)with the 204 median age for female patients (40 years, IQR 24.5-59) was more than that of male patients analysis, males in the 20-39 years age group are more affected than even the 60-79 years age 217 group males or above 80 years age group males. This is something that has not been reported 218 until now and it has to be seen whether this changes as the number of cases in India grows.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION:"
+        },
+        {
+            "text": "Similarly finding the normalized ratio of affected patients by age group shows that for females, 220 above 80 years age group is more affected. On the same lines the mortality rate due to the 221 disease was found to be lower as compared to other countries.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "219"
+        },
+        {
+            "text": "As of 30 March, 2020, India has still not officially reported community spread (25). So the cases 223 now are people who were affected in foreign countries or their direct contacts. In 2018, Indian 224 residents between 35 and 49 years of age took the most holidays outside the nation (26). So, it is 225 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "222"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint also possible that the number of young patients is more in India than other countries because they 226 constitute the majority of outbound tourists. If community spread begins, this can get altered. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "222"
+        },
+        {
+            "text": "The present data gives a case fatality rate of 4.38% for males and 2.88% for females. In China, 235 the case fatality rate was found as 2.3% with 1023 deaths of 44672 confirmed cases, 14.8% in 236 the above 80 years population, and 8.0% in the 70-79 years population (13). Our estimate gives a 237 higher value which may be due a smaller sample size or can also be because mild cases of 238 COVID 19 have so far been missed due to limited testing capacities in India. In our study, there 239 is a 16.18% mortality rate in 60-79 years age group and 20.0% in above 80% age group. These 240 may be an underestimation or overestimation of the actual mortality rate as the total number of 241 deaths is still small and many are still hospitalized. The mean age of the deceased males and 242 females implies male patients of younger age have higher risk of death than females of similar 243 age. The mean age for recovered patients is lower than the mean ages for the deceased implying CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "234"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint lower mortality rate due to CoVID infection than that of other countries [worldometer.org], 249 could also be the universal immunisation policy against BCG (31).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "234"
+        },
+        {
+            "text": "The value of the \u03b2 being 0.258 (range between 2.4-2.9) and the trend for R t being about 2.50,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "250"
+        },
+        {
+            "text": "shows that the interventions which were put in place by the Indian government (assuming a lag Tamil Nadu, India for their valuable feedback and sharing their expertise.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "251"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "294"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint Restriction . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "294"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "294"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "294"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Adaptive COVID-19 Treatment Trial (ACTT) -Full Text View -ClinicalTrials.gov 343",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Ministry of health and Family Welfare, Government of India",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Storymapjs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Global surveillance for COVID-19 caused by human infection with COVID-19 virus",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity. is the (which was not peer-reviewed) The copyright holder for this preprint",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.05.20053884"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "2019, a cluster of patients with pneumonia of unknown origin was encountered in 48 Wuhan, China (1). The causative agent was determined to be a novel virus of the Coronaviridae 49 family of RNA viruses and was claimed to be of zoonotic origin (1). Due to its close relationship 50 with the SARS-CoV, this novel coronavirus was named SARS-CoV-2 (2). Since then, SARS-51 CoV-2 has caused a widespread outbreak of the disease now known as COVID-19 and was 52 declared to be a pandemic by WHO on March 11 2020 (3). Human to human transmission occurs 53 primarily through close-contact with the infected person, through fomites in the immediate 54 surroundings of the infected person and via droplets of respiratory secretions (4, 5), although 55",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "71 travelled from Wuhan, China, the then epicenter of COVID-19 (15). While there were only a few 72 reported imported cases in the month of February, the number began to increase rapidly in March 73 (14). On 15th March 2020, India sealed its borders and stopped all international flights, meaning 74 all the initial imported cases which seeded COVID-19 in India arrived in the Indian subcontinent 75 before 15 March 2020 (16). According to the data available in the public domain, India had 76 approximately 3726 cases (both imported cases and due to person-to-person transmission) as of 5 77 April 2020 (17). According to the Indian Council of Medical Research, as of 31st March 2020, 78 community transmission has not yet started and India is in category 2 of WHO classification for 79 transmission patterns, i.e., sporadic cases without evidence of community transmission (18).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "important question in the current scenario concerns the mathematical parameters of the 82 initial spread of COVID-19 in India, and what are the epidemiological aspects that can predict 83 this spread. We acknowledge there are certain difficulties in making precise calculations due to 84 the rapidly changing dynamic of the epidemic in the early stages, limited availability of data in 85 the public domain, absence of robust line listing of cases and limited testing capacity.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Nonetheless, mathematical models with reasonable assumptions based on available information 87 can help in analysis of the currently available data to provide important insights for guiding 88 public health interventions. For a predictive model to be relevant to the reality, the model itself",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "96 model, and run simulations to determine the effective contact rate \u03b2, and derive from that the 97 reproduction number R t ,and comment on the result of the nationwide public health measures 98 implemented from mid-March 2020 and the lockdown implemented from 25 March 2020.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "the beginning of the outbreak in India, there have been a number of interventions done at 101 various levels by the state governments and by the Central Government agencies. The number of 102 cases started increasing in March (21), prompting a number of interventions to control the 103 outbreak. The first interventions were mostly related to travel advisories and bans. Gradually",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "133model multiple times by varying the value of \u03b2, and comparing the trends with the real data. We 134 plotted the trendline for the real data using Microsoft Office Excel 2007, and used the equation",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "of a disease in the population is studied by the SIR model (19,20) which divides the 139 (fixed) population of N individuals into three \"compartments\" which vary as a function of time 140 (For purposes of this study, we have not included vital dynamics like birth and death rate.) -",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "S(t) -S(t) are those susceptible but not yet infected with the disease (in a novel disease 143 like nCOV-19,the entire population is assumed to be susceptible as there is no pre-existing 144 immunity); 145 \u2022 I(t) -I(t) is the number of infectious individuals; 146 \u2022 R(t) -R(t) are those individuals who have been removed from the infected 147 population(includes those who have recovered from the disease and also the deaths) 148 149The SIR model describes the change in the population of each of these compartments in terms of 150 two parameters, \u03b2 and \u03b3.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "-\u03b2 describes the effective contact rate of the disease: a susceptible individual comes into 152 contact with an infectious individual and acquires the disease. This parameter takes into account 153 both the number of people contacted per unit time, and the effectiveness of transmission in each 154 contact.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF12": {
+            "text": "the mean removal rate: In our model, it is calculated using the removed cases as against 156 the new cases on a daily basis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF14": {
+            "text": "patients affected in India had a median age of 36 years with IQR of 25-54 years. Largest 176 percentage of affected patients was in the age group of 20-39 years. There were 66.34% male 177 patients and 33.66% female patients. The median age for affected males was 35 years (IQR 25-178 50) and for females was 40 years (IQR 24.5-59). Both in male patients and female patients the 179 largest number of affected patients was in the 20-39 years age group accounting for 54.38% of 180 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF15": {
+            "text": "with IQR 21.75-56.25. As per the data as on 28 March, 2020, 14 of these 413 187 patients had recovered. 188 The number of hospitalized patients accounted for 370 of the 413 patients. However, status of 13 189 of the 413 patients was not available.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF16": {
+            "text": "Median age 35 years, IQR 25-50). In study cohorts of Wuhan, the median age of affected 206 patients range from 49-56 years (4, 23, 24). Thus, there are more people affected at a lower age 207 in India when compared to China. This observation can be explained by the population 208 distribution of India. In previous studies on COVID 19, it has been established that the risk 209 increases with age and comorbidities (13, 23, 24). However, according to the population 210 demographics in India for 2020 (36), the broad based nature of India's population pyramid 211 means there are more people in the younger age group category and very few people in the above 212 80 years age group category.This is reflected in the number of cases which are more in the 213 younger age groups. On normalizing the percentage of patients in each age group with the 214 corresponding percentage representation of the population, we observed that the highest number 215 of male patients is in the 20-39 years age group category. Interestingly, according to this 216",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF17": {
+            "text": "Another consideration in this regard are the comorbidities in the Indian population because 228 hypertension, COPD, neoplasms have been related to higher risk of infection by SARS-Cov 2. In 229 a 2016 Global Burden of Disease Study in the Indian population (27), it was found that diseases 230 like cardiovascular diseases, chronic respiratory diseases, and neoplasms were as prevalent in the 231 40-69 yrs age group as older age groups. Hence, this can be another reason for the lower median 232 patient age in India.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF18": {
+            "text": "244 younger patients have a higher chance of recovery. These are in accordance with findings from 245 other countries (13, 28). If we consider all the patients, males account for 66.34% of patients, 246 implying more males are generally affected. 75.0% of the deceased were also males which show 247 that males are more vulnerable agreeing with previous studies (29, 30).The explanation for a 248 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF19": {
+            "text": "252period of 11 days) during the mid-March period were partially effective, preventing the scenario 253 where Rt can reach even more than 4 (32), and further data would tell how effective the 254 lockdown is. The increase in \u03b2 from day 8 is probably due to the identification of the Tablighi 255 cluster and the cases it added to the Indian data (33).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF20": {
+            "text": "a study (32) in the early days of the epidemic, Wuhan city and Hubei province 258 showed Rt between 1.85 and 4.46 which matches our study. All over China, the Rt varied from 259 1.23 to 5.77. South Korea which has high population density like India had a decreasing trend of 260 Rt from 9.72 on 20 February to 1.50 on 7 March. This indicates that the interventions have been 261 helpful in preventing the worst case scenario in India but is unable to prevent the spike in 262 number of cases (33,34).The situation can still be controlled if Rt can be brought down close to 263 1.This indicates the need for severe interventions required and ensuring optimum testing to avoid 264 underestimation of danger. 265 The impact of the COVID-19 response ( overall quarantine regulations , social distancing, and 266 isolation of infections) in China in this context is encouraging for the many other countries (35) 267 where the Rt gradually stabilized for most provinces ranging between 0.96 to 1.57 where there 268 were more than 100 cases (32), and India should try and replicate this when community 269 transmission starts by strict enforcement of lockdown measures to get the Rt closer to 1,so that 270 COVID would not overwhelm the Indian healthcare system. The Indian government will not be viral spread. Keeping mortality as low as possible will be the highest priority for 273 individuals; hence the Indian government must put in place measures to ameliorate the inevitable 274 economic downturn (36). However the Indian government's timely decision to put a country 275 wide lockdown into place when the number of cases was documented to be only 415,and 276 effective contact tracing definitely helped to reduce the Rt and prevent an Italy/US like situation 277 (however in the context of violations of the lockdown, more data awaited).278LIMITATIONS279The lack of enough kits for testing at the beginning of the outbreak among other logistic and 280 political reasons was one of the major issues. The Indian government tried to correct these issues281 by altering the criteria for testing on 21 March 2020. However, it undermines the quality of data 282 collected in the early phase of the epidemic. We have used crowd sourced data from 283 covid19india.org due to lack of availability of official data. Even though the number of cases in 284 India till 28 March was more, we could not include all the cases due to unavailability of the 285 demographic details of all the patients. If these details along with the clinical details as well are 286 released, further studies can help in better assessment of the disease course. Also, it could help 287 the government with better interventions to control the spread of the disease.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF21": {
+            "text": "We thank Giridara Gopal of All India Institute of Medical Sciences, New 291 Delhi, India, Hemant D Shewade of International Union against Tuberculosis and Lung Disease 292 (The Union) and Gowtham Balachandhiran of Panimalar Institute of Technology, Pidarithangal,",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF23": {
+            "text": "N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients 299 with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-33.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF24": {
+            "text": "Director-General's opening remarks at the media briefing on COVID-19 -11 March 304 2020 [Internet]. [cited 2020 Apr 2]. Available from: 305 https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-306 media-briefing-on-covid-19---11-march-2020 307 4. Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al. Clinical Characteristics of Coronavirus 308 Disease 2019 in China. N Engl J Med [Internet]. 2020 Feb 28 [cited 2020 Apr 2]; Available 309 from: http://www.nejm.org/doi/10.1056/NEJMoa2002032 310 5. Modes of transmission of virus causing COVID-19: implications for IPC precaution 311 recommendations [Internet]. [cited 2020 Apr 2]. Available from: 312 https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-313 causing-covid-19-implications-for-ipc-precaution-recommendations 314 6. van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, et 315 al. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF25": {
+            "text": "Qian G, Yang N, Ma AHY, Wang L, Li G, Chen X, et al. A COVID-19 Transmission 325 within a family cluster by presymptomatic infectors in China. Clin Infect Dis [Internet]. 326 2020 Mar 23 [cited 2020 Mar 29]; Available from: https://academic.oup.com/cid/advance-327 article/doi/10.1093/cid/ciaa316/5810900 328 10. Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, et al. A familial cluster of 329 pneumonia associated with the 2019 novel coronavirus indicating person-to-person 330 transmission: a study of a family cluster. The Lancet. 2020 Feb 15;395(10223):514-23.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF26": {
+            "text": "Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early Transmission Dynamics in 332 Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Mar 333 26;382(13):1199-207.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF27": {
+            "text": "Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, et al. Epidemiologic 335 Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore. JAMA. Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus 338 Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From 339 the Chinese Center for Disease Control and Prevention. JAMA [Internet]. //www.who.int/docs/default-source/coronaviruse/global-surveillance-for-covid-v-19-355 final200321-rev.pdf 356 19. Kermack WO, McKendrick AG, Walker GT. A contribution to the mathematical theory of 357 epidemics. Proc R Soc Lond Ser Contain Pap Math Phys Character. 1927 Aug 358 1;115(772):700-21.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF28": {
+            "text": "Huppert A, Katriel G. Mathematical modelling and prediction in infectious disease 360 epidemiology. Clin Microbiol Infect. 2013 Nov;19(11):999-1005.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF29": {
+            "text": "361 21. COVID-19 India [Internet]. [cited 2020 Apr 2]. Available from: http://covidindiaupdates.in/ 362 22. India -daily cumulative COVID-19 by type 2020 [Internet]. Statista. [cited 2020 Apr 2].",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF30": {
+            "text": "novel coronavirus in Wuhan, China. The Lancet. 2020 Feb;395(10223):497-506.367 24. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical 368 characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a 369 descriptive study. Lancet Lond Engl. 2020 15;395(10223):507-13.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF31": {
+            "text": "India coronavirus latest update, March 30: Centre says 'no community transmission' yet 371 [Internet]. The Indian Express. 2020 [cited 2020 Apr 2]. Available from: 372 https://indianexpress.com/article/coronavirus/india-coronavirus-lockdown-updates-march-.com [Internet]. 2019 [cited 2020 Apr 2]. Available from: 376 https://www.businesswire.com/news/home/20191015005520/en/India-Tourism-Source-377 Domestic-Outbound-Market-Insights 378 27. Dandona L, Dandona R, Kumar GA, Shukla DK, Paul VK, Balakrishnan K, et al. Nations 379 within a nation: variations in epidemiological transition across the states of India, 1990-380 2016 in the Global Burden of Disease Study. The Lancet. 2017 Dec 2;390(10111):2437-60.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF32": {
+            "text": "Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying 382 in Relation to COVID-19 in Italy. JAMA. 2020 Mar 23; 383 29. Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. [The 384 epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-385 19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi Zhonghua Liuxingbingxue Zazhi. from: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-390 mission-on-covid-19-final-report.pdf 391 31. Miller A, Reandelar MJ, Fasciglione K, Roumenova V, Li Y, Otazu GH. Correlation 392 between universal BCG vaccination policy and reduced morbidity and mortality for 393 COVID-19: an epidemiological study. medRxiv. 2020 Mar 28;2020.03.24.20042937. 394 32. Huang Y, Yang L, Dai H, Tian F, Chen K. Epidemic situation and forecasting of COVID-395 19 in and outside China. Bull World Health Organ. (E-pub: 16 March 2020).396 33. Philip SA. How Tablighi Jamaat emerged as the \"largest known\" Covid-19 source in South 397 Asia [Internet]. ThePrint. 2020 [cited 2020 Apr 2]. Available from: 398 https://theprint.in/india/how-tablighi-jamaat-unknowingly-emerges-as-largest-known-399 covid-19-source-in-south-asia/391918/ 400 34. Huge crowds as lockdown sparks mass migration [Internet]. BBC News. [cited 2020 Apr 401 2]. Available from: https://www.bbc.com/news/av/world-asia-india-52093574/coronavirus-402 huge-crowds-as-india-lockdown-sparks-mass-migration 403 35. Rm A, H H, D K, Td H. How will country-based mitigation measures influence the course 404 of the COVID-19 epidemic? The Lancet [Internet]. 2020 Mar 6 [cited 2020 Apr 3]; 405 Available from: https://www.bdi.ox.ac.uk/publications/1093310 406 36. Coronavirus to impact India's economic growth \"severely\": D&B. The Economic Times 407 [Internet]. 2020 Mar 27; Available from: 408 https://economictimes.indiatimes.com/news/economy/indicators/coronavirus-to-impact-",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF33": {
+            "text": "03-2020 Travel advisory regarding home quarantine on return from affected Movement Related government suspended all visas to India effective from 12:00 GMT on 13 March 2020 except diplomatic, official, United Nations/International organisations, employment and project visas till 15 April 2020. suspended visa free travel for OCI card holders and Indians coming from COVID hit nations quarantined 03-2020 The Government of India suspended all international passenger Movement 03-2020 Indian states with high footfall of international tourists like Sikkim start banning entry of tourists and ask existing tourists to leave(other states like Himachal Pradesh,Uttarakhand follow suit);quarantine of passengers from United Arab Emirates, Qatar,",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF34": {
+            "text": "Hospitalized include patients in facility isolation, in ICU or under medical care in hospital 449 This graph depicts the number of people found infected with CoVID-19(both daily and 451 cumulative) beginning from 1st March, 2020 until 27 th March, 2020 and the major interventions 452 done by the government to control the spread of the disease. Data Source: ICMR-Flow rates in SIR Model.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF36": {
+            "text": "This",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "males and 41.01% of females. This was followed by the age group 40-59 years accounting for 181 25.91% of males and 26.62% of females. According to the data, 16 patients out of 413 had died 182 accounting for 3.8 % cases, with 68.75% of all the deaths among 60-79 years, accounting for 11 183 deaths. The median age of deceased patients was 65 years with IQR 59.25-69. The mortality rate 184 in male patients was 4.38% and for female patients was 2.88%.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Interventions done at the central government or state level in India to control the",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "India Guidelines for Clinical Management and Discharge released; lopiravir-ritonavir allowed on case-to-case basis for vulnerable population;ICMR testing guidelines revised Public Health Measures 18-03-2020 Some states ban public transport; SOP for quarantine released; Movement Restriction OM released regarding preventive measures to be taken to contain the spread of COVID19; Directives to educational institutions and education boards regarding precautionary measures; Govn order for Monitoring of quality standards for hand sanitizers Public Health Measures 19-03-2020 Himachal Pradesh bans entry of all tourists, other states followed; Movement Restriction OM for preventive measures for spread in training institutes; sports events, competitions suspended, strict measures for Olympic Maharashtra declares lockdown in Mumbai, Nagpur, Pune Lockdown Instruction to all ports to deal with COVID 19 Movement Related Digital/e-learning platforms promoted by the Government Public Health Measures . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint 21-03-2020 Punjab bans public transport Movement Restriction Rajasthan lockdown till march 31 Lockdown Maharashtra allows private labs to conduct tests; ICMR testing policy revised to include all hospitalized SARI patients, Janta curfew,voluntary self isolation at home issued by Prime Minister to the entire county; 12 states including Telangana and Delhi announce lockdown till March 31 Curfew/Lockdown Railways suspended till March 31; Movement Restriction Mock drill for hospital preparedness; ICMR guidelines for private lab testing of COVID 19 BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprintRestrictions on non-essential services Social Distancing 24-03-2020 Suspension of domestic flight operations ; Movement Restriction Guideline on rational use of PPE; Model micro-plan for containment of local transmission released ; Release of plans to make temporary medical camps in Jawahar Navodaya Vidyalayas Hydroxychloroquine now a schedule H1 drug, can be sold on prescription only; Doorstep Delivery of Drugs to consumers Public health Measures 27-03-2020 SOP for allocation of residents and nursing students as part of COVID 19-Coronavirus Disease 19; MoHFW-Ministry of Health and Family Welfare, Government of India; 2019-nCoV-2019 novel Coronavirus; AEBAS-Aadhar Enabled Biometric Attendance System;ICMR-Indian Council of Medical Research;SOP-Standard Operating Procedure; OM-Office Memorandum; OCI-Overseas Citizenship of India; PPE-Personal Protective Equipment; SARI-Severe Acute Respiratory Illness 439 *Colour coding used: Movement Restriction-Green; Public Health Measure-Yellow; Lockdown-Red; Social Distancing-Blue; Evacuation-Purple441. CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20053884 doi: medRxiv preprint",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Distribution of COVID 19 patients in India confirmed till 28th March 2020 across 442 different age groups and sex (n=413) *Normalized values have been calculated by dividing the percentage of patients in each category by the percentage of Indian population in that category.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Distribution of COVID 19 patients of India with age, sex and status of disease",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Output of the model run by varying \u03b2 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

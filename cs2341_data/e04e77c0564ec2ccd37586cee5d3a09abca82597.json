@@ -1,0 +1,1301 @@
+{
+    "paper_id": "e04e77c0564ec2ccd37586cee5d3a09abca82597",
+    "metadata": {
+        "title": "Throat swabs in children with respiratory tract infection: associations with clinical presentation and potential targets for point-of-care testing",
+        "authors": [
+            {
+                "first": "Hannah",
+                "middle": [
+                    "V"
+                ],
+                "last": "Thornton",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for Academic Primary Care",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": "hannah.thornton@bristol.ac.uk"
+            },
+            {
+                "first": "Alastair",
+                "middle": [
+                    "D"
+                ],
+                "last": "Hay",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for Academic Primary Care",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Niamh",
+                "middle": [
+                    "M"
+                ],
+                "last": "Redmond",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for Academic Primary Care",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sophie",
+                "middle": [
+                    "L"
+                ],
+                "last": "Turnbull",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for Academic Primary Care",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hannah",
+                "middle": [],
+                "last": "Christensen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tim",
+                "middle": [
+                    "J"
+                ],
+                "last": "Peters",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [
+                    "P"
+                ],
+                "last": "Leeming",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "North Bristol NHS Trust",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Andrew",
+                "middle": [],
+                "last": "Lovering",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "North Bristol NHS Trust",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Barry",
+                "middle": [],
+                "last": "Vipond",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Public Health England",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Muir",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Public Health England",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [
+                    "S"
+                ],
+                "last": "Blair",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background and objectives. Diagnostic uncertainty over respiratory tract infections (RTIs) in primary care contributes to over-prescribing of antibiotics and drives antibiotic resistance. If symptoms and signs predict respiratory tract microbiology, they could help clinicians target antibiotics to bacterial infection. This study aimed to determine relationships between symptoms and signs in children presenting to primary care and microbes from throat swabs. Methods. Cross-sectional study of children \u22653 months to <16 years presenting with acute cough and RTI, with subset follow-up. Associations and area under receiver operating curve (AUROC) statistics sought between clinical presentation and baseline microbe detection. Microbe prevalence compared between baseline (symptomatic) and follow-up (asymptomatic) visits. Results. At baseline, \u22651 bacteria was detected in 1257/2113 (59.5%) children and \u22651 virus in 894/2127 (42%) children. Clinical presentation was not associated with detection of \u22651 bacteria [AUROC 0.54 (95% CI 0.52-0.56)] or \u22651 virus [0.64 (95% CI 0.61-0.66)]. Individually, only respiratory syncytial virus (RSV) was associated with clinical presentation ]. Prevalence fell between baseline and follow-up; more so in viruses (68% versus 26%, P < 0.001) than bacteria (56% versus 40%, P = 0.01); greatest reductions seen in RSV, influenza B and Haemophilus influenzae. Conclusion. Findings demonstrate that clinical presentation cannot distinguish the presence of bacteria or viruses in the upper respiratory tract. However, individual and overall microbe prevalence was greater when children were unwell than when well, providing some evidence that upper respiratory tract microbes may be the cause or consequence of the illness. If causal, selective microbial point-of-care testing could be beneficial.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Respiratory tract infections (RTIs) are considered the 'bread and butter' of primary care by clinicians across the globe (1) (2) (3) . Of all paediatric visits for RTI, acute cough is the most common complaint, accounting for up to 75% of visits (4, 5) . Despite this, most RTIs are self-limiting. A 2008 review by the UK's National Institute of Health and Care Excellence (NICE) concluded that antibiotics do not confer a clinically significant reduction in the time taken to recover from an RTI. NICE guidelines recommend that antibiotics are not prescribed for the majority of paediatric RTIs (3) , and in doing so are consistent with the 2011 European Respiratory Society adult prescribing guidelines (6) . However, antibiotic prescribing rates remain high (7) .",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 124,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 125,
+                    "end": 128,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 129,
+                    "end": 132,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 246,
+                    "end": 249,
+                    "text": "(4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 250,
+                    "end": 252,
+                    "text": "5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 596,
+                    "end": 599,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 705,
+                    "end": 708,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 761,
+                    "end": 764,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The decision to prescribe antibiotics in primary care is complex and mediated by clinical and non-clinical factors (8, 9) . For clinicians, well-described diagnostic uncertainty exists between the presentation of acute cough, and the appropriate management. A recent systematic review (10) reported an absence of evidence as to whether information available to primary care clinicians at the point of care, namely the findings from the clinical history and examination, can be used to diagnose bacterial or viral infection.",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 118,
+                    "text": "(8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 119,
+                    "end": 121,
+                    "text": "9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 285,
+                    "end": 289,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This study aimed to define the sensitivity and specificity of clinical symptoms and signs in identifying bacterial or viral detection from the throat of children presenting to primary care with acute cough. A follow-up study investigated the use of throat swabs as a diagnostic tool by comparing viral and bacterial detection between children when they were unwell with RTI, and when they had recovered.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Primarily a cross-sectional study, with a small follow-up study providing repeated measures for a nested sub-sample of children. Data for the cross-sectional study were collected at baseline primary care consultations as part of the 'TARGET' cohort study, which recruited children aged three months to 16 years presenting to primary care with acute cough and RTI between July 2011 and June 2013 (11) . Primary care practices were recruited via study centres in London, Oxford, Bristol and Southampton, UK. Microbiological samples were collected only at the Bristol centre, primarily from children in the South West of England, and the data from these Bristol centre children only are included in these analyses.",
+            "cite_spans": [
+                {
+                    "start": 395,
+                    "end": 399,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study design and population"
+        },
+        {
+            "text": "Clinicians completed baseline case report forms for all participants at recruitment recording sociodemographic information, presence and severity of RTI-related symptoms and signs, working diagnosis and antibiotic prescribing decision (Supplementary Data Table S1 ). Clinicians sought to take throat swabs from all Bristol centre children, and all families were asked to complete online or paper 'symptom diaries' recording presence of six key symptoms for 28 days following recruitment. The 2007 Indices of Multiple Deprivation (IMD) score, linked to the child's home address, was used as a proxy for home deprivation.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 235,
+                    "end": 263,
+                    "text": "(Supplementary Data Table S1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Clinical data collection"
+        },
+        {
+            "text": "Bristol children were invited by post to the follow-up study, and visited again at home by a researcher once the symptom diary record indicated recovery. Repeated clinical data and throat swabs were collected. Only children who were not prescribed antibiotics at the baseline visit were recruited to the follow-up study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical data collection"
+        },
+        {
+            "text": "Throat samples were obtained by sweeping a dual polyurethane foam tipped swab (Medical Wire and Equipment, Corsham, UK) across the mucus membranes of the posterior oropharynx in the region of the pharyngopalatine arch; both tips of the swab touched both sides of the throat. The two swab tips were snapped off and sealed into separate plastic specimen vials containing transport medium. Vials were transported either using a first class Post Office Safebox\u2122 or via existing same-day hospital transport (for practices in the Bristol city area) to the Bristol Centre for Antimicrobial Research and Evaluation (BCARE) at Southmead Hospital, Bristol, UK. The bacterial culture laboratory processed one vial, and sent the second to the viral identification laboratory by hospital courier for identification of viruses and additional bacteria by semi-quantitative real time polymerase chain reaction (qPCR).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Microbiological sampling"
+        },
+        {
+            "text": "A total of 12 RTI-related bacteria and 14 RTI-related viruses were sought from all throat swabs. Standard laboratory methods (either bacterial culture or qPCR) were used to identify each microbe. Microbes sought, and detection methods used, are described in detail elsewhere (11) and summarized in Table 1 .",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 279,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 298,
+                    "end": 305,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Microbe identification"
+        },
+        {
+            "text": "In the cross-sectional study, we sought associations between microbes detected from throat swabs at the baseline consultation, and presence and severity of symptoms and signs at the baseline consultation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "Designated outcome variables were the detection of individual or groups of microbes: (i) \u22651 type of RTI-related bacterium, (ii) \u22651 type of RTI-related virus and (iii) single named microbes (where baseline prevalence was \u22655%). Explanatory variables considered were clinical symptom and sign data, socio-demographic data, seasonality and sample transport time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "We used univariable and multivariable logistic regression models to examine predictive values of symptoms and signs for microbe detection, adjusted for demographic variables. Those associated (P < 0.01) with detection of RTI-related microbes in univariable analysis were entered into multivariable models. Manual backward stepwise binary logistic regression was used to obtain adjusted ORs for microbe detection in the presence of symptoms and signs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "Discrimination of each regression model was measured using the area under the Receiver Operating Characteristic (AUROC) curve and its 95% CI. Interactions between explanatory variables in multivariable models were also explored, and further investigated where p-values for the relevant interaction odds ratios were <0.05.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "In the follow-up study, we compared detection rates of (i) \u22651RTIrelated bacteria and (ii) \u22651RTI-related virus between samples taken at baseline (symptomatic) and follow-up (asymptomatic) consultations. We also compared detection rates of individual microbes at each visit (microbes with baseline consultation prevalence \u22655% only). A Bonferroni correction was applied due to multiple comparisons, with resultant test-wise significance level of 0.005. Analysis was conducted in STATA v14 (StataCorp. 2015).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "Recruitment to the cross-sectional and follow-up studies is detailed in Figure 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 72,
+                    "end": 80,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Ascertainment"
+        },
+        {
+            "text": "The median age of the 2296 children recruited to the cross-sectional study was 3 years [interquartile range (IQR) 1-6], with 760 (33%) aged <12 months. There were 1188 (52%) males, with 2018 (88%) reporting ethnicity as white British (similar to UK Census 2011 data) (12) . Median maternal age at child's birth was 30 years (IQR 26-34), and 466 (21%) mothers were smokers (similar to national data) (13) .",
+            "cite_spans": [
+                {
+                    "start": 267,
+                    "end": 271,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 399,
+                    "end": 403,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Population characteristics"
+        },
+        {
+            "text": "The most common symptoms reported were disturbed sleep, present in 78% of cases, and blocked or runny nose, present in 77%. Antibiotics were immediately prescribed to 745 (32%) children, and delayed prescriptions issued to a further 189 (8%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population characteristics"
+        },
+        {
+            "text": "In total, \u22651 type of study bacterium was detected in 1257/2113 (59.5%) of samples; \u22651 type of study virus was detected in 894/2127 (42.0%) of samples. There were 672 (32%) swabs positive for at least one type of study bacteria in the absence of any virus; 305 (14%) were positive for at least one type of study virus in the absence of any bacteria; 583 (28%) were positive for both a study bacteria and a study virus; and 549 (26%) swabs had no study microbes detected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Microbe prevalence in cross-sectional study population"
+        },
+        {
+            "text": "The prevalence of individual microbes detected from study throat swabs is presented in Table 1 . The most prevalent bacterium was Staphylococcus aureus (detected in 33% of samples), followed by H. influenzae (24%), Streptococcus pneumoniae (15%) and \u03b2 haemolytic Streptococcus A (8%). The most prevalent viruses were rhinoviruses (detected in 13% of samples), followed by enteroviruses (7%), respiratory syncytial virus (RSV; 6%) and influenza A (4.4%). Enteroviruses and rhinoviruses are genetically similar and some strains may be detected by both rhinovirus and enterovirus PCR tests. However of 407 patients in whom positive results were found with enterovirus and/or rhinovirus assays, only 17 (4.2%) tested positive using both assays. It is not possible to determine if these results represent assay cross-reactivity or dual infection. However for the purposes of this study we considered these 17 samples to represent dual rhinovirus/enterovirus infections.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 87,
+                    "end": 94,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Individual microbe prevalence in the cross-sectional study sample"
+        },
+        {
+            "text": "Of all demographic characteristics and symptoms and signs collected (full list in Supplementary Data Table S1), 14 were associated with the detection of \u22651 type of bacterium in univariable analysis (Supplementary Data Table S2 ). However, in multivariable analysis, only one variable remained associated with the detection of bacteria: low energy during the illness ( Table 2) . The model showed poor discrimination, with AUROC of 0.54 [95% CI 0.52-0.56]. Bacterial detection was not associated with clinician-reported diagnosis of bacterial infection: in 119 children for whom clinicians reported specific suspicion of bacterial cause, 54% had RTI-related bacteria detected from their throat swab, versus 60% with no bacterial cause specified (P = 0.19).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 198,
+                    "end": 226,
+                    "text": "(Supplementary Data Table S2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 368,
+                    "end": 376,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Predictors of microbe detection: detection of any bacteria"
+        },
+        {
+            "text": "Of all demographic characteristics and symptoms and signs collected, 37 were associated with detection of \u22651 type of virus in univariable Table 2 . Sensitivity and specificity of multivariable models are also presented in Table 2 and were essentially poor other than for RSV. Bordetella pertussis was detected in 1.3% of children. Whilst throat swabs are not recommended by Public Health England or the Center for Disease Control for pertussis diagnosis, this suggests potential for untreated infection in the community which should be considered by clinicians and future research.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 138,
+                    "end": 145,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 222,
+                    "end": 229,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Detection of any virus"
+        },
+        {
+            "text": "Antibiotic prescribing rates did not differ between children with RTI-related bacteria detected (40.1% prescribed antibiotics) and ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antibiotic prescribing and bacterial detection"
+        },
+        {
+            "text": "Population characteristics Gender, age, mother's smoking status, index of multiple deprivation score and number of children in the home were comparable in follow-up study recruits and the rest of the cohort. However, follow-up study recruits were more likely to have been breastfed at three months (75% versus 46%), have older mothers (median age: 36 years versus 33 years) and children in the white ethnic group were less prevalent (78% versus 88%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Follow-up study"
+        },
+        {
+            "text": "Detection rates of \u22651 type of RTI-related microbe were higher at symptomatic baseline consultations than asymptomatic follow-up visits. Difference was more marked for RTI-related viruses (68% versus 26%, P < 0.001) than RTI-related bacteria (56% versus 40%, P = 0.01). Analysis of individual microbe prevalence at baseline and follow-up was limited to 10 microbes that were detected at >5% at the baseline visit in this population ( Table 3) . Detection of H. influenzae and rhinovirus was higher at baseline than follow-up (16% versus 0%, P < 0.001 and 19% versus 1%, P < 0.001, respectively). S. aureus, coronavirus and enterovirus showed little difference in detection between baseline and follow-up (\u22642%, P = 0.71, 1.00 and 1.00, respectively). Differences between baseline and follow-up rates were observed for S. pneumoniae, influenza B, RSV, \u03b2-haemolytic streptococcus A and influenza A, which approached but did not meet the strict criteria for significance of P \u2264 0.005.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 433,
+                    "end": 441,
+                    "text": "Table 3)",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Microbe detection"
+        },
+        {
+            "text": "Our analysis found no evidence that clinical presentation is associated with the detection of one or more RTI-related bacteria, and little evidence that clinical presentation is associated with the detection of one or more RTI-related viruses, in children presenting to primary care with RTI. Clinical presentation was not sufficiently sensitive or specific to predict detection of individual microbes from the throat, with the exception of RSV, which showed reasonable association with four symptoms and signs (blocked nose, high temperature, productive cough and shortness of breath) and two temporal factors (age <2 years and recruitment in the months of October-March).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary of principal findings"
+        },
+        {
+            "text": "Our small follow-up study showed that overall, microbe detection was more common in children when they were unwell with RTI than when they had recovered, especially with regard to rhinovirus, RSV, H. influenzae and S. pneumoniae. There was little or no change in prevalence of enteroviruses, coronaviruses and S. aureus, suggesting that they may be commensal or causing subclinical infection in this population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary of principal findings"
+        },
+        {
+            "text": "To our knowledge, this is the first study to examine associations between clinical presentation and a wide range of RTI-related bacteria and viruses in a primary care paediatric population. Participants were broadly representative of local population in gender, ethnicity, deprivation scores and maternal age. Laboratory methods were standardised to ensure consistent results. Children recruited to the follow-up study were broadly representative of the larger study population. The repeated-measures design of the follow-up study, Table 2 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 532,
+                    "end": 539,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "Continued along with recruitment of children who did not receive antibiotics, removed as far as possible any confounding effects of factors such as children's age, siblings, daycare attendance, household deprivation (14) and antimicrobial prescribing on microbe detection. These analyses should be regarded as exploratory; their multiplicity increases the risk of Type I error. We used adjusted p-values to reduce this risk, but if we were too stringent in this, we may have introduced Type II errors. Specific prior hypotheses regarding the associations explored would have helped target the analysis, but the absence of prior evidence in this area meant that this was necessarily an exploratory study. Additionally, the sample size of the follow-up study was not large enough to detect whether what appeared to be important variation in detection was in fact due to chance, and the low response rate may have led to a biased sample.",
+            "cite_spans": [
+                {
+                    "start": 216,
+                    "end": 220,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "In the absence of a gold standard single sample site from the upper respiratory tract, we took a pragmatic decision to use throat swabs for microbial detection as we judged them to be the sampling method most acceptable to parents and busy primary care clinicians. We acknowledge that, although we might have achieved significantly lower sampling rates, samples obtained and pooled from the oropharynx, nasopharynx and nares could have mitigated the known problem of different optimal sample sites for different microbes (15) and might have produced more sensitive and specific results for some microbes.",
+            "cite_spans": [
+                {
+                    "start": 521,
+                    "end": 525,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "Additionally, to obtain samples which might be diagnostic of lower respiratory tract infections, sampling from the lower respiratory tract would be desirable. However, unless non-invasive alternatives to bronchoscopy and transthoracic pulmonary aspiration become available, sampling from the upper respiratory tract remains the only option to obtain a microbiological respiratory sample in primary care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "This study attempted to examine only 26 microorganisms out of hundreds that exist in the upper respiratory tract; important candidates may have been missed. We have not explored the clinical impact of co-detection or microbial density or load in this paper, but this is planned in future work.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "Previous work seeking associations between microbe detection and clinical presentation has mostly been conducted in secondary care (hospital settings). A previous systematic review searched primary and secondary care literature for the association of microbe detection with symptoms and signs in children and found a broad absence of evidence in this area (10) . Regarding the follow-up study, Rhedin et al. published a case-control study in 2014 which compared viral detection rates in nasopharyngeal aspirates from 225 children attending emergency departments in Sweden with and without symptoms of RTI (16) . Despite differences in study design, population and country, of note is the agreement of the follow-up study findings of a small/no relative decrease between the prevalence of enterovirus and coronavirus in children with and without RTI. Marked decreases in rhinovirus and RSV prevalence were also replicated. Additionally, decreases in rhinovirus and RSV detection were observed by Regamey et al. in a 2008 study of nasal swabs from 128 children during and after RTI (17) . However, this study also reported a pronounced fall in coronavirus detection, in contrast to our follow-up study results, perhaps reflecting differences in coronavirus strains circulating in this population.",
+            "cite_spans": [
+                {
+                    "start": 356,
+                    "end": 360,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 605,
+                    "end": 609,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1080,
+                    "end": 1084,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results in the context of other studies"
+        },
+        {
+            "text": "A 2007 Health Technology Assessment report discusses the use of validation in evaluating a diagnostic test in the absence of 'an unproblematic and equivocal reference standard'. (18) The associations demonstrated here between clinical presentation and upper respiratory tract microbes provide little evidence to suggest that some microbes detected from the upper respiratory tract using throat swabs may be aetiologically related to acute RTI and cough. This evidence in isolation is not sufficient, but should be considered alongside evidence from future studies (18) .",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 564,
+                    "end": 568,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Meaning of the study: possible explanations and implications for clinicians and policymakers"
+        },
+        {
+            "text": "We have considered two possible interpretations regarding the fall in prevalence of microbes between the symptomatic and asymptomatic assessments. The first is that the microbes are causally linked to the symptoms. A second explanation is that the inflammatory process in the upper respiratory tract allows some microbes to proliferate, making their detection more likely when children are symptomatic (19, 20) . These results are in line with commonly-held views that rhinovirus is associated with mild, non-febrile cold symptoms. They also demonstrate that \u03b2-haemolytic Streptococcus A infection is uncommon in children aged <2 years.",
+            "cite_spans": [
+                {
+                    "start": 402,
+                    "end": 406,
+                    "text": "(19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Meaning of the study: possible explanations and implications for clinicians and policymakers"
+        },
+        {
+            "text": "The need for a significant reduction in the amount of antibiotics prescribed for RTI in primary care is recognised globally. Definition of a microbiological diagnosis is one of several approaches which, together with research into identifying patients with poor prognostic outcome, improving patient education and improving consultation skills, can tackle the problem. We have demonstrated that, currently, antibiotic prescribing is not targeted to children in whom RTI-related bacteria are detected from the throat during RTI, leaving the question of the effect of targeted antibiotic prescribing unanswered in this group.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Advances in microbiological technology mean that point of care testing of biological samples for the diagnosis of primary care RTI could soon become a reality. In this study, H. influenzae, S. pneumoniae, \u0392-haemolytic streptococcus A and RSV decreased in prevalence between baseline and follow-up, making them potential candidates to consider in future work exploring point of care tests in this population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Supplementary data are available at Family Practice online.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Reducing uncertainty in managing respiratory tract infections in primary care",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stanton",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Francis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Br J Gen Pract",
+            "volume": "60",
+            "issn": "",
+            "pages": "466--75",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Lower respiratory tract infections: serious or self-limiting acute cough?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Cals",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Beckers",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "De Bock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Prim Care Respir J",
+            "volume": "19",
+            "issn": "",
+            "pages": "398--407",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Respiratory tract infections: prescribing of antibiotics for self-limiting respiratory tract infections in adults and children in primary care",
+            "authors": [],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Morbidity statistics from general practice. Fourth National study 1991-1992",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mccormick",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fleming",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Charlton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The definition of acute respiratory illnesses in general practice",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hope-Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Postgrad Med J",
+            "volume": "49",
+            "issn": "",
+            "pages": "763--70",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "New guidelines for the management of adult lower respiratory tract infections",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Woodhead",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Eur Respir J",
+            "volume": "38",
+            "issn": "",
+            "pages": "1250--1251",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Risk-benefit analysis of restricting antimicrobial prescribing in children: what do we really know?",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Keith",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Saxena",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sharland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Curr Opin Infect Dis",
+            "volume": "23",
+            "issn": "",
+            "pages": "242--250",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Parents' information needs, self-efficacy and influences on consulting for childhood respiratory tract infections: a qualitative study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ingram",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cabral",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hay",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lucas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Horwood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMC Fam Pract",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Primary care clinician antibiotic prescribing decisions in consultations for children with RTIs: a qualitative interview study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Horwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cabral",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hay",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ingram",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Br J Gen Pract",
+            "volume": "66",
+            "issn": "",
+            "pages": "207--220",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Clinical presentation and microbiological diagnosis in paediatric respiratory tract infection: a systematic review",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Thornton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lovering",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Muir",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Br J Gen Pract",
+            "volume": "65",
+            "issn": "",
+            "pages": "69--81",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The TARGET cohort study protocol: a prospective primary care cohort study to derive and validate a clinical prediction rule to improve the targeting of antibiotics in children with respiratory tract illnesses",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Redmond",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Davies",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Christensen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMC Health Serv Res",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Census statistical bulletin: Population and Household Estimates for Wales",
+            "authors": [],
+            "year": 2011,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "London: Her Majesty's Stationary Office (HMSO)",
+            "authors": [
+                {
+                    "first": "Statistics",
+                    "middle": [],
+                    "last": "Oon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Experimental Statistics. In: Statistics OoN",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Dynamics of nasopharyngeal colonization by potential respiratory pathogens",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Garc\u00eda-Rodr\u00edguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "Fresnadillo",
+                    "middle": [],
+                    "last": "Mart\u00ednez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Antimicrob Chemother",
+            "volume": "50",
+            "issn": "",
+            "pages": "59--73",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Optimal sampling sites and methods for detection of pathogens possibly causing community-acquired lower respiratory tract infections",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Loens",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van Heirstraeten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Malhotra-Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Goossens",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ieven",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Clin Microbiol",
+            "volume": "47",
+            "issn": "",
+            "pages": "21--31",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Clinical utility of PCR for common viruses in acute respiratory illness",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rhedin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lindstrand",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rotz\u00e9n-\u00d6stlund",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Pediatrics",
+            "volume": "133",
+            "issn": "",
+            "pages": "538--583",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Viral etiology of acute respiratory infections with cough in infancy: a community-based birth cohort study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Regamey",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Roiha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "27",
+            "issn": "",
+            "pages": "100--105",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Evaluation of diagnostic tests when there is no gold standard. A review of methods",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Rutjes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reitsma",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Coomarasamy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bossuyt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Health Technol Assess",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Incidence and characteristics of viral community-acquired pneumonia in adults",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Beynon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Thorax",
+            "volume": "63",
+            "issn": "",
+            "pages": "42--50",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Viral coinfection in children less than five years old with invasive pneumococcal disease",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Launes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "De-Sevilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Selva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "31",
+            "issn": "",
+            "pages": "650--653",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Recruitment flowchart and swab availability: cross-sectional and follow-up studies",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Throat swabs taken by clinician at baseline study visit: methods of microbe identification and prevalence at baseline study visit",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Multivariable associations between symptoms, signs and demographic variables and microbe detectionVariable Adjusted odds ratio [95% confidence interval], P value",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Detection of individual RTI-related bacteria and viruses in baseline (RTI) and follow-up (non-RTI) samples Median time elapsed between baseline (RTI) and follow-up (non-RTI) swabs: 22 days (interquartile range 14-30 days). *Indicates a P value <0.005. \u2020Cell value expected <5; McNemar's exact test used.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Funding: this paper summarizes independent research funded by the National Institute for Health Research (NIHR) under its Programme Grants for Applied Research Programme (Grant Reference Number RP-PG-0608-10018). Ethical approval: the TARGET cohort study and the follow-up study were approved by the South West Central Bristol Research Ethics Committee, UK (reference numbers 10/H0102/54 and 12/SW/0075 respectively) and research governance approvals obtained across all areas prior to the start of recruitment. Conflict of interest: during the past 5 years, PM has received funding and expenses from companies with an interest in diagnostic microbiology in RTI, including Nanosphere Inc and Hologic. HC reports receiving an honorarium from Sanofi Pasteur in 2015 and 2016, and consultancy fees from IMS Health and AstraZeneca all paid to her employer. All other authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declarations"
+        }
+    ]
+}

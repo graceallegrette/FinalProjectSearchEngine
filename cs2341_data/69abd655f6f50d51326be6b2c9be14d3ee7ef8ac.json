@@ -1,0 +1,2084 @@
+{
+    "paper_id": "69abd655f6f50d51326be6b2c9be14d3ee7ef8ac",
+    "metadata": {
+        "title": "Prediction of Epidemic Spread of the 2019 Novel Coronavirus Driven by Spring Festival Transportation in China: A Population-Based Study",
+        "authors": [
+            {
+                "first": "Changyu",
+                "middle": [],
+                "last": "Fan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Central China Normal University",
+                    "location": {
+                        "addrLine": "Wuhan 430079, Hubei Province",
+                        "country": "China"
+                    }
+                },
+                "email": "fanchangyu@mail.ccnu.edu.cnc.f."
+            },
+            {
+                "first": "Linping",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hangzhou Normal University",
+                    "location": {
+                        "addrLine": "Zhejiang Province",
+                        "postCode": "311121",
+                        "settlement": "Hangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nanjing University",
+                    "location": {
+                        "addrLine": "Jiangsu Province",
+                        "postCode": "210046",
+                        "settlement": "Nanjing",
+                        "country": "China"
+                    }
+                },
+                "email": "weiguo@nju.edu.cnw.g."
+            },
+            {
+                "first": "Anuo",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nanjing University",
+                    "location": {
+                        "addrLine": "Jiangsu Province",
+                        "postCode": "210046",
+                        "settlement": "Nanjing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chenchen",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nanjing University",
+                    "location": {
+                        "addrLine": "Jiangsu Province",
+                        "postCode": "210046",
+                        "settlement": "Nanjing",
+                        "country": "China"
+                    }
+                },
+                "email": "yechenchen93@gmail.comc.y."
+            },
+            {
+                "first": "Maitixirepu",
+                "middle": [],
+                "last": "Jilili",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nanjing University",
+                    "location": {
+                        "addrLine": "Jiangsu Province",
+                        "postCode": "210046",
+                        "settlement": "Nanjing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Meina",
+                "middle": [],
+                "last": "Ren",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nanjing University",
+                    "location": {
+                        "addrLine": "Jiangsu Province",
+                        "postCode": "210046",
+                        "settlement": "Nanjing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peng",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Wuhan University",
+                    "location": {
+                        "addrLine": "Wuhan 430072, Hubei Province",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hexing",
+                "middle": [],
+                "last": "Long",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Minzu University of China",
+                    "location": {
+                        "postCode": "100081",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": "longhexing@muc.edu.cn"
+            },
+            {
+                "first": "Yufan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Central China Normal University",
+                    "location": {
+                        "addrLine": "Wuhan 430079, Hubei Province",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "After the 2019 novel coronavirus (2019-nCoV) outbreak, we estimated the distribution and scale of more than 5 million migrants residing in Wuhan after they returned to their hometown communities in Hubei Province or other provinces at the end of 2019 by using the data from the 2013-2018 China Migrants Dynamic Survey (CMDS). We found that the distribution of Wuhan's migrants is centred in Hubei Province (approximately 75%) at a provincial level, gradually decreasing in the surrounding provinces in layers, with obvious spatial characteristics of circle layers and echelons. The scale of Wuhan's migrants, whose origins in Hubei Province give rise to a gradient reduction from east to west within the province, and account for 66% of Wuhan's total migrants, are from the surrounding prefectural-level cities of Wuhan. The distribution comprises 94 districts and counties in Hubei Province, and the cumulative percentage of the top 30 districts and counties exceeds 80%. Wuhan's migrants have a large proportion of middle-aged and high-risk individuals. Their social characteristics include nuclear family migration (84%), migration with families of 3-4 members (71%), a rural household registration (85%), and working or doing business (84%) as the main reason for migration. Using a quasi-experimental analysis framework, we found that the size of Wuhan's migrants was highly correlated with the daily number of confirmed cases. Furthermore, we compared the epidemic situation in different regions and found that the number of confirmed cases in some provinces and cities in Hubei Province may be underestimated, while the epidemic situation in some regions has increased rapidly. The results are conducive to monitoring the epidemic prevention and control in various regions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The outbreak of a new coronavirus (2019-nCoV) has spread internationally since the initial report of cases by Wuhan Municipal Health Commission, China on 31 December 2019 [1] [2] [3] [4] . On 26 January 2020, WHO announced that there is a high risk of a 2019-nCoV epidemic in China and at a global level [5] .",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 174,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 175,
+                    "end": 178,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 179,
+                    "end": 182,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 183,
+                    "end": 186,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 304,
+                    "end": 307,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The analysis object of this study was the floating population who have lived in Wuhan for more than one month. Short-term migrants and students were not included. Distinct from other models of the dynamics of this epidemic, we used the information of the respondents from the CMDS and their family members to further explore the origins of Wuhan's migrant population, such as their returning destination, population characteristics, family structures and other metrics. This approach can provide practical solutions to prepare prevention strategies, and approaches to assess resources for treatment and containment of the epidemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The National Health Commission of China released a report on 27 January 2020 that stated that 2019-nCoV could be transmitted not only via respiratory droplets, but also via direct contact. 2019-nCoV has now spread nationally and worldwide, and due to the lack of data on the size and origins of the floating population of Wuhan, it has been difficult for the Chinese government to arrange real-time medical resources and implement effective public health interventions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Evidence before This Study"
+        },
+        {
+            "text": "We used data from the Wuhan Floating Population Monitoring Survey to estimate the size and origins of the migrant population in Wuhan. We also described the socio-demographic characteristics of this population, and compared confirmed cases from different regions to estimate the epidemic with modelling techniques. We found that three-quarters of Wuhan's floating population are from Hubei Province, and that nearly 85% migrated with nuclear families. The number of members per family is 3 to 4, and most individuals are migrant workers from rural areas with low education levels. By comparing the predicted and actual values obtained from the model, we analysed the profile of the epidemic in various regions since January 25, and found that the spread of the 2019-nCoV has varied greatly between regions, and that the epidemic in some regions may be underestimated. There may also be unknowns, such as structural factors in some regions, that deserve further attention.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Added Value of This Study"
+        },
+        {
+            "text": "The majority of the floating population left Wuhan before the city was \"closed off\" by authorities, so our analysis will be useful for estimating the key geographic areas for prevention and control. The results indicate that the floating population of Wuhan is centred in Hubei Province and the surrounding provinces, so local government must quickly and effectively take steps to prevent further spread of 2019-nCoV. Higher-level governments must also strengthen the assistance they are providing, such as sending medical workers and medical supplies to these areas to avoid 2019-nCoV becoming a new pandemic. At the same time, it is important to increase surveillance in areas where the epidemic may be underestimated, and promptly identify prevention and control loopholes to reduce the burden of a new round of transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Implications of All the Available Evidence"
+        },
+        {
+            "text": "China has been deeply involved in the globalisation process, and even China's central and western regions have become important links in the global production and trade chain. Therefore, while our research is aimed at China in the current era of migration, this research has practical implications for global public health and disease control, as floating populations are increasing in size all over the world and relationships between countries are becoming increasingly close. Thus, other countries should pay attention to the epidemic situation in specific geographic areas of China to prevent secondary and international transmission of the 2019-nCoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Implications of All the Available Evidence"
+        },
+        {
+            "text": "The data used in this study are based on the 2013-2018 China Migrants Dynamic Survey (CMDS), and the tabulated data of 5 million migrants in Wuhan recently released by the Wuhan municipal government. This survey was carried out via a multi-stage stratified sampling method, and collected data with structured questionnaires. As survey data is limited to the mainland provinces, municipalities, autonomous regions, and Hainan Province, the population analysed in this study excluded the populations of Hong Kong and Macao. A total of 11,999 samples of the resident floating population in Wuhan from 2013 to 2018 were extracted from the survey dataset.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Sources"
+        },
+        {
+            "text": "According to the survey design, Wuhan's floating population was defined as the population from other cities and districts, aged 15 and over, residing for more than one month in Wuhan, and not registered in Wuhan. In Table 1 , the sample distribution of the resident population in Wuhan over time is presented. The sample size was 1999 in the year 2013, and 2000 for other years.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 216,
+                    "end": 223,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Data Sources"
+        },
+        {
+            "text": "The outbreak is considered to have originated in the Huanan Seafood Market, near Hankou Railway Station in the Jianghan District, Wuhan, China. A severely infected area was concentrated in the urban areas of Hankou. From the sample distribution in Table 1 , the floating population of Wuhan is seen to be concentrated in the urban area of Hankou. The results indicate that the sample proportion of Jianghan District and nearby Jiang'an District, Tongkou District, and Dongxihu District is approximately 51.6%. Therefore, the samples used in this study are suitably representative and thus acceptable for assessing the spread of the 2019-nCoV outbreak among the floating population. Total  1999  2000  2000  2000  2000  2000  11,999   Hankou zone   Jiang'an  400  360  360  320  400  -1840  Qiaokou  240  240  240  200  240  -1160  Jianghan  280  240  200  200  160  -1080  Dongxihu  200  160  200  320  200  -1080  Huangpi  120  120  120  120  160  -640  Xinzhou  0  0  40  40  0  -80   Wuchang zone   Hongshan  239  240  240  240  200  -1159  Wuchang  200  160  200  200  240  -1000  Qingshan  80  160  120  80  40  -480  Jiangxia  40  0  40  40  40  -160   Hanyang zone   Hanyang  120  160  160  160  200  -800  Hannan  40  120  80  80  80  -400  Caidian  40  40  0  0  40  -120  All three  zones  -----2000  2000 We obtained data from the \"Dingxiangyuan\" National Real-time Epidemic website on confirmed cases from 25 January to 31 January 2020 [6] . These data are compiled from open data released by authorities such as the National Health Commission, and the provincial and municipal health commissions. To ensure data comparability, we collected the data daily from 12:00 to 14:00 every day.",
+            "cite_spans": [
+                {
+                    "start": 1448,
+                    "end": 1451,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 248,
+                    "end": 255,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 682,
+                    "end": 1315,
+                    "text": "Total  1999  2000  2000  2000  2000  2000  11,999   Hankou zone   Jiang'an  400  360  360  320  400  -1840  Qiaokou  240  240  240  200  240  -1160  Jianghan  280  240  200  200  160  -1080  Dongxihu  200  160  200  320  200  -1080  Huangpi  120  120  120  120  160  -640  Xinzhou  0  0  40  40  0  -80   Wuchang zone   Hongshan  239  240  240  240  200  -1159  Wuchang  200  160  200  200  240  -1000  Qingshan  80  160  120  80  40  -480  Jiangxia  40  0  40  40  40  -160   Hanyang zone   Hanyang  120  160  160  160  200  -800  Hannan  40  120  80  80  80  -400  Caidian  40  40  0  0  40  -120  All three  zones  -----2000  2000",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Data Sources"
+        },
+        {
+            "text": "Using the information of the floating population and their family members in Wuhan, we analysed their return destinations and their structural characteristics by descriptive statistical methods. In Table 2 , the distribution of the origins of Wuhan's floating population is presented, at the provincial level, over the past several years. The sample size is quite stable for each province over time. The province of origin for 75% of the floating population was Hubei Province, which contains the city of Wuhan, and approximately 25% of the population originated in other provinces.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 198,
+                    "end": 205,
+                    "text": "Table 2",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Data Processing"
+        },
+        {
+            "text": "The location information published in other historical survey data is limited to the province where household registration is located, due to a lack of data for 2019. The data provided by the Hubei Provincial Health Commission in 2017 includes more detailed information of prefectures, cities, districts and counties. The analysis was therefore divided into two parts; the first part comprised an analysis of the origin of Wuhan's floating population at the provincial level using historical data. The second part comprised an analysis of the floating population within Hubei Province based on 2017 data. When analysing the floating population at the provincial level, we used all samples from the previous years-i.e., the mean of 6 years of data collection-to ensure the robustness of the results, in view of the stability of sample distributions in each province over time. Total  1999  2000  2000  2000  2000  2000  11,999  Hubei  1514  1508  1487  1465  1477  1547  8998  Henan  113  134  109  159  170  125  810  Anhui  59  58  55  53  56  46  327  Hunan  57  46  68  54  41  36  302  Jiangxi  58  40  53  57  49  34  291  Chongqing  34  29  34  33  33  35  198  Zhejiang  22  29  25  33  25  33  167  Sichuan  22  30  45  21  22  27  167  Fujian  14  17  16  15  39  19  120  Jiangsu  38  13  16  19  13  11  110  Shandong  12  18  11  13  8  12  74  Guangdong  7  8  18  18  14  8  73  Hebei 0  1  5  Tianjin  1  0  0  1  0  1  3  Shanghai  0  1  0  1  0  1  3  Inner  Mongolia  1  0  0  0  1  0  2   Xizang  0  0  1  0  0  1  2  Ningxia  0  0  1  0  0  0  1 According to the current infectious features of 2019-nCoV, which are that middle-aged and elderly people have a high risk of infection, and transmission can occur between individuals, families and communities, we assessed several main variables. These comprised age group, educational level, pattern of migration, number of migrating family members per household, type of household registration, and reasons for migration. We defined these variables in the following ways: (1) age group  was classified as under 20, 21-30, 31-40, 41-50, 51-60, and over 60; (2) educational level was divided into junior high school and below, high school/secondary school, and college and above; (3) pattern of migration was divided into independent migration, nuclear family migration, and extended family migration; (4) number of migrating family members per household was classified as 1, 2, 3, 4, and 5 or more; (5) types of household registration were divided into rural and urban household registration; (6) reasons for migration were working and doing business, family relocation, or other reasons.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 876,
+                    "end": 1565,
+                    "text": "Total  1999  2000  2000  2000  2000  2000  11,999  Hubei  1514  1508  1487  1465  1477  1547  8998  Henan  113  134  109  159  170  125  810  Anhui  59  58  55  53  56  46  327  Hunan  57  46  68  54  41  36  302  Jiangxi  58  40  53  57  49  34  291  Chongqing  34  29  34  33  33  35  198  Zhejiang  22  29  25  33  25  33  167  Sichuan  22  30  45  21  22  27  167  Fujian  14  17  16  15  39  19  120  Jiangsu  38  13  16  19  13  11  110  Shandong  12  18  11  13  8  12  74  Guangdong  7  8  18  18  14  8  73  Hebei 0  1  5  Tianjin  1  0  0  1  0  1  3  Shanghai  0  1  0  1  0  1  3  Inner  Mongolia  1  0  0  0  1  0  2   Xizang  0  0  1  0  0  1  2  Ningxia  0  0  1  0  0  0  1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 2039,
+                    "end": 2122,
+                    "text": "(1) age group  was classified as under 20, 21-30, 31-40, 41-50, 51-60, and over 60;",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Data Processing"
+        },
+        {
+            "text": "The analyses assume a theoretical model of 2019-nCoV transmission. We considered a floating population of 5 million in Wuhan, who returned to their hometowns from 23 January 2020, as potential infected persons. Moreover, we added factors of demographic characteristics, the situation of medical diagnosis, government prevention and control, the number of confirmed cases, and undisclosed data to our statistical model to estimate the dynamics of the epidemic. After controlling for certain factors, we analysed the factors that were not controlled, such as government intervention and the number of statistical reports.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quasi-Experimental Design"
+        },
+        {
+            "text": "Specifically, we first analysed the correlation between the size of the floating population in Wuhan and the number of confirmed cases per day. Then, we examined the differences among regions and proposed a transmission rate as a reference to compare the differences in regions. In the comparative analysis, we focused on the probably underestimated number of cases and the virus transmission rate to determine the likelihood of epidemics existing in different regions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quasi-Experimental Design"
+        },
+        {
+            "text": "Finally, we predicted the floating population of Wuhan using statistical methods and compared it with the number of 2019-nCoV confirmed cases in each region, to identify regional differences of 2019-nCoV infection. Furthermore, we predicted the forthcoming epidemic trend at the prefectureand province-level based on the proportion of Wuhan's floating population represented by people from these areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction Model Setting"
+        },
+        {
+            "text": "Human-to-human transmission of the 2019-nCoV has been confirmed. Four sets of factors that may influence regional differences appear to be involved: (1) Demographic factors, such as short-term business travellers between Wuhan and other regions, college students in Wuhan returning to their homes in other regions, Spring Festival tourists from Wuhan to other regions, and trans-regional floating populations for Spring Festival family reunions from or across Wuhan; (2) Intervention factors, such as medical treatments and governmental preventative measures; (3) Information disclosure and the information release system; and (4) Other unknown factors.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction Model Setting"
+        },
+        {
+            "text": "We considered all these factors, and hypothesised the social environment of 2019-nCoV transmission. First, although the government had taken the unprecedented measure of sealing off Wuhan city on 23 January 2020, we assumed that, at that time, the entire floating population of Wuhan, all short-term business travellers to Wuhan and all college students in Wuhan had returned to their hometowns throughout China, because 24 January 2020 was the Spring Festival's Eve (normally, the 2020 Spring Festival holiday from January 24 to 30). Moreover, this Spring Festival vacation period started at least a week before this date time, leaving plenty of time for these people to leave the city.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction Model Setting"
+        },
+        {
+            "text": "However, the number of people in Wuhan that travelled to reunite with their families in other cities during the Spring Festival vacation may be negligible, for the sealing-off of the city and other preventive measures taken across the country may have prevented their travelling. Second, the influence of the college students in Wuhan was an invariant factor, as college students are young and healthy, have fixed travelling routes, come from different regions evenly scattered across the country, and travelled to return home on or around January 10; we would assume their influence on virus transmission to different regions to be the same. Third, the medical treatment ability of regional medical centres of Hubei Province would also be the same, as the breakout emerged so fast that these regional medical centres would have had the same level of emergency-preparedness. Finally, the above factors will not change dramatically until the mass return of Wuhan's floating population after the conclusion of the Spring Festival vacation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction Model Setting"
+        },
+        {
+            "text": "To estimate the floating population in the cities of Hubei Province and across the country, we must determine the floating population residing in Wuhan in 2019. As the statistics compiled by the Wuhan city government from 2019 have not been released, the data from previous years was used for this prediction. The prediction of floating population in Wuhan based on the statistics from previous years is presented in Table 3 , demonstrating that there were approximately 2.43 million migrants living in Wuhan for more than six months in 2019. However, if the predictions of the statistical data were combined with survey data, which was used in this study to estimate the origin of Wuhan's floating population that return to their hometowns, there would have been a problem with inconsistent statistical strength. This would have resulted from the fact that the floating population measured by the government statistics department reflects those who have lived in Wuhan for more than 6 months, but the respondents in the survey have lived in Wuhan for over one month. A shorter defined residence time would have therefore produced a larger estimate of the population, and thus the total floating population in Wuhan, as determined from the CMDS data, was larger than the population as determined by the government statistics department.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 417,
+                    "end": 424,
+                    "text": "Table 3",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Description of Statistical Analysis"
+        },
+        {
+            "text": "On 22 January 2020, Xinhua News Agency (an official government media source) interviewed the mayor of Wuhan and reported that more than 5 million members of the floating population had returned to their hometowns before the Spring Festival holiday. This number stated (over 5 million) was more than twice the predicted value in this study (2.43 million), indicating that the statistical strength of the news report was based on a shorter period of residence, and this was consistent with the data we used to determine the floating population residing in Wuhan for over one month. Thus, in the absence of more rigorous and authoritative total data, we used 5 million people as Wuhan's floating population, from which to estimate the scale and distribution of those members of this population who returned to their hometown during the Festival.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Description of Statistical Analysis"
+        },
+        {
+            "text": "Based on sample survey data, in Table 4 , the proportional estimation of the origins of Wuhan's floating population at a provincial level is presented, as well as the results of statistical analysis based on a floating population of 5 million. Estimation of population size is based on the total number of floating population in Wuhan (about 5 million); CI = confidence interval.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 32,
+                    "end": 39,
+                    "text": "Table 4",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "The national distribution of the migrants presents obvious spatial characteristics of circle layers and echelons at provincial level (Table 4 and Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 133,
+                    "end": 141,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 146,
+                    "end": 154,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(1) Hubei Province is the central area of origin of Wuhan's floating population, accounting for 75% of the population, with a 95% confidence interval of (74.21, 75.76). Based on a total population of 5 million people, Wuhan's floating population with household registration in Hubei Province is approximately 3.75 million, with a 95% confidence interval of (3,710,227 to 3,788,125).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(2) Henan, Anhui, Jiangxi and Hunan Provinces belong to the first circle layer. Henan Province, home to a floating population of 337,000, had the highest proportion with respect to its total population, equating to approximately 6.7% and a 95% confidence interval of (315,401 to 360,712). Based on the analysis of city data in 2017, Xinyang, Zhumadian, Shangqiu, and Nanyang cities in Henan Province accounted for 38.82%, 20.59%, 12.94%, and 10.59% respectively, of the floating population from Henan living in Wuhan, accounting for approximately 83% of the total. The floating population proportions of Anhui, Hunan, and Jiangxi Provinces were 2.7%, 2.5%, and 2.4%, respectively, with corresponding floating populations in Wuhan of 136,000, 126,000, and 121,000 respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(3) Chongqing, Zhejiang, Sichuan, Fujian and Jiangsu Provinces are at the second circle layer, with 1.65%, 1.39%, 1.39%, 1.00% and 0.92% floating populations, respectively, with corresponding populations of approximately 83,000, 70,000, 70,000, 50,000 and 46,000 respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(4) Shandong, Guangdong, Hebei, Gansu, Guangxi, Heilongjiang, Shaanxi, Shanxi and Guizhou Provinces are at the third circle layer, with a proportion of 0.19% to 0.62% and a corresponding population of 10,000 to 30,000.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(5) Some provinces and municipalities, including Qinghai, Liaoning, Yunnan, Jilin and Beijing, are located in the fourth circle layer, accounting for 0.08-0.16% of the floating population, equating to 4000-8000 people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(6) The remaining provinces and municipalities, such as Hainan, Xinjiang, Tianjin, Shanghai, Inner Mongolia, Tibet and Ningxia, are at the fifth circle layer, with a floating population proportion of less than 0.04%, corresponding to \u22642000 people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "As presented in the table above, this population is mainly 21-40 years old, but the scale of the susceptible, high-risk and over 40 years old population is also very large. The distribution is as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(1) The susceptible and high-risk population is concentrated in Hubei Province. The size of the 41-50 age group is more than 800,000, that of the age group of 51-60 is 180,000, and the number of people over 60 is 40,000.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(2) Henan and Anhui Provinces have larger susceptible and high-risk populations, of more than 100,000 and nearly 40,000, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(3) Six provinces and municipalities, namely Hunan, Jiangxi, Chongqing, Zhejiang, Sichuan and Jiangsu, have a high-risk population of 41 to 50 years old, comprising 14,000-30,000 people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(4) In 10 provinces, namely Fujian, Shandong, Guangdong, Hebei, Gansu, Guangxi, Shanxi, Guizhou, Qinghai and Xinjiang, the susceptible and high-risk populations are also concentrated in the 41-50 age group, with a population of approximately 1500-6550.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(5) The three provinces of northeast China, namely Heilongjiang, Jilin and Liaoning, have large susceptible and high-risk populations, equating to approximately 7000 in Heilongjiang and approximately 3000 in Jilin and Liaoning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "Infection of family members is a main means of transmission, and the distribution of the characteristics of floating population family migration at the provincial level are detailed in Table 5 . The vast majority of the floating population migrates to Wuhan in the form of nuclear families (84.42%), and most families comprise 3-4 members (71.44%). The distribution is as follows:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 185,
+                    "end": 192,
+                    "text": "Table 5",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(1) The number of nuclear family households in the Wuhan floating population that originates from Hubei Province is 3.425 million, accounting for 62.85% of the total floating population of Wuhan, and households with 3-4 family members number 2,693,500, accounting for 53.87% of the total. The high risk of 2019-nCoV transmission within and by this population is self-evident.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(2) Families from Henan, Anhui, Hunan and Jiangxi Provinces comprise a large proportion of those in the floating population of Wuhan. Those from Henan total nearly 300,000 households, and the number of these households with 3-4 family members is more than 240,000. Approximately 110,000 families from the remaining provinces are part of the floating population of Wuhan, including nearly 100,000 3-4 family-member households from Anhui and more than 80,000 from Hunan and Jiangxi.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(3) The number of families in the floating population of Wuhan from Chongqing, Zhejiang, Sichuan, Fujian and Jiangsu municipalities and provinces is 40,000-80,000, and the number of households with 3-4 family members is 30,000-60,000.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(4) The number of families in the floating population of Wuhan that originate from 7 other provinces, namely Shandong, Guangdong, Hebei, Gansu, Guangxi, Heilongjiang and Shaanxi, is 10,000-30,000 households, and the number of households with 3-4 family members is approximately 20,000. The remaining provinces comprise fewer than 10,000 households Jiangxi.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "Certain factors can easily spread the virus from homes to communities in rural areas, such as a lack of medical resources and investment, weak health prevention and control, low awareness of health, and insufficient awareness of infectious diseases. In Table 5 , the floating population in Wuhan is dominated by rural households (85.14%), and working or doing business is the main reason for their having travelled to Wuhan (84.29%). Therefore, epidemic prevention and control in rural areas is of critical importance. The distribution is as follows:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 253,
+                    "end": 260,
+                    "text": "Table 5",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(1) The joint distribution of the origins of Wuhan's floating population within Hubei Province is 63.73%, equating to a population of 3,186,500, and 62.71% of these are migrant workers, equating to 3,135,500 people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(2) Henan, Anhui, Hunan, and Jiangxi Province both have more than 100,000 households with rural household registers and migrant workers in Wuhan, and the population of those from Henan in Wuhan's floating population is approximately 300,000.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(3) Chongqing, Zhejiang, Sichuan, Fujian, Jiangsu, Shandong, Guangdong, Hebei, Gansu, and Guangxi Provinces together have a population of 10,000-80,000 households with rural household registers in Wuhan and less than 10,000 in the remaining provinces of China. Notably, Guangdong, Gansu, Heilongjiang and Liaoning have a larger proportion of the population with urban household registers, and this is greater than the number of rural household registers in Guangdong Province. 0  0  1667  9167  1250  1667  1250  4167  4584  417  9584  2500  10,834  833  10,834  6251  2917  2917  Guizhou  9584  417  5000  2500  1667  0  0  833  8751  0  833  1250  5417  2084  0  7501  2084  7084  2500  7084  5417  2084  2084  Qinghai  7917  417  3750  2084  1667  0  0  0  7501  417  0  1667  3750  2084  417  7917  0  7084  833  7084  7501  417  0  Liaoning  7084  0  1667  2917  1250  1250  0  1667  5000  417  1667  1667  3334  417  0  2500  4584  6251  417  6251  1667  1667  3750  Yunnan  4584  833  2917  833  0  0  0  417  3750  417  417  833  2084  833  417  4167  417  3334  1250  3334  2917  417  1250  Beijing  4167  0  417  833  2917  0  0  833  3334  0  833  1667  1250  417  0  1250  2917  4167  0  4167  1250  1667  1250  Jilin  3750  417  1250  1250  833  0  0  1667  2084  0  1667  0  2084  0  0  833  2917  3334  417  3334  1250  0  2500  Hainan  2084  0  1250  417  0  417  0  833  1250  0  833  0  1250  0  0  833  1250  1667  417  1667  417  833  833  Xinjiang  2084  0  833  0  1250  0  0  417  1667  0  417  0  417  1250  0  2084  0  1667  417  1667  1250  417  417  Tianjin  1250  417  417  417  0  0  0  417  833  0  417  417  0  417  0  833  417  833  417  833  417  0  833  Shanghai  1250  0  833  0  0  0  417  417  833  0  417  833  0  0  0  0  1250  1250  0  1250  0  417  833  Inner  Mongolia  833  0  417  417  0  0  0  0  833  0  0  0  833  0  0  417  417  417  417  417  0  417  417   Xizang  833  0  0  417  0  0  417  0  833  0  0  417  417  0  0  417  417  417  0  417  417  417  0  Ningxia  417  0  417  0  0  0  0  0  417  0  0  0  417  0  0  417  0  417  0  417  417  0  0 Virus transmission is related to individual health awareness, which is affected by an individual's educational level, so we also examined the educational level of the floating population in Wuhan. In Table 5 , 60% of the population was educated to junior middle school and below, 26% had senior high school or technical secondary school education, and 14% had college education and above, indicating that the overall education level of this population was low. Specifically:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 477,
+                    "end": 2099,
+                    "text": "0  0  1667  9167  1250  1667  1250  4167  4584  417  9584  2500  10,834  833  10,834  6251  2917  2917  Guizhou  9584  417  5000  2500  1667  0  0  833  8751  0  833  1250  5417  2084  0  7501  2084  7084  2500  7084  5417  2084  2084  Qinghai  7917  417  3750  2084  1667  0  0  0  7501  417  0  1667  3750  2084  417  7917  0  7084  833  7084  7501  417  0  Liaoning  7084  0  1667  2917  1250  1250  0  1667  5000  417  1667  1667  3334  417  0  2500  4584  6251  417  6251  1667  1667  3750  Yunnan  4584  833  2917  833  0  0  0  417  3750  417  417  833  2084  833  417  4167  417  3334  1250  3334  2917  417  1250  Beijing  4167  0  417  833  2917  0  0  833  3334  0  833  1667  1250  417  0  1250  2917  4167  0  4167  1250  1667  1250  Jilin  3750  417  1250  1250  833  0  0  1667  2084  0  1667  0  2084  0  0  833  2917  3334  417  3334  1250  0  2500  Hainan  2084  0  1250  417  0  417  0  833  1250  0  833  0  1250  0  0  833  1250  1667  417  1667  417  833  833  Xinjiang  2084  0  833  0  1250  0  0  417  1667  0  417  0  417  1250  0  2084  0  1667  417  1667  1250  417  417  Tianjin  1250  417  417  417  0  0  0  417  833  0  417  417  0  417  0  833  417  833  417  833  417  0  833  Shanghai  1250  0  833  0  0  0  417  417  833  0  417  833  0  0  0  0  1250  1250  0  1250  0  417  833  Inner  Mongolia  833  0  417  417  0  0  0  0  833  0  0  0  833  0  0  417  417  417  417  417  0  417  417   Xizang  833  0  0  417  0  0  417  0  833  0  0  417  417  0  0  417  417  417  0  417  417  417  0  Ningxia  417  0  417  0  0  0  0  0  417  0  0  0  417  0  0  417  0  417  0  417  417  0  0",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 2300,
+                    "end": 2307,
+                    "text": "Table 5",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(1) In the provinces of Qinghai, Chongqing, Jiangxi, Anhui, Henan, Yunnan, Guangxi and Xinjiang, 60% or more of the population was educated to junior high school level or below.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(2) Approximately 50-60 % of the population of the provinces of Hubei, Sichuan, Hebei, Fujian, Jiangsu, Hunan, Guizhou, Shandong, Shanxi, Tibet and Gansu was educated to junior high school level or below.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "(3) The population in three municipalities, including Beijing, Tianjin and Shanghai, have a high level of education, with over 66% receiving tertiary education. The population of the remaining provinces had a medium-to-high educational level.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "Above all, these data indicated that there is a large middle-aged and older high-risk floating population in Wuhan. Their social characteristics include having travelled to Wuhan in a nuclear family of 3-4 members, being on a rural household register, and often having a lower educational level. These characteristics are consistent with conditions favouring the wide spread of 2019-nCoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "National Distribution and Social Characteristics of the Origins of Wuhan's Floating Population"
+        },
+        {
+            "text": "According to the foregoing analysis, 75% of Wuhan's floating population have registered households in Hubei Province, equating to approximately 3.75 million people. That such a large proportion of the floating population of Wuhan originate from elsewhere in Hubei Province has reduced the possibility of the epidemic spreading across the country, but all regions in Hubei Province are facing tremendous pressure from the spread of the epidemic. Therefore, we used the 2017 CMDS data to analyse the distribution of the floating population in regions within Hubei Province. Table 6 and Figure 2 present the distribution of the origins of Wuhan's floating population within Hubei Province. The proportion of the floating population gradually decreases from east to west across Hubei Province, and there are great differences between cities. The distribution is as follows:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 572,
+                    "end": 579,
+                    "text": "Table 6",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 584,
+                    "end": 592,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "(1) Xiaogan, Wuhan, and Huanggang are in the first echelon. The proportion of the floating population who originate from these cities is high, accounting for 23.4%, 19.6%, and 14% of the total, respectively. They are a cross-regional floating population of 734,000 and a 95% confidence interval of (65.89, 81.30). The analysis of districts and counties indicates that the members the floating population who originate from the outskirts of Huangpi District and Xinzhou District flow into the main urban area of Hankou, so the epidemic situation in the outskirts of Huangpi District and Xinzhou District needs special attention. Secondly, the members of Wuhan's floating population who originate from Xiaogan comprise the largest proportion, equating to approximately 788,000 people and a 95% confidence interval of (79.81, 96.25). Members of Wuhan's floating population who originate from Huanggang comprise the third proportion, equating to approximately 52,549 people and a 95% confidence interval of (46.06, 59.58).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "(2) The three Directly Managed by Province (DMP) cities (Xiantao, Qianjiang, and Tianmen) and Jingzhou belong to the second echelon, each comprising approximately 330,000 people, and each accounting for approximately 9% of the floating population of Wuhan, with a 95% confidence interval of (28,39).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "(3) Jingmen, Suizhou, Xianning, and Huangshi belong to the third echelon, accounting for 3-5% of the floating population of Wuhan, equating to 130,000-170,000 people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "(4) Xiangyang, Ezhou, Yichang, Enshi, and Shiyan belong to the fourth echelon, accounting for less than 3% of the floating population of Wuhan, equating to fewer than 100,000 people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "Overall, the suburbs of Wuhan surrounding Xiaogan, Huanggang, and the three DMP cities are the origins of the largest proportion (66%) of the floating population of Wuhan, equating to approximately 2.475 million people. We used district-and county-level variables to estimate the floating population within Hubei Province, and the results are presented in Table 7 . The survey covered 94 districts and counties, including Huangpi, Xinzhou, Jiangxia, Caidian, and Hannan in Wuhan, as well as cross-region active migrants in some major urban areas.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 356,
+                    "end": 363,
+                    "text": "Table 7",
+                    "ref_id": "TABREF5"
+                }
+            ],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "The top 10 districts and counties of Hubei Province in terms of floating population are Huangpi, Hanchuan, Xiantao, Xinzhou, Hong'an, Yunmeng, Honghu, Macheng, Xiaonan, and Xiaochang. That is, \u2265100,000 people from each of these districts and counties are part of the floating population of Wuhan, with the top 3 districts and counties, Huangpi, Hanchuan and Xiantao, having \u2265200,000 people in Wuhan's floating population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "These top 10 district and counties of Hubei Province are followed by Jingshan, Yingcheng, Dawu, Guangshui, Tianmen, Lishui, Jianli, Anlu, Jiangxia and Caidian, which each have 60,000-100,000 people in Wuhan's floating population. The third tier is Huangmei, Yangxin, Daye, Gongan, Tongshan, Jiayu, Zhongxiang, Qianjiang, Songzi, Huarong, Zengdu, Enshi, Liangzihu, Zaoyang, Dongxihu, Wuxue, Huangzhou, Hannan, Xian'an, Xiangzhou, Zhijiang, Echeng, Luotian, Badong, Chibi, Chongyang, Hongshan, Shayang, Shishou, Suixian, Tuanfeng, Gucheng and Xiangcheng. These districts and counties each have 10,000-50,000 people in Wuhan's floating population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "The remaining districts and counties have fewer than 10,000 people in Wuhan's floating population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "In general, these members of Wuhan's floating population originate from certain districts and counties of Hubei Province. The cumulative percentage of the top 30 districts and counties exceeds 80% of these areas' total population, showing a clear exponential distribution trend.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "We then analysed the social characteristics of the migrants in Hubei Province by age, type of migration, number of migrants, type of household registration, and reasons for traveling to Wuhan to become part of its floating population.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "From Table 8 (please see the last page), we observe that in terms of susceptible and high-risk groups over 40 years old, there are approximately 300,000 people in Xiaogan, approximately 180,000 people in Wuhan (cross-region migration), and approximately 150,000 people in Huanggang. There are also approximately 100,000 people in the DMP Cities and Jingzhou respectively, and 30,000-50,000 people in Jingmen, Suizhou, Xianning, and Huangshi. Fewer than 30,000 people from each of Xiangyang, Ezhou, Yichang, Enshi and Shiyan have travelled to Wuhan.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 5,
+                    "end": 12,
+                    "text": "Table 8",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "The migration characteristics of the floating population of Wuhan from Hubei Province are detailed in Table 8 . Migration with a nuclear family is the main pattern, accounting for nearly 80% of the total, or 2.985 million households. The proportion of households with 3-4 family members (i.e., nuclear families) is approximately 67%, or 2.53 million households. Specifically, 740,000 nuclear families originate from Xiaogan, 400,000-600,000 nuclear families originate from the inner suburbs of Wuhan and Huanggang, and approximately 260,000 nuclear families originate from the DMP cities and Jingzhou. More than 100,000 nuclear families originate from Jingmen, Suizhou, Xianning, and Huangshi, while fewer than 100,000 nuclear families originate from Xiangyang, Ezhou, Yichang, Enshi and Shiyan. The distribution of households with 3-4 members is similar to that of nuclear families.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 102,
+                    "end": 109,
+                    "text": "Table 8",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "It also presents the distribution of the origins of Wuhan's floating population who originate from within Hubei Province. According to the statistical results, rural household registers account for 83%, equating to a population of approximately 3.12 million. The proportion of the group who was working and doing business in urban areas is 77%, and the population is 2.89 million. The size of the population distribution in each city is similar to the aforementioned migration types and other variables, and is not reported here.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "In Table 8 , the overall educational level of those members of Wuhan's floating population who originate from Hubei Province is higher than the national level, with approximately 52% having been educated to junior high school level and below, approximately 29% to high school/secondary school level and below, and approximately 19% to college and above. However, in those members of Wuhan's floating population who originate from the surrounding cities of Wuhan, which contribute a large number of people to the floating population of Wuhan, namely Xiaogan, Huanggang, Huangshi, Suizhou, DMP cities, Xianning, and Ezhou, >50% of people have an educational level of junior high school and below, with this being >60% in Xiaogan. This means that the awareness of health protection and timely treatment may be low in this section of the floating population of Wuhan, which will heighten the risk of large-scale transmission of 2019-nCoV. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 3,
+                    "end": 10,
+                    "text": "Table 8",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Distribution and Social Characteristics of the Origins of Wuhan's Migrants in Hubei Province"
+        },
+        {
+            "text": "The floating population in Wuhan will serve as a sound predictor for the trend of the 2019-nCoV outbreak. The Pearson's correlation coefficient between the proportion of the floating population in Wuhan who originate from a certain region of Hubei and the number of confirmed 2019-nCoV cases in each region increased from 0.65 on 25 January 2020 to 0.84 on 31 January 2020 (Table 9 ). This indicates that when a region contributes a higher number of people to the floating residential population of Wuhan, more confirmed cases will emerge in this region. Table 6 ); 3 Ratio = Confirmed cases (on 2020/1/31)/Floating population from Wuhan (Unit: 10,000 people); 4 DMP (Directly Managed by the Province) cities includes Xiantao, Qianjiang and Tianmen; 5 The Pearson's correlation coefficient is calculated from the number of floating populations in Wuhan and the number of confirmed cases per day.",
+            "cite_spans": [
+                {
+                    "start": 750,
+                    "end": 751,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 373,
+                    "end": 381,
+                    "text": "(Table 9",
+                    "ref_id": "TABREF8"
+                },
+                {
+                    "start": 555,
+                    "end": 562,
+                    "text": "Table 6",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Prediction of Epidemic Trends within Hubei Province"
+        },
+        {
+            "text": "We assumed that the effect of the floating population on the transmission of the 2019-nCoV is consistent across Hubei province, and selected three prefectures that contribute the greatest number of people to the floating population of Wuhan (Xiaogan, Huanggang and Jingmeng) as the reference prefectures to predict the epidemic trend of the 2019-nCoV at prefecture level. Those prefectures can be divided into three groups since 28 January 2020 ( ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction of Epidemic Trends within Hubei Province"
+        },
+        {
+            "text": "The floating population of Wuhan originated from outside Hubei Province may have promoted the spread of 2019-nCoV. Table 10 compares the number of individuals travelling from Wuhan to other provinces and the daily number of confirmed cases for those other provinces. Analysis revealed that the correlation coefficient at the provincial level was lower than at the prefecture level within Hubei Province, but the correlation coefficient increased from 0.4 on 25 January 2020 to 0.63 on 31 January 2020. Table 10 also shows the ratio of confirmed cases in each province to the proportion of people in the floating population in Wuhan who originate from each of these provinces, on 28 January 2020. We divide provinces into two categories based on their short-term travel populations in Wuhan, and Wuhan's travelling population to other provinces during the Spring Festival holiday. The first category comprises those provinces that have large-scale short-term business trips or tourist populations in Wuhan during the Spring Festival holiday, namely Beijing, Shanghai, Tianjin, and Hainan. Obviously, such a high level of inter-provincial population mobility may exacerbate the spread of 2019-nCoV. For example, the high ratio of confirmed cases in Guangdong Province may be due to the large short-term travel populations visiting Shenzhen and Guangzhou and Wuhan, while the high ratio of confirmed cases in Hainan Province may result from the outbound tourist population from Wuhan to Hainan during the Spring Festival holiday. In Table 10 , the results are divided into two parts: the correlation coefficient of the first category of provinces, which reaches a maximum of 0.96, and the correlation coefficient of the second category of provinces, which increased from 0.56 to 0.7. This abovementioned second category comprise the other 25 provinces that have small short-term business trip groups or tourist populations in Wuhan during the Spring Festival holiday. We assumed that the effect of the floating population on the spread of 2019-nCoV was consistent across the country. The other 25 provinces are divided into three groups since 25 January 2020 ( Figure 4) : (1) Provinces with a rapid increase in the number of confirmed cases, namely Zhejiang, Shandong, Guangxi, Shaanxi, Liaoning, and Yunnan; (2) Provinces with a moderate increase in the number of confirmed cases, namely Hunan, Chongqing, Sichuan, Fujian, Jiangsu, Hebei, Gansu, Heilongjiang, Shaanxi, Guizhou, Qinghai, Jilin, Xinjiang, Inner Mongolia, Tibet, and Ningxia; and (3) Provinces with a small increase in the number of confirmed cases, namely Henan, Anhui, and Jiangxi. In Table 10 , if we exclude the data of Henan Province and Zhejiang Province from the second category, we find that the correlation coefficient on 31 January 2020 is 0.93.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 115,
+                    "end": 123,
+                    "text": "Table 10",
+                    "ref_id": "TABREF9"
+                },
+                {
+                    "start": 502,
+                    "end": 510,
+                    "text": "Table 10",
+                    "ref_id": "TABREF9"
+                },
+                {
+                    "start": 1530,
+                    "end": 1538,
+                    "text": "Table 10",
+                    "ref_id": "TABREF9"
+                },
+                {
+                    "start": 2158,
+                    "end": 2167,
+                    "text": "Figure 4)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 2650,
+                    "end": 2658,
+                    "text": "Table 10",
+                    "ref_id": "TABREF9"
+                }
+            ],
+            "section": "Prediction of Epidemic Trends outside Hubei Provinces"
+        },
+        {
+            "text": "We selected four provinces (Henan, Hunan, Sichuan, and Zhejiang) as the reference provinces to predict the epidemic trend of 2019-nCoV in each province. We found that: (1) The epidemic growth model of Henan Province does not fit the situation in most other provinces. That is, except in Anhui and Jiangxi, the actual number of outbreaks in other provinces was higher than that predicted by the Henan model. As these provinces have large floating populations in Wuhan, the rapid increase in the number of confirmed cases in Henan, Anhui and Jiangxi may result from effective measures that have been taken to control the spread of 2019-nCoV, or the lack of sufficient diagnostic capabilities to detect suspected cases. (2) The epidemic growth model for Hunan and Sichuan Province predicts a rapid increase in the number of confirmed cases in Henan, Anhui and Jiangxi provinces. Thus, if the epidemic pattern in Hunan and Sichuan follows a typical evolutionary pattern, the current numbers of confirmed cases in the three provinces of Henan, Anhui, and Jiangxi are greatly underestimated. For example, the number of confirmed cases in Henan on 31 January 2020 would be between 860 and 889, but the number in official announcements was only 168. In contrast, the number of confirmed cases in Zhejiang, Shandong, Guangxi, Shaanxi, Liaoning, and Yunnan Provinces were higher than the predicted number, which may be affected by uncontrollable local factors that need further investigation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction of Epidemic Trends outside Hubei Provinces"
+        },
+        {
+            "text": "(3) The epidemic growth model for Zhejiang Province predicts a rapid increase in the number of confirmed cases in most provinces, especially Jiangsu and Fujian provinces that are adjacent to Zhejiang. It is important to investigate why there were so many confirmed cases in Zhejiang, and whether the outbreak in Jiangsu and Fujian Province was not detected in a timely manner, or whether all possible cases have not yet occurred.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction of Epidemic Trends outside Hubei Provinces"
+        },
+        {
+            "text": "Overall, the predicted epidemic pattern for Hunan and Sichuan provinces fits best to the actual epidemic trend of the 2019-nCoV outbreak. However, the current number of confirmed cases in Henan, Anhui, and Jiangxi provinces is likely to be underestimated, especially given that these contain extensive rural areas with large populations and limited medical resources. The higher actual number of confirmed cases in Zhejiang, Shandong, Guangxi, Shaanxi, Liaoning, and Yunnan provinces may be affected by other unknown factors or uncontrollable random factors that need further investigation. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Prediction of Epidemic Trends outside Hubei Provinces"
+        },
+        {
+            "text": "To prevent or mitigate the spread of an emerging infectious disease and its negative effects, public health interventions mainly aim at three types of population, namely the population in the source area, the floating population leaving the source area, and the population travelling from the infected area to other areas. The Spring Festival in 2020 is much earlier than in previous years. At this time, the possibility of human-to-human transmission of a new coronavirus had just been discovered. When the Wuhan Municipal Government decided on 23 January 2020 to \"close the city\" to control the outflow of population, more than 5 million people had already left Wuhan on the Spring Festival holiday, and it was too late to control the entire potentially infected population in the epidemic area. At present, China's high-speed railway and expressway transportation network has experienced great development. This fast and convenient transportation has led to a floating population that can leave the source area to quickly reach every part of the country, which makes it very difficult to quarantine the floating population leaving the source area through transportation stations. In addition, there is an incubation period after human infection, further increasing the difficulty of quarantine at traffic stations, which is also an important reason for the implementation of \"city closure\" control policies in many cities across the country.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "After 2019-nCoV was confirmed as being capable of transmitting from human to human, the Chinese government implemented top to bottom national mobilisation. It fully investigated and isolated the population of Wuhan, and also publicised the severity of the epidemic, and also increased awareness of the prevention of infectious diseases and raised people's vigilance through messages on television, mobile communications and the Internet. In addition, according to the latest epidemic surveillance, the incubation period of the coronavirus is 3 to 7 days, with an upper limit of 14 days. For this reason, the central government has issued an executive order to extend the Spring Festival holiday from 30 January to 2 February 2020. Many provinces are even requiring firms to not restart work until 9 February, except those necessary for social operations related to the national economy and people's livelihood. Extending the holiday is needed to avoid the returning people leaving home early and returning to work, so as to minimise the risk of the epidemic spreading again due to population fluctuations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "There are limitations to this study. First, our analysis did not include other large-scale populations. For example, some are college students, because Wuhan is the city with the largest number (>1 million) of college students in China and the world. The other parts include short-term business travellers, transit passengers and tourists. Official media reported that the size of the populations during the Spring Festival holiday would reach more than 30 million. This can be confirmed from the daily-confirmed cases of 2019-nCoV infection. Although there is a small permanent population in Wuhan whose household register belongs to provinces and cities such as Beijing, Shanghai, Tianjin, Hainan, and Guangdong (in fact, Shenzhen and Guangzhou are two megacities), these provinces and cities still have large-scale temporary floating populations from and to Wuhan because of the large population and well-developed economy. Therefore, the number of confirmed cases of 2019-nCoV infection in these areas is far ahead of that in most other provinces that have a large floating population in Wuhan.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Second, our sample has a certain deviation. The data on the origin of Wuhan's floating population does not include Hong Kong, Macao, or international migrants, which makes our research unable to estimate the population size of these regions. At present, some cases have been confirmed in surrounding Asian countries, Europe, North America and Australia. Third, limited to interdisciplinary research capabilities, our model does not include infectious disease analysis models such as SIR to further analyse the potential and scale of 2019-nCoV spread, which may reduce the value of this research in the prevention and control of 2019-nCoV infections. Finally, the results of the study are mainly applicable to the end of the Spring Festival holiday, and after the large-scale population comes back to work or study, the spread of the epidemic will be more complicated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "We believe that the abovementioned limitations can be overcome. Using big data such as location information of transportation and mobile Internet, short-term floating populations can be included in the study to maximise the estimated population flotation and scale in Wuhan. Unfortunately, thus far we have not seen a rigorous study using big data to analyse the outflow of populations in the epicentre of an epidemic. This means that there is still a long way to go for the research and application of big data in the field of national and global public health.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "At the time of writing this paper (29 January 2020), all provinces in China have reported confirmed or suspected cases of 2019-nCoV, every prefecture and city in Hubei Province has confirmed cases of 2019-nCoV, and transmission of 2019-nCoV has spread from imported to inter-regional. Due to the fact that 5 million migrants had left Wuhan before the \"closure of the city\", our research reveals a high correlation between the number of Wuhan's floating population and the number of confirmed cases. Fortunately, the origin of Wuhan's floating population is highly concentrated in Hubei Province and its surrounding provinces, of which the migrants with Hubei household registers account for 75%, and more than 80% of the population is concentrated in the top 30 districts and counties. This means that some areas will face a very high risk of epidemic outbreaks, but it is also conducive to centralised resources enabling prevention and control of the epidemic to avoid large-scale spread in other regions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "More than 5 million of Wuhan's floating population have returned to their hometowns as potential carriers of the virus and may become carriers of the virus's re-transmission. Due to China's urban and rural dualistic structure, most of these people are rural migrant workers with low levels of education. The results find that 85% of the migrants have rural household registers. These people, who frequently work outdoors or work overtime are more likely to be susceptible because of their poor diet and nutrition. At the same time, most of these people travel with 3-4 family members, and the susceptible and high-risk population over 40 years old accounts for a large proportion of this floating population, which provides ideal conditions for the transmission of 2019-nCoV within families. To make matters worse, the rural areas where these people return to have very limited medical and public health services, and gatherings during the Spring Festival aggravate the risk of virus transmission in the community.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "So far, confirmed cases of 2019-nCoV continue to increase every day across China. The results of our model analysis indicate that, on the one hand, the correlation between the size of the floating population and the number of confirmed cases in Wuhan has continued to increase over time, and by 28 January, the correlation coefficient of these factors in Hubei Province had reached 0.78, which means that the size of the floating population in Wuhan is an important parameter for predicting the epidemic. On the other hand, we also found that the effect of the size of the floating population in Wuhan is heterogeneous across regions. Some areas have a large floating population in Wuhan, including Henan, Anhui, and Jiangxi provinces, and Xiaogan City, Jingzhou City, and the three county-level cities directly under the provincial government, and yet the number of confirmed cases of 2019-nCoV is apparently relatively small. However, we believe that the epidemic situation in these areas may be underestimated. Considering the serious consequences of delays in diagnosis and loopholes in infection control in suspected or confirmed cases of SARS in the SARS epidemic in 2003, it is necessary to strengthen surveillance in these areas to determine the causes of the fewer confirmed cases of 2019-nCoV in these areas.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Author Contributions: L.L. conceived and proposed research ideas, C.F. and C.Y. collected the data, C.F. undertook the main research work such as research methods, data analysis, and manuscript writing. C.F., L.L., W.G., A.Y., C.Y., M.J., M.R., P.X., H.L. and Y.W. participated in draft review, contributed to data interpretation, and approved final manuscript. All authors have read and agreed to the published version of the manuscript. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Data sharing and outbreaks: Best practice exemplified",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heymann",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Lancet",
+            "volume": "2020",
+            "issn": "",
+            "pages": "469--470",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30184-7"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "China coronavirus: What do we know so far? BMJ 2020",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mahase",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m308"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: A modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "689--697",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30260-9"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Wuhan Municipal Health Commission. The Current Epidemic of Pneumonia in Our City by Wuhan Municipal Health Commission",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Geneva: World Health Organization",
+            "authors": [],
+            "year": 2020,
+            "venue": "WHO. Novel Coronavirus (2019-nCoV) Situation Report-6",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "National Real-Time Epidemic Website",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Geneva: World Health Organization",
+            "authors": [],
+            "year": 2020,
+            "venue": "WHO. Novel Coronavirus (2019-nCoV) Situation Report-10",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Novel coronavirus 2019-nCoV: Early estimation of epidemiological parameters and epidemic predictions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Read",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Jessica",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R E"
+                    ],
+                    "last": "Bridgen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A T"
+                    ],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jewell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.01.23.20018549"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Report 3: Transmissibility of 2019-nCoV",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cori",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baguelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: A descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--513",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30211-7"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "727--733",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: A study of a family cluster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F W"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K W"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C Y"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W S"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--523",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30154-9"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "A novel coronavirus outbreak of global health concern",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Horby",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "470--473",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30185-9"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Emerging understandings of 2019-nCoV",
+            "authors": [],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30186-0"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Coronavirus infections-more than just the common cold",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Paules",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Marston",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Fauci",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "JAMA",
+            "volume": "2020",
+            "issn": "",
+            "pages": "707--708",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.0757"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "From SARS-CoV to Wuhan 2019-nCoV Outbreak: Similarity of Early Epidemic and Prediction of Future Trends",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2139/ssrn.3528722"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "A novel coronavirus emerging in China-key questions for impact assessment",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Riel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N. Engl. J. Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "692--694",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMp2000929"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Another decade, another coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N. Engl. J. Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "760--762",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMe2001126"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Report 1: Estimating the Potential Total Number of Novel Coronavirus Cases in Wuhan City",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cori",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Report 2: Estimating the Potential Total Number of Novel Coronavirus Cases in Wuhan City",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cori",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Modelling the epidemic trend of the 2019 novel coronavirus outbreak in China",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yanni",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.01.23.916726"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Epidemic Situation of the Novel Coronavirus in Guangdong Province Published on 23",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Xinhua News Agency. 15 Chinese Medical Workers Confirmed Infected with Coronavirus",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The Chinese New Year Travel Rush-The World's Largest Annual Human Migration",
+            "authors": [
+                {
+                    "first": "China",
+                    "middle": [],
+                    "last": "Highlights",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Wuhan Municipal People's Government. Wuhan Implements Restriction to Curb the Spread of the Epidemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Real-Time Update on Coronavirus Outbreak",
+            "authors": [],
+            "year": 2020,
+            "venue": "Global Times",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Internal Migration and Health in China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cook",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Salazara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Lancet",
+            "volume": "372",
+            "issn": "",
+            "pages": "1717--1719",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(08)61360-4"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The New York Times. China Grapples with Mystery Pneumonia-Like Illness",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Health Status and Access to Health Care of Migrant Workers in China. Public Health Rep",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Therese",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "123",
+            "issn": "",
+            "pages": "189--197",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Sample distribution of floating population living in Wuhan, 2013-2018.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "The national distribution of floating population in Wuhan.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "The distribution of Wuhan's migrants within Hubei Province.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": ": (1) Prefectures with a rapid increase in confirmed cases, comprising Jingmen, Xianning, Xiangyang, Ezhou, Yichang, and Enshi;(2) Prefectures with a moderate growth in confirmed cases, comprising Huanggang, Suizhou, Huangshi, and Shennongjia; and (3) Prefectures with a slow increase in confirmed cases, comprising Xiaogan, DMP cities, and Jingzhou.Our predictions of the epidemic trends of the 2019-nCoV outbreak within Hubei Province are as follows: (1) The epidemic growth model for Jingmen predicts a rapid increase in the number of confirmed cases in Xiaogan, DMP cities, and Jingzhou. In other words, if the epidemic pattern in Jingmen is regarded as a typical evolutionary pattern of the spread of 2019-nCoV, the actual number of confirmed cases of 2019-nCoV in Xiaogan, DMP cities, and Jingzhou have been greatly underestimated. For example, the number of confirmed cases in Xiaogan on 31 January 2020 would reach 1190, but the number of officially announced cases was only 541. This could be attributable to a lack of sufficient diagnostic capabilities, or undisclosed data from the government, or both. (2) The epidemic growth model for Xiaogan predicts a rapid increase in the number of confirmed 2019-nCoV cases in Jingmen, Xianning, Xiangyang, Ezhou, Yichang and Enshi. If this is true, large-scale outbreaks have occurred in these places, but their regional governments have either not detected this, or true figures are not available or revealed. (3) The epidemic growth model for Huanggang better fits the actual epidemic situation of the 2019-nCoV outbreak, based on the floating population and the intensity of medical intervention. The outbreak in Xiaogan, DMP cities, and Jingzhou may be underestimated, while the rapid increase in the number of confirmed cases in Jingmen, Xianning, and Xiangyang may be affected by other unknown factors or uncontrollable random factors that need further investigation.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Prediction of the epidemic situation in Hubei Province.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Cont.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Prediction of the epidemic situation in China.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "This research was supported by the Youth Program of the National Social Science Fund of China (18CRK009) and the Fundamental Research Funds for the Central Universities (CCNU19QN044).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Household registration distribution of floating population in Wuhan, 2013-2018.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Prediction of floating population living in Wuhan, 2019.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Estimation of proportion and population size in China based on floating population in Wuhan, 2013-2018.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Joint distribution of Wuhan floating population in China.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Estimation of proportion and population size in Hubei Province based on floating population in Wuhan, 2017. Directly Managed by the Province) cities includes Xiantao, Qianjiang and Tianmen; CI = confidence interval.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Estimation of proportion and population size within Hubei Province based on floating population in Wuhan, 2017.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Cont.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "Joint distribution of Wuhan floating population in Hubei Province.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "2019-nCoV confirmed cases and floating population from Wuhan in Hubei Province.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF9": {
+            "text": "2019-nCoV confirmed cases and floating population from Wuhan in China.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgments: Thanks to the National Health Committee for the migrant population data; the Youth Project of National Social Science Foundation and the Youth Teacher Project of Central China Normal University 2019 for support on previous construction of floating population database; Binbin Tang and Junyue Qian for their selfless help in the process of thesis writing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest:"
+        }
+    ]
+}

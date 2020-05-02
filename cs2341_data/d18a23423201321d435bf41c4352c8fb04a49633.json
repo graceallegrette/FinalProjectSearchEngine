@@ -1,0 +1,3230 @@
+{
+    "paper_id": "d18a23423201321d435bf41c4352c8fb04a49633",
+    "metadata": {
+        "title": "FULL PAPER Virology ATeam technology for detecting early signs of viral cytopathic effect",
+        "authors": [
+            {
+                "first": "Cristine",
+                "middle": [
+                    "C"
+                ],
+                "last": "Karla",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Doysabas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagoya University",
+                    "location": {
+                        "addrLine": "Furo-cho, Chikusa-ku",
+                        "postCode": "464-8601",
+                        "settlement": "Nagoya",
+                        "region": "Aichi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mami",
+                "middle": [],
+                "last": "Oba",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Veterinary Microbiology",
+                    "institution": "Tokyo University of Agriculture and Technology",
+                    "location": {
+                        "postCode": "183-8509",
+                        "settlement": "Sawai, Fuchu",
+                        "region": "Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tomoki",
+                "middle": [],
+                "last": "Ishibashi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Insect Ecology",
+                    "institution": "Kyoto University",
+                    "location": {
+                        "addrLine": "Kitashirakawa Oiwake-cho, Sakyo-ku",
+                        "postCode": "606-8224",
+                        "settlement": "Kyoto",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hideki",
+                "middle": [],
+                "last": "Shibata",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagoya University",
+                    "location": {
+                        "addrLine": "Furo-cho, Chikusa-ku",
+                        "postCode": "464-8601",
+                        "settlement": "Nagoya",
+                        "region": "Aichi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hitoshi",
+                "middle": [],
+                "last": "Takemae",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagoya University",
+                    "location": {
+                        "addrLine": "Furo-cho, Chikusa-ku",
+                        "postCode": "464-8601",
+                        "settlement": "Nagoya",
+                        "region": "Aichi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hiroshi",
+                "middle": [],
+                "last": "Shimoda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Veterinary Microbiology",
+                    "institution": "Yamaguchi University",
+                    "location": {
+                        "addrLine": "1677-1 Yoshida, Yamaguchi-shi",
+                        "postCode": "753-8511",
+                        "settlement": "Yamaguchi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ronald",
+                "middle": [],
+                "last": "Tarigan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagoya University",
+                    "location": {
+                        "addrLine": "Furo-cho, Chikusa-ku",
+                        "postCode": "464-8601",
+                        "settlement": "Nagoya",
+                        "region": "Aichi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tetsuya",
+                "middle": [],
+                "last": "Mizutani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Veterinary Microbiology",
+                    "institution": "Tokyo University of Agriculture and Technology",
+                    "location": {
+                        "postCode": "183-8509",
+                        "settlement": "Sawai, Fuchu",
+                        "region": "Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Atsuo",
+                "middle": [],
+                "last": "Iida",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagoya University",
+                    "location": {
+                        "addrLine": "Furo-cho, Chikusa-ku",
+                        "postCode": "464-8601",
+                        "settlement": "Nagoya",
+                        "region": "Aichi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Eiichi",
+                "middle": [],
+                "last": "Hondo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagoya University",
+                    "location": {
+                        "addrLine": "Furo-cho, Chikusa-ku",
+                        "postCode": "464-8601",
+                        "settlement": "Nagoya",
+                        "region": "Aichi",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Adenosine 5'-triphosphate (ATP), the major energy currency of the cell, is involved in many cellular processes, including the viral life cycle, and can be used as an indicator of early signs of cytopathic effect (CPE). In this study, we demonstrated that CPE can be analyzed using an FRET-based ATP probe named ATP indicator based on Epsilon subunit for Analytical Measurements (ATeam). The results revealed that as early as 3 hr, the virus infected cells showed a significantly different Venus/cyan fluorescent protein (CFP) ratio compared to the mock-infected cells. The ATeam technology is therefore useful to determine the early signs of ATP-based CPE as early as 3 hr without morphology-based CPE by light microscopy, and enables high throughput determination of the presence of microorganisms in neglected samples stored in laboratories.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "For decades, viral isolation and identification has relied on the presence of cytopathic effect (CPE), the standard protocol to estimate viral proliferation through observable changes in cultured cells under a light microscope. The visualization of CPE takes one to several days, depending on the virus type [18] . Additionally, not all viruses show CPE [36] . In these cases, other methods are required to detect the viral infection without morphological changes. To detect early and invisible signs of virus infection before the appearance of morphological changes, it is crucial to have a marker to investigate the viral infection and subsequent cellular pathogenicity. The viruses interfere with the host cellular mechanisms, thereby leading to changes in gene expression and/or cellular metabolism are changed soon after virus entry. In some cases, these disruptions lead to morphological CPE. The detection and evaluation of intracellular vital signs is also a potential biomarker for detecting viral infection as an alternative to the conventional morphology-based CPE.",
+            "cite_spans": [
+                {
+                    "start": 308,
+                    "end": 312,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 354,
+                    "end": 358,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Adenosine 5\u2032-triphosphate (ATP), the major energy currency of the cell, is involved in many cellular processes including viral life cycle [2] . Many viruses can upregulate aerobic glycolytic pathways to increase ATP levels and the generation of metabolites, for various viral processes [6, 9, 11, 12] . ATP is required for the replication process in vaccinia virus and for budding and RNA synthesis in influenza virus [4, 20, 29] .",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 141,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 286,
+                    "end": 289,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 290,
+                    "end": 292,
+                    "text": "9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 293,
+                    "end": 296,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 297,
+                    "end": 300,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 418,
+                    "end": 421,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 422,
+                    "end": 425,
+                    "text": "20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 426,
+                    "end": 429,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "It was reported that ATP promotes viral replication and is positively correlated with viral productivity [3, 5, 6] . It has been demonstrated that infection caused by vaccinia virus results in an increased ATP production in the cells due to upregulation of mitochondrial genes for proteins, a part of the electron transport chain (ETC) which generates ATP, ND4 and CO II [4] . Human cytomegalovirus (HCMV) upregulates glycolysis and interferes with the tricarboxylic acid cycle (TCA) to produce more NADH and ATP for virus propagation [32] . ATP is also increased in viable cells after infection with baculovirus [35] and avian reovirus [5] . In contrast, previous studies have shown that the level of intracellular ATP is significantly decreased after viral infection [3] . In the case of hepatitis C virus (HCV); it was observed that the cells involved in HCV RNA replication actively consumed ATP, thereby decreasing cytoplasmic ATP levels [2] . The cellular ATP levels are also decreased upon infection with influenza doi: 10.1292/jvms. [20] [21] virus, owing to the massive consumption of ATP by the virus [29, 38] . The dengue virus also promotes changes in mitochondrial bioenergetics, leading to a 20% decrease in ATP content of virus infected cells [10] . Hence, as an alternative to the morphologybased CPE, ATP level may be used as another biomarker for virus infection.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 109,
+                    "end": 111,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 112,
+                    "end": 114,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 535,
+                    "end": 539,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 613,
+                    "end": 617,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 637,
+                    "end": 640,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 769,
+                    "end": 772,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 943,
+                    "end": 946,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1041,
+                    "end": 1045,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1046,
+                    "end": 1050,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1111,
+                    "end": 1115,
+                    "text": "[29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1116,
+                    "end": 1119,
+                    "text": "38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1258,
+                    "end": 1262,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Recently, a genetically encoded Forster resonance energy transfer (FRET)-based ATP probe was developed. In this system, the \u03b5 subunit of FoF1-ATP synthase is sandwiched between cyan fluorescent protein (CFP) and yellow fluorescent protein (YFP) [21, 33] . This probe has been used by many studies for real-time visualization and measurement of intracellular ATP [5-8, 27, 40, 42] . However, the application of ATP indicator based on Epsilon subunit for Analytical Measurements (ATeam) for identification of early signs of CPE has not yet been evaluated. This study aimed to determine the early signs of CPE in virus infected cells through ATP measurement using ATeam technology (ATP-based CPE).",
+            "cite_spans": [
+                {
+                    "start": 245,
+                    "end": 249,
+                    "text": "[21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 250,
+                    "end": 253,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 362,
+                    "end": 379,
+                    "text": "[5-8, 27, 40, 42]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "All cells including baby hamster kidney (BHK-21), Vero 9013, Mardin-Darby canine kidney (MDBK), porcine kidney (CPK), and Platinum-E (Plat-E) cells were cultured in DMEM supplemented with 10% fetal bovine serum (FBS) and 2% L-glutamine in the presence of 100 units/ml of penicillin and 100 mg/ml of streptomycin at 37\u00b0C and 5% CO 2 . The Plat-E cells were a kind gift from Dr. Toshio Kitamura (Institute of Medical Science, The University of Tokyo) [31] . The viruses used in this study are listed in Table 1 . The BPIV3 and BVDV, PTV, and IBR were propagated in MDBK, CPK, and Vero cells respectively; while other viruses were propagated in BHK-21 cells. The titration of the viruses for infection was done by qPCR as previously described [25, 37, 41] except for EMCV and JEV, which were titrated using the standard plaque assay [44] .",
+            "cite_spans": [
+                {
+                    "start": 449,
+                    "end": 453,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 740,
+                    "end": 744,
+                    "text": "[25,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 745,
+                    "end": 748,
+                    "text": "37,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 749,
+                    "end": 752,
+                    "text": "41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 830,
+                    "end": 834,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 501,
+                    "end": 508,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Cells and viruses"
+        },
+        {
+            "text": "The ATeam plasmid used in this study was constructed by double digestion with BamH1 and EcoR1 from ATeam 1.03-nD/nA/ pcDNA3 (Addgene plasmid 51958). The obtained ATeam probe fragment was then inserted into the BamHI/EcoR1 site of pMXs-IRES-puro (Cell Biolabs Inc., San Diego, CA, USA), to generate pMXs-ATeam-IRES-puro. Plasmid transfection was performed using a retrovirus-mediated gene transfer system. To generate ATeam expressing retroviral vectors, 3 \u00b5g of pMXs-ATeam-IRESpuro was mixed with 15 \u00b5l of 2 mg/ml polyethylenimine and transfected into ~900,000 Plat-E cells in 9.6 cm 2 plate. After 2 days, the supernatant was collected and transduced into the BHK-21 cells using ViroMag \u00ae (OZ Biosciences, Marseille, France) following manufacturer's instructions. Two days post-transduction, the BHK-21 cells containing pMXs-ATeam-IRES-puro (BHK-ATeam) were selected with the DMEM containing 8 \u00b5g/ml Puromycin.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Plasmid construction and transfection"
+        },
+        {
+            "text": "To investigate the relationship between ATP concentration and Venus/CFP ratios, BHK-ATeam cells were permeabilized according to previous study [2] with few modifications. In summary, 5 \u00b5g/ml digitonin in buffer B (20 mM HEPES-KOH [pH 7.7], 110 mM potassium acetate, 2 mM magnesium acetate, 1 mM EGTA [egtazic acid], and 2 mM dithiothreitol) were added to the cells and incubated for 5 min at room temperature. The reaction was stopped by washing the cells with buffer B thrice, followed by addition of known concentrations of ATP in buffer B. The cells were also fixed with 4% paraformaldehyde (PFA) for 10 min and examined under confocal microscope. The plots were fitted with Hill equation, with a fixed Hill coefficient of 1.7; R=(R max \u2212R min ) \u00d7[ATP] 2 ([ATP] 2 +Kd 2 )+R min , where R max and R min are the maximum and minimum fluorescence ratios, respectively, and Kd is the apparent dissociation constant.",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 146,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cell permeabilization and microscope examination"
+        },
+        {
+            "text": "One day prior to viral infection, the BHK-ATeam cells were seeded onto 4-compartment, 35 mm Cellview TM glass-bottomed dishes (Greiner Bio-One Co., Ltd., Tokyo, Japan). Approximately 50,000 cells were seeded onto each 1.9 cm 2 compartment and after 1 day, the cells were infected with the virus at MOI=1, 3, and 5, for BVDV, EMCV, and JEV, and MOI=0.25, 0.75, and 1.25 for other viruses. After 3, 6, 9, 16, and 24 hr of incubation, the medium was removed and washed once with PBS before adding 4% PFA until ready for observation under confocal microscope. In order to adhere to the biosafety regulations, the cells were fixed prior to imaging.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Viral infection and cell fixation"
+        },
+        {
+            "text": "The cells were excited by a 405-nm laser diode, and CFP and Venus were detected at 480-500 nm and 515-615 nm wavelength ranges, respectively. The images were obtained using an Fluoview FV1000 confocal microscope with an oil-immersion UPLSAPO objective (NA=1.35) (Carl Zeiss, Jena, Germany). Using the FRET application, the fluorescence intensities from CFP and Venus channels were obtained from individual fluorescence-expressing cells. All image analyses were performed using ImageJ (National Institutes of Health, Bethesda, MD, USA).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Imaging and analysis"
+        },
+        {
+            "text": "The fluorescence intensities of cytoplasmic areas in cells were obtained manually by tracing the cytoplasm, using drawing tablet (Wacom) for BVDV, EMCV, and JEV-infected cells. The corrected total cell fluorescence (CTCF) from Venus and CFP channel was then calculated using the formula: Integrated Density\u2212(Area of selected cell) \u00d7 (Mean fluorescence of background readings). Each Venus/CFP emission ratio was calculated by dividing the CTCF of a Venus image with a CFP image.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Imaging and analysis"
+        },
+        {
+            "text": "The images captured in confocal microscopy were then subjected to the boomerang catcher (BC), ImageJ & Python programs set to analyze FRET in viral-infected cells developed in this study ( Supplementary Fig. 1 ), which are available at this link (URL: https://github.com/ishibaki/boomerang_catcher). The algorithm was designed to subtract the background and enhance the contrast from channel-2 (Venus) images, followed by the enhancement of contrast until 0.3% of pixels were saturated. The Gaussian Blur (sigma=4) was then applied, followed by the threshold by minimum method to detect the cell body without the nucleus (filter 1). The cells with an area of 50-500 \u00b5m 2 were selected. A threshold image produced from the previous step was duplicated wherein a threshold set by the Otsu method, a method that finds an optimal threshold based on the observed distribution of pixels [24] , was applied to detect the cell body and nucleus (filter 2). The cells with an area of 50-800 \u00b5m 2 were selected. To generate a nuclear mask (filter 3), the inverted filter 1 and filter 2 were multiplied. The average intensities of channel-1 and channel-2 from filters 1 (Data1) and 3 (Data3) were calculated. The mean intensity of each channel was then calculated using the formula: ((Area of Data 1) \u00d7 (Mean Intensity of Data 1\u2212((Area of Data 2) \u00d7 (Mean Intensity of Data 2)))/ ((Area of Data 1)-(Area of Data 2)). The Venus/CFP ratio was then acquired using the formula: (Mean Intensity of Channel-2)/ (Mean Intensity of Channel-1). Data are shown as the mean \u00b1 S.D. and statistical significance was determined by Student's t-test, where P<0.01 was considered statistically significant.",
+            "cite_spans": [
+                {
+                    "start": 881,
+                    "end": 885,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 189,
+                    "end": 209,
+                    "text": "Supplementary Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Automatic selection of cells and Venus/CFP ratio using a newly developed plugin"
+        },
+        {
+            "text": "To adhere to biosafety regulations, the cells must be fixed with 4% PFA to inactivate the viruses prior to imaging. To determine if the measurement of ATP levels in fixed cells is possible, uninfected live and fixed cells were compared. The fixed cells have a significantly lower ATP value compared to the live cells, but the ATP level remains detectable (Fig. 1A) . Furthermore, the responsiveness of BHK-ATeam cells to varying concentrations of ATP was also investigated, and it showed that Venus/CFP ratio was correlated with the ATP concentration (Fig. 1B) . The Venus/CFP ratio obtained in BVDV, EMCV, and JEV infected BHK-ATeam cells are shown in Fig. 2 . The results showed that all cells infected by these three viruses exhibit a significantly lower Venus/CFP ratio compared to the mock-infected cells, as early as 3 hr. In BVDV-infected cells with MOI=5 ( Fig. 2A) , a significantly lower Venus/CFP ratio was observed, as compared to the mock control. At 6 hr, all the infected cells showed a significantly higher ratio; while at 16 hr and 24 hr, only MOI=5 showed a significantly higher ratio. The JEV-infected cells showed a significantly lower ratio at 3 hr with MOI=5, at 6 hr with MOI=1 and 5, and at 16 hr and 24 hr with MOI=1, 3, and 5 (Fig. 2B) . The EMCV-infected cells also showed a significantly lower ATP value than the mock control at 3 hr with MOI=1 and 5 but not at 6 hr (Fig. 2C) . Most of the EMCV-infected cells were dead by 16 hr; thus, no data were obtained beyond this incubation time ( Supplementary Fig. 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 355,
+                    "end": 364,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 551,
+                    "end": 560,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 653,
+                    "end": 659,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 865,
+                    "end": 873,
+                    "text": "Fig. 2A)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1252,
+                    "end": 1261,
+                    "text": "(Fig. 2B)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1395,
+                    "end": 1404,
+                    "text": "(Fig. 2C)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1517,
+                    "end": 1538,
+                    "text": "Supplementary Fig. 2)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "We developed a BC program which automatically analyzes the FRET in viral infected BHK-ATeam cells (URL: https:// github.com/ishibaki/boomerang_catcher). This program was devised to evaluate the Venus/CFP ratio. Subsequently, it detects the cell body and calculates the mean intensity of the cell body in CFP and Venus channels, followed by the calculation of the Venus/CFP ratio. The BHK-ATeam cells were infected with AKV, BCV, BEV, BPIV3, IBR, and PTV for 3 hr, fixed and examined under confocal microscopy, and the Venus/CFP ratio was obtained using the BC program. More than 60 cells per group were selected by the program, and results revealed that all the viral-infected cells showed significantly different Venus/ CFP ratio compared to the mock control. The BCV, BEV with MOI=0.25 and 0.75, BPIV3, and IBR infected cells exhibited significantly higher ratio compared to the mock, while the PTV with MOI=0.75 and 1.25, and AKV with MOI=0.25 showed significantly lower value ( Table 2 ). The AKV, BCV, and BPIV3 showed morphology-based CPE at day 3, day 5, and day 6 postinfection, respectively; the BEV showed mild morphologybased CPE at day 6 post-infection; while IBR and PTV did not show signs of morphology-based CPE ( Supplementary Fig. 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 982,
+                    "end": 989,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 1229,
+                    "end": 1249,
+                    "text": "Supplementary Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "This study used ATeam technology to detect the early signs of viral infection. Our ATeam probe responded well to ATP in a dose-dependent manner (Fig. 1B) . The possibility of measuring the Venus/CFP ratio in fixed cells was confirmed, although the value is significantly lower than that of the live cells (Fig. 1A) . This suggests that the attachment of ATP to the ATeam probe was conserved and therefore, the ATP level in fixed cells can be measured. However, the conformation of the \u0190 subunit may have been affected during fixation resulting in a lower Venus/ CFP ratio. Nevertheless, the value is measurable and thus, fixed cells were used in this study.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 144,
+                    "end": 153,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 305,
+                    "end": 314,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The BHK-ATeam cells infected with BVDV, EMCV, and JEV showed a significantly lower ratio compared to mock samples as early as 3 hr. This indicates a high consumption of ATP during the early phase of infection. This decrease in cytoplasmic ATP has also been observed in other RNA viruses such as HCV [2] and influenza virus [29, 38] . However, the non-cytopathic BVDV showed a higher Venus/CFP ratio in infected cells at 6 hr until 24 hr post-infection. The initial cellular response to a stressful stimulus involves protecting the cell against insult and promoting recovery [13] . Thus, it is highly likely that the cells responded to the viral presence by increasing ATP generation while viral replication rates remained the same or lower. The JEV-infected cells continued to show a significantly lower ratio compared to mock samples indicating a higher rate of ATP consumption by this cytopathic virus compared to the rate of ATP generation by cells throughout the infection (Fig. 2B) .",
+            "cite_spans": [
+                {
+                    "start": 299,
+                    "end": 302,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 323,
+                    "end": 327,
+                    "text": "[29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 328,
+                    "end": 331,
+                    "text": "38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 574,
+                    "end": 578,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 977,
+                    "end": 986,
+                    "text": "(Fig. 2B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In contrast, the EMCV-infected cells showed no significant difference in Venus/CFP ratio at 6 hr post-infection (Fig. 2C) . It is likely that the cells have increased ATP generation to compensate for the consumption, leading to the generation-consumption equilibrium. However, at 12 hr, the EMCV-infected cells died, owing to the oxidative stress caused by the virus in the cells during infection [1] . The ATP in these RNA viruses is quickly consumed as many steps in the viral life cycle require high energy phosphoryl groups [2] , such as the formation of the pre-initiation complex for de novo RNA synthesis by RdRp of flaviviruses [34] , ATP-dependent transcriptional initiation and RNA replication by influenza virus RdRp [26, 43] , and assembly and/or release of viral structural proteins possibly via interaction with ATP-dependent chaperones [16, 28] . Under light microscopy, morphology-based CPE usually appears at 16 hr for EMCV, day 3 for JEV, while BVDV is noncytopathic ( Supplementary Fig. 2) ; however, the ATP-based CPE using ATeam technology is already evident at 3 hr ( Fig. 2A) . This indicates that the ATeam technology is not only an early marker for the CPE but also a novel indicator for the \"stealth infection\" without morphology-based CPE.",
+            "cite_spans": [
+                {
+                    "start": 397,
+                    "end": 400,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 528,
+                    "end": 531,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 636,
+                    "end": 640,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 728,
+                    "end": 732,
+                    "text": "[26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 733,
+                    "end": 736,
+                    "text": "43]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 851,
+                    "end": 855,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 856,
+                    "end": 859,
+                    "text": "28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 112,
+                    "end": 121,
+                    "text": "(Fig. 2C)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 987,
+                    "end": 1008,
+                    "text": "Supplementary Fig. 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1090,
+                    "end": 1098,
+                    "text": "Fig. 2A)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "To make the selection of cells and measurement of the Venus/CFP ratio more efficient, rapid, and objective, an ImageJ and Python program was created (https://github.com/ishibaki/boomerang_catcher). The program set was used to analyze the Venus/ CFP ratio of the infected cells by the selected viruses for 3 hr. All the viruses caused a significant difference in the Venus/CFP ratio although the pattern is not the same ( Table 2 ). The PTV and AKV showed a significantly lower ratio while the other viruses showed a significantly higher ratio as compared to the mock controls. This result of PTV and AKV-infected cells is similar to what was observed in BVDV, EMCV, and JEV infected cells, and in previously reported RNA viruses such as HCV, influenza virus, and dengue virus [2, 10, 29, 38] . The other viruses, namely BCV, BEV, BPIV3, and IBR showed a significantly higher ratio than the mock-infected cells. This result is similar to previously reported vaccinia virus [4] , HCMV [32] , baculovirus [35] , and avian reovirus [5] , where an increase in intracellular ATP level was observed because of the upregulation of mitochondrial genes for proteins which are a part of the ETC, and upregulation of TCA to increase ATP production for virus propagation [15, 32] . Among the viruses tested, the morphology-based CPE usually appears on day 3 for AKV, day 5 for BCV, day 6 for BPIV3 and BEV, while IBR and PTV showed no morphology-based CPE ( Supplementary Fig. 2) . Thus, the ATeam system is a fast method to determine ATP-based CPE by a viral infection, as early as 3 hr when the morphology-based CPE is yet to be conclusive.",
+            "cite_spans": [
+                {
+                    "start": 776,
+                    "end": 779,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 780,
+                    "end": 783,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 784,
+                    "end": 787,
+                    "text": "29,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 788,
+                    "end": 791,
+                    "text": "38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 972,
+                    "end": 975,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 983,
+                    "end": 987,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1002,
+                    "end": 1006,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1028,
+                    "end": 1031,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1258,
+                    "end": 1262,
+                    "text": "[15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1263,
+                    "end": 1266,
+                    "text": "32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 421,
+                    "end": 428,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 1445,
+                    "end": 1466,
+                    "text": "Supplementary Fig. 2)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In the presence of a stressful stimulus, the initial cellular response is directed towards coping with the insult, by mounting an appropriate protective cellular response to ensure cell survival [13] . There are various pro-survival activities of the cell including the heat shock response, unfolded protein response (UPR), DNA damage response, and the response to oxidative stress, all aimed at restoring the cellular homeostasis [13, 14, 19] . Viruses, being an intracellular parasite, utilize the cellular machinery and resources for their replication which consequently elicits cellular stress responses. It is reported that various viruses such as the African swine fever virus, cytomegalovirus, hepatitis B virus, papillomavirus, vaccinia virus, BVDV, JEV, and HCV modulate UPR by binding of the master control binding protein to the accumulated misfolded or unfolded proteins, leading to the release of endoplasmic reticulum (ER) transducers: PKR-like ER kinase (PERK), activating transcription factor 6 (ATF6), and the ER transmembrane protein kinase/endoribonuclease (IRE1) which subsequently leads to homodimerization and refolding of proteins [17, 22, 23] . Furthermore, the viruses cause ER stress by exploitation of the ER membrane (e.g., poliovirus, coxsackievirus B3, dengue virus and hepatitis C virus), accumulation of misfolded proteins (e.g., influenza A virus, hepatitis A virus, JEV, and HCV), imbalance of calcium concentration by viroporin (e.g., influenza A virus, coxsackievirus B3, poliovirus 1), and the sabotage or depletion of the ER membrane during virion release (e.g., rotavirus) [22, 39] . Viral infections also induce the formation of stress granules by cells, which are aggregates containing the pre-initiation complexes where the translation is arrested, but interfered by viruses like the West Nile virus or dengue virus [30] . The viruses such as HCV, HIV, human adenovirus-5, Epstein-Barr virus, hepatitis B virus, and EMCV can induce reactive oxygen species (ROS) which directly or indirectly help them to survive [1] . All of these cellular responses affect the celular metabolites and require a lot of energy, thereby affecting the ATP level. Additionally, many viruses may modulate the mitochondrial-mediated pathways [1] , and directly affects ATP. All of these protective cellular responses to viral infection requires ATP and thus, infected cells will also increase the generation of ATP to compensate for the loss until all resources are exhausted by the viruses, leading to cell death. It is, therefore, logical to consider the intracellular ATP level as an indication of viral invasion of cells and as an early sign of CPE. In conclusion, the ATeam technology is therefore useful to determine the early signs of ATP-based CPE, as early as 3 hr without visual CPE by light microscopy, and enables high throughput determination of the presence of microorganisms in neglected samples stored in laboratories.",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 431,
+                    "end": 435,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 436,
+                    "end": 439,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 440,
+                    "end": 443,
+                    "text": "19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1154,
+                    "end": 1158,
+                    "text": "[17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1159,
+                    "end": 1162,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1163,
+                    "end": 1166,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1612,
+                    "end": 1616,
+                    "text": "[22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1617,
+                    "end": 1620,
+                    "text": "39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 1858,
+                    "end": 1862,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 2054,
+                    "end": 2057,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 2261,
+                    "end": 2264,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Viruses as modulators of mitochondrial functions",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Anand",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tikoo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Adv. Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1155/2013/738794"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Visualization and measurement of ATP levels in living cells replicating hepatitis C virus genome RNA",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ando",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Aizaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wakita",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Pathog",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1002561"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Intracellular ATP and total adenylate concentrations are critical predictors of reovirus productivity from Vero cells",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Burgener",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Coombs",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Biotechnol. Bioeng",
+            "volume": "94",
+            "issn": "",
+            "pages": "667--679",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/bit.20873"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Increased ATP generation in the host cell is required for efficient vaccinia virus production",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Biomed. Sci",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1423-0127-16-80"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Avian reovirus \u03c3A-modulated suppression of lactate dehydrogenase and upregulation of glutaminolysis and the mTOC1/eIF4E/HIF-1\u03b1 pathway to enhance glycolysis and the TCA cycle for virus replication",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Chi",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nielsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Cell. Microbiol",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/cmi.12946"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The glycolytic pyruvate kinase is recruited directly into the viral replicase complex to generate ATP for RNA synthesis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Prasanth",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Nagy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Cell Host Microbe",
+            "volume": "22",
+            "issn": "",
+            "pages": "639--652",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2017.10.004"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Imaging extracellular ATP with a genetically-encoded, ratiometric fluorescent sensor",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Conley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Radhakrishnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Valentino",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tantama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS One",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0187481"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Real-time imaging of mitochondrial ATP dynamics reveals the metabolic setting of single cells",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Depaoli",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Karsten",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Madreiter-Sokolowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Klec",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gottschalk",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bischof",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Eroglu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Waldeck-Weiermair",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Simmen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Graier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Malli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Cell Reports",
+            "volume": "25",
+            "issn": "",
+            "pages": "501--512",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.celrep.2018.09.027"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Temporal proteome and lipidome profiles reveal hepatitis C virus-associated reprogramming of hepatocellular metabolism and bioenergetics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Syder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jacobs",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sorensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Walters",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Proll",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mcdermott",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gritsenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Metz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Camp",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Waters",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Katze",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Pathog",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1000719"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Mitochondrial and bioenergetic dysfunction in human hepatic cells infected with dengue 2 virus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "El-Bacha",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Midlej",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Pereira Da Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Silva Da Costa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Benchimol",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Galina",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Da Poian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biochim. Biophys. Acta",
+            "volume": "1772",
+            "issn": "",
+            "pages": "1158--1166",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bbadis.2007.08.003"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Semliki Forest virus and Sindbis virus, but not vaccinia virus, require glycolysis for optimal replication",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Findlay",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ulaeto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Gen. Virol",
+            "volume": "96",
+            "issn": "",
+            "pages": "2693--2696",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/jgv.0.000226"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Dengue virus induces and requires glycolysis for optimal replication",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fontaine",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sanchez",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Camarda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lagunoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Virol",
+            "volume": "89",
+            "issn": "",
+            "pages": "2358--2366",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02309-14"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Cellular stress responses: cell survival and cell death",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fulda",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gorman",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Hori",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Samali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Int. J. Cell Biol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1155/2010/214074"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Linking cellular stress responses to systemic homeostasis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Galluzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yamazaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kroemer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nat. Rev. Mol. Cell Biol",
+            "volume": "19",
+            "issn": "",
+            "pages": "731--745",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41580-018-0068-0"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Stealing the keys to the kitchen: viral manipulation of the host cell metabolic network",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Goodwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Munger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Trends Microbiol",
+            "volume": "23",
+            "issn": "",
+            "pages": "789--798",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2015.08.007"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "ATPgammaS disrupts human immunodeficiency virus type 1 virion core integrity",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gurer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "H\u00f6glund",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "H\u00f6glund",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Luban",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "5557--5567",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.9.5557-5567.2005"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Viruses, endoplasmic reticulum stress, and interferon responses",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Cell Death Differ",
+            "volume": "13",
+            "issn": "",
+            "pages": "393--403",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.cdd.4401833"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Traditional and modern cell culture in virus diagnosis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hematian",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sadeghifard",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mohebi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Taherikalani",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nasrolahi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Amraei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ghafourian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Osong Public Health Res. Perspect",
+            "volume": "7",
+            "issn": "",
+            "pages": "77--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.phrp.2015.11.011"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Cell signaling and stress responses",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hotamisligil",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cold Spring Harb. Perspect. Biol",
+            "volume": "8",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/cshperspect.a006072"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Role of ATP in influenza virus budding",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nayak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virology",
+            "volume": "290",
+            "issn": "",
+            "pages": "329--341",
+            "other_ids": {
+                "DOI": [
+                    "10.1006/viro.2001.1181"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Visualization of ATP levels inside single living cells with fluorescence resonance energy transfer-based genetically encoded indicators",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nhat",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Togawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Iino",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kato-Yamada",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nagai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Noji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl. Acad. Sci. USA",
+            "volume": "106",
+            "issn": "",
+            "pages": "15651--15656",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0904764106"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "ER stress, autophagy, and RNA viruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Jheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Horng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Front. Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2014.00388"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Replication of a cytopathic strain of bovine viral diarrhea virus activates PERK and induces endoplasmic reticulum stress-mediated apoptosis of MDBK cells",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Graczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Block",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Romano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "9588--9599",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.19.9588-9599.2002"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Otsu image segmentation algorithm: a review",
+            "authors": [
+                {
+                    "first": "Vats",
+                    "middle": [],
+                    "last": "Khushbu",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int. J. Innov. Res. Comp. Comm. Eng",
+            "volume": "5",
+            "issn": "",
+            "pages": "11945--11948",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Development of a one-run real-time PCR detection system for pathogens associated with bovine respiratory disease complex",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kishimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tsuchiaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rahpaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hasebe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Otsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sugimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Komatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nagai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Omatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Naoi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Okazaki-Terashima",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Katayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sato",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Asai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Vet. Med. Sci",
+            "volume": "79",
+            "issn": "",
+            "pages": "517--523",
+            "other_ids": {
+                "DOI": [
+                    "10.1292/jvms.16-0489"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Variation in ATP requirement during influenza virus transcription",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Klumpp",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ford",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Ruigrok",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Gen. Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "1033--1045",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-79-5-1033"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "FRET-based imaging of intracellular ATP in organotypic brain slices",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lerchundi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kafitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Winkler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farfers",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hirrlinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Rose",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Neurosci. Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jnr.24361"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Association of simian virus 40 vp1 with 70-kilodalton heat shock proteins and viral tumor antigens",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Itoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kasamatsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "37--46",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00844-08"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Influenza virus replication raises the temperature of cells",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Maruyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ohtsuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Miyake",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Isogai",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Arai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Honda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Virus Res",
+            "volume": "257",
+            "issn": "",
+            "pages": "94--101",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virusres.2018.09.011"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Stress granules in the viral replication cycle",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Montero",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Trujillo-Alonso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Viruses",
+            "volume": "3",
+            "issn": "",
+            "pages": "2328--2338",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v3112328"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Plat-E: an efficient and stable system for transient packaging of retroviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Morita",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kojima",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kitamura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Gene Ther",
+            "volume": "7",
+            "issn": "",
+            "pages": "1063--1066",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/sj.gt.3301206"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Dynamics of the cellular metabolome during human cytomegalovirus infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Munger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Bajad",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Coller",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shenk",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rabinowitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PLoS Pathog",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.0020132"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Ca 2+ regulation of mitochondrial ATP synthesis visualized at the single cell level",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nakano",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nagai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Noji",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "ACS Chem. Biol",
+            "volume": "6",
+            "issn": "",
+            "pages": "709--715",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/cb100313n"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "De novo synthesis of negative-strand RNA by Dengue virus RNAdependent RNA polymerase in vitro: nucleotide, primer, and template parameters",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nomaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ackermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Padmanabhan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Virol",
+            "volume": "77",
+            "issn": "",
+            "pages": "8831--8842",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.77.16.8831-8842.2003"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Monitoring the progress of infection and recombinant protein production in insect cell cultures using intracellular ATP measurement",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Olejnik",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Czaczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marecik",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Grajek",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jankowski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Appl. Microbiol. Biotechnol",
+            "volume": "65",
+            "issn": "",
+            "pages": "18--24",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00253-003-1550-x"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Challenges of culturing human norovirus in three-dimensional organoid intestinal cell culture models",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Papafragkou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hewitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Greening",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vinj\u00e9",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS One",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0063485"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Dembo polymerase chain reaction technique for detection of bovine abortion, diarrhea, and respiratory disease complex infectious agents in potential vectors and reservoirs",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rahpaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tsuchiaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kishimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Katayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Nunomura",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kokawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kirino",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Okabayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nonaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mekata",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Aoki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shiokawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Umetsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Morita",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hasebe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Otsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Asai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yamaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makino",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Murata",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Abi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Omatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Vet. Sci",
+            "volume": "19",
+            "issn": "",
+            "pages": "350--357",
+            "other_ids": {
+                "DOI": [
+                    "10.4142/jvs.2018.19.3.350"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Metabolic effects of influenza virus infection in cultured animal cells: Intraand extracellular metabolite profiling",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Ritter",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Freund",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Genzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Reichl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMC Syst. Biol",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/1752-0509-4-61"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Japanese encephalitis virus infection initiates endoplasmic reticulum stress and an unfolded protein response",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Virol",
+            "volume": "76",
+            "issn": "",
+            "pages": "4162--4171",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.76.9.4162-4171.2002"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Metabolic differences in hippocampal 'Rett' neurons revealed by ATP imaging",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Toloe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mollajew",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "K\u00fcgler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mironov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Mol. Cell. Neurosci",
+            "volume": "59",
+            "issn": "",
+            "pages": "47--56",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mcn.2013.12.008"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Development of a novel detection system for microbes from bovine diarrhea by real-time PCR",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tsuchiaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Masuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sugimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Komatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nagai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Omatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Furuya",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Oba",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Katayama",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kanda",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Vet. Med. Sci",
+            "volume": "78",
+            "issn": "",
+            "pages": "383--389",
+            "other_ids": {
+                "DOI": [
+                    "10.1292/jvms.15-0552"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "In vivo fluorescent adenosine 5\u2032-triphosphate (ATP) imaging of Drosophila melanogaster and Caenorhabditis elegans by using a genetically encoded fluorescent ATP biosensor optimized for low temperatures",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kishikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Harada",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tsubouchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Noji",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kakizuka",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yokoyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Uemura",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Imamura",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Anal. Chem",
+            "volume": "85",
+            "issn": "",
+            "pages": "7889--7896",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/ac4015325"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Role of initiating nucleoside triphosphate concentrations in the regulation of influenza virus replication and transcription",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Vreede",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gifford",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Brownlee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "6902--6910",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00627-08"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Plaque assay of cytomegalovirus strains of human origin",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Wentworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "French",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "Proc. Soc. Exp. Biol. Med",
+            "volume": "135",
+            "issn": "",
+            "pages": "253--258",
+            "other_ids": {
+                "DOI": [
+                    "10.3181/00379727-135-35031"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Venus/CFP (cyan fluorescent protein) ratio in uninfected BHK-ATeam cells. (A) Comparison of the ratio between living (unfixed) and PFA-fixed cells. (B) The response of ATeam to the varying concentrations of ATP. The plots were curve-fitted with Hill equations with a fixed Hill coefficient of 2; R=(R max \u2212R min )\u00d7[ATP] 2 ([ATP] 2 +Kd 2 )+R min , where R max and R min are the maximum and minimum fluorescence ratios, respectively; and Kd is the apparent dissociation constant. Each point represents mean with S.D. of at least 60 independent cells.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Venus/CFP (cyan fluorescent protein) ratio in manually selected BHK-ATeam cells. (A) BVDV-infected cells. (B) JEVinfected cells. (C) EMCV-infected cells. The BHK-ATeam cells were inoculated with different concentrations of the virus (MOI=1, 3, or 5), formalin-fixed for 10 min, and the Venus/CFP emission ratios were calculated from the images of Venus and CFP channels in individual cells at different time points. Data are shown as the mean \u00b1 S.D., and statistical significance was determined by using Student's t-test versus the control (*P<0.01, **P<0.001, ***P<0.0001). All data are expressed in means with error bars indicating S.D. of at least 50 independent cells. doi: 10.1292/jvms.20-0021",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "The list of viruses used in this study",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "The Venus/CFP (cyan fluorescent protein) ratio in boomerang catcher-analyzed BHK-ATeam cells infected with selected virus for 3 hr More than 60 individual cells per each virus. Data; the mean \u00b1 S.D., Student's t-test between virus infected cells versus the mock (a) P<0.01, b) P<0.001, c) P<0.0001). MOI: Multiplicity of infection, AKV: Akabane virus, BCV: bovine coronavirus, BEV: bovine enterovirus, BPIV3: bovine parainfluenza 3 virus, IBR: infectious bovine rhinotracheitis virus, PTV: porcine teschovirus. doi: 10.1292/jvms.20-0021",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

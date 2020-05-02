@@ -1,0 +1,2033 @@
+{
+    "paper_id": "e095ee645c383c33533d30e9547e05807fa2a60a",
+    "metadata": {
+        "title": "Estimating Impact of Austerity policies in COVID-19 fatality rates: Examining the dynamics of economic policy and Case Fatality Rates (CFR) of COVID-19 in OCED countries",
+        "authors": [
+            {
+                "first": "Dawa",
+                "middle": [],
+                "last": "Sherpa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jawaharlal Nehru University",
+                    "location": {
+                        "settlement": "New Delhi"
+                    }
+                },
+                "email": "dawa0079@gmail.com"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The paper will attempt to estimate factors which determine the variability of case fatality rates of COVID-19 across OCED countries in recent time. The objective of the paper is to estimate the impact of government health policy on fatality rates (Case fatality rates) of COVID-19 in countries while controlling for other demographic and economic characteristics. The analysis is of done using non-parametric regression method, i.e. Quantile regression. The result from quartile regressions analysis shows that a policy of Austerity (health expenditure cuts) significantly increases the mortality rates of COVID-19 in OCED countries. The policy implication of the study is the need for a robust public-funded health system with wider accessibility to deals with a major public health crisis like a COVID-19 pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The contemporary world is facing an unprecedented public health crisis of emerging from Covid-19. Covid-19 has spread to 200 countries and infected 877422 people across the world. Out of total infected people across the globe, nearly 43537 has died, and 185241 has recovered till 1 st April 2020 (CSSE, 2020) . After the outbreak of Covid-19 and declaration of its being Pandemic by WHO, there has been a massive increase in the volume of research on Covid-19 (Heymann & Shindo, 2020; Novel, 2020) . However, most research is limited to clinical perspective including SARS Cov-2 reproduction rate (Liu et al., 2020) , fatality ratio (Onder et al., 2020; Wu & McGoogan, 2020) , asymptotic transmission mode (Bai et al., 2020) and other epidemiological characteristics (Atkeson, 2020; Lipsitch et al., 2020; Remuzzi & Remuzzi, 2020; Rothan & Byrareddy, 2020; Xu et al., 2020) . The countries across the globe have responded with various measures including rapid testing of population, isolating suspected individuals, imposing strict social distancing norms, totally shut down of economic activities in the form of lockdowns (Ebrahim et al., 2020; Kupferschmidt & Cohen, 2020; Tanne et al., 2020; Wong et al., 2020) . The economic impact of Covid-19 for different regions and countries are studied using different (Abiad et al., 2020; Atkeson, 2020; Fernandes, 2020; Hartley & Makridis, 2020; McKibbin & Fernando, 2020; Ruiz Estrada, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 296,
+                    "end": 308,
+                    "text": "(CSSE, 2020)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 460,
+                    "end": 484,
+                    "text": "(Heymann & Shindo, 2020;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 485,
+                    "end": 497,
+                    "text": "Novel, 2020)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 597,
+                    "end": 615,
+                    "text": "(Liu et al., 2020)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 633,
+                    "end": 653,
+                    "text": "(Onder et al., 2020;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 654,
+                    "end": 674,
+                    "text": "Wu & McGoogan, 2020)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 706,
+                    "end": 724,
+                    "text": "(Bai et al., 2020)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 767,
+                    "end": 782,
+                    "text": "(Atkeson, 2020;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 783,
+                    "end": 805,
+                    "text": "Lipsitch et al., 2020;",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 806,
+                    "end": 830,
+                    "text": "Remuzzi & Remuzzi, 2020;",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 831,
+                    "end": 856,
+                    "text": "Rothan & Byrareddy, 2020;",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 857,
+                    "end": 873,
+                    "text": "Xu et al., 2020)",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1123,
+                    "end": 1145,
+                    "text": "(Ebrahim et al., 2020;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1146,
+                    "end": 1174,
+                    "text": "Kupferschmidt & Cohen, 2020;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1175,
+                    "end": 1194,
+                    "text": "Tanne et al., 2020;",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1195,
+                    "end": 1213,
+                    "text": "Wong et al., 2020)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1312,
+                    "end": 1332,
+                    "text": "(Abiad et al., 2020;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1333,
+                    "end": 1347,
+                    "text": "Atkeson, 2020;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1348,
+                    "end": 1364,
+                    "text": "Fernandes, 2020;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1365,
+                    "end": 1390,
+                    "text": "Hartley & Makridis, 2020;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1391,
+                    "end": 1417,
+                    "text": "McKibbin & Fernando, 2020;",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1418,
+                    "end": 1437,
+                    "text": "Ruiz Estrada, 2020)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction:"
+        },
+        {
+            "text": "Review of existing literature on Covid-19 shows the dynamic interplay between the Covid 19 and the country-specific health policy is still missing. This paper attempts to fill this gap by highlighting the interrelationship between the long term structural health policies and the Covid 19 fatality rates among Organisation for Economic Co-operation and Development (OECD) countries 2 . Definition of Austerity policies is a widespread cut on government expenditure which is targeted to reduce government fiscal deficit and enhance economic growth (Konzelmann, 2014; ) . Such a significant reduction in government spending has a disproportionately negative impact on government social sector expenditure (Health, Education, social security etc.) The negative impact of austerity policies in terms of lowering employment, economic growth and increasing inequality is well studied (Blyth, 2013; Krugman, 2015; Stiglitz, 2012; UNCTAD, 2017) . In the post.-2008 crisis period and under the impact of rising debts burdens, many countries in European counties imposed a policy of austerity in 2010. The most severe austerity policies were implemented in Greece, Hungary, Ireland, Latvia, Spain and Portugal (Leschke et al., 2015) . Among the OCED group, there is variation in the extent of reduction in their health expenditure in pursuit of Austerity policies(fiscal consolidation) across countries (Van Gool & Pearson, 2014) . The negative impact of such drastic funding cuts on access to health facilities and health indicators is well documented in many OCED countries (Antonakakis & Collins, 2014; Ayuso-Mateos et al., 2013; Ifanti et al., 2013; Kentikelenis et al., 2014 Kentikelenis et al., , 2014 Kentikelenis et al., , 2014 Loopstra et al., 2016 Loopstra et al., , 2016 McKee et al., 2012 McKee et al., , 2012 Reeves et al., 2014 Reeves et al., , 2014 Ruckert & Labont\u00e9, 2017; Stuckler et al., 2017) . So under the background of such drastic cuts in health expenditure, the papers will evaluate the impact of austerity policies (health expenditure cuts) on fatality rates of Covid-19 after controlling for other socio-demographic characteristics which have a significant impact on fatality rates of covid-19. The fatality rates are measured by crude Case fatality rates (CFC), which is the ratio of confirmed death to confirmed positive cases of covid-19 for each country.",
+            "cite_spans": [
+                {
+                    "start": 547,
+                    "end": 565,
+                    "text": "(Konzelmann, 2014;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 566,
+                    "end": 567,
+                    "text": ")",
+                    "ref_id": null
+                },
+                {
+                    "start": 878,
+                    "end": 891,
+                    "text": "(Blyth, 2013;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 892,
+                    "end": 906,
+                    "text": "Krugman, 2015;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 907,
+                    "end": 922,
+                    "text": "Stiglitz, 2012;",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 923,
+                    "end": 936,
+                    "text": "UNCTAD, 2017)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1200,
+                    "end": 1222,
+                    "text": "(Leschke et al., 2015)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1393,
+                    "end": 1419,
+                    "text": "(Van Gool & Pearson, 2014)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1566,
+                    "end": 1595,
+                    "text": "(Antonakakis & Collins, 2014;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1596,
+                    "end": 1622,
+                    "text": "Ayuso-Mateos et al., 2013;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1623,
+                    "end": 1643,
+                    "text": "Ifanti et al., 2013;",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1644,
+                    "end": 1669,
+                    "text": "Kentikelenis et al., 2014",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1670,
+                    "end": 1697,
+                    "text": "Kentikelenis et al., , 2014",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1698,
+                    "end": 1725,
+                    "text": "Kentikelenis et al., , 2014",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1726,
+                    "end": 1747,
+                    "text": "Loopstra et al., 2016",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1748,
+                    "end": 1771,
+                    "text": "Loopstra et al., , 2016",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1772,
+                    "end": 1790,
+                    "text": "McKee et al., 2012",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1791,
+                    "end": 1811,
+                    "text": "McKee et al., , 2012",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1812,
+                    "end": 1831,
+                    "text": "Reeves et al., 2014",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1832,
+                    "end": 1853,
+                    "text": "Reeves et al., , 2014",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1854,
+                    "end": 1878,
+                    "text": "Ruckert & Labont\u00e9, 2017;",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1879,
+                    "end": 1901,
+                    "text": "Stuckler et al., 2017)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Objective of Research:"
+        },
+        {
+            "text": "The data source for analysis is taken from different data sources. Following is the table providing a list of variable and their data source. The data for analysis is from thirty The analysis of the impact of austerity on covid regression after controlling for all other socio impact on Case fatality rate (Novel, 2020; Onder et al., 2020; Porcheddu et al., 2020; Wu & McGoogan, 2020) . The advantage of quantile regression over norm regression (OLS) regression is that it gives a rich picture of the relationship between variables not only around mean value but across the distribution of variables 2001). It is distribution-free, robust distribution (Baum, 2013 ; Cad Share of the population having diabetic condition above 18",
+            "cite_spans": [
+                {
+                    "start": 306,
+                    "end": 319,
+                    "text": "(Novel, 2020;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 320,
+                    "end": 339,
+                    "text": "Onder et al., 2020;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 340,
+                    "end": 363,
+                    "text": "Porcheddu et al., 2020;",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 364,
+                    "end": 384,
+                    "text": "Wu & McGoogan, 2020)",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 652,
+                    "end": 663,
+                    "text": "(Baum, 2013",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data source and Methodology:"
+        },
+        {
+            "text": "hypertenion18 WHO-Global heath observatory data, 2019",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data source and Methodology:"
+        },
+        {
+            "text": "Share of the population having a high blood pressure condition abo age.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data source and Methodology:"
+        },
+        {
+            "text": "om thirty-six countries 3 from the OECD group. shows that large part of infection and deaths from Co is concentrated in OECD regions only.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data source and Methodology:"
+        },
+        {
+            "text": "the impact of austerity on covid-19 fatality rates is done using regression after controlling for all other socio-demographic characteristics which have an (Novel, 2020; Onder et al., 2020; Porcheddu et al., 2020 ; Wu & The advantage of quantile regression over normal Ordinary least square regression is that it gives a rich picture of the relationship between variables not only around mean value but across the distribution of variables (Koenker & Hallock, free, robust to outliers, capable of modelling entire conditional (Baum, 2013; Cade & Noon, 2003; Yu et al., 2003) . 19 fatality rates is done using Quantile demographic characteristics which have an (Novel, 2020; Onder et al., 2020; Porcheddu et al., 2020; Wu & Ordinary least square regression is that it gives a rich picture of the relationship between variables (Koenker & Hallock, outliers, capable of modelling entire conditional OECD 77% ",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 169,
+                    "text": "(Novel, 2020;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 170,
+                    "end": 189,
+                    "text": "Onder et al., 2020;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 190,
+                    "end": 212,
+                    "text": "Porcheddu et al., 2020",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 440,
+                    "end": 459,
+                    "text": "(Koenker & Hallock,",
+                    "ref_id": null
+                },
+                {
+                    "start": 526,
+                    "end": 538,
+                    "text": "(Baum, 2013;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 539,
+                    "end": 557,
+                    "text": "Cade & Noon, 2003;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 558,
+                    "end": 574,
+                    "text": "Yu et al., 2003)",
+                    "ref_id": null
+                },
+                {
+                    "start": 660,
+                    "end": 673,
+                    "text": "(Novel, 2020;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 674,
+                    "end": 693,
+                    "text": "Onder et al., 2020;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 694,
+                    "end": 717,
+                    "text": "Porcheddu et al., 2020;",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 718,
+                    "end": 722,
+                    "text": "Wu &",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data source and Methodology:"
+        },
+        {
+            "text": "The The average value of public spending in health to GDP variable, publichelathgdp, is 5.95 % and it has a minimum value from 0.9 per cent and the maximum value of 14.4 per cent. The existing clinical research shows that fatality rate of Covid-19 is influenced by the existence of pre-medical complication and the share of older adults in the population (Onder et al., 2020; Wu & McGoogan, 2020) . The crucial demographic variable, population share above 65 years (popu65), has a mean value of 15 per cent and a standard deviation of 5.4. The share of the population having hypertension (above 18 years age) has a minimum value of 13 % and a maximum value of 38.2 %.",
+            "cite_spans": [
+                {
+                    "start": 355,
+                    "end": 375,
+                    "text": "(Onder et al., 2020;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 376,
+                    "end": 396,
+                    "text": "Wu & McGoogan, 2020)",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis:"
+        },
+        {
+            "text": "b. Quantile Regression: Table 3 shows the result of Quantile regression. The first model has a case fatality rate from March 30 as the dependent variable. In the second model, the dependent variable is the threeday median case fatality rate. The result from both models shows that the coefficient of the dummy variable for high fund cut has a positive impact on CFR and is significant at one per cent level of significance. The result shows that a country which has a history of drastic health fund cut is increasing the fatality rates from covid-19. Similarly, the coefficient of the variable of public health GDP is negative and significant at one per cent level of significance.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 24,
+                    "end": 31,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Statistical Analysis:"
+        },
+        {
+            "text": "It shows that countries which have a higher share of the public-funded health system have a lower case fatality rate. The impact of good health infrastructure (measured by bed per 1000 population and doctor per 1000 population) on case fatality rates is negative. As expected in exiting literature higher population having a higher old age has higher fatality rates. Also, the higher share of preexisting medical condition in the overall population, higher is the fatality rate from COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis:"
+        },
+        {
+            "text": "The presence of model specification error is done using the link test. If the regression model does not contain specification error, then the variable _hatsq will be statistically insignificant. Table 4 shows the result of the link test for Model -1. The P-value of variable _hatsq is 0.16, and hence it is statistically insignificant. So model-1 does not contain specification error. Similarly, the link test result of model-2 also shows that variable _hatsq is not statistically significant. Hence model-2 does not contain specification error.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 195,
+                    "end": 202,
+                    "text": "Table 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Table 4: Model Specification Test: Link Test of Model-1"
+        },
+        {
+            "text": "In order to gets idea about coefficient of Quantile regression of independent variables across quantile of case fatality rates following two figure has been calculated using the Azevedo method (Azevedo, 2011) . It shows how the impact of each independent variable varies across quantiles. . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 193,
+                    "end": 208,
+                    "text": "(Azevedo, 2011)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Table 4: Model Specification Test: Link Test of Model-1"
+        },
+        {
+            "text": "The copyright holder for this preprint . https: //doi.org/10.1101 //doi.org/10. /2020 The coefficient of the public fund on health to GDP variable is negative( except for the first quantile) across the distribution of case fatality ratio. expenditure on health reduces fatality rates of Covid-19. The coefficient of doctor per 1000 population is negative across the distribution of case fatality ratio (except for the second quantile). The coefficient of hospital bed per 1000 population is negative across the distribution of case fatality ratio (except till the fourth quantile).",
+            "cite_spans": [
+                {
+                    "start": 48,
+                    "end": 65,
+                    "text": "//doi.org/10.1101",
+                    "ref_id": null
+                },
+                {
+                    "start": 66,
+                    "end": 85,
+                    "text": "//doi.org/10. /2020",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "The result from the Quantile regression analysis shows that country which has pursued austerity policies has significantly higher fatality rates from COVID-19 after controlling for all other socio-demographic factors which influence case fatality rate of COVID-19. Higher public funding share, higher doctors per population, higher bed availability is associated with lower fatality rates from COVID-19. A higher share of the population with pre-medical conditions (diabetics, hypertension) and older age population increase fatality rates. So the policies of austerity (at least in terms of reduction in health expenditure) can significantly worsen health system ability to fight pandemic live COVID-19 and can lead to a severe negative health outcome. The policy implication of the study is the need for a robust publicfunded health system with wider accessibility to deals with a major public health crisis like a covid-19 pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The Economic Impact of the COVID-19 Outbreak on Developing Asia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Abiad",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Dagli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The impact of fiscal austerity on suicide: On the empirics of a modern Greek tragedy",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Antonakakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Social Science & Medicine",
+            "volume": "112",
+            "issn": "",
+            "pages": "39--50",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "What Will Be the Economic Impact of COVID-19 in the US? Rough Estimates of Disease Scenarios",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Atkeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "National Bureau of Economic Research",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Financial crisis, austerity, and health in Europe",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ayuso-Mateos",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Barros",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gusm\u00e3o",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "The Lancet",
+            "volume": "382",
+            "issn": "9890",
+            "pages": "391--392",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "grqreg: Stata module to graph the coefficients of a quantile regression",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Azevedo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Presumed asymptomatic carrier transmission of COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D.-Y",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Quantile regression",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Baum",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "13 COVID-19: Europe needs a catastrophe relief plan. Mitigating the COVID Economic Crisis: Act Fast and Do Whatever",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "B\u00e9nassy-Qu\u00e9r\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pisani-Ferry",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Reichlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schoenmaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Weder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Austerity: The history of a dangerous idea",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Blyth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "A gentle introduction to quantile regression for ecologists",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cade",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Noon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Frontiers in Ecology and the Environment",
+            "volume": "1",
+            "issn": "8",
+            "pages": "412--420",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Coronavirus COVID-19 Global Cases by the",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Csse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "COVID-19-New insights on a rapidly changing epidemic",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Del Rio",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Malani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Covid-19 and community mitigation strategies in a pandemic",
+            "authors": [],
+            "year": null,
+            "venue": "British Medical Journal Publishing Group",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Economic effects of coronavirus outbreak (COVID-19) on the world economy. Available at SSRN 3557504",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Fernandes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Forecasting County-level Real GDP Effects of COVID-19",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hartley",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Makridis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "COVID-19: What is next for public health? The Lancet",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heymann",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shindo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "542--545",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Financial crisis and austerity measures in Greece: Their impact on health promotion policies and public health care",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ifanti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Argyriou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kalofonou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kalofonos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Health Policy",
+            "volume": "113",
+            "issn": "1-2",
+            "pages": "8--12",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Greece's health crisis: From austerity to denialism",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kentikelenis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karanikolos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mckee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stuckler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "The Lancet",
+            "volume": "383",
+            "issn": "9918",
+            "pages": "748--753",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Quantile regression",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Koenker",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hallock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of Economic Perspectives",
+            "volume": "15",
+            "issn": "4",
+            "pages": "143--156",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The political economics of austerity",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Konzelmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Cambridge Journal of Economics",
+            "volume": "38",
+            "issn": "4",
+            "pages": "701--741",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The austerity delusion. The Guardian",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Krugman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "29",
+            "issn": "",
+            "pages": "31--34",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Can China's COVID-19 strategy work elsewhere?",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kupferschmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Towards 'Europe 2020'? Austerity and new economic governance in the EU. Edited By",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Leschke",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Theodoropoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Watt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Defining the epidemiology of Covid-19-Studies needed",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Swerdlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gayle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rockl\u00f6v",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Travel Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Austerity and old-age mortality in England: A longitudinal cross-local area analysis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Loopstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mckee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Katikireddi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Taylor-Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Barr",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stuckler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Journal of the Royal Society of Medicine",
+            "volume": "109",
+            "issn": "3",
+            "pages": "109--116",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Austerity: A failed experiment on the people of Europe",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mckee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karanikolos",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Belcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stuckler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Clinical Medicine",
+            "volume": "12",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "3 The economic impact of COVID-19",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mckibbin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fernando",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Economics in the Time of COVID-19",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "The global macroeconomic impacts of COVID-19: Seven scenarios",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mckibbin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fernando",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "P E R E"
+                    ],
+                    "last": "Novel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Liu Xing Bing Xue Za Zhi= Zhonghua Liuxingbingxue Zazhi",
+            "volume": "41",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Case-fatality rate and characteristics of patients dying in relation to COVID-19 in Italy",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Onder",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rezza",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brusaferro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Similarity in Case Fatality Rates (CFR) of COVID-19/SARS-COV-2 in Italy and China",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Porcheddu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Serra",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kelvin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kelvin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rubino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Journal of Infection in Developing Countries",
+            "volume": "14",
+            "issn": "02",
+            "pages": "125--128",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "The political economy of austerity and healthcare: Cross-national analysis of expenditure changes in 27 European nations",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mckee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Basu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stuckler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Health Policy",
+            "volume": "115",
+            "issn": "1",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "COVID-19 and Italy: What next? The Lancet",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rothan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Byrareddy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Autoimmunity",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Health inequities in the age of austerity: The need for social protection policies",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ruckert",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Labont\u00e9",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Social Science & Medicine",
+            "volume": "187",
+            "issn": "",
+            "pages": "306--311",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Economic Waves: The Effect of the Wuhan COVID-19 On the World Economy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ruiz Estrada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Available at SSRN 3545758",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Austerity-Europe's man-made disaster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stiglitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Social Europe Journal",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Austerity and health: The impact in the UK and Europe",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stuckler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Loopstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Karanikolos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mckee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "European Journal of Public Health",
+            "volume": "27",
+            "issn": "suppl_4",
+            "pages": "18--21",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Covid-19: How doctors and healthcare systems are tackling coronavirus worldwide",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tanne",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hayasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zastrow",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pulla",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Bmj",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Trade and Development Report 2017-Beyond austerity: Towards a global New Deal. United Nations New York and Geneva",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Health, austerity and economic crisis",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Van Gool",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pearson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Response to COVID-19 in Taiwan: Big data analytics, new technology, and proactive testing",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Brook",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "COVID-19 in Singapore-current experience: Critical global issues that require attention and action",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Leo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: Summary of a report of 72 314 cases from the Chinese Center for Disease Control and Prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Open access epidemiological data from the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Kraemer",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mekaru",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sewalk",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Loskill",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cohn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hill",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zarebski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Estimation of the time-varying reproduction number of COVID-19 outbreak in China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Pang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X.-H",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Distribution of Infection and Deaths from COVID Data source: Data Repository by Johns Hopkins CSSE Moreover, the figure1 (a, b) shows that the world is concentrated in OECD",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Fig 1. a. Share of OECD groups in confirmed deaths of COVID the World (30/3/2020)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Distribution of Infection and Deaths from COVID-19 in the World Data Repository by Johns Hopkins CSSE",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": ". a. Share of OECD groups in confirmed deaths of COVID-19 in the World (30/3/2020) b. Share of OECD groups in confirmed Infection of COVID in the World (30/3/2020) of infection and deaths from Covid-19 in",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "b. Share of OECD groups in confirmed Infection of COVID-19in the World (30/3/2020)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "The coefficients of a Quantile Regression (Model-1)Figure 1and 2 shows that the coefficient of Dummy variable (for health fund cut) of Quantile regression is positive and increases across quantiles of case fatality ratio. Only for the third quantile, the coefficient is negative. So the impact of Austerity is positive on Case fatality rate of Covid-19 except for the third quantile.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "The coefficients of a Quantile Regression(Model-2)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Data labelling and Data source",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Result of the Quantile Regression",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Model Specification Test: Link Test of Model-2",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "It indicates that higher public",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

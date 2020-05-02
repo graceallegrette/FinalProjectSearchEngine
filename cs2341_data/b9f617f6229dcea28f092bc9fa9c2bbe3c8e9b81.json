@@ -1,0 +1,618 @@
+{
+    "paper_id": "b9f617f6229dcea28f092bc9fa9c2bbe3c8e9b81",
+    "metadata": {
+        "title": "Treatment of COVID-19: old tricks for new challenges",
+        "authors": [
+            {
+                "first": "Anne",
+                "middle": [
+                    "Catherine"
+                ],
+                "last": "Cunningham",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hui",
+                "middle": [
+                    "Poh"
+                ],
+                "last": "Goh",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [],
+                "last": "Koh",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Passive immunization has been successfully used to treat infectious diseases. A meta-analysis demonstrated a significant reduction in mortality and viral load in studies using convalescent plasma for the treatment of severe acute viral respiratory infections, including those caused by related coronaviruses (SARS-CoV and MERS-CoV) [5] . Serious adverse events were not reported. Eighty SARS patients were treated with convalescent plasma during the last major outbreak. A significantly better outcome was obtained with earlier transfusion (before day 14), and no immediate adverse events were observed.",
+            "cite_spans": [
+                {
+                    "start": 332,
+                    "end": 335,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A feasibility intervention study of convalescent plasma for MERS-CoV infection treatment failed to identify sufficient high-titer plasma from patients with confirmed/suspected MERS, their close family members, or healthcare workers exposed to MERS (n = 12 reactive ELISA/443 serum tested). Two fresh-frozen plasma units (250-350 mL/unit) would be required for each enrolled MERS patient (NCT02190799). Anti-viral > 85% of patients received anti-viral agents, including oseltamivir (75 mg every 12 h orally), ganciclovir (0.25 g every 12 h intravenously), and lopinavir/ritonavir tablets (400/100 mg twice daily). Remdesivir is currently under trials at more than ten medical institutions in Wuhan and has been known to prevent MERS-CoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "[1]",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Anti-malarial An old anti-malarial, chloroquine phosphate, has been effective in inhibiting the exacerbation of pneumonia due to its anti-viral and anti-inflammatory activities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "[3]",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Herbal treatments",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "There was widespread use of Traditional Chinese Medicine during the last SARS-COV outbreak and it is currently being used in China. The five most commonly used herbs were Astragali Radix (Huangqi), Glycyrrhizae Radix Et Rhizoma (Gancao), Saposhnikoviae Radix (Fangfeng), Atractylodis Macrocephalae Rhizoma (Baizhu), and Lonicerae Japonicae Flo.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Encouragingly, anti-MERS CoV titers measured by ELISA correlated with microneutralization (MN) assays [6] . There are currently over 30,000 recovered COVID-19 patients, who could present a valuable resource of convalescent plasma for health care providers. China National Biotec Group Co has claimed that 10 seriously ill patients receiving this immunoglobulin therapy demonstrated improved oxygenation and reduced inflammation and viral load [7] . High-titer specific antibodies should be able to bind to SARS-CoV-2 and neutralize the viral particles, block access to uninfected cells, and activate potent effector mechanisms (e.g., complement activation and phagocytosis).",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 105,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 443,
+                    "end": 446,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "[4]"
+        },
+        {
+            "text": "It should be noted that treatment with human immunoglobulin has been associated with significantly increased same-day thrombotic event risk (0.04 to 14.9%) [8] .",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 159,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Potential risks and ethical considerations"
+        },
+        {
+            "text": "These data indicate the potential value of evaluating the effectiveness of early intervention therapy with convalescent plasma or SARS-CoV-2-specific hyperimmune globulin in patients with acute respiratory disease in this outbreak. Given the lack of knowledge on the basic biology of SARS-CoV-2, including virus variability and mutation, plasma collected locally may better reflect the circulating virus in the population and could be a valid treatment option.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Potential risks and ethical considerations"
+        },
+        {
+            "text": "Other issues to be considered include the lack of highquality studies and the need for adequate selection of donors with high neutralizing antibody titers. It is also important to ensure that the production and the use of convalescent plasma take place according to precise ethical and controlled conditions for a possible role of these products of human origin [9] .",
+            "cite_spans": [
+                {
+                    "start": 362,
+                    "end": 365,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Potential risks and ethical considerations"
+        },
+        {
+            "text": "In the absence of definitive management protocols, many treatment regimes have been explored in the treatment of COVID-19. Some of these treatments may have been tried out of desperation, and among these, some show initial promise. However, it is too early to see any published results of rigorous clinical trials.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Using the serum of recovered patients is a tried and tested approach, and trials are underway to study its effectiveness. This treatment appears to be helpful in the short term until definitive and effective treatments are found.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID-19): The epidemic and the challenges",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ko",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hsueh",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijantimicag.2020.105924"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Critical care response to a hospital outbreak of the 2019-nCoV infection in Shenzhen",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Crit Care",
+            "volume": "24",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/ccforum.biomedcentral.com/articles/10.1186/s13054-020-2786-.%20%5bcited%202020%20Feb%2023%5d"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Breakthrough: chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biosci Trends",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Can Chinese medicine be used for prevention of corona virus disease 2019 (COVID-19)? A review of historical classics, research evidence and current prevention programs",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q-L",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-X",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-B",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yang",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin J Integr Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mair-Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saavedra-Campos",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kenneth",
+                    "middle": [],
+                    "last": "Baillie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cleary",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Khaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "F-M",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Feasibility of using convalescent plasma immunotherapy for MERS-CoV infection, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hajeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Luke",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Raviprakash",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Balkhy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Johani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "1554--61",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "China Seeks Plasma From Recovered Patients to Treat Virus | Time",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Hyperimmune globulins and same-day thrombotic adverse events as recorded in a large healthcare database during",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Menis",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sridhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Selvam",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Ovanesov",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Divan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Am J Hematol",
+            "volume": "88",
+            "issn": "",
+            "pages": "1035--1075",
+            "other_ids": {
+                "DOI": [
+                    "http:/doi.wiley.com/10.1002/ajh.23559"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Convalescent plasma: new evidence for an old therapeutic tool?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Marano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vaglio",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pupella",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Facco",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Catalano",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Liumbruno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Blood Transfus",
+            "volume": "14",
+            "issn": "",
+            "pages": "152--159",
+            "other_ids": {
+                "DOI": [
+                    "10.2450/2015.0131-15"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Rashidah Sa'adatul Bolkiah (PAPRSB), Institute of Health Sciences, Universiti Brunei Darussalam, Jalan Tungku Link, Gadong BE1410, Brunei Full list of author information is available at the end of the article",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Potential treatment options of COVID-19",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "None",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions AC highlighted the potential use of immune plasma for treatment and drafted the MS. HPG contributed to the discussion and revised and formatted the MS. DK is leading the research on COVID-19 Pandemic Preparedness and contributed to the discussion and revised the draft. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "David Koh is a Distinguished Professor of Occupational Health and Medicine, Anne Catherine Cunningham is an Associate Professor of Immunology, and Hui Poh Goh is a lecturer in Pharmacy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' information"
+        },
+        {
+            "text": "Availability of data and materials Not applicable Ethics approval and consent to participate Not applicable",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding None"
+        },
+        {
+            "text": "The authors declare that they have no competing interests. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

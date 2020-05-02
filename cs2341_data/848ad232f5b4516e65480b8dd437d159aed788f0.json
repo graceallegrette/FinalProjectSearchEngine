@@ -1,0 +1,261 @@
+{
+    "paper_id": "848ad232f5b4516e65480b8dd437d159aed788f0",
+    "metadata": {
+        "title": "Article history: Coronavirus Disease-19: The First 7,755 Cases in the Republic of Korea COVID-19 National Emergency Response Center, Epidemiology and Case Management Team, Korea Centers for Disease Control and Prevention*",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Only a few weeks after the first case of coronavirus disease 2019 (COVID-19) was reported in Wuhan, China, the first case of COVID-19 was confirmed in the Republic of Korea on January 20 th , 2020 [1] . International travel has facilitated the spread of COVID-19 throughout the world. As of March 13 th , 2020, 118 countries, territories, and areas have reported COVID-19 cases, however, differences in patterns and intensity of transmission ranges were observed [2] . In February and early March in Korea, a sharp increase in the number of COVID-19 cases were observed, with most infections in specific clusters and geographical regions.",
+            "cite_spans": [
+                {
+                    "start": 197,
+                    "end": 200,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 463,
+                    "end": 466,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Based on the surveillance data, we report the basic epidemiological characteristics of COVID-19 to examine the early course of the pandemic. Furthermore, factors associated with COVID-19 cases and fatality were investigated to provide information on a vulnerable part of the population to guide public health prioritization.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "key indicators such as estimated duration of exposure, date of onset of symptoms, and route of transmission were identified by field epidemiological investigators [1] . It must be noted that the data presented in this summary may change depending on the results of further epidemiological investigations.",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 166,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "As of March 12 th , 2020, a total of 7,755 laboratory-confirmed cases of COVID-19 and 66 deaths were recorded in Korea, giving a case fatality proportion of 0.9% (Table 1 The outbreak generally began with the younger age group, followed by the elderly population.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 162,
+                    "end": 170,
+                    "text": "(Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "There were 66 laboratory-confirmed fatal cases of COVID-19, as of March 12 th , 2020 ( ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The analysis of the first 7,755 cases of COVID-19 in Korea showed an initial increase in cases in specific geographical regions, comparable to the epidemiological situation in China and Italy [4, 5] . In Korea, despite a sharp decline in the number ",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 195,
+                    "text": "[4,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 196,
+                    "end": 198,
+                    "text": "5]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The authors have no conflicts of interest to declare.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflicts of Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Epidemiology and Case Management Team, Korea Centers for Disease Control and Prevention. Early Epidemiological and Clinical Characteristics of 28 Cases of Coronavirus Disease in South Korea",
+            "authors": [],
+            "year": 2020,
+            "venue": "Osong Public Health Res Perspect",
+            "volume": "11",
+            "issn": "1",
+            "pages": "8--14",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "World Health Organization",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "COVID-19) Situation Report -52",
+            "authors": [],
+            "year": null,
+            "venue": "Coronavirus disease 2019",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "National Infectious Diseases Surveillance data of South Korea",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Epidemiol Health",
+            "volume": "36",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "First cases of coronavirus disease 2019 (COVID-19) in the WHO European Region",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Spiteri",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fielding",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Diercke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Age distribution and sex ratio of the first 7,755 cases of laboratory-confirmed coronavirus disease-19, as of March 12 2020, Republic of Korea.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Age-specific epidemic curve of laboratory-confirmed coronavirus disease-19 cases by date of symptom onset, as of March 7, 2020, Republic of Korea. Provisional data for date of symptom onset.onset may change depending on further epidemiological investigation, and delayed reporting of cases.Figure 2",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "depicts an epidemic curve by different regions of Korea: the nationwide, Daegu, Gyeongbuk, and others (outside Daegu and Gyeongbuk). From mid-February, an increased number of cases were reported with a peak in late February and early March.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "shows the age distribution and sex ratio among Daegu, Gyeongbuk, and others regions. Note the increased proportion of cases in 20-29 years and in females among cases in Daegu and Gyeongbuk. Fatal cases of COVID-19 in Korea, as of March 12 th , 2020 are shown in Tables 2 and 3. Case fatality proportion was the highest among people aged \u2265 80 years in Daegu, followed by those aged 70-79 years in Daegu, and elderly persons \u2265 80 years old in Gyeongbuk. Overall case fatality proportion in Daegu and Gyeongbuk were 0.8% and 1.4%, which were higher than that in other regions with 0.4%. Figure 4 depicts agespecific epidemic curve stratified as 0-59 years and \u2265 60 years.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "The epidemic curves presented inFigures 1 and 2were generated using National Notifiable Disease Surveillance System (NNDSS) data. Epidemic curves by date of onset preceded epidemic curves by date of diagnosis, by a few days or a week (Figure 1). It must be noted that the date of symptomFigure 1. Epidemic curve of laboratory-confirmed coronavirus disease-19 by date of symptom onset and by date of diagnosis, as of March 7, 2020, Republic of Korea. Provisional data for date of symptom onset. Table 1. Demographics and case fatality proportion of the first 7,755 laboratory-confirmed COVID-19 cases, as of March 12 th 2020, Republic of Korea.Figure 2. Epidemic curve of laboratory-confirmed coronavirus disease-19 cases by date of symptom onset, as of March 7, 2020, Republic of Korea. Provisional data for date of symptom onset.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Number of deaths and case fatality proportion for laboratory-confirmed COVID-19 cases by geographic region, as of March 12 th 2020, Republic of Korea.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Fatal cases (n = 66) of laboratory-confirmed COVID -19 cases, as of March 12 th 2020, Republic of Korea. suggest that the patient outcome differed markedly between the geographic regions, highlighting the magnitude of surge of cases and access to hospitalization. The difference in age distribution of COVID-19 cases compared with China may reflect active surveillance of a cluster of religious groups tied to the outbreak. A summary of the epidemiological characteristics of the first 7,755 COVID-19 cases in Korea confirms the contagiousness of COVID-19 that led to a nationwide outbreak in a few weeks. Triaging patients for hospitalization, social distancing (to reduce the number of contacts), and reporting the outbreak amongst vulnerable people in the population may have played a role in the recent decline in cases of COVID-19. However, in the initial response to COVID-19, quarantine, early detection, and isolation of suspected cases of COVID-19, may have contributed to lowering the wave of this epidemic in other parts of Korea. More severe cases were reported in the elderly with existing comorbidities, which warrants clear triage management and a high-risk approach in healthcare access prioritization. COVID-19 does not appear to be fatal among young adults and children, however their role in disease transmission should be further assessed. This summary may help in the understanding of early phase disease dynamics for the COVID-19 outbreak, and guide future public health measures in other countries.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank the relevant ministries, including the Ministry of Interior and Safety, Si/Do and Si/Gun/Gu, medical staffs in health centers, and medical facilities for their efforts in responding to the COVID-19 outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

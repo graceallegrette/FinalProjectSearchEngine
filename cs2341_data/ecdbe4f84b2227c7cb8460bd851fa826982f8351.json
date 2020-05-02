@@ -1,0 +1,1556 @@
+{
+    "paper_id": "ecdbe4f84b2227c7cb8460bd851fa826982f8351",
+    "metadata": {
+        "title": "Can N95 respirators be reused after disinfection? And for how many times?",
+        "authors": [
+            {
+                "first": "Lei",
+                "middle": [],
+                "last": "Liao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "4C Air, Inc",
+                    "location": {
+                        "settlement": "Sunnyvale",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wang",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "4C Air, Inc",
+                    "location": {
+                        "settlement": "Sunnyvale",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mervin",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "4C Air, Inc",
+                    "location": {
+                        "settlement": "Sunnyvale",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xuanze",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "4C Air, Inc",
+                    "location": {
+                        "settlement": "Sunnyvale",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Haotian",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qiqi",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "4C Air, Inc",
+                    "location": {
+                        "settlement": "Sunnyvale",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Steven",
+                "middle": [],
+                "last": "Chu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "4C Air, Inc",
+                    "location": {
+                        "settlement": "Sunnyvale",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Cui",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Stanford University",
+                    "location": {
+                        "settlement": "Stanford",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The Coronavirus Disease 2019 pandemic has led to a major shortage of N95 respirators, which protect healthcare professionals and the public who may come into contact with the virus. It is necessary to determine the conditions that would allow the safe reuse respirators and personal protection in this crisis. We found that heating (<100 \u00b0C) under various humidities (up to 100% RH at 75 \u00b0C) and ultraviolet (UV) irradiation were the most promising candidates for mask reuse in the modern hospital infrastructure (up to 20 cycles), when tested on a fabric with particle filtration efficiency \u226595%. Treatments involving certain liquids and vapors may require caution, as steam, alcohol, and bleach all led to degradation in filtration efficiency, leaving the user vulnerable to viral aerosols.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "COVID-19 is an ongoing pandemic with nearly a million confirmed cases and with new cases increasing by ~10% per day (at the time of writing) 1 , that has caused major disruptions to nearly all facets of everyday life around the world. The disease is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which was first detected in Wuhan, China [2] [3] [4] [5] . The virus is thought to be of zoonotic origin, sharing 96% of its genome with the bat coronavirus BatCoV RaTG13, and like the SARS-CoV, enters human cells via the angiotensinconverting enzyme 2 (ACE2). ACE2 is a membrane protein that is an entry point for coronaviruses found in the lungs, heart, kidneys, and intestines that is responsible for regulating vasoconstriction and blood pressure. It was found that the SARS-CoV-2 utilizes the ACE2 more efficiently than SARS-CoV, which may explain why the human-to-human transmissibility of the virus is so high 6, 7 .",
+            "cite_spans": [
+                {
+                    "start": 367,
+                    "end": 370,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 375,
+                    "end": 378,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 379,
+                    "end": 382,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 943,
+                    "end": 945,
+                    "text": "6,",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Once infected, the patient will exhibit flu-like symptoms such as fever, chest tightness, dry cough, and in some cases development into severe pneumonia and acute respiratory distress syndrome (ARDS) 3, [8] [9] [10] . As the incubation period is around 3-4 days but can be as long as 20 days, along with the presence of asymptomatic carriers, the virus has been extremely difficult to contain 11 . While the initial mortality rate was estimated to be around 3.5% in China, compounding the longer incubation period and testing delays has led to new global estimates of around 5.7% 12 .",
+            "cite_spans": [
+                {
+                    "start": 200,
+                    "end": 202,
+                    "text": "3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 203,
+                    "end": 206,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 207,
+                    "end": 210,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 211,
+                    "end": 215,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "While the exact mode SARS-CoV-2's viral transmission is not known, a primary mode in viruses such as SARS and influenza is known to be through short-range aerosols and droplets 13, 14 . When a person infected with a virus breathes, speaks, sings, coughs, or sneezes micron sized aerosols containing the virus are released into the air. Data gathered from influenza patients suggest that these aerosols are typically fine (<5 \u03bcm, at times <1 \u03bcm) or coarse (>5 \u03bcm) [14] [15] [16] . For these coarse particles, they can typically settle due to gravity within an hour. However, fine particles, especially smaller than 1 \u03bcm can essentially stay nearly indefinitely in the air. As particles >10 \u03bcm settle very rapidly, these droplets are not typically deposited in the respiratory tract through means of aerosol inhalation. Particles >5 \u03bcm typically will only reach the upper respiratory tract, and fine particles <5 \u03bcm are critically able to reach the lower respiratory tract, similar to harmful particulate matter pollution ( Figure 1 ). While it is commonly believed that coughing and sneezing provide the most likely airborne vector, the size distribution and number of particles emitted during in normal speech serve as a significant viral transmitter 15 . Singing has been found to be comparable to continuous coughing in the transmission of airborne pathogens 17 . Anecdotal support of this finding was unfortunately demonstrated during a choir practice on March 10, 2020 in Washington State. Although the choir members did not touch each other or share music during the rehearsal, 45 out of the 60 members of the Skagit Valley Choir were diagnosed with the virus three weeks later, and two have deceased. For dangerous airborne particulates, including viral aerosols during the current COVID-19 pandemic, the United States Centers for Disease Control and Prevention (CDC) recommends the usage of N95 filtering facepiece respirators (FFR) as personal protective equipment for healthcare professionals [18] [19] [20] . The N95 grade is determined by the CDC's National Institute of Occupational Safety and Health (NIOSH) (document 42 CFR Part 84) which designates a minimum filtration efficiency of 95% for 0.3 \u03bcm (aerodynamic mass median diameter) of sodium chloride aerosols. In addition to N95, there are N99 and N100 which correspond to filtration efficiencies of 99% and 99.97%, respectively. For oil-based aerosols (DOP), NIOSH also has created grades R and P (with filtration efficiencies 95-99.97%). Elsewhere around the globe, the equivalent filtration grades to N95 are FFP2 (European Union), KN95 (China), DS/DL2 (Japan), and KF94 (South Korea). While the actual SARS-CoV-2 virus is around 150 nm 21 , commonly found N95 respirators can offer protection against particles as small as 80 nm 22 with 95% filtration efficiency (initial testing, not loaded). With the actual viral aerosols in the ~1 \u03bcm range, the N95 FFRs' filtration efficiency should be sufficient for personal protection.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 180,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 463,
+                    "end": 467,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 468,
+                    "end": 472,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 473,
+                    "end": 477,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2002,
+                    "end": 2006,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2007,
+                    "end": 2011,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2012,
+                    "end": 2016,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1022,
+                    "end": 1030,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint Figure 2 . Meltblown fabrics in N95 FFRs a. Peeling apart a representative N95 FFR reveals multiple layers of nonwoven materials. b. SEM cross section image reveals the middle meltblown layer has thinner fibers with thickness around 300 \u03bcm. c. SEM image of meltblown fibers reveals a complicated randomly-oriented network of fibers, with diameters in the range of ~1-10 \u03bcm. d. Schematic illustration of meltblown fibers without (left) and with (right) electret charging. In the left figure, smaller particles are able to pass through to the user, but particles are electrostatically captured in the case of an electret (right).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 144,
+                    "end": 152,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The N95 FFR is comprised of multiple layers of, typically, polypropylene nonwoven fabrics ( Fig. 2a) 23, 24 . Among these layers, the most critical of which is that produced by the meltblown process. In typical FFRs, the meltblown layer is 100-1000 \u03bcm in thickness, comprised of polypropylene microfibers with a diameter in the range of ~1-10 \u03bcm, as seen in the scanning electron microscope (SEM) images in Fig. 2b -c. Due to the production method, meltblown fibers produce a very lofty nonwoven where the fibers can stack and create a 3D network that has a porosity of 90% 25 , leading to very high air permeability.",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 104,
+                    "text": "23,",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 92,
+                    "end": 100,
+                    "text": "Fig. 2a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 407,
+                    "end": 414,
+                    "text": "Fig. 2b",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "However, given that the fiber diameters are relatively small, and the filters' void space is large, the filtration efficiencies of meltblown fabrics by themselves should not be adequate for fine particle filtration (Fig. 2d) . To improve the filtration efficiency while keeping the same high air permeability, these fibers are charged through corona discharge and/or triboelectric means into quasi-permanent dipoles called electrets 26, 27 . Once they are charged, the filter can significantly increase its filtration efficiency without adding any mass or density to the structure (Fig. 2d ). In addition, while other filter media may decrease in efficiency when loading the filter with more aerosol (NaCl, DOP), the meltblown electrets are able to keep a relatively consistent efficiency throughout the test 28 .",
+            "cite_spans": [
+                {
+                    "start": 433,
+                    "end": 436,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 437,
+                    "end": 439,
+                    "text": "27",
+                    "ref_id": null
+                },
+                {
+                    "start": 809,
+                    "end": 811,
+                    "text": "28",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 215,
+                    "end": 224,
+                    "text": "(Fig. 2d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 581,
+                    "end": 589,
+                    "text": "(Fig. 2d",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The COVID-19 pandemic has led to a significant shortage of N95 FFRs 29 , especially amongst healthcare providers. Though the virus will eventually become inactive on the mask surface and it is unlikely to fully penetrate to the user's intake side, a recent study shows that it required 72 hours for the concentration of SARS-CoV-1 and SARS-CoV-2 viruses on plastic surfaces (40% RH and 21-23 \u00b0C) to be reduced by 3 orders of magnitude (from 10 3.7 to 10 0.6 TCID50 per milliliter of medium) 30 . Assuming a similar longevity on FFR surfaces, it is important to develop procedures for the safe and frequent re-use of FFRs without reducing the filtration efficiency. The CDC has recommended many disinfection or sterilization methods, typically involving chemical, radiative, or temperature treatments 31 . In brief, we can summarize the mechanism of disinfection or sterilization of bacteria and viruses as among the following: protein denaturation (alcohols, heat), DNA/RNA disruption (UV, peroxides, oxidizers), cellular disruption (phenolics, chlorides, aldehydes). While none of these methods have been extensively evaluated for SARS-CoV-2 inactivation specifically, we tested methods that can be easily deployed within a hospital setting with relatively high throughput for FFR reuse.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Among the CDC forms of disinfection, we chose five commonly used methods: 1) heat under various humidities (heat denaturation inactivates SARS-CoV with temperatures >65 \u00b0C in solution, potentially the SARS-CoV-2 with temperatures >70 \u00b0C) 32-34 , 2) steam (100 \u00b0C heat based denature), 3) 75% alcohol (denaturing of the virus, based on the CDC), 4) household diluted chlorine-based solution (oxidative or chemical damage, based on the CDC), and 5) ultraviolet germicidal irradiation (UVGI was able to inactivate the SARS-CoV in solution with UV-C light at a fluence of ~3.6 J/cm 2 ) 32 . We applied these treatments (see methods for details) to a meltblown fabric (20 g/m 2 ) that has an initial efficiency of \u226595%, which may be integrated into N95 FFRs. We evaluated the filtration efficiency and pressure drop of these treated fabrics via industry standard equipment, Automated Filter Tester 8130A (TSI), with a flow rate of 32 L/min. A change in the filtration efficiency of the meltblown fabric can result from physical damage or static charge degradation, while a pressure drop change would suggest that the porosity or degree of loftiness has been altered.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The data after one cycle treatment of the aforementioned methods is given in Table 1 . We chose 75 \u2103 due to the presence of blanket warming ovens in hospital environments that can reach ~80 \u2103. Microwaving was not considered as many facemasks contain metals which may spark and melt the FFR. From the first disinfection, we can clearly note that the solution-based methods (ethanol and chlorine-based solution) drastically degraded the filtration efficiency while the pressure drop remained comparable. This most likely indicates that the physical structure of the filters was not altered (Supplementary Figure S1 ), but the quasi-permanent polarization state of the electret may be altered. It is hypothesized in the literature that small molecules such as solvents can permeate into the fabric and liberate the charge traps or frozen charges of the electret 35 . The chlorine-based solution may also degrade the efficiency less than the alcoholbased solution due to the higher water content. As polypropylene is hydrophobic, the chlorinebased solution may have a more difficult time in the penetration into the fabric and the static charge of fibers deeper within the meltblown may be less affected. This is also potentially a source of concern for the steam treatment, as the dwelling time and frequency may be critical for . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 77,
+                    "end": 84,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 603,
+                    "end": 612,
+                    "text": "Figure S1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint how well the static charge is preserved. If further steam treatments saturate the fibers many times and can condense water droplets on the fibers, it is possible that the static charge can also be slowly decayed in this method. These initial results are mostly in agreement with a NIOSH published report regarding the decontamination of whole FFRs 36 , though it focused more on gas-based methods, which could be suitable to well-controlled industrial scale disinfection. However, this may not be practical for on-site disinfection within the current hospital and clinic infrastructure. Though they did find that bleach (immersion in a diluted solution) resulted in a less of an efficiency drop than our results, they also noted there were strong odors from off-gassing which is another reason to exclude this as a method to consider for the end-user.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Due to these findings, we chose to focus on the three remaining treatment methods to perform multiple treatment cycles (up to twenty). The FFR shortage in hospitals means that we require critical methods to reuse FFRs with high throughput. Using an oven, a UV-C sterilizer cabinet (commonly used in barbershops and nail salons), and steam can all realistically be deployed in a modern hospital setting, without any negative effects such as off-gassing and ozone, or expensive new equipment such as electron beam irradiation or plasma generators. Some of the other common disinfection methods were also shown to likely cause damage to the FFR, so were not considered in our study 37 . Thus, we prepared meltblown fabrics and tested with the same aforementioned procedures repeated after many different cycles. The meltblown fabrics after ten cycles of each treatment are summarized in Fig. 3 (data provided in Supplementary Table S1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 884,
+                    "end": 890,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 909,
+                    "end": 931,
+                    "text": "Supplementary Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "From Fig. 3 , we can clearly see that by around three treatments of these three methods, the meltblown fabric still has characteristics similar to the initial sample. However, after five steam treatments, the efficiency has a sharp drop which continues at cycle 10. Similar to the alcohol and chlorine solution treatments, the pressure drop can be maintained at ~8-9 Pa, but the efficiency has degraded to around ~80%, which would be concerning in an environment with high viral aerosol concentration. This degradation is most likely due to the aforementioned water saturation. The data of these cycles is provided in Supplementary Table S2 . Thus, we believe that steam treatment may be effective with certain precautions. It may be possible to alleviate this static decay if the FFR's fibers do not come into contact with the water vapor directly (i.e. if possible, in a sealed container, apparatus, or bag) and the temperature is controlled to an appropriate value, using steam as the heating element.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 5,
+                    "end": 11,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 618,
+                    "end": 640,
+                    "text": "Supplementary Table S2",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint To further determine the limits of temperature and humidity, we performed multiple humidity experiments at 75 \u00b0C (30 minutes/cycle). Dry heat was provided by a vacuum oven at ambient conditions or an environmental chamber set to the lowest humidity set point (30% RH at temperatures <85\u00b0C) (SH-642). High humidity of 100% was simulated by placing 0.3 mL of water inside a sealed polyethylene bag with the meltblown fabric and placing it inside the environmental chamber. From the prior experiments we know that high humidity at higher temperatures (steam) was unsuitable for preserving the filtration efficiency, but we observed no appreciable degradation of efficiency when the temperature was lowered to 75 \u00b0C, in the presence of humidity (Fig. 4a-b) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 885,
+                    "end": 896,
+                    "text": "(Fig. 4a-b)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Furthermore, we can also conclude that dry heat applied at 75 \u00b0C does not affect the meltblown fabric's filtration properties up to fifty cycles ( Fig. 4c-d) . This is also supported by the fact that using an N95-level FFR (4C Air, Inc.) had nearly indistinguishable filtration characteristics (measured at the N95 standard test of air flow rate, 85 L/min) after twenty cycles of dry heat at 75 \u00b0C, retaining filtration efficiencies far greater than 95% (Fig. 4e-f ). At the time of writing, we are treating other N95 FFRs to identify if their initial and loading filtration performance would be altered by this treatment.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 147,
+                    "end": 157,
+                    "text": "Fig. 4c-d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 454,
+                    "end": 464,
+                    "text": "(Fig. 4e-f",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint Evolution of filtration characteristics at 75 \u00b0C under different humidities, efficiency (a) and pressure drop (b). c-d. Evolution of filtration characteristics on a meltblown fabric with dry heat at 75 \u00b0C, efficiency (c) and pressure drop (d). E-F. Evolution of the filtration characteristics on an N95-level FFR (4C Air, Inc.) with dry heat at 75 \u00b0C (measured at a flow rate of 85 L/min), efficiency (e) and pressure drop (f). g-h. Temperature dependence of filtration characteristics over 20 cycles with RH<30%, efficiency (g) and pressure drop (h).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "To determine the upper limit of applicable temperature, we tested additional treatments under low humidity condition (RH<30%) at 85 \u00b0C (20 minutes/cycle), 100 \u00b0C (10 minutes/cycle), and 125 \u00b0C (10 minutes/cycle), plotted in Fig. 4g -h (data provided in Supplementary Table S3 ). Up to 100 \u00b0C, there is little to no change in the filtration efficiency and pressure drop. However, at 125 \u00b0C, there is a sharp drop in the filtration efficiency while maintaining a constant pressure drop at around cycle 5. As the pressure drop was unchanged, this suggests that the filtration decrease is also a result of the depolarization of some static charge, similar to alcohol immersion. Considering the higher temperature, polypropylene's melting point (130-170 \u00b0C), as well as the thin and fibrous nature of the media, it is possible that the higher temperature is enough to relax the microscopic charge state within the polymer resulting in some of the quasi-stable polarization to become depolarized to their neutral state. From SEM images, we did not identify any morphological changes and did not observe any apparent physical deformations (Supplementary Figure S2) , which may support this conclusion. It is clear that this effect is not as strong as direct solvent contact, which reduced the filtration efficiency to <80%. The mechanism of which may differ, as the solvent can liberate charge traps, but the temperature here provides energy to return some of the fibers' polarized state to a relaxed state.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 224,
+                    "end": 231,
+                    "text": "Fig. 4g",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 253,
+                    "end": 275,
+                    "text": "Supplementary Table S3",
+                    "ref_id": null
+                },
+                {
+                    "start": 1147,
+                    "end": 1157,
+                    "text": "Figure S2)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Thus, we can conclude that the highest subjectable temperature to the FFR for repeated use with >95% efficiency is <100 \u00b0C. At temperatures around 75 \u00b0C, humidity does not seem to play a crucial role in the filtration properties, but as steam results in a decrease in efficiency, the humidity should be kept low when approaching 100\u00b0C. Application of dry heat at 75 \u00b0C for fifty cycles did not change the meltblown fabric's filtration efficiency. The temperature range here may pose some limitations in the available equipment, but we believe the current hospital infrastructure should be able to perform these treatments. This includes using dryers, ovens, circulators, or even hot air guns, all of which are relatively scalable and user-friendly. Repeated usage for temperatures below 65 \u00b0C (30 minutes) requires caution, as it was the reported temperature required to inactivate the SARS-CoV in solution and limit it to undetectable traces 33 . As the prior inactivation tests occurred in solution, there requires further study to be done on the heat inactivation of aerosolized viruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Finally, we note that UVGI had a slight effect on the filtration efficiency of the meltblown fabric by 20 cycles (dwelling time of 600 minutes, at 30 minutes per cycle), as seen in Fig. 5 . The UVGI sterilization cabinet here provides UV-C light centered at 254 nm with intensity of 8 W (considering the internal area of 475 cm 2 , the total light intensity is 17 mW/cm 2 ). With a treatment time of 30 minutes per cycle, the estimated fluence of all radiation in the chamber is ~30 J/cm 2 per cycle, far above the necessary radiation to inactivate SARS-CoV . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 181,
+                    "end": 187,
+                    "text": "Fig. 5",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint (~3.6 J/cm 2 ) 32 . At ten cycles, the meltblown filtration can be retained above the level for N95 after ten cycles in good agreement with the NIOSH report 36 . By twenty cycles, the filtration slightly drops to ~93%, making it unsuitable for N95-grade FFRs by itself. Figure 5 . Effect of UVGI on meltblown filtration characteristics. a. Efficiency of meltblown fabric that slightly changes after 10 cycles of UVGI. b. Pressure drop after UVGI treatments remains similar.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 414,
+                    "end": 422,
+                    "text": "Figure 5",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "While UV radiation may possess enough energy to break the chemical bonds and degrade polypropylene, the dosage of the sterilization chamber is relatively low, and the material degrades very slowly. This is supported by previous experiments that showed UV-C doses up to 950 J/cm 2 did not appreciably change the filtration efficiency. A possible concern regarding UVGI disinfection for FFRs is of the UV penetration depth. As UV-C has a wavelength around 250 nm, and polypropylene is a UV absorber, it is difficult to conclude if smaller viral particles deep within the filter can be deactivated through UVGI. If the particles are all of a larger size and remain localized on the surface, UVGI may be a candidate for FFR reuse. Furthermore, this means that UVGI requires FFRs to not be stacked, as the incident radiation is will only be absorbed by the top-most surface. Another disadvantage is that UVGI was reported to significantly impact the mechanical strength of some FFRs with doses of around 1000 J/cm 2, 38 . Therefore, UVGI may be a useful disinfection technique, but the precise dosage and intensity of the UV-C light fluence on the mask surface would need to be verified. The variation in UVGI intensity has been the cause of discrepancies in the literature, as 3M's own internal reports recently showed that their UVGI treatments damaged particular FFRs 39 , whereas other reports show that UVGI cycling on multiple N95 FFRs had minimal or no impact 37 .",
+            "cite_spans": [
+                {
+                    "start": 1009,
+                    "end": 1011,
+                    "text": "2,",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A final consideration is in parts of the FFR outside the meltblown fabric. As we are currently in a shortage, it was difficult to procure enough FFRs to test all the treatments on (in addition, the varying models or parts may influence testing results), so we limited tests to a meltblown fabric with efficiency \u226595% to simulate how the efficiency would change in a full FFR. However, there is a definite concern over whether the other FFR components (straps, . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint valves, nosepiece, foam, etc.) would be in any way damaged during these tests that would be reflected in the fit or seal, rather than the filtration properties.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "From our experiments, we also used a typical N95-grade FFRs to test the strap elasticity and structural integrity after treatments. We performed the dry heat and UVGI experiments with these respirators and noted no apparent change in the strap elasticity or fit compared with the untreated model. However, as actually donning and using the respirator impacts the structural stability of such components, particular care needs to be taken in interpretation of these results. Previous reports also indicated that FFRs can safely be donned up to five times, but beyond five times may result in a less than adequate fit 40 . During this crisis, users have to make sure that the fit of the FFRs after treatment are adequate and are not left vulnerable due to leakage.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In conclusion, COVID-19 is an extremely contagious disease that requires healthcare professionals to take caution with necessary protective equipment. The current shortage of N95 FFRs during this time of rapidly spreading infection may be mitigated by methods that will allow the safe reuse. We have tested methods which may be suitable for the re-use of particulate respirators, and hope our results will be useful in helping hospitals and other health care facilities in formulating safe standard operating procedures (SOPs) so that virus inactivation is assured while not compromising mask protection. While we reiterate that these methods have not been tested on SARS-CoV-2 directly for inactivation, these methods use precedents set by either SARS-CoV or general disinfection strategies. We found that of commonly deployable methods, heating (dry or in the presence humidity) <100 \u00b0C can preserve the filtration characteristics of a pristine N95 respirator. The UVGI (254 nm, 17 mW/cm 2 ) sterilizer cabinet used in these tests does not have enough dose to damage the respirators within a reasonable number of treatment cycles and may be considered for disinfection, with doses smaller than 1000 J/cm 2 . Using steam to disinfect requires caution, as the treatments may seem to be suitable, but prolonged treatment may leave the user with unsuitable protection. Finally, we advise against using certain liquid contact, such as alcohol solutions, chlorine-based solutions, or soaps to clean the respirator, as this will lead to a degradation in the static charge that is necessary for the FFR to meet the N95 standard.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Sample preparation: A 20 g/m 2 meltblown fabric with initial filtration efficiency of \u226595% was used for all samples. Each sample was cut to approximately 15 cm \u00d7 15 cm. All sample testing was performed on an Automated Filter Tester 8130A (TSI, Inc.) using a flow rate of 32 L/min and NaCl as the aerosol (0.26 \u03bcm mass mean diameter), unless otherwise specified. Samples that were tested were not returned for the next treatment cycle. Each individual meltblown fabric was only tested once, each average measurement contains at least 3 individual sample measurements. Full mask testing used a flow rate of 85 L/min. SEM images were recorded using a Phenom Pro SEM, at 10 kV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Heat treatment: Samples were loaded into a pre-heated 5-sided heating chamber (Across International, LLC or SH-642, ESPEC) for the temperatures and times given in the main text. Dry heat was applied using the Across International vacuum heating oven under ambient conditions. In the case of the SH-642, the humidity was set the lowest value (30% RH up to 85 \u00b0C, above 85 \u00b0C the humidity is <30% but cannot be controlled). High humidity (100% RH) was simulated using a polyethylene bag sealed with 0.3 mL of water and meltblown fabrics, placed inside the SH-642 chamber. The resting time between cycles was 10 minutes for the 75 \u00b0C and 85 \u00b0C treatments and 5 minutes for the 100 \u00b0C and 125 \u00b0C treatments. After resting, the samples were returned to the chamber to begin the next cycle. Select samples were taken for measurements and not returned to the oven at the cycle numbers given in the main text.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Steam treatment: Three samples were stacked on top of a beaker with boiling water inside (at around 15 cm above the water). The samples were left on top of the beaker and steamed for ten minutes, afterwards they were left to air dry completely (to touch). Samples were either tested or placed back on top of the beaker to continue the next treatment cycle.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Alcohol treatment: Samples were immersed into a solution of 75% ethanol and left to air dry (hanging). Samples were tested (no cycling).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Chlorine-solution treatment: Samples were sprayed with approximately 0.3-0.5 mL of household chlorine-based disinfectant (~2% NaClO). Samples were left to air dry and off-gas completely, hanging. Samples were tested (no cycling). UVGI: Samples were placed into a UV sterilizer cabinet (CHS-208A), with a 254 nm, 8 W lamp, and 475 cm 2 internal area (17 mW/cm 2 ). Samples were irradiated for 30 minutes and let to stand under ambient conditions for 10 minutes per cycle. Samples were either returned to the chamber for the next cycle or tested.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "We would like to thank Dr. Larry Chu and Dr. Amy Price at Stanford Health Care for the helpful discussion.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20050443 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "An interactive web-based dashboard to track COVID-19 in real time",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gardner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet. Infect. Dis",
+            "volume": "3099",
+            "issn": "",
+            "pages": "19--20",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "",
+            "pages": "270--273",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "727--733",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "",
+            "pages": "265--269",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A novel coronavirus emerging in China -Key questions for impact assessment",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Van Riel",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "692--694",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Letko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat. Microbiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "2",
+            "issn": "",
+            "pages": "1444--1448",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W.-J",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "1--13",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "929--936",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "What to do next to control the 2019-nCoV epidemic? The Lancet",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30300-7"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Presumed Asymptomatic Carrier Transmission of COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "27",
+            "issn": "28",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.2565"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Real estimates of mortality following COVID-19 infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baud",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect. Dis",
+            "volume": "3099",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Possible SARS Coronavirus Transmission during Cardiopulmonary Resuscitation",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Christian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "287--293",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Review of aerosol transmission of influenza A virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Tellier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "1657--1662",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Proc. Natl. Acad. Sci. U. S. A",
+            "volume": "115",
+            "issn": "",
+            "pages": "1081--1086",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Measurements of airborne influenza virus in aerosol particles from human coughs",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Lindsley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS One",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Singing and the dissemination of tuberculosis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Loudon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Roberts",
+                    "suffix": ""
+                }
+            ],
+            "year": 1968,
+            "venue": "Am. Rev. Respir. Dis",
+            "volume": "98",
+            "issn": "",
+            "pages": "297--300",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Laboratory performance evaluation of N95 filtering facepiece respirators",
+            "authors": [],
+            "year": 1996,
+            "venue": "MMWR. Morb. Mortal. Wkly. Rep",
+            "volume": "47",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "42 CFR Part 84: respiratory protective devices implications for tuberculosis protection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rosenstock",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Infect. Control Hosp. Epidemiol",
+            "volume": "16",
+            "issn": "",
+            "pages": "529--531",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Interim guidance on infection control measures for 2009 H1N1 influenza in healthcare settings, including protection of healthcare personnel",
+            "authors": [],
+            "year": 2009,
+            "venue": "Miss. RN",
+            "volume": "71",
+            "issn": "",
+            "pages": "13--18",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Proc. Natl. Acad. Sci. 202002589",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.2002589117"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Do N95 respirators provide 95% protection level against airborne viruses, and how adequate are surgical masks? Am",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ba\u0142azy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Infect. Control",
+            "volume": "34",
+            "issn": "",
+            "pages": "51--57",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Filtering web for face masks and face masks made therefrom",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wall",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hansen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1967,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Spunbonded/meltblown/spunbonded laminate face mask",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gaynor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mcmanus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Numerical prediction of the effect of uptake velocity on three-dimensional structure, porosity and permeability of meltblown nonwoven laydown",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghosal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sinha-Ray",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yarin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Pourdeyhimi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Polymer (Guildf)",
+            "volume": "85",
+            "issn": "",
+            "pages": "19--27",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Melt-blown fibrous electrets",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kubik",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Critical Supply Shortages -The Need for Ventilators and Personal Protective Equipment during the Covid-19 Pandemic",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ranney",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Griffeth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMp2006141"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc2004973"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Guideline for disinfection and sterilization in healthcare facilities",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rutala",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Weber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "E R"
+                    ],
+                    "last": "Darnell",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Subbarao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Feinstone",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol. Methods",
+            "volume": "121",
+            "issn": "",
+            "pages": "85--91",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Stability and inactivation of SARS coronavirus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rabenau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Med. Microbiol. Immunol",
+            "volume": "194",
+            "issn": "",
+            "pages": "1--6",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Stability of SARS-CoV-2 in different environmental conditions. medRxiv",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Electrostat",
+            "volume": "72",
+            "issn": "",
+            "pages": "311--314",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.15.20036673"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Evaluation of five decontamination methods for filtering facepiece respirators",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Viscusi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bergman",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Eimer",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Shaffer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Ann. Occup. Hyg",
+            "volume": "53",
+            "issn": "",
+            "pages": "815--827",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Evaluation of multiple (3-Cycle) decontamination processing for filtering facepiece respirators",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bergman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Eng. Fiber. Fabr",
+            "volume": "5",
+            "issn": "",
+            "pages": "33--41",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Effects of Ultraviolet Germicidal Irradiation (UVGI) on N95 Respirator Filtration Performance and Structural Integrity",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Lindsley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Occup. Environ. Hyg",
+            "volume": "12",
+            "issn": "",
+            "pages": "509--517",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Disinfection of Filtering Facepiece Respirators",
+            "authors": [],
+            "year": 2020,
+            "venue": "3M",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Impact of multiple consecutive donnings on filtering facepiece respirator fit",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bergman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Am. J. Infect. Control",
+            "volume": "40",
+            "issn": "",
+            "pages": "375--380",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Transmission of SARS-CoV-2 through viral aerosols. Image of SARS-CoV-2 courtesy of the CDC.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Ten treatment cycle evolution of filtration characteristics. a. Efficiency evolution where it is clear that steam treatment results in a degradation of efficiency. b. Pressure drop evolution where it is not apparent that any structure or morphology change has occurred in the meltblown fabrics.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Temperature and humidity evolution of meltblown filtration characteristics. a-b.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Table 1. One-time disinfection treatment on a meltblown fabric",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

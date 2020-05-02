@@ -1,0 +1,1627 @@
+{
+    "paper_id": "b3af0901002341b4e3f01af7c5405d4edc078aaf",
+    "metadata": {
+        "title": "Influence of weaning date and late gestation supplementation on beef system productivity I: animal performance 1",
+        "authors": [
+            {
+                "first": "Kelsey",
+                "middle": [
+                    "M"
+                ],
+                "last": "Luebbe",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Leslie",
+                "middle": [
+                    "A"
+                ],
+                "last": "Stalker",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska-Lincoln",
+                    "location": {
+                        "postCode": "69101",
+                        "settlement": "North Platte",
+                        "region": "NE"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Terry",
+                "middle": [
+                    "J"
+                ],
+                "last": "Klopfenstein",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [
+                    "N"
+                ],
+                "last": "Funston",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska-Lincoln",
+                    "location": {
+                        "postCode": "69101",
+                        "settlement": "North Platte",
+                        "region": "NE"
+                    }
+                },
+                "email": "rfunston2@unl.edu"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "A 4-yr experiment examined how weaning date and prepartum nutrition affected productivity in a spring (March and April) calving system. Crossbred beef cows (479 \u00b1 59 kg, n = 144) were used in a completely randomized design with a 2 \u00d7 4 factorial treatment arrangement: 1) cows were weaned in early October or early December; and 2) during late gestation cows were fed on a dry matter basis a 32% crude protein supplement at 0, 0.41, or 0.82 kg/cow/d on dormant upland range or grazed corn residue without supplement. Cow body condition score (BCS) was affected (P \u2264 0.01) by treatment prior to parturition and breeding but was similar (P > 0.27) among all treatments in October. Dams on a higher nutritional plane during winter treatment had greater (P < 0.01) BCS and body weight (BW) prior to parturition and breeding. Subsequent pregnancy rates (88% to 97%) were not influenced (P > 0.76) by weaning date, but tended (P = 0.10) to be lower for cows grazing winter range without supplement. Calves born to dams grazing winter range without supplement had lower (P < 0.01) BW in October and adjusted weaning BW. Pre-breeding BW of heifers weaned in December born to cows grazing winter range without supplement was lower (P < 0.01) than contemporaries born to cows in all other treatment combinations. However, postweaning (0.48 kg/d) and postbreeding (0.42 kg/d) average daily gain, percentage cycling before breeding (33%), and pregnancy rate (81%) was similar (P > 0.12). Within weaning date, steers born to cows grazing winter range without supplement had lower (P < 0.05) hot carcass weight (HCW) than contemporaries born to cows grazing corn residue. Cows weaned in December had decreased BW and BCS but similar pregnancy rates as cows weaned in October. Weaning date and dam maternal nutrition had minimal impact on heifer progeny pregnancy rate. Steer progeny born to dams on a higher nutritional plane had similar HCW at slaughter when adjusted to equal fat thickness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "ABSTRACT: A 4-yr experiment examined how weaning date and prepartum nutrition affected productivity in a spring (March and April) calving system. Crossbred beef cows (479 \u00b1 59 kg, n = 144) were used in a completely randomized design with a 2 \u00d7 4 factorial treatment arrangement: 1) cows were weaned in early October or early December; and 2) during late gestation cows were fed on a dry matter basis a 32% crude protein supplement at 0, 0.41, or 0.82 kg/cow/d on dormant upland range or grazed corn residue without supplement. Cow body condition score (BCS) was affected (P \u2264 0.01) by treatment prior to parturition and breeding but was similar (P > 0.27) among all treatments in October. Dams on a higher nutritional plane during winter treatment had greater (P < 0.01) BCS and body weight (BW) prior to parturition and breeding. Subsequent pregnancy rates (88% to 97%) were not influenced (P > 0.76) by weaning date, but tended (P = 0.10) to be lower for cows grazing winter range without supplement. Calves born to dams grazing winter range without supplement had lower (P < 0.01) BW in October and adjusted weaning BW. Pre-breeding BW of heifers weaned in December born to cows grazing winter range without supplement was lower (P < 0.01) than contemporaries born to cows in all other treatment combinations. However, postweaning (0.48 kg/d) and postbreeding (0.42 kg/d) average daily gain, percentage cycling before breeding (33%), and pregnancy rate (81%) was similar (P > 0.12). Within weaning date, steers born to cows grazing winter range without supplement had lower (P < 0.05) hot carcass weight (HCW) than contemporaries born to cows grazing corn residue. Cows weaned in December had decreased BW and BCS but similar pregnancy rates as cows weaned in October. Weaning date and dam maternal nutrition had minimal impact on heifer progeny pregnancy rate. Steer progeny born to dams on a higher nutritional plane had similar HCW at slaughter when adjusted to equal fat thickness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Grazing dormant forage requires less labor and machinery than feeding harvested forages, but may not meet the nutrient requirements of the pregnant cow in the last trimester of pregnancy. Supplemental nutrients are often fed to cows grazing dormant forage to correct nutrient deficiencies. Research has determined only 0.14 kg/cow/d of supplemental rumen degradable protein is necessary to maintain body condition score (BCS) of gestating cows grazing winter range in the Nebraska Sandhills (Hollingsworth-Jenkins et al., 1996) . However, the amount required to maintain BCS may not be the same as the amount required to prevent deleterious effects of undernutrition on fetal development. Undernutrition during gestation causes suboptimal conditions in the maternal uterine environment, which translates into decreased progeny performance (Wu et al, 2006) . Supplementing cows grazing winter range during the last trimester of gestation has been shown to increase calf body weight (BW) at weaning (Stalker et al., 2006 (Stalker et al., , 2007 , but it is not known if the amount of supplement fed was sufficient to optimize progeny performance. An alternative to feeding supplement is to wean the calf. Moving the weaning date earlier in the year allows spring-calving cows to enter late gestation in greater BCS (Stalker et al., 2007) . This increased BCS may serve as a nutrient reservoir to buffer effects of undernutrition. An additional strategy may be to allow cows to graze corn residue during the winter because mature cows gain more BW and BCS grazing corn residue than winter range (Larson et al., 2009; Griffin et al., 2012) . We hypothesized weaning date would interact with winter nutritional plane where cows assigned to a later weaning date would exhibit a greater response to a better nutritional plane during the winter than cows assigned to an earlier weaning date. Therefore, the objectives of this experiment were to evaluate long-term effects of prepartum nutritional plane and weaning date and their interaction on cow reproduction; heifer progeny growth and reproduction; and steer progeny growth, feedlot performance, and carcass characteristics.",
+            "cite_spans": [
+                {
+                    "start": 491,
+                    "end": 527,
+                    "text": "(Hollingsworth-Jenkins et al., 1996)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 839,
+                    "end": 855,
+                    "text": "(Wu et al, 2006)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 997,
+                    "end": 1018,
+                    "text": "(Stalker et al., 2006",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1019,
+                    "end": 1042,
+                    "text": "(Stalker et al., , 2007",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1313,
+                    "end": 1335,
+                    "text": "(Stalker et al., 2007)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1592,
+                    "end": 1613,
+                    "text": "(Larson et al., 2009;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1614,
+                    "end": 1635,
+                    "text": "Griffin et al., 2012)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "All procedures and facilities were approved by the University of Nebraska-Lincoln, Institutional Animal Care and Use Committee (Project 921).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "A 4-yr experiment used 144 crossbred (5/8 Red Angus, 3/8 Simmental), March-calving cows (initial pre-calving BW = 479 \u00b1 59 kg; average age = 4.6 \u00b1 1.1, range = 3 to 7) each year to examine how weaning date and prepartum nutrition and their interaction affect cow-calf productivity at the Gudmundsen Sandhills Laboratory (GSL), near Whitman, NE (lat 42.08\u00b0N, long 101.45\u00b0W, elevation 1,073 m). Mean ambient temperature averaged 23, 24, 25, 24 \u00b0C over the 3-mo treatment period for each of the 4 yr and precipitation averaged 12.7, 79.2, 23.6, and 34.5 mm. Cows were stratified by BW within age and treatments were assigned randomly in a 2 \u00d7 4 factorial arrangement: 1) weaning in early October (OCT) or early December (DEC); and 2) from December 1 to February 28 cows were fed the equivalent of 0, 0.41, or 0.82 kg DM/cow/d of a supplement (Table 1) delivered 3 d/wk on dormant winter range (WR0, WR1, WR2, respectively), or grazed corn residue without supplement (CR). Cows assigned to CR treatment were transported 146 km to the West Central Water Research Laboratory, near Brule, NE (lat 41.03\u00b0N, long 101.97\u00b0W, elevation 1,091 m) December 1 then returned to GSL February 20. Winter treatments were applied on a pasture basis (n = 12 cows per pasture), and pastures contained both OCT and DEC cows. Dormant upland range or corn residue forage was not limiting at any time. Each group of cows assigned to the same weaning date treatment within the same winter pasture served as the experimental unit. Each treatment combination applied to the cows was replicated three times within year (n = 6 cows per treatment combination replicate per year). Cows remained on the same weaning and winter nutritional treatments for the duration of the experiment. To begin the experiment (2008) the weaning treatment (October or December) was imposed on pregnant, lactating cows, but data from the calf weaned at initiation of the experiment were not included. Calf data were only collected on calves born to cows that received both treatments during gestation (2009 to 2012). A production year began at weaning (October or December yr 1) and lasted until the subsequent weaning (October or December yr 2). Because data were collected for four consecutive year, cow BW and BCS data collected at the end of one production year served as the initial data for the subsequent production year. In total, there were 72 cows each year in each weaning treatment for a total of 288 cows per weaning date over 4 yr. During the winter period, there were 12 cows per pasture and 3 pastures per treatment, for a total of 36 cows per winter treatment each year, and a total of 144 cows per treatment over 4 yr. Simple effects of winter treatment and weaning date totaled 72 cows per treat over the 4 yr. Only pregnant cows were used to begin each production year, therefore pregnant cows were added to replace culls and keep numbers constant among year.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 839,
+                    "end": 848,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Animals and Treatments"
+        },
+        {
+            "text": "Cows were managed as a single herd except when winter nutritional treatments were applied (December 1 to February 28). After December weaning, dams were relocated to dormant upland range pastures (35.6 ha), or transported to corn residue fields. Supplement was delivered 3 d/wk to cows receiving supplement. Prior to calving (March 1), cows were vaccinated against Clostridium perfringens C, Escherichia coli, Rotavirus, Coronavirus (ScourGuard 4KC; Pfizer Animal Health, New York, NY). Cows were fed hay ad libitum [7.6% crude protein (CP), 58.2% total digestible nutrients (TDN)] from March 1 until the start of the breeding season. At birth (average calving date = March 25), calves were vaccinated against Clostridium chauvoei, Clostridium septicum, Clostridium novyi, Clostridium sordellii, and C. perfringens C and D (Alpha-7; Boehringer Ingelheim Vetmedica, St. Joseph, MO). Calving rate was calculated by dividing the number of cows to calve by the number of cows to begin each production year. All calves were branded and vaccinated against bovine respiratory disease caused by Pasteurella haemolytica and Pasteurella multocida (Once PMH SQ, Intervet Schering Plough, DeSoto, KS) the last week of April. At branding, all bull calves were castrated via surgical removal of the testicles.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cow-Calf Management"
+        },
+        {
+            "text": "Ten day prior to the start of the breeding season (June 5), cows were vaccinated against Infectious bovine rinotracheitis virus, Bovine viral diarrhea virus, Leptospira canicola, Leptospira grippotyphosa, Leptospira hardjo, Leptospira icterohaemorrhagiae, and Leptospira pomona (Vista 3 VL5 SQ, Intervet Schering Plough) and relocated to an upland range pasture. Cows were estrus synchronized and artificial insemination (AI) with semen from the same two bulls the entire duration of the study. Prior to weaning and winter grazing treatment assignment the first year, cows received GnRH (100 \u03bcg i.m.) and a controlled internal drug release (CIDR; 1.38 g of progesterone; Zoetis, Florham Park, NJ) on d 0 and prostaglandin F 2\u03b1 (PG; 25 mg i.m.; Prostamate, Agri Laboratories, St. Joseph, MO) and CIDR removal on d 7. Estrus was detected and cows were AI for 4 d. Administering progesterone prior to initiation enabled the study to begin with cows in a similar stage of gestation because supplementation began and ended on the same day for all cows. Progesterone may have masked treatment effects on reproductive performance, therefore progesterone was not used to synchronize estrus once data collection commenced. Every subsequent breeding season estrus was synchronized with two injections of PG 14 d apart, followed by estrus detection and AI for 6 d. Cows were then placed with fertile bulls (1:20 bull:cow) for 45 d. Pregnancy was determined via rectal palpation or ultrasonography by a veterinarian at October weaning. Pregnancy rate was calculated by dividing the number of pregnant cows by the original number of cows to begin the production year.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cow-Calf Management"
+        },
+        {
+            "text": "Prior to and at weaning, calves were vaccinated against viral (Infectious bovine rhinotracheitis virus, Bovine virus diarrhea virus, Parainfluenza-3 virus, Bovine respiratory syncytial virus, Mannheimia haemolytica, and P. multocida; Express 5-PHM, Boehringer Ingelheim Vetmedica) and bacterial (C. chauvoei, C. septicum, C. novyi, C. sordellii, and C. perfringens C and D; Ultrabac 7/Somubac, Pfizer Animal Health) infections. At October weaning, weaned calves were relocated to cool season meadows and supplemented the dry matter (DM) equivalent of 0.41 kg/calf/d (Table 1) , delivered 3 d/wk, to keep BW gain similar to non-weaned contemporaries until the December weaning. Supplement amount was determined from Lamb et al. (1997) . Weaning rate was calculated by dividing the number of weaned calves by the original number of cows to begin the production year. Adjusted 205-d calf BW was calculated by regressing BW on day of age after subtracting birth weight (Beef Improvement Federation, 2010). After December weaning, OCTand DEC-weaned calves were fed ad libitum hay in a drylot for 14 d as a single group.",
+            "cite_spans": [
+                {
+                    "start": 715,
+                    "end": 733,
+                    "text": "Lamb et al. (1997)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 566,
+                    "end": 575,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Cow-Calf Management"
+        },
+        {
+            "text": "Cow BCS and cow and calf BW were measured at October weaning, December weaning, pre-calving (March 1), and pre-breeding (June 5). BCS was measured via manual palpation of individual animals using a 1 to 9 scale (Wagner et al., 1988) . Body weights were taken after at least 12 h without feed and water. Cows were removed from the study if they were not pregnant, if calf death occurred, or if other discrepancies occurred",
+            "cite_spans": [
+                {
+                    "start": 211,
+                    "end": 232,
+                    "text": "(Wagner et al., 1988)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow-Calf Management"
+        },
+        {
+            "text": "After the drylot period, OCT-and DEC-weaned heifers were managed as a single group for the remainder of the experiment. They were relocated to subirrigated meadows and fed the equivalent of 0.41 kg DM/heifer/d of supplement (Table 1 ) delivered 3 d/ wk. Prior to breeding, heifers were given two vaccinations of Vista 3 VL5 SQ (Intervet Schering Plough) 14 d apart to protect against viral and bacterial infections (Infectious bovine rinotracheitis virus, Bovine viral diarrhea virus, Leptospira canicola, L. grippotyphosa, L. hardjo, L. icterohaemorrhagiae, and L. pomona). Blood samples were collected twice, 10 d apart, prior to placement with bulls. Concentrations of serum progesterone were determined by direct solid phase RIA (Coat-A-Count, Diagnostics Products Corp., Los Angeles, CA). Heifers were considered cycling (ovarian luteal activity present) if blood serum progesterone concentrations were > 1.0 ng/mL in either of the samples. Estrus was synchronized with a single injection of PG administered 108 h after fertile bulls were placed with heifers at a (1:20) bull-to-heifer ratio for 45 d. At breeding, heifers were moved to upland range pastures to graze for the remainder of the year. Pregnancy was determined via rectal palpation or ultrasonography approximately September 30. Heifer BW was measured pre-breeding and at pregnancy determination. There was an average of 28 heifers per simple effect treatment. With no interaction, that averaged 112 heifers for main effect of weaning date and 56 for main effect of winter supplement. All heifers were retained as potential replacements.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 224,
+                    "end": 232,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Heifer Management"
+        },
+        {
+            "text": "After the drylot period, steers were transported 155 km to the feedlot at West Central Research and Extension Center near North Platte, NE (lat 41.08\u00b0N, long 100.77\u00b0W, elevation 868 m) where they were limit fed 5 d at 2.0% BW, weighed two consecutive day in an effort to reduce variation in BW (Stock et al., 1983) , and implanted with Synovex S (200 mg progesterone and 20 mg estradiol benzoate; Zoetis). In yr 1 and 2 steers were placed into 1 of 8 pens based on dam weaning and winter grazing treatment where feed bunk space was adequate (\u226550.8 cm/ steer) and did not limit steer performance. In yr 3 and 4 steers were finished in a common pen using a GrowSafe automated feeding system (GrowSafe Systems Ltd., Airdrie, Alberta, Canada) to collect individual animal intake. Upon arrival at the feedlot, steers were adapted (21 d) to a common finishing diet of 48% dry rolled corn, 40% corn gluten feed, 7% grass hay, and 5% supplement (2.17 and 1.49 Mcal/ kg NEm and NEg, respectively). Approximately 100 d prior to slaughter, steers were re-implanted with Revalor S (120-mg trenbolone acetate and 8-mg estradiol, Intervet Schering Plough) and administered an ectoparasiticide (Dectomax, Pfizer Animal Health). Because steers were pen fed in yr 1 and 2, dry matter intake (DMI) was adjusted within pen for average BW of individual animal, but actual DMI was used in yr 3 and 4. Slaughter occurred when 12th rib fat thickness was visually estimated to be 1.27 cm. A commercial abattoir was used for slaughter (Tyson, Lexington, NE or National Beef, Dodge City, KS), and carcass data were collected by trained personnel after a 24-h chill. Final BW was calculated from hot carcass weight (HCW) with an assumed dressing percentage (63%).",
+            "cite_spans": [
+                {
+                    "start": 294,
+                    "end": 314,
+                    "text": "(Stock et al., 1983)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Steer Management"
+        },
+        {
+            "text": "Group of cattle with the same weaning date within winter pasture served as the experimental unit. Replicated treatment means within year were used for analyses of cow, calf, heifer, and steer response variables. Model fixed effects included weaning date, winter grazing treatment, and their interaction. Year and residual error were considered random effects. Data were analyzed with the GLIMMIX procedure of SAS (SAS Institute, Inc., Cary, NC). Effects of treatment or the interaction were considered significant when P < 0.05 as detected by Fischer's test. When the F-test was significant, least square means of treatments were separated using a t-test when P < 0.05. Owing to several interactions between weaning date and winter grazing treatments, data are reported as simple effects. When no interaction occurred, main effects are discussed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Body condition of cows was not different (P > 0.37) among weaning or winter grazing treatments at the beginning of the production year in October (Table 2 ). This result may indicate little carryover effect of treatment from year to year.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 146,
+                    "end": 154,
+                    "text": "(Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "Cows remained on the same treatment, data were collected for four consecutive year and 81% of the cows that began the study in yr 1 weaned a calf in yr 4. Cows on the OCT weaning treatment maintained BCS from October to December but DEC cows lost BCS during the same period. Thus, BCS of OCT dams was 0.3 units greater (P < 0.01) than DEC dams in December. The interaction between weaning and winter grazing treatments was significant (P = 0.04) for pre-calving (March) and pre-breeding (June) BCS. These results were expected given the goal was cows with differing body energy reserves enter the winter to test the ability of these reserves to offset the deleterious effects of undernutrition during gestation on subsequent pregnancy rate and progeny performance. The data followed a similar pattern within weaning treatment, where WR0 cows had the lowest BCS and BCS increased as level of nutrition in late gestation increased with CR having the greatest BW at the end of the treatment period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "Cow BW was similar (P \u2265 0.47) among treatments at beginning of the experiment but winter grazing treatment affected BW at every subsequent measure (Table 2) . At pre-calving (March), OCT cows were heavier (P < 0.01) than DEC cows and BW increased (P < 0.01) as level of nutrition during winter grazing increased. Treatments interacted for pre-breeding BW in June where BW was greater (P < 0.01) for OCT wean than DEC wean cows and also followed level of winter nutrition. Previous weaning treatment effects on BW were not seen at the following October measurement but effects of previous winter treatment persisted.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 147,
+                    "end": 156,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "Similar effects of weaning on BCS and BW were found by Stalker et al. (2007) who weaned spring-calving cows 1 mo earlier than the present study. Likewise, Short et al. (1996) weaned cows in either September or December and observed at the time of the late weaning, September-weaned cows weighed 32 kg more and had > 1.0 unit more BCS compared with dams still nursing. Scale of 1 (emaciated) to 9 (extremely obese) Wagner et al. (1988) . 4 Day of year calving occurred where January 1 = d 1. 5 Calculated by dividing the number of cows to calve by the number of cows at the beginning of the production year. 6 Calculated by dividing the number of cows to wean a calf by the number of cows at the beginning of the production year. 7 Calculated by dividing the number of cows determined pregnant by the number of cows at the beginning of the production year. abcde Within a row, means lacking a common superscript letter differ (P < 0.05).",
+            "cite_spans": [
+                {
+                    "start": 55,
+                    "end": 76,
+                    "text": "Stalker et al. (2007)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 155,
+                    "end": 174,
+                    "text": "Short et al. (1996)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 414,
+                    "end": 434,
+                    "text": "Wagner et al. (1988)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 437,
+                    "end": 438,
+                    "text": "4",
+                    "ref_id": null
+                },
+                {
+                    "start": 491,
+                    "end": 492,
+                    "text": "5",
+                    "ref_id": null
+                },
+                {
+                    "start": 607,
+                    "end": 608,
+                    "text": "6",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "In the current experiment, CR cows were 79 kg heavier prior to calving than WR0 cows which is in agreement with research conducted previously with the same cow herd (Larson, et al., 2009; Griffin et al., 2012) . Anderson et al. (2005) found cows fed hay had greater BW and BCS than cows grazing corn residue, but authors attributed this to greater quality and quantity of the hay compared with corn residue.",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 187,
+                    "text": "(Larson, et al., 2009;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 188,
+                    "end": 209,
+                    "text": "Griffin et al., 2012)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 212,
+                    "end": 234,
+                    "text": "Anderson et al. (2005)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "Despite differences in BW and BCS prior to calving, subsequent pregnancy rates were not affected (P = 0.76) by weaning treatment but tended (P = 0.10) to be lower for cows assigned to the WR0 treatment (Table 3) . Overall pregnancy rate averaged 93%.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 202,
+                    "end": 211,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "In a current and on-going meta-analysis of 15 yr of research conducted at the University of Nebraska GSL, determining the influence of protein supplementation during mid-to late-gestation on cow-calf performance. Contrary to other studies, this meta-analysis indicated 0.45 to 0.90 kg/d of a protein supplement to cows grazing winter range increases subsequent pregnancy rates of gestating dams by 3 to 6 percentage points compared with non-supplemented cows. However, supplementation increased pregnancy rates without influencing cow prepartum weight change or BCS during supplementation (Broadhead et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 589,
+                    "end": 613,
+                    "text": "(Broadhead et al., 2019)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "Research indicates time of weaning may minimally impact subsequent pregnancy rates or calving interval (Basarab et al., 1986; Short et al., 1996; Story et al., 2000; Stalker et al., 2007) . In previous research, pregnancy rates were similar between cows supplemented prepartum and those not supplemented in spring calving systems (Stalker et al., 2006 (Stalker et al., , 2007 Larson et al., 2009; Bohnert et al., 2013) . Subsequent pregnancy rates may have been unaffected by late gestation supplementation in previous experiments because non-supplemented cows maintained moderate BCS during the winter. Freetly et al. (2000) also demonstrated when cows calving at a moderate BCS received treatments changing body reserves during the third trimester were not different in subsequent pregnancy rates. Postpartum nutrition in the current study may also have been sufficient to counteract any differences seen after winter grazing.",
+            "cite_spans": [
+                {
+                    "start": 103,
+                    "end": 125,
+                    "text": "(Basarab et al., 1986;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 126,
+                    "end": 145,
+                    "text": "Short et al., 1996;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 146,
+                    "end": 165,
+                    "text": "Story et al., 2000;",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 166,
+                    "end": 187,
+                    "text": "Stalker et al., 2007)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 330,
+                    "end": 351,
+                    "text": "(Stalker et al., 2006",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 352,
+                    "end": 375,
+                    "text": "(Stalker et al., , 2007",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 376,
+                    "end": 396,
+                    "text": "Larson et al., 2009;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 397,
+                    "end": 418,
+                    "text": "Bohnert et al., 2013)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 604,
+                    "end": 625,
+                    "text": "Freetly et al. (2000)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "Weaning treatment tended to affect (P = 0.09) calving date where OCT cows calved 1.5 d earlier than DEC cows. Calving date was affected (P = 0.03) by winter grazing treatment but did not appear to be related to winter supplementation. Calving rate (P = 0.03) and weaning rate (P = 0.01) were both greater for OCT than DEC cows, which may have been affected by the BCS loss from October to December experienced by DEC cows. Bohnert et al. (2013) reported decreased calving and weaning rates in cows entering the winter in low BCS compared with cows in greater BCS. This contrasts Stalker et al. (2007) who observed no difference in percentage live calves weaned when March-calving cows were weaned in August or November. As with pregnancy rate, differing calving and weaning rates among studies may be related to cow BCS entering the winter. Winter grazing treatment did not affect calving rate Within a row, means lacking a common superscript letter differ (P < 0.05).",
+            "cite_spans": [
+                {
+                    "start": 423,
+                    "end": 444,
+                    "text": "Bohnert et al. (2013)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 579,
+                    "end": 600,
+                    "text": "Stalker et al. (2007)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "(P = 0.30) or percentage of calves weaned (P = 0.34). This contrasts data reported by Corah et al. (1975) , who fed young cows energy-deficient diets in late gestation and found decreased percentage live calves at weaning and Stalker et al. (2006) also found fewer live calves at weaning in non-supplemented cows.",
+            "cite_spans": [
+                {
+                    "start": 86,
+                    "end": 105,
+                    "text": "Corah et al. (1975)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 226,
+                    "end": 247,
+                    "text": "Stalker et al. (2006)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Cow Performance"
+        },
+        {
+            "text": "The distribution of male and female calves was similar among all treatments. The dam's previous weaning date did not affect steer birth BW (Table 4 ). Steer birth BW born to OCT and DEC-WR0 cows was less (P < 0.01) than all other winter grazing treatments except DEC-WR1. The interaction between weaning and winter grazing treatments was significant (P < 0.01) when steer BW was adjusted to a constant 205 d of age and followed the exact same relationship among treatments as actual October BW. Weaning and winter grazing treatments interacted (P = 0.04) for steer BW measured in December. For OCT cows, steer October BW was lower (P < 0.05) for progeny born to WR0 dams. For DEC cows, BW in October was lowest (P < 0.05) for steer progeny born to WR0 dams, intermediate for progeny born to WR1 dams and greatest for progeny born to WR2 and CR dams. Progeny BW increased parallel to dam nutritional plane during late gestation for the DEC weaning treatment. Calves weaned in October gained 0.18 kg/d more from October to December than calves weaned in December and BW gain during this period was not affected (P = 0.29) by winter grazing treatment. This indicates the amount of supplement provided to OCT-weaned progeny was greater than necessary, since the goal was to achieve similar BW in December from both weaning treatments. There were no differences in morbidity or mortality based on dam treatment.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 139,
+                    "end": 147,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Calf Performance"
+        },
+        {
+            "text": "Feeding 0.41 kg DM/d of supplement was sufficient to overcome negative effects of grazing winter range on calf weaning BW if calves were weaned in October but 0.82 kg DM/d of supplement was required to achieve the same effect if calves were weaned in December. Weaning in October caused the cow to enter the winter grazing period in greater BCS, which may have buffered against deleterious effects of undernutrition.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calf Performance"
+        },
+        {
+            "text": "Heifers weaned in OCT were 13 kg heavier (P < 0.01) in December than heifers weaned in DECs (Table 4 ). They remained heavier at pre-breeding (May, P < 0.01) and pregnancy determination (October, P = 0.02) BW of OCT-weaned heifers was 11 and 9 kg greater, respectively, than DEC-weaned contemporaries. This BW advantage for OCT heifers was a function of gain during the first 60 d after weaning because heifer average daily gain (ADG) from December weaning to subsequent breeding (May) and from breeding to pregnancy determination (October) was similar (P > 0.12) between weaning treatments. Heifers from WR0 dams weighed less (P < 0.01) in December and tended (P = 0.07) to weigh less at breeding (May) but weighed the same (P = 0.26) as other winter grazing treatments at pregnancy determination (October). Story et al. (2000) found early-weaned heifers had decreased subsequent BW but BW was similar across treatments at breeding. The difference in response to weaning in Story et al. (2000) and the current experiment is likely due to postweaning management of early-weaned calves. Because OCT calves were supplemented on DM basis 0.41 kg/calf /d for 60 d, BW in December was greater than DEC calves. Compensatory gain of DEC heifers was observed during summer grazing, but was not great enough to equalize BW at pregnancy diagnosis. The percentage cycling before breeding and pregnancy rates were similar (P > 0.13) for any treatment. Percentage of heifers cycling ranged from 13% to 55% among treatments. Sexten et al. (2005) weaned heifers at 89 or 232 d and found early weaning increased percentage of heifers pubertal at 8 mo. Results in the current study may be due to different postweaning ADG between studies. Corah et al. (1975) observed no difference in age at puberty between heifers born to dams severely restricted during the last 100 d of gestation and heifers from non-restricted dams. In a recent review by Broadhead et al. (2019) it was indicated that results on the effect of dam supplementation and weaning time have been inconsistent on reproductive parameters in subsequent heifer progeny and more consistent on growth characteristics and proposed that inconsistencies are likely due to severity of restriction and environmental conditions of individual studies.",
+            "cite_spans": [
+                {
+                    "start": 809,
+                    "end": 828,
+                    "text": "Story et al. (2000)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 975,
+                    "end": 994,
+                    "text": "Story et al. (2000)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1511,
+                    "end": 1531,
+                    "text": "Sexten et al. (2005)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1722,
+                    "end": 1741,
+                    "text": "Corah et al. (1975)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1927,
+                    "end": 1950,
+                    "text": "Broadhead et al. (2019)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 92,
+                    "end": 100,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Heifer Performance"
+        },
+        {
+            "text": "Feedlot entry BW of steers weaned in OCT was 17 kg greater (P < 0.01) than DEC-weaned steers (Table 5) . Steer progeny had similar (P \u2265 0.31) DMI and ADG in the feedlot, regardless of weaning treatment. Feed efficiency tended (P = 0.07) to be greater for DEC-weaned steers. Hot carcass weight tended (P = 0.09) to be greater for OCTweaned steers, likely because OCT-weaned steers were heavier at feedlot entry and were on feed for the same number of days as DEC-weaned steers. Although OCT-weaned steers tended (P = 0.09) to have greater 12th rib fat thickness, weaning date did not affect (P \u2265 0.19) longissimus muscle (LM) area, marbling score, or yield grade. Myers et al. (1999) observed improved feedlot ADG when steer calves were weaned at 90 and 152 d compared with 215 d. Similarly, Fluharty et al. (2000) found a 5% improvement in G:F when steers were weaned 100 d earlier than contemporaries. However, Stalker et al. (2007) found early-weaned steers entered the feedlot weighing 38 kg less and consumed 0.5 kg DM/d less than late-weaned steers. The primary difference between the feedlot performance data in these experiments is the feedlot entry BW from different studies. Animals entering the feedlot at a heavier BW, regardless of weaning treatment, are expected to consume more DM and be less efficient than lighter animals when harvested at a similar end point. Steers born to dams on a higher nutritional plane were heavier at feedlot entry (P < 0.01), with steers born to WR1, WR2, and CR dams having 9, 14, and 22 kg greater initial BW than steers born to WR0 cows, respectively. DMI and G:F were similar across winter grazing treatments. However, there was a tendency (P = 0.07) for steers born to WR2 and CR dams to have greater feedlot ADG than steers born to WR0 and WR1 dams. Steers born to WR2 and CR dams had 14 and 22 kg greater (P = 0.02) HCW than steers born to WR0 cows, respectively. Dam winter grazing treatment did not affect (P \u2265 0.21) LM area, marbling score, or yield grade. Twelfth rib fat thickness was greatest (P = 0.01) for steers born to CR dams, and least for steers born to WR0 dams, with steers from WR1 and WR2 dams being intermediate. Both Bohnert et al. (2013) and Stalker et al. (2006) found no differences in any carcass characteristics between steers born to dams with and without prepartum supplementation. Steer performance results are likely a consequence, at least in part, of late gestation nutrition on fetal growth. Across domestic livestock species, intrauterine growth restriction caused from inadequate maternal nutrition decreases feed efficiency, increases whole-body and intramuscular fat, and decreases meat quality of progeny (Wu et al., 2006) .",
+            "cite_spans": [
+                {
+                    "start": 663,
+                    "end": 682,
+                    "text": "Myers et al. (1999)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 791,
+                    "end": 813,
+                    "text": "Fluharty et al. (2000)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 912,
+                    "end": 933,
+                    "text": "Stalker et al. (2007)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 2186,
+                    "end": 2207,
+                    "text": "Bohnert et al. (2013)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 2212,
+                    "end": 2233,
+                    "text": "Stalker et al. (2006)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2691,
+                    "end": 2708,
+                    "text": "(Wu et al., 2006)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 93,
+                    "end": 102,
+                    "text": "(Table 5)",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Steer Performance"
+        },
+        {
+            "text": "Gestational treatment affected 12th rib fat thickness and carcass weight at constant days on feed. If steers born to dams on lower nutritional planes would have been fed longer, then they likely would have achieved similar HCW and fat thickness. Days on feed has both production and economic consequences and an argument can be made for the need to adjust performance data to a constant fat end point rather than constant days on feed. Adjusted HCW would be 398, 381, 398, and 390 kg for WR0, WR1, WR2, and CR treatments, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Steer Performance"
+        },
+        {
+            "text": "The response to protein supplementation during late-gestation on steer weaning weight and carcass weight has been inconsistent. Studies that have reported an increase in weaning weight by protein supplementation have illustrated that increased in weight continues on through to the end product of carcass. However, several studies have shown no differences in feedlot performance or carcass characteristics from unsupplemented dams during late gestation. This could be due to differences in long-term herd management, environmental conditions, genetic makeup of the cowherd, and metabolic efficiency and adaptability to cope with environmental factors of the cowherd. In general, protein supplementation during late-gestation tends to have a positive impact on steer growth with increased weaning weight and carcass weights at slaughter (Broadhead, et al., 2019) .",
+            "cite_spans": [
+                {
+                    "start": 837,
+                    "end": 862,
+                    "text": "(Broadhead, et al., 2019)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Steer Performance"
+        },
+        {
+            "text": "March-calving dams on a higher nutritional plane over winter had greater BCS and BW prior to parturition and breeding. However, subsequent pregnancy rates for cows may be similar among weaning and winter grazing management if dams are maintained in adequate condition. Pre-weaning and weaning BW of calves born to dams on a higher nutritional plane will be greater. Subsequent effect of weaning date and dam nutrition may have minimal impact on heifer progeny percentage cycling prior to breeding or pregnancy rate. Steer progeny born to dams on a higher nutritional plane had similar HCW when adjusted to equal 12th rib fat thickness at harvest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IMPLICATIONS"
+        },
+        {
+            "text": "Conflict of interest statement. None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "IMPLICATIONS"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "An evaluation of production and economic efficiency of two beef systems from calving to slaughter",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rasby",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J. Anim. Sci",
+            "volume": "83",
+            "issn": "",
+            "pages": "694--704",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2005.833694x"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Effects of early weaning on calf gain and cow performance and influence of breed, age of dam and sex of calf. Can",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Basarab",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Novak",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Karren",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Anim. Sci",
+            "volume": "66",
+            "issn": "",
+            "pages": "349--360",
+            "other_ids": {
+                "DOI": [
+                    "10.4141/cjas86-036"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Beef Improvement Federation",
+            "authors": [],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Late gestation supplementation of beef cows differing in body condition score: effects on cow and calf performance",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Bohnert",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stalker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mills",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nyman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Falck",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Cooke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Anim. Sci",
+            "volume": "91",
+            "issn": "",
+            "pages": "5485--5491",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2013-6301"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Developmental programming in a beef production system",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Broadhead",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mulliniks",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Funston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Vet. Clin. North Am. Food Anim. Pract",
+            "volume": "35",
+            "issn": "",
+            "pages": "379--390",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cvfa.2019.02.011"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Influence of prepartum nutrition on the reproductive performance of beef females and the performance of their progeny",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Corah",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Dunn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kaltenbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "J. Anim. Sci",
+            "volume": "41",
+            "issn": "",
+            "pages": "819--824",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas1975.413819x"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Effects of weaning age and diet on growth and carcass characteristics in steers",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Fluharty",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Loerch",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moeller",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lowe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Anim. Sci",
+            "volume": "78",
+            "issn": "",
+            "pages": "1759--1767",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2000.7871759x"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Timing of realimentation of mature cows that were feed-restricted during pregnancy influences calf birth weights and growth rates",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Freetly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ferrell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Jenkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Anim. Sci",
+            "volume": "78",
+            "issn": "",
+            "pages": "2790--2796",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2000"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Calving date and wintering system effects on cow and calf performance I: a systems approach to beef production in the Nebraska Sandhills",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stalker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Funston",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Prof. Anim. Sci",
+            "volume": "28",
+            "issn": "",
+            "pages": "249--259",
+            "other_ids": {
+                "DOI": [
+                    "10.15232/S1080-7446(15)30354-5"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Ruminally degradable protein requirement of gestating beef cows grazing native winter sandhills range",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hollingsworth-Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Lamb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Anim. Sci",
+            "volume": "74",
+            "issn": "",
+            "pages": "1343--1348",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Range or meadow regrowth and weaning effects on 2-year-old cows",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Lamb",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stroup",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Lardy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Range Manage",
+            "volume": "50",
+            "issn": "",
+            "pages": "16--19",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/4002699"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Winter grazing system and supplementation during late gestation influence performance of beef cows and steer progeny",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Funston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Anim. Sci",
+            "volume": "87",
+            "issn": "",
+            "pages": "1147--1155",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/4002699"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Comparison of three weaning ages on cow-calf performance and steer carcass characteristics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Faulkner",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ireland",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Parrett",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "J. Anim. Sci",
+            "volume": "77",
+            "issn": "",
+            "pages": "323--329",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/1999.772323x"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Supplemental feed protein concentration and weaning age affects replacement beef heifer performance",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sexten",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Faulkner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Dahlquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Prof. Anim. Sci",
+            "volume": "21",
+            "issn": "",
+            "pages": "278--285",
+            "other_ids": {
+                "DOI": [
+                    "10.15232/S1080-7446(15)31219-5"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Effects of time of weaning, supplement, and sire breed of calf during the fall grazing period on cow and calf performance",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Short",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Grings",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Macneil",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Heitschmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Haferkamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J. Anim. Sci",
+            "volume": "74",
+            "issn": "",
+            "pages": "1701--1710",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/1996.7471701x"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Effects of pre-and postpartum nutrition on reproduction in spring calving cows and calf feedlot performance",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stalker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Feuz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Funston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Anim. Sci",
+            "volume": "84",
+            "issn": "",
+            "pages": "2582--2589",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2005-640"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Effects of weaning date and prepartum protein supplementation on cow performance and calf growth",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stalker",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ciminski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Rangeland Ecol. Manage",
+            "volume": "60",
+            "issn": "",
+            "pages": "578--587",
+            "other_ids": {
+                "DOI": [
+                    "10.2111/06-082R1.1"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Impact of weighing procedures and variation in protein degradation rate on measure performance of growing lambs and cattle",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Stock",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Klopfenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brinks",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lowry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rock",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Abrams",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "J. Anim. Sci",
+            "volume": "57",
+            "issn": "",
+            "pages": "1276--1285",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas1983.5751276x"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Age of calf at weaning of spring-calving beef cows and the effect on cow and calf performance and production economics",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Story",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rasby",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Milton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Anim. Sci",
+            "volume": "78",
+            "issn": "",
+            "pages": "1403--1413",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2000.7861403x"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Carcass composition in mature Hereford cows: estimation and effect on daily metabolizable energy requirement during winter",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lusby",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Oltjen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rakestraw",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Wettemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Walters",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "J. Anim. Sci",
+            "volume": "66",
+            "issn": "",
+            "pages": "603--612",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Intrauterine growth retardation: implications for the animal sciences",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Bazer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wallace",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Spencer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Anim. Sci",
+            "volume": "84",
+            "issn": "",
+            "pages": "2316--2337",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Composition and nutrient analysis of supplement 1 fed to cows on winter range from December 1 to February 28 and OCT-weaned calves from October until December when evaluating how weaning date and late gestation nutrition affected dam and progeny performance",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Effects of weaning date 1 and winter nutrition 2 treatments on dam body condition score (BCS), body weight, calving date, calving rate, pregnancy rate, and weaning rate 91 kg DM/d 32% CP supplement (WR2), corn residue without supplement (CR).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Effects of weaning date 1 and winter grazing 2 treatments applied to dam on heifer progeny postweaning BW, ADG, percentage cycling prior to breeding, and pregnancy rate",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Effects of weaning date 1 and winter grazing 2 treatments applied to dam on calf body weight gain",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Effects of weaning date 1 and winter grazing 2 treatment applied to dam on steer progeny growth, feedlot performance, and carcass characteristics Weaning occurred in October or December. Winter nutritional treatments: range without supplement (WR0), winter range with 0.45 kg DM/d 32% CP supplement (WR1), winter range with 0.91 kg DM/d 32% CP supplement (WR2), corn residue without supplement (CR).3 Adjusted for BW in yr 1 and 2, actual in yr 3 and 4.Within a row, means lacking a common superscript letter differ (P < 0.05).",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

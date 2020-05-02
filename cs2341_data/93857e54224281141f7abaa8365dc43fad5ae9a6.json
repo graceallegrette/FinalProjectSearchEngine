@@ -1,0 +1,1732 @@
+{
+    "paper_id": "93857e54224281141f7abaa8365dc43fad5ae9a6",
+    "metadata": {
+        "title": "Impact of health challenges on pig growth performance, carcass characteristics, and net returns under commercial conditions",
+        "authors": [
+            {
+                "first": "A",
+                "middle": [
+                    "S"
+                ],
+                "last": "Cornelison",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "L",
+                "middle": [
+                    "A"
+                ],
+                "last": "Karriker",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011, 50126",
+                        "settlement": "Ames, Iowa Falls",
+                        "region": "IA, IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "N",
+                "middle": [
+                    "H"
+                ],
+                "last": "Williams",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "||",
+                "middle": [
+                    "B J"
+                ],
+                "last": "Haberl",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "||",
+                "middle": [
+                    "K J"
+                ],
+                "last": "Stalder",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "L",
+                "middle": [
+                    "L"
+                ],
+                "last": "Schulz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [
+                    "F"
+                ],
+                "last": "Patience",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Understanding how disease affects commercial production is imperative for pig producers to quantify its full impact on pig performance, carcass quality, and net returns. The objective of this experiment was to assess the productivity and economic importance of naturally occurring health challenges (HC) under commercial conditions. Three 1,000 pig grow-finish facilities received 936 pigs each. The experimental period started approximately 34 d post placement at an average start BW of 13.1 \u00b1 0.2 kg.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In 2016, 63% of U.S. market hog sales originated in Iowa and the surrounding six states . While Midwest swine production is in a unique position of being favorably located geographically, such density increases the risk of disease transmission among farms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Porcine reproductive and respiratory syndrome virus (PRRSV) is the costliest disease facing pig producers. Holtkamp et al. (2013) estimated annual losses of 664 million U.S. dollar (USD) due to PRRSV. While there are no published data on the costs attributed to influenza type A virus of swine (IAV-S), it is also considered economically important due to reduced growth rates and increased morbidity. A co-challenge of PRRSV with IAV-S or other pathogens can be more costly due to the compounding of disease symptoms (Zimmerman et al., 2012) .",
+            "cite_spans": [
+                {
+                    "start": 107,
+                    "end": 129,
+                    "text": "Holtkamp et al. (2013)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 517,
+                    "end": 541,
+                    "text": "(Zimmerman et al., 2012)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Most disease research is performed in controlled research facilities with attention directed at a single pathogen in order to elucidate the infection mechanism and better understand biological responses (Che et al., 2015; Rochell et al., 2015) . Fully understanding the ways disease impacts commercial production is imperative to quantify the influence of disease on pig performance and net financial returns. Studies conducted in a research facility have the advantage of being well controlled but the disadvantage of uncertain relevance to practical conditions; conversely, studies carried out on commercial farms enhance relevance but maintaining proper controls can be difficult. The ideal situation would be an intensive, well-managed study carried out in a commercial research facility which requires attention to detail, adherence to accepted standards of scientific endeavor, and a great deal of on-site labor.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 221,
+                    "text": "(Che et al., 2015;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 222,
+                    "end": 243,
+                    "text": "Rochell et al., 2015)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The objective of this experiment was to assess the relative impact of naturally occurring health challenges (HC) under commercial conditions on productivity and financial returns, hypothesizing that a more severe HC would decrease productivity and reduce net income.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "All experimental procedures adhered to guidelines for the ethical and humane use of animals for research and were approved by the Iowa State University Institutional Animal Care and Use Committee (number 15-I-0009-A).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Three 1,000 head grow-finish barns located on the same geographical site in Iowa were each populated with 936 crossbred pigs (Cambrough female [PIC 1050 ] \u00d7 DNA600 terminal sire); pigs were received from two different sow sources, although both were identical in genetic origin.",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 152,
+                    "text": "[PIC 1050",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "The three barns were identical in design, management, and operation and pigs received identical diets during the experiment. Each barn contained 46 pens (16.8 m 2 ), with completely slatted concrete floors, metal pen dividers and gates, two nipple water drinkers, and one, 5-space stainless-steel dry feeder. Feed was delivered by an automatic system that delivered specific amounts of feed to specific pens (Feedlogic Corporation, Willmar, MN) . Each barn was equipped with identical integrated ventilation controllers (Expert control, VPN 110, Automated Production Systems, Assumption, IL), which regulated exhaust fans, air inlets, and heaters. This system maintained a stable interior thermal environment based on a temperature curve.",
+            "cite_spans": [
+                {
+                    "start": 408,
+                    "end": 444,
+                    "text": "(Feedlogic Corporation, Willmar, MN)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "Thirty-six of the 46 pens were filled with 26 weaned pigs each at the time of allotment. At placement, pigs were allotted by sex (16 barrow pens, 16 gilt pens, and 4 mixed-sex pens) and size. Based on visual assessment, each pen received 6 \"small size,\" 14 \"medium size,\" and 6 \"large size\" pigs. This procedure helped to ensure a similar BW distribution among pens within each barn. Pigs were placed on-site at weaning, but this study did not start until approximately 34 d post weaning (13.1 \u00b1 0.2 kg of BW). Pigs remained on test until achieving marketing BW of approximately 130.5 \u00b1 1.4 kg.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "All barns were placed on the same feeding program consisting of eight dietary phases, all manufactured at the same feed mill (Mid State Milling, State Center, IA). Pigs were provided ad libitum access to feed and water. All pigs were cared for and managed according to the Iowa Select Farms Select Care program procedures by the same personnel and same veterinary services throughout the course of this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "Each of the three barns were characterized according to the overall observed HC. The HC was considered the applied treatment. Oral fluids were collected on days 7, 63, and 105 to monitor pathogen exposure. Mortality, morbidity, and medication treatments were recorded daily to further assist in characterizing the HC within each barn. Daily animal observations aided in ensuring all animals received appropriate care. Based on this approach to characterize the HC, barns were characterized relative to each other as low challenge health (LCh), moderate challenge health (MCh), and high challenge health (HCh). The disease challenges experienced by the barns were not imposed but rather occurred naturally, similar to what occurs in commercial production. The goal was to maintain a separate HC in each barn for the duration of the experiment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experimental Design"
+        },
+        {
+            "text": "A strict biosecurity protocol was established to avoid pathogen transfer among barns, as barns were in close proximity to one another; barns were separated by only 15.2 m. Personnel were required to shower upon arrival at the farm. Personnel movement was strictly limited to LCh followed by MCh followed by HCh. Boot washes with Virocid disinfectant (CID Lines, Belgium) were used upon entering and exiting each barn. Tyvex suits (Uline, Pleasant Prairie, WI) were placed over coveralls and boots changed prior to entrance into each barn. No re-entry into any barn was permitted within the same day unless the individual re-showered and put on clean coveralls. All tools remained in each assigned barn, unless necessary for use in another barn, in which case they were disinfected before and after use.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Biosecurity"
+        },
+        {
+            "text": "Pen BW (Pen scale -scale head, Chore-Time 100, Milford, IN; load cells, Tru Test MP 800, Wellington, Auckland, New Zealand) and feed disappearance were determined at the start and end of the study, and used to calculate ADG, ADFI, and G:F. Additionally, pigs in the HCh and LCh barns were individually tagged and weighed (Way Pig -Portable Litter Scale, mechanical, Raytec Manufacturing, Ephrata, PA; Individual pig scale -scale head, Digi-Star stockweight 600, Fort Atkinson, WI; load cells) to assess BW variation at the start of the experiment and at the start of the marketing phase, i.e., at the first cut. Date and BW were recorded for any pigs removed from the study due to illness, injury, or death. All pigs that started the experiment were accounted for as 1) pigs removed from the study due to morbidity, 2) mortality, 3) full-value market pigs (pigs sent to a primary market), or 4) light-cull pigs (lights or cull pigs sent to a secondary market).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Collection"
+        },
+        {
+            "text": "Pigs were marketed in three separate groups based on BW to achieve a targeted harvest weight of 130 kg. Prior to marketing, all pigs were weighed individually and received slap tattoos on both hams identifying them according to barn and pen. Hot carcass weight, percent lean, percent yield, backfat depth, and loin depth were collected at the harvest facilities (JBS, Marshalltown, IA). Research personnel attended the harvest to confirm data accuracy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data Collection"
+        },
+        {
+            "text": "Oral fluid samples were collected from six randomly selected pens within each barn on days 7, 63, and 105 to assess the HC over the duration of the experiment. In a method described by Prickett et al. (2008) , oral fluid samples were collected by hanging a cotton rope in the pen for approximately 30 min. Prior to contact with ropes, new gloves were worn to ensure samples were not contaminated. Oral fluid was harvested from the rope by placing the wet end of the rope into a new plastic bag, wringing out the rope, and then transferring the oral fluid to a centrifuge tube. Oral fluid was transported on ice, centrifuged for 10 min at 1,000 rpm and frozen at \u221280 \u00b0C. Samples were analyzed by PCR for PRRSV and IAV-S at the Iowa State University Veterinary Diagnostics Laboratory (Ames, IA).",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 207,
+                    "text": "Prickett et al. (2008)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data Collection"
+        },
+        {
+            "text": "Market BW was the average BW of the pigs marketed within a pen, while final BW was the average BW of all pigs at the end of the experiment including marketed pigs and light-cull pigs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calculations"
+        },
+        {
+            "text": "Carcass ADG was calculated as ([final BW \u00d7 yield] -[start BW \u00d7 yield]) \u00f7 pig days. The observed average yield of 73% at harvest was also applied to the start weight. Carcass G:F was calculated as carcass ADG \u00f7 ADFI.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calculations"
+        },
+        {
+            "text": "Translate basic science to industry innovation",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Impact of a health challenge on performance"
+        },
+        {
+            "text": "Growth performance, pig fate, and carcass data obtained from this experiment were applied to a modeled 2,400 pig grow-finish pig barn, which is a typical of the U.S. pork industry. Start BW, days on feed, days to market, ADFI, mortality, percentage of market pigs sold, percentage of light-cull pigs sold, and carcass yield were utilized in the economic model. For the purposes of the economic analysis, ADG for only full-value market pigs was used. Start BW was standardized to 13.1 kg for both economic models. In the fixed-time model, carcass yield was standardized at 73%.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic Analysis"
+        },
+        {
+            "text": "Similar to other published reports on the economic impact of swine diseases, a swine-enterprise budgeting model was developed to specify the mathematical relationships between production inputs and outputs, as well as costs and revenues associated with swine production (Holtkamp et al., 2013; Schulz and Tonsor, 2015) . Two grow-finish models were employed: 1) assuming pigs are marketed at a fixed BW of 130 kg and referred to as the fixed-weight model and 2) assuming pigs are harvested after a fixed time of 133 d in the barn, referred to as the fixed-time model. Both models exist in commercial practice. Within each model, returns were calculated on a per pig sold and per pig placed basis.",
+            "cite_spans": [
+                {
+                    "start": 270,
+                    "end": 293,
+                    "text": "(Holtkamp et al., 2013;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 294,
+                    "end": 318,
+                    "text": "Schulz and Tonsor, 2015)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Economic Analysis"
+        },
+        {
+            "text": "The economic analysis was conducted and reported in USD in all instances. Production costs were obtained from data compiled by Meta Farms (MetaFarms, Burnsville, MN), USDA-AMS, and Iowa State University (Ames, IA) in 2015 (Table 1) . The price per feeder pig was calculated by using the composite weighted average price (formula and cash) of an 18 kg feeder pig from the National Direct Delivered Feeder Pig Report NW_LS255. The feeder pig price ($55.51 per pig) was based on an average of weekly prices reported during 2015 (USDA-AMS, 2017a). However, the feeder pigs in this study were lighter at 13 kg. In order to appropriately apply a feeder pig price, a linear relationship was used between price and weight. The feeder pig price used in this model was $41.63 per pig. Feed costs were applied based on the feed budget assigned per feeding phase. Major ingredient prices were calculated from the North Central Iowa corn prices report NW_GR110, Iowa DDGS report NW_GR111, and Iowa SBM report NW_ GR116 (USDA-AMS, 2017b, c, d). Other ingredient prices were obtained from Meta Farms. Based on a weighted average of ingredient prices, diet costs across phases were calculated to be $201.67/t. Transportation costs were obtained from the Iowa State University Ag Decision Maker website ($3.90/ loaded mile, semi-trailer; Plastina and Johanns, 2015) . Assuming a semi-trailer capacity of 500 feeder pigs, and transportation distance of 25 miles, the cost of transportation for feeder pigs used in this model is $0.195 per pig placed. Assuming truck capacity of 130 market pigs and a distance to market of 50 miles, the cost of transportation for market pigs used in this model was $1.50 per market pig. A base price for veterinary costs ($5.00/ pig placed) was obtained from Meta Farms and was applied to the LCh barn. The MCh and HCh barns incurred additional veterinary costs of $2.37 and $2.02/pig sold, respectively. These added costs were due to the increased number of pig treatments in these barns and the medications used related to different clinical symptoms. An assumed yardage cost ($0.115/pig space/d) was obtained from Meta Farms. Yardage costs can be a major component of the total costs of pork production, and vary significantly from one producer to the next. Yardage is broadly defined as overhead costs, and incorporates Total revenue was calculated based on income generated by marketing pigs to both a primary market and secondary market for light-cull pigs. Profit was determined after total costs were subtracted from total revenue and reported for the entire barn on a per pig marketed and per pig placed basis. These values were compared across treatment to estimate losses due to a HC, relative to the LCh treatment.",
+            "cite_spans": [
+                {
+                    "start": 1321,
+                    "end": 1348,
+                    "text": "Plastina and Johanns, 2015)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 222,
+                    "end": 231,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Economic Analysis"
+        },
+        {
+            "text": "The sensitivity of these results to changes in the price of feeder pigs, market hogs (both fullvalue and lightweight culls), and feed costs was also explored to provide some appreciation for the extent to which prices and costs impact the magnitude of production losses and decreased productivity on net returns. In addition to the baseline models, alternative scenarios were created by increasing or decreasing feeder pig and market hog prices and feed costs by 20% while holding all other variables constant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Economic Analysis"
+        },
+        {
+            "text": "PROC UNIVARIATE (SAS Inst., Inc., Cary, NC) was used to determine equality of variances and to remove outliers, which were defined as observations beyond 3 SDs of the mean. Pig growth and carcass data were analyzed using MIXED model methods (SAS Inst., Inc.) with pen as the experimental unit, HC and sex as fixed effects, and start BW as linear covariate. Pig fate data were analyzed using the binary distribution in GLIMMIX model methods (SAS Inst., Inc.) with pen as the experimental unit, HC and sex as fixed effects, and start BW as a linear covariate. PRRSV genomic copies in oral fluid samples were analyzed using the MIXED procedure of SAS with pen as the experimental unit, HC as the fixed effect, and day as the repeated measure. Statistical significance was determined at P \u22640.05 and trends considered when 0.05 < P \u2264 0.10.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Pen within barn was used as the experimental unit, with HC being the observed treatment (n = 36).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The authors recognize that in most animal science research, the barn would be considered the experimental unit. However, it is not possible to replicate a disease treatment across multiple barns; as demonstrated in this study, health status within a barn can change over time, making replication improbable. However, great care was taken to ensure that any potential differences among the barns other than disease were minimized; as previously explained, the three barns were identical in design and construction, were all managed by the same person, were of the same genetic origin and received the same dietary regime. All three barns were located on the same site to eliminate the chance of differences in weather affecting outcomes. On this basis, it was concluded that the pen within the barn can be considered the experimental unit, although the chance of other factors besides HC affecting performance cannot be completed precluded. This experimental design is similar to other health or disease research published previously including but not limited to Schweer et al. (2016a, b) , Rochell et al. (2015) , and Che et al. (2015) .",
+            "cite_spans": [
+                {
+                    "start": 1062,
+                    "end": 1087,
+                    "text": "Schweer et al. (2016a, b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1090,
+                    "end": 1111,
+                    "text": "Rochell et al. (2015)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1118,
+                    "end": 1135,
+                    "text": "Che et al. (2015)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "All barns showed clinical PRRSV symptoms including lethargy, mortality, and reductions in gain. Oral fluid PCR evaluation revealed that they had all experienced a PRRSV infection ( Table 2 ). The HCh treatment had the greatest oral fluid PRRSV genomic copy concentration at days 7 and 63; however, at day 105, the MCh had the greatest concentration (Figure 1 ). The HCh treatment was suspected of being infected with a secondary PRRSV strain, based on diagnostic testing results. However, due to the virus's ability to mutate quickly, it is uncertain whether a second PRRSV detection was a mutation or a second lateral virus introduction into the environment from a different source. Oral fluid PCR results showed that the MCh treatment contracted IAV-S (H1N2) by day 7 and both HCh and MCh treatments were diagnosed with IAV-S (H1N1) on day 63. Additionally, clinical symptoms of IAV-S were observed in the HCh and MCh treatments including anorexia, lethargy, labored breathing, and coughing. As HC increased, the number of treatments with injectable medications were elevated (1,108, 2,335, and 3,415 in the LCh, MCh, and HCh treatment, respectively).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 181,
+                    "end": 188,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 349,
+                    "end": 358,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Characterization of the HC"
+        },
+        {
+            "text": "Increasing HC reduced the percentage of pigs sold as full-value pigs and also increased mortality (P < 0.001; Table 3 ). There was a trend for an increased percentage of pigs removed from the experiment due to illness and/or injury as HC increased (P = 0.079). A trend was also observed for the percentage of pigs sold as light culls to increase with increasing HC (P = 0.061).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 110,
+                    "end": 117,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Characterization of the HC"
+        },
+        {
+            "text": "As the HC increased, ADG decreased; furthermore, ADFI and G:F were poorer in MCh and HCh compared to LCh (P < 0.001; Table 4 ). Starting and ending BW CV were greater in HCh compared with LCh (P < 0.001). Similar to whole body ADG, carcass ADG decreased as the HC increased in severity (P < 0.001). Much like whole body G:F, the carcass G:F was greatest in the LCh treatment but similar in the MCh and HCh treatments (P < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 117,
+                    "end": 124,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Effect of HC on Growth Performance"
+        },
+        {
+            "text": "Barrows had greater final BW (P < 0.001; Table 4 ), ADG (P < 0.001), and ADFI (P < 0.001) when compared to gilt, with mixed pens intermediate between the two. Gilts were more efficient than barrows, again with mixed pens intermediate (P < 0.001). No sex differences were observed for starting or ending BW CV (P > 0.10). Similar to whole body ADG, carcass ADG was greatest for the barrows and least for the gilts, with mixed pens intermediate (P = 0.011). Carcass efficiency was greater in the gilt pens and mixed pens when compared to the barrow pens (P < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 41,
+                    "end": 48,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Effect of HC on Growth Performance"
+        },
+        {
+            "text": "Days to market increased as HC increased (P < 0.001; Table 5 ). The MCh and HCh treatments had greater market BW and HCW (P < 0.001) than the LCh treatment. Carcass yield was greatest in MCh compared to HCh, which in turn was greater than LCh (P < 0.001). There were no differences among treatments for loin depth, fat depth, or estimated lean yield (P > 0.10).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 53,
+                    "end": 60,
+                    "text": "Table 5",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Effect of HC on Carcass Characteristics"
+        },
+        {
+            "text": "Compared to gilts, barrows were heavier at market when expressed as Market weight (P = 0.01) or hot carcass weight (P < 0.001); the mixed-sex pens were intermediate between the two. Gilts had less back-fat and greater lean yield than barrows, with mixed-sex pens intermediate. No differences were observed among sexes for carcass yield or loin depth (P > 0.10).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effect of HC on Carcass Characteristics"
+        },
+        {
+            "text": "In the fixed-weight model, increasing HC resulted in total barn losses of $21,454 and $46,199 for MCh and HCh, respectively, compared to LCh (Table 6 ). Comparing HCh with MCh, net profits were reduced by $24,746. Reductions in the sale of full-value pigs a-c or z-x within a row, least square means lacking a common superscript differ, P <0.05.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 141,
+                    "end": 149,
+                    "text": "(Table 6",
+                    "ref_id": "TABREF5"
+                }
+            ],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "1 Three 1,000 pig grow-finish facilities, located on the same production site in Iowa, were each populated with 936 crossbred pigs (Cambrough female [PIC 1050] \u00d7 DNA600 terminal sire); this study did not start until approximately 34 d post weaning (13.1 \u00b1 0.2 kg of BW). Pigs remained on test until achieving marketing BW (130.5 \u00b1 1.4 kg). Days to market = total pig days \u00f7 sum of market value pig and light-cull pigs. and lower carcass weight were the main contributors to lost revenue. Costs were increased from LCh to MCh but reduced in the HCh, as a result of differences in days to market, affecting yardage costs, as well as the cost of individual pig medical treatments. The much higher mortality in HCh resulted in lower feed costs compared to LCh and MCh, because fewer pigs were fed to market; transportation costs 1 Days on feed = total pig days (including mortality and morbidity) \u00f7 total pigs marketed full value.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "2 Average days to market required to achieve the target end body weight.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "3 Total pigs marketed full value = total pigs placed \u2212 (mortality + morbidity + pigs sold to secondary market). 4 Live weight produced = total pigs marketed full value \u00d7 130 kg.",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 113,
+                    "text": "4",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "5 Carcass weight produced = live weight produced \u00d7 % yield. 6 Pigs that were considered underweight or cull animals. 7 Total revenue = (carcass weight produced \u00d7 $/kg full-value pig) + (pigs sold secondary market \u00d7 $/pig secondary market). 8 Cost of feeder pig, yardage, veterinarian, trucking, and feed. 9 Net profit = total revenue -total costs. 10 Comparison of the LCh to the MCh and HCh net profit loss for the total barn and per pig marketed and per pig placed. 11 All currency in USD. were affected in the same way. Due to the impacts on both revenues and expenses, net profit per pig marketed was reduced from LCh to MCh to HCh ($15.16, $5.70, and ($8.11) , respectively). Reductions in net profit were also observed when expressed on a per pig placed basis: $13.53, $4.59, and ($5.72), for LCh, MCh, and HCh, respectively. Sensitivity analysis helps to place changes in net income in the context of fluctuations in market hog prices and feed costs; Table 7 presents the results of such sensitivity analysis when market hog prices and/or feed prices fluctuated 20% above or below average. These results show the increase in losses in MCh and HCh, compared to LCh. It can be seen that in the fixed-weight model, losses in MCh compared with LCh would range from $8.49/pig to 10.44/pig. Similarly, losses in HCh would range from $20.44 to $26.10 when compared to LCh.",
+            "cite_spans": [
+                {
+                    "start": 60,
+                    "end": 61,
+                    "text": "6",
+                    "ref_id": null
+                },
+                {
+                    "start": 240,
+                    "end": 241,
+                    "text": "8",
+                    "ref_id": null
+                },
+                {
+                    "start": 348,
+                    "end": 350,
+                    "text": "10",
+                    "ref_id": null
+                },
+                {
+                    "start": 468,
+                    "end": 470,
+                    "text": "11",
+                    "ref_id": null
+                },
+                {
+                    "start": 636,
+                    "end": 663,
+                    "text": "($15.16, $5.70, and ($8.11)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 958,
+                    "end": 965,
+                    "text": "Table 7",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "In the fixed-time model, increasing HC resulted in total barn losses of $27,638 and $49,820 for MCh and HCh, respectively, compared to LCh (Table 8 ). Comparing HCh with MCh, net profits were reduced by $22,182; in this way, it can be seen that losses due to HC are magnified in the fixed-time as compared to the fixed-weight model. Due to the impacts on both revenues and expenses, net profit per pig marketed was reduced from LCh to MCh to HCh ($15.17, $3.09, and ($9 .56) USD, respectively). Reductions in net profit were also observed when expressed on a per pig placed basis: $14.01, $2.49 and ($6.75) USD, for LCh, MCh, and HCh, respectively.",
+            "cite_spans": [
+                {
+                    "start": 446,
+                    "end": 469,
+                    "text": "($15.17, $3.09, and ($9",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 139,
+                    "end": 147,
+                    "text": "(Table 8",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "The sensitivity of these results to changes in market prices and feed costs are presented in Table 9 . The financial loss due to an increased HC from LCh to MCh ranged between $11.02 and $14.20 USD/pig marketed. From LCh to HCh, the range in losses per pig marketed was $20.71 to $29.82. Thus, market conditions affect the financial impact of an increased HC.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 93,
+                    "end": 100,
+                    "text": "Table 9",
+                    "ref_id": null
+                }
+            ],
+            "section": "Effect of Heath Challenge on Net Returns"
+        },
+        {
+            "text": "The range of impact on performance and net returns relative to the severity of naturally Carcass weight produced = live weight produced \u00d7 % yield. 6 Pigs that were considered underweight or cull animals. 7 Total revenue = (carcass weight produced \u00d7 $/kg full-value pig) + (pigs sold secondary market \u00d7 $/pig secondary market). 8 Cost of feeder pig, yardage, veterinarian, trucking, and feed. 9 Net profit = total revenue -total costs. 10 Comparison of the LCh to the MCh and HCh net profit loss for the total barn and per pig marketed and per pig placed.",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 148,
+                    "text": "6",
+                    "ref_id": null
+                },
+                {
+                    "start": 204,
+                    "end": 205,
+                    "text": "7",
+                    "ref_id": null
+                },
+                {
+                    "start": 327,
+                    "end": 328,
+                    "text": "8",
+                    "ref_id": null
+                },
+                {
+                    "start": 392,
+                    "end": 393,
+                    "text": "9",
+                    "ref_id": null
+                },
+                {
+                    "start": 435,
+                    "end": 437,
+                    "text": "10",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "All currency in USD.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "11"
+        },
+        {
+            "text": "occurring, multi-etiology disease under commercial conditions is not well documented. Exposure to PRRSV and IAV-S will cause lethargy, reduced growth rates, and increase mortality and morbidity (Rochell et al., 2015; Schweer, 2015; Schweer et al., 2016a) . Exacerbated symptoms in the event of multiple infections are expected; however, very little data exist to confirm this and quantify its impact. Van Reeth et al. (1996) reported intensified clinical symptoms in the event of a PRRSV co-challenge with IAV-S or porcine respiratory coronavirus in feeder pigs. They noted that clinical symptoms were variable in different groups of pigs challenged with the same PRRSV-IAV-S combination, demonstrating that co-challenges are difficult to reproduce and will impact pigs differently than an infection with a single virus. Much like Van Reeth's experiment, pigs in this study had exacerbated clinical symptoms in the MCh and HCh treatments due to the PRRSV and IAV-S co-challenge but the HCh was more severely impacted than the MCh. The number of injectable medications increased by 111% and 208% in the MCh and HCh treatments, respectively, compared to LCh. Mortality was similarly increased by 133% and 503% in the MCh and HCh treatments, respectively. The mortality observed in the present study was greater than expected based on the current literature. In an economic analysis by Holtkamp et al. (2013) , greater severity of a PRRSV infection increased mortality by as much as 35%.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 216,
+                    "text": "(Rochell et al., 2015;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 217,
+                    "end": 231,
+                    "text": "Schweer, 2015;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 232,
+                    "end": 254,
+                    "text": "Schweer et al., 2016a)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 401,
+                    "end": 424,
+                    "text": "Van Reeth et al. (1996)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1383,
+                    "end": 1405,
+                    "text": "Holtkamp et al. (2013)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "11"
+        },
+        {
+            "text": "In the present study, due to increased mortality, the proportion of animals sold as full-value pigs decreased by 9.8% and 21% in the MCh and HCh, respectively, which again is greater than that reported by Holtkamp et al. (2013) . They reported a 0.73% and 0.62% decrease in fullvalue pigs sold in the event of a PRRSV challenge. The study reported herein characterized the relative health status of the three barns but did not comprehensively diagnose all potential pathogens in the three barns. To test for all potential pathogens would have been cost prohibitive and, as some definitive tests require post-mortem samples, would have interfered with growth and performance data of the pigs. Thus, knowing absolute health status comprehensively and collecting performance data with minimal iatrogenic manipulation is very challenging. One of the explanations for variance between the numbers reported by Holtkamp et al. (2013) and those measured here could be the undetected presence of additional pathogens that were not included in the Holtkamp analysis.",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 227,
+                    "text": "Holtkamp et al. (2013)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 904,
+                    "end": 926,
+                    "text": "Holtkamp et al. (2013)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "11"
+        },
+        {
+            "text": "In the event of a HC, it is well understood that growth performance will be influenced due to a reduction in feed intake and muscle protein catabolism along with the diversion of essential energy and nutrients to support immune function (Williams 1997a, b, c; Huntley et al., 2017) . Van Reeth et al. (1996) reported reduced ADG under a PRRSV-IAV-S challenge; however, no other published data exist that describe the impact of a PRRSV and IAV-S co-infection specifically on growth performance in grow-finish pigs. Rochell et al. (2015) , Schweer (2015) , and Schweer et al. (2016a) reported reduced overall ADG and ADFI when pigs were under a PRRSV challenge. While ADG and ADFI were lower in the present experiment, the modest reduction in G:F was a surprise. In a grow-finish experiment by Schweer (2015) , feed efficiency was reduced by 6.8% when pigs experienced a PRRSV Table 9 . Sensitivity of loss/pig marketed to alternative commodity prices (sensitivity analysis) due to an increasing HC, assuming all pigs sold using a fixed-time model, 133 d ",
+            "cite_spans": [
+                {
+                    "start": 237,
+                    "end": 259,
+                    "text": "(Williams 1997a, b, c;",
+                    "ref_id": null
+                },
+                {
+                    "start": 260,
+                    "end": 281,
+                    "text": "Huntley et al., 2017)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 284,
+                    "end": 307,
+                    "text": "Van Reeth et al. (1996)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 514,
+                    "end": 535,
+                    "text": "Rochell et al. (2015)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 538,
+                    "end": 552,
+                    "text": "Schweer (2015)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 559,
+                    "end": 581,
+                    "text": "Schweer et al. (2016a)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 792,
+                    "end": 806,
+                    "text": "Schweer (2015)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 875,
+                    "end": 882,
+                    "text": "Table 9",
+                    "ref_id": null
+                }
+            ],
+            "section": "11"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Mannan oligosaccharide increases serum concentrations of antibodies and inflammatory mediators in weanling pigs experimentally infected with porcine reproductive and respiratory syndrome virus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Che",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kelley",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Van Alstine",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pettigrew",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "90",
+            "issn": "",
+            "pages": "2784--2793",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas2011-4518"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Assessment of the economic impact of porcine reproductive and respiratory syndrome virus on United States pork producers",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Holtkamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kliebenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Neumann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rotto",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yoder",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Yeske",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mowrer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Haley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Swine Heal. Prod",
+            "volume": "21",
+            "issn": "",
+            "pages": "72--84",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Immune system stimulation increases nursery pig maintenance energy requirements",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Huntley",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nyachoti",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Patience",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Anim. Sci",
+            "volume": "95",
+            "issn": "",
+            "pages": "68--69",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/asasmw.2017.12.145"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Annual PRRS costs fall $83.3 million (pork checkoff report)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Assessment of the economic impact of porine reproductive and respiratory syndrome on swine production in the United States",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Neumann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kliebenstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mabry",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Seitzinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "JAVMA",
+            "volume": "227",
+            "issn": "",
+            "pages": "385--392",
+            "other_ids": {
+                "DOI": [
+                    "doi.org/10.2460/javma.2005.227.385"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Ag Decision Maker -2015 Iowa Farm Custom Rate Survey",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Plastina",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Johanns",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Oral-fluid samples for surveillance of commercial growing pigs for porcine reproductive and respiratory syndrome virus and porcine circovirus type 2 infections",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Prickett",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Simer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Swine. Heal. Prod",
+            "volume": "16",
+            "issn": "",
+            "pages": "86--91",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Effects of dietary soybean meal concentration on growth and immune response of pigs infected with porcine reproductive and respiratory syndrome virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rochell",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Rocha",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Van Alstine",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Boyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pettigrew",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Dilger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "2987--2997",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas2014-8462"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Assessment of the economic impacts of porcine epidemic diarrhea virus in the United States",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schulz",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tonsor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "2015--9136",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Impact of PRRS and PED viruses on grower pig performance and intestinal function",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Schweer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The effect of porcine reproductive and respiratory syndrome virus and porcine epidemic diarrhea virus challenge on growing pigs I: growth performance and digestibility",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Schweer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burrough",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sparks",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Gabler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Anim. Sci",
+            "volume": "94",
+            "issn": "",
+            "pages": "514--522",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas2015-9834"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The effect of porcine reproductive and respiratory syndrome virus and porcine epidemic diarrhea virus challenge on growing pigs II: intestinal integrity and function",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Schweer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pearce",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Burrough",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sparks",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gabler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Anim Sci",
+            "volume": "94",
+            "issn": "",
+            "pages": "523--532",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas2015-9836"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Feeder pig prices -feeder pig national (LM_LS255)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Usda-Ams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Corn prices -North Central Iowa corn (NW_GR110)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Usda-Ams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "DDGS prices -Iowa DDGS (NW_ GR111)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Usda-Ams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "SBM prices -Iowa SBM (NM_GR116)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Usda-Ams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Market hog prices -prior day purchase IA-MN (LM_HG204)",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Usda-Ams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Meat animals production disposition, and income 2016 summary",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Dual infections of feeder pigs with porcine reproductive and respiratory syndrome virus followed by porcine respiratory coronavirus or swine influenza: a clinical and virological study",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Van Reeth",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nauwynck",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pensaert",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Vet. Microbiol",
+            "volume": "48",
+            "issn": "",
+            "pages": "325--335",
+            "other_ids": {
+                "DOI": [
+                    "doi.org/10.1016/0378-1135(95)00145-X"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Effect of chronic immune system activation on body nitrogen retention, partial efficiency of lysine utilization, and lysine needs of pigs",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Stahly",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Anim. Sci",
+            "volume": "75",
+            "issn": "",
+            "pages": "2472--2480",
+            "other_ids": {
+                "DOI": [
+                    "-doi.org/10.2527/1997.7592472x"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Effect of chronic immune system activation on the rate, efficiency, and composition of growth and lysine needs of pigs fed from 6 to 27 kg",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Stahly",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Anim. Sci",
+            "volume": "75",
+            "issn": "",
+            "pages": "2463--2471",
+            "other_ids": {
+                "DOI": [
+                    "doi.org/10.2527/1997.7592463x"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Effect of chronic immune system activation on the growth and dietary lysine needs of pigs fed from 6 to 112 kg",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Stahly",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J. Anim. Sci",
+            "volume": "75",
+            "issn": "",
+            "pages": "2481--2496",
+            "other_ids": {
+                "DOI": [
+                    "doi.org/10.2527/1997.7592481x"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Porcine reproductive and respiratory syndrome virus (porcine arterivirus)",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Benfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Dee",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Murtaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Stadejek",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stevenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Torremorell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Diseases of swine",
+            "volume": "",
+            "issn": "",
+            "pages": "461--486",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Oral fluid PRRSV concentration for three HC at days 7, 63, and 105 in grow-finish pigs raised under commercial conditions 1 . 1 Three 1,000 pig grow-finish facilities, located on the same production site in Iowa, were each populated with 936 crossbred pigs (Cambrough female [PIC 1050] \u00d7 DNA600 terminal sire); this study did not start until approximately 34 d post weaning (13.1 \u00b1 0.2 kg of BW). Pigs remained on test until achieving marketing BW (130.5 \u00b1 1.4 kg).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Parameter values used to determine revenues and expenses in a study estimating the economic impact of an increased HC in grow-finish pigs raised under commercial conditions 1 Three 1,000 pig grow-finish facilities, located on the same production site in Iowa, were each populated with 936 crossbred pigs (Cambrough female [PIC 1050] \u00d7 DNA600 terminal sire); this study did not start until approximately 34 d post weaning (13.1 \u00b1 0.2 kg of BW). Pigs remained on test until achieving marketing BW (130.5 \u00b1 1.4 kg).2 North Central Iowa corn prices report NW_GR110, Iowa DDGS report NW_GR111, and Iowa SBM report NW_GR116 (USDA-AMS, 2017b, c, d).3 Feeder pig national report LM_LS255 (USDA-AMS, 2017a). Added costs associated with increased HC were $2.37 and $2.02 per pig sold for MCh and HCh, respectively. 5 Iowa State Ag decision maker(Plastina and Johanns, 2015). Iowa/Minnesota Daily Direct Prior Day Hog Report LM_HG 204 (USDA-AMS, 2017e). 7 All currency in USD.non-feed costs that are not associated with hog ownership. Yardage calculations will vary and costs included differ; nonetheless, the assumed yardage cost used in this model included fuel, operating interest, machinery, labor and building depreciation, taxes, and insurance. The secondary market price of lightweight and cull pigs ($78.74/pig) was obtained from Meta Farms. The primary market hog price was calculated by using the average of the monthly negotiated Iowa/Minnesota Daily Direct Prior Day Hog Report LM_HG 204 (plant delivered) prices for 2015 ($1.48/kg carcass weight; USDA-AMS, 2017e).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Number of positive diagnostic evaluations on oral fluid for PRRSV and IAV-S by PCR at days 7, 63, and 105 in grow-finish pigs raised under commercial conditions 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "The effect of three HC and sex on pig fate in grow-finish pigs raised under commercial conditions 1 PIC 1050] \u00d7 DNA600 terminal sire); this study did not start until approximately 34 d post weaning (13.1 \u00b1 0.2 kg of BW). Pigs remained on test until achieving marketing BW (130.5 \u00b1 1.4 kg).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "The effect of three HC and sex on whole body and carcass based growth performance in grow-finish pigs raised under commercial conditions 1 PIC 1050] \u00d7 DNA600 terminal sire); this study did not start until approximately 34 d post weaning (13.1 \u00b1 0.2 kg of BW). Pigs remained on test until achieving marketing BW (130.5 \u00b1 1.4 kg).Least square means of HC.Least square means of sex.Probability values for main effects of HC or sex.Average start body weight used as a covariate.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "The effect of HC and sex on carcass measurements in grow-finish pigs raised under commercial conditions 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "The calculated economic impact of an increasing HC, assuming all pigs sold using a fixed-weight model, 130 kg",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Sensitivity",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "The calculated economic impact of an increasing HC, assuming all pigs sold using a fixed-time model, 133 d Days on feed = total pig days (including mortality and morbidity) \u00f7 total pigs marketed full value.Set days allowed for this model.Total pigs marketed full value = total pigs placed \u2212 (mortality + morbidity + pigs sold to secondary market).Live weight produced = total pigs marketed full value \u00d7 (13.1 kg + [ADG \u00d7 133 d]).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "Change in HCFeeder pig, primary and secondary market",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "infection, which is greater than the 4.8% observed in this experiment.There were no differences observed in final BW; this was expected as pigs from all treatments were marketed on the basis of BW and not on the basis of time in the barn. Due to suppressed growth rates, days to market was lengthened by 10 and 15 d in the MCh and HCh, respectively, compared to LCh. Schweer (2015) reported 14 greater days to market when pigs experienced a PRRSV infection.The design of this experiment dictated that pigs were marketed at a similar BW, to provide the best comparison for the HC effects on carcass composition. It would be expected that the slower growing pigs would tend to be leaner and would deposit less fat (Williams et al., 1997c; Schweer 2015) ; however, this was not observed in the present experiment.Using parameters for growth, mortality, and full-value pigs sold, Neumann et al. (2005) first assessed the financial burden of PRRSV to U.S. pig producers as $494 USD million. Later, Holtkamp et al. (2013) estimated these losses at $664 USD million in grow-finish pigs. In a recent interim report, Holtkamp reported that the economic impact of PRRSV has fallen by $83 million USD to $581 million USD in grow-finish pigs (Miller, 2017) . Both economic models in the present study reveal serious losses in the event of a PRRSV and IAV-S co-challenge under commercial conditions; however, the fixed-time model resulted in greater losses when calculated on a per barn-turn basis. Neumann et al. (2005) estimated PRRSV cost U.S. hog producers $7.67 USD/pig, while Holtkamp et al. (2013) reported production losses of $4.67 USD for every pig marketed in the U.S. Unfortunately, these economic analyses by Neumann and Holtkamp only assess the economic contribution of a PRRSV infection. They also represent \"average\" losses estimated across the total US pig herd. The results of this experiment suggest that the economic impact of a co-challenge can vary widely.In conclusion, increasing severity of HC under commercial conditions reduced ADG by 8% and 14% and resulted in mortality as high as 19.9%. Losses of $9.49 to $25.32/pig marketed underscores the potential magnitude of the economic impact of mixed etiology concurrent diseases in pork production.",
+            "cite_spans": [
+                {
+                    "start": 367,
+                    "end": 381,
+                    "text": "Schweer (2015)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 712,
+                    "end": 736,
+                    "text": "(Williams et al., 1997c;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 737,
+                    "end": 750,
+                    "text": "Schweer 2015)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 876,
+                    "end": 897,
+                    "text": "Neumann et al. (2005)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 993,
+                    "end": 1015,
+                    "text": "Holtkamp et al. (2013)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1230,
+                    "end": 1244,
+                    "text": "(Miller, 2017)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1486,
+                    "end": 1507,
+                    "text": "Neumann et al. (2005)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1569,
+                    "end": 1591,
+                    "text": "Holtkamp et al. (2013)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

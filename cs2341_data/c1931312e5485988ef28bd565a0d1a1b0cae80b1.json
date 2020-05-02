@@ -1,0 +1,5518 @@
+{
+    "paper_id": "c1931312e5485988ef28bd565a0d1a1b0cae80b1",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Yan-Rong",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u2020",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qing-Dong",
+                "middle": [],
+                "last": "Cao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sen University",
+                    "location": {
+                        "addrLine": "Sun Yat",
+                        "postCode": "519000",
+                        "settlement": "Zhuhai, Guangdong",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zhong-Si",
+                "middle": [],
+                "last": "Hong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sen University",
+                    "location": {
+                        "addrLine": "Sun Yat",
+                        "postCode": "519000",
+                        "settlement": "Zhuhai, Guangdong",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yuan-Yang",
+                "middle": [],
+                "last": "Tan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Shou-Deng",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hong-Jun",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kai-Sen",
+                "middle": [],
+                "last": "Tan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National University Health System",
+                    "location": {
+                        "postCode": "119228",
+                        "country": "Singapore, Singapore"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "De-Yun",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National University Health System",
+                    "location": {
+                        "postCode": "119228",
+                        "country": "Singapore, Singapore"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Yan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "In December 2019, a cluster of pneumonia cases, caused by a newly identified \u03b2-coronavirus, occurred in Wuhan, China. This coronavirus, was initially named as the 2019novel coronavirus (2019-nCoV) on 12 January 2020 by World Health Organization (WHO). WHO officially named the disease as coronavirus disease 2019 (COVID- 19) and Coronavirus Study Group (CSG) of the International Committee proposed to name the new coronavirus as SARS-CoV-2, both issued on 11 February 2020. The Chinese scientists rapidly isolated a SARS-CoV-2 from a patient within a short time on 7 January 2020 and came out to genome sequencing of the SARS-CoV-2 [1] . As of 1 March 2020, a total of 79,968 cases of COVID-19 have been confirmed in mainland China including 2873 deaths [2] . Studies estimated the basic reproduction number (R 0 ) of SARS-CoV-2 to be around 2.2 [3] , or even more (range from 1.4 to 6.5) [4] , and familial clusters of pneumonia [5] outbreaks add to evidence of the epidemic COVID-19 steadily growing by human-to-human transmission.",
+            "cite_spans": [
+                {
+                    "start": 321,
+                    "end": 324,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 633,
+                    "end": 636,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 755,
+                    "end": 758,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 847,
+                    "end": 850,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 890,
+                    "end": 893,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 931,
+                    "end": 934,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "The SARS-CoV-2 is a \u03b2-coronavirus, which is enveloped non-segmented positive-sense RNA virus (subgenus sarbecovirus, Orthocoronavirinae subfamily) [6] . Coronaviruses (CoV) are divided into four genera, including \u03b1\u2212/ \u03b2\u2212/\u03b3\u2212/\u03b4-CoV. \u03b1and \u03b2-CoV are able to infect mammals, while \u03b3and \u03b4-CoV tend to infect birds. Previously, six CoVs have been identified as human-susceptible virus, among which \u03b1-CoVs HCoV-229E and HCoV-NL63, and \u03b2-CoVs HCoV-HKU1 and HCoV-OC43 with low pathogenicity, cause mild respiratory symptoms similar to a common cold, respectively. The other two known \u03b2-CoVs, SARS-CoV and MERS-CoV lead to severe and potentially fatal respiratory tract infections [7] . It was found that the genome sequence of SARS-CoV-2 is 96.2% identical to a bat CoV RaTG13, whereas it shares 79.5% identity to SARS-CoV. Based on virus genome sequencing results and evolutionary analysis, bat has been suspected as natural host of virus origin, and SARS-CoV-2 might be transmitted from bats via unknown intermediate hosts to infect humans. It is clear now that SARS-CoV-2 could use angiotensin-converting enzyme 2 (ACE2), the same receptor as SARS-CoV [8] , to infect humans (upper panel, Fig. 1 ).",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 150,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 669,
+                    "end": 672,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1144,
+                    "end": 1147,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1181,
+                    "end": 1187,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Origin and transmission of SARS-CoV-2"
+        },
+        {
+            "text": "The epidemic of unknown acute respiratory tract infection broke out first in Wuhan, China, since 12 December 2019, possibly related to a seafood market. Several studies suggested that bat may be the potential reservoir of SARS-CoV-2 [9, 10] . However, there is no evidence so far that the origin of SARS-CoV-2 was from the seafood market. Rather, bats are the natural reservoir of a wide variety of CoVs, including SARS-CoV-like and MERS-CoV-like viruses [11] [12] [13] . Upon virus genome sequencing, the COVID-19 was analyzed throughout the genome to Bat CoV RaTG13 and showed 96.2% overall genome sequence identity [8] , suggesting that bat CoV and human SARS-CoV-2 might share the same ancestor, although bats are not available for sale in this seafood market [14] . Besides, protein sequences alignment and phylogenetic analysis [15] showed that similar residues of receptor were observed in many species, which provided more possibility of alternative intermediate hosts, such as turtles, pangolin and snacks.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 236,
+                    "text": "[9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 237,
+                    "end": 240,
+                    "text": "10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 455,
+                    "end": 459,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 460,
+                    "end": 464,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 465,
+                    "end": 469,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 618,
+                    "end": 621,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 764,
+                    "end": 768,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 834,
+                    "end": 838,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Epidemiology \u2212 reservoirs and transmission"
+        },
+        {
+            "text": "Human-to-human transmission of SARS-CoV-2 occurs mainly between family members, including relatives and friends who intimately contacted with patients or incubation carriers. It is reported [16] that 31.3% of patients recent travelled to Wuhan and 72.3% of patients contacting with people from Wuhan among the patients of nonresidents of Wuhan. Transmission between healthcare workers occurred in 3.8% of COVID-19 patients, issued by the National Health Commission of China on 14 February 2020. By contrast, the transmission of SARS-CoV and MERS-CoV is reported to occur mainly through nosocomial transmission. Infections of healthcare workers in 33-42% of SARS cases and transmission between patients (62-79%) was the most common route of infection in MERS-CoV cases [17, 18] . Direct contact with intermediate host animals or consumption of wild animals was suspected to be the main route of SARS-CoV-2 transmission. However, the source(s) and transmission routine(s) of SARS-CoV-2 remain elusive.",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 194,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 768,
+                    "end": 772,
+                    "text": "[17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 773,
+                    "end": 776,
+                    "text": "18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Epidemiology \u2212 reservoirs and transmission"
+        },
+        {
+            "text": "Isolated from a COVID-19 pneumonia patient, a worker in the Wuhan seafood market, the complete genome of Wuhan-Hu-1 coronavirus (WHCV), one strain of SARS-CoV-2, is 29.9 kb [14] . While SARS-CoV and MERS-CoV have positive-sense RNA genomes of 27.9 kb and 30.1 kb, respectively [19] . It has been shown that the genome of CoVs contains a variable number (6) (7) (8) (9) (10) (11) of open reading frames (ORFs) [20] . Two-thirds of viral RNA, mainly located in the first ORF (ORF1a/b) translates two polyproteins, pp1a and pp1ab, and encodes 16 non-structural proteins (NSP), while the remaining ORFs encode accessory and structural proteins. The rest part of virus genome encodes four essential structural proteins, including spike (S) glycoprotein, small envelope (E) protein, matrix (M) protein, and nucleocapsid (N) protein [21] , and also several accessory proteins, that interfere with the host innate immune response. Wu et al. [14] have recently performed deep meta-transcriptomic sequencing on WHCV, which contained 16 predicted NSP. WHCV exhibits some genomic and phylogenetic similarity to SARS-CoV, particularly in the S-glycoprotein gene and . The rest part of the virus genome encodes four essential structural proteins, including spike (S) glycoprotein, small envelope (E) protein, matrix (M) protein, and nucleocapsid (N) protein, and also several accessory proteins. S glycoprotein of SARS-CoV-2 binds to host cell receptors, angiotensin-converting enzyme 2 (ACE2), that is a critical step for virus entry. The possible molecules facilitated membrane invagination for SARS-CoV-2 endocytosis are still unclear. Other virus proteins may contribute to pathogenesis. Host factors (Lower panel) can also influence susceptibility to infection and disease progression. The elderly and people with underlying disease are susceptible to SARS-CoV-2 and tend to develop into critical conditions. RBD, receptor-binding domain; HR1, heptad repeats 1; HR2, heptad repeats 2 receptor-binding domain (RBD), indicating the capability of direct human transmission. Compared with the known SARS-CoV and MERS-CoV genome, SARS-CoV-2 is closer to the SARS-like bat CoVs in terms of the whole genome sequence. Most genomic encoded proteins of SARS-CoV-2 are similar to SARS-CoVs, as well as exist certain differences. At the protein level, there are no amino acid substitutions that occurred in NSP7, NSP13, envelope, matrix, or accessory proteins p6 and 8b, except in NSP2, NSP3, spike protein, underpinning subdomain, i.e., RBD [22] . Another recent research suggested [23] that the mutation in NSP2 and NSP3 play a role in infectious capability and differentiation mechanism of SARS-CoV-2. This provokes people to explore the difference of the host tropism and transmission between SARS-CoV-2 and SARS-CoV or conduct further investigations on the potential therapeutic targets. Zhang et al. [24] analyzed the genotypes of COVID-19 in different patients from several provinces and found that SARS-CoV-2 had been mutated in different patients in China. Although the degree of diversification of SARS-CoV-2 is smaller than the mutation of H7N9 avian influenza [25] . Tang et al. [26] conducted a population genetic analyses of 103 SARS-CoV-2 genomes and classified out two prevalent evolvement types of SARS-CoV-2, L type (~70%) and S type (~30%). The strains in L type, derived from S type, are evolutionarily more aggressive and contagious. Thus, virologists and epidemiologists need to closely monitor the novel coronavirus, in order to inspect the virulence and epidemic.",
+            "cite_spans": [
+                {
+                    "start": 173,
+                    "end": 177,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 277,
+                    "end": 281,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 353,
+                    "end": 356,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 357,
+                    "end": 360,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 361,
+                    "end": 364,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 365,
+                    "end": 368,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 369,
+                    "end": 373,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 374,
+                    "end": 378,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 409,
+                    "end": 413,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 826,
+                    "end": 830,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 933,
+                    "end": 937,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2522,
+                    "end": 2526,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 2563,
+                    "end": 2567,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 2886,
+                    "end": 2890,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 3152,
+                    "end": 3156,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 3171,
+                    "end": 3175,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Genome structure and key viral factors"
+        },
+        {
+            "text": "ACE2, found in the lower respiratory tract of humans, is known as cell receptor for SARS-CoV [27] and regulates both the cross-species and human-to-human transmission [28] . Isolated from the bronchoalveolar lavage fluid (BALF) of a COVID-19 patient, Zhou et al. [8] have confirmed that the SARS-CoV-2 uses the same cellular entry receptor, ACE2, as SARS-CoV. The virion S-glycoprotein on the surface of coronavirus can attach to the receptor, ACE2 on the surface of human cells [29] . S glycoprotein includes two subunits, S1 and S2 [30] . S1 determines the virus-host range and cellular tropism with the key function domain \u2212 RBD, while S2 mediates virus-cell membrane fusion by two tandem domains, heptad repeats 1 (HR1) [31] and HR2 [32] . After membrane fusion, the viral genome RNA is released into the cytoplasm, and the uncoated RNA translates two polyproteins, pp1a and pp1ab [33] , which encode non-structural proteins, and form replication-transcription complex (RTC) in double-membrane vesicle [34] . Continuously RTC replicate and synthesize a nested set of subgenomic RNAs [35] , which encode accessory proteins and structural proteins. Mediating endoplasmic reticulum (ER) and Golgi [36] , newly formed genomic RNA, nucleocapsid proteins and envelope glycoproteins assemble and form viral particle buds. Lastly, the virion-containing vesicles fuse with the plasma membrane to release the virus.",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 97,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 167,
+                    "end": 171,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 263,
+                    "end": 266,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 479,
+                    "end": 483,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 534,
+                    "end": 538,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 724,
+                    "end": 728,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 737,
+                    "end": 741,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 885,
+                    "end": 889,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1006,
+                    "end": 1010,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1087,
+                    "end": 1091,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1198,
+                    "end": 1202,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Coronavirus replication and pathogenesis"
+        },
+        {
+            "text": "Because the binding of SARS-CoV-2 Spike (S) glycoprotein and ACE2 receptor is a critical step for virus entry, virus-receptor binding affinity is under intensive study through different approaches. Systematic detection of \u03b2-CoV receptors showed that human cells expressing ACE2, but not human Dipeptidyl peptidase-4 (DPP4) or APN (Aminopeptidase N), were enhanced entry of SARS-CoV-2 [37] . While, another study showed that Sprotein and ACE2 binding efficiency is 10-to 20-fold higher than that of SARS-CoV, evidenced by Cryo-EM Structure of the SARS-CoV-2 Spike in the prefusion conformation [38] . For SARS-CoV, the cleavage of trimer S protein is triggered by the cell surface-associated transmembrane protease serine 2 (TMPRSS2) [39] and cathepsin [40] , while the possible molecules facilitated membrane invagination for SARS-CoV-2 endocytosis are still unclear. Up to the date this review paper was prepared, reports showed that the SARS-CoV-2 may readily transmit, while cause less serious human infection rather than human SARS-CoV. Based on the latest WHO report, the number of infected people (over 80,000 globally, updated on 1 March 2020). The global outbreak may due to the following factors: firstly, the unknown pneumonia outbroke at the time of China Spring Festival, when the mass population flowing. Secondly, more detailed molecular mechanisms of viral binding and entry manners await to be elucidated, which may hamper the development of targeted therapy. Thirdly, available data suggested that the SARS-CoV-2 may be less virulent than the SARS-CoV and MERS-CoV, with the currently analyzed mortality of COVID-19 is 3.4%, lower than death rate of SARS (9.6%) and MERS (around 35%), respectively [19] . Thus, the potential mechanisms for human-to-human transmission and pathogenic mechanisms of the SARS-CoV-2 are under extensively studied.",
+            "cite_spans": [
+                {
+                    "start": 384,
+                    "end": 388,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 593,
+                    "end": 597,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 733,
+                    "end": 737,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 752,
+                    "end": 756,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 1715,
+                    "end": 1719,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Coronavirus replication and pathogenesis"
+        },
+        {
+            "text": "As an emerging acute respiratory infectious disease, COVID-19 primarily spreads through the respiratory tract, by droplets, respiratory secretions, and direct contact [41] for a low infective dose [42] . Otherwise, it has been reported a SARS-CoV-2 was isolated from fecal swabs of a severe pneumonia patient on 10 February 2020 from a critical case in the Fifth Affiliated Hospital, Sun Yat-Sen University, Guangdong, China. Likewise, Zhang et al. [43] have found the presence of SARS-CoV-2 in fecal swabs and blood, indicating the possibility of multiple routes transmission. ACE2 protein presents in abundance on lung alveolar epithelial cells and enterocytes of small intestine remarkably [44] , which may help understand the routes of infection and disease manifestations. Based on current epidemiological investigation, the incubation period is 1-14 days, mostly 3-7 days. And the COVID-19 is contagious during the latency period [45] . It is highly transmissible in humans, especially in the elderly and people with underlying diseases. The median age of patients is 47-59 years, and 41.9-45.7% of patients were females [16, 41, 46] . As it is designated SARS-CoV-2, COVID-19 patients presented certainly similar symptoms, such as fever, malaise, and cough [47] . Most adults or children with SARS-CoV-2 infection presented with mild flu-like symptoms and a few patients are in critical condition and rapidly develop acute respiratory distress syndrome, respiratory failure, multiple organ failure, even deaths [48] .",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 171,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 197,
+                    "end": 201,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 449,
+                    "end": 453,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 693,
+                    "end": 697,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 936,
+                    "end": 940,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1127,
+                    "end": 1131,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1132,
+                    "end": 1135,
+                    "text": "41,",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1136,
+                    "end": 1139,
+                    "text": "46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1264,
+                    "end": 1268,
+                    "text": "[47]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1518,
+                    "end": 1522,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical characteristics"
+        },
+        {
+            "text": "The viral research institution in China has conducted preliminary identification of the SARS-CoV-2 through the classical Koch's postulates and observing its morphology through electron microscopy [49] . So far, the golden clinical diagnosis method of COVID-19 is nucleic acid detection in the nasal and throat swab sampling or other respiratory tract samplings by real-time PCR and further confirmed by next-generation sequencing.",
+            "cite_spans": [
+                {
+                    "start": 196,
+                    "end": 200,
+                    "text": "[49]",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diagnostic criteria"
+        },
+        {
+            "text": "A recent study led by Prof. Nan-Shan Zhong's team, by sampling 1099 laboratory-confirmed cases, found that the common clinical manifestations included fever (88.7%), cough (67.8%), fatigue (38.1%), sputum production (33.4%), shortness of breath (18.6%), sore throat (13.9%), and headache (13.6%) [16] . In addition, a part of patients manifested gastrointestinal symptoms, with diarrhea (3.8%) and vomiting (5.0%). The clinical manifestations were in consistence with the previous data of 41, 99, and 138 patients analysis in Hubei province [46, 48, 50] . Fever and cough were the dominant symptoms whereas upper respiratory symptoms and gastrointestinal symptoms were rare, suggesting the differences in viral tropism as compared with SARS-CoV [51] , MERS-CoV [52] , and influenza [53] . The elderly and those with underlying disorders (i.e., hypertension, chronic obstructive pulmonary disease, diabetes, cardiovascular disease), developed rapidly into acute respiratory distress syndrome, septic shock, metabolic acidosis hard to correct and coagulation dysfunction, even leading to the death [48] (lower panel, Fig. 1 ).",
+            "cite_spans": [
+                {
+                    "start": 296,
+                    "end": 300,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 541,
+                    "end": 545,
+                    "text": "[46,",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 546,
+                    "end": 549,
+                    "text": "48,",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 550,
+                    "end": 553,
+                    "text": "50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 745,
+                    "end": 749,
+                    "text": "[51]",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 761,
+                    "end": 765,
+                    "text": "[52]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 782,
+                    "end": 786,
+                    "text": "[53]",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 1096,
+                    "end": 1100,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1115,
+                    "end": 1121,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Clinical symptoms"
+        },
+        {
+            "text": "In laboratory examination results, most patients had normal or decreased white blood cell counts, and lymphocytopenia [16, 54] . But in the severe patients, the neutrophil count, D-dimer, blood urea, and creatinine levels were higher significantly, and the lymphocyte counts continued to decrease. Additionally, inflammatory factors (interleukin (IL)-6, IL-10, tumor necrosis factor-\u03b1 (TNF-\u03b1) increase, indicating the immune status of patients. The data showed that ICU patients had higher plasma levels of IL-2, IL-7, IL-10, granulocyte colony-stimulating factor (GCSF), 10 kD interferongamma-induced protein (IP-10), monocyte chemoattractant protein-1 (MCP-1), macrophage inflammatory protein 1-\u03b1 (MIP-1\u03b1), and TNF-\u03b1 [48] .",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 123,
+                    "end": 126,
+                    "text": "54]",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 719,
+                    "end": 723,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical symptoms"
+        },
+        {
+            "text": "Moreover, the CT imaging showed that computed tomography on the chest was ground-glass opacity (56.4%) and bilateral patchy shadowing (51.8%) [16] , sometimes with a rounded morphology and a peripheral lung distribution, analyzed from the patients in the Fifth Affiliated Hospital, Sun Yat-Sen University [55] . Clinicians have been aware that, a part of confirmed patients appeared the normal CT image presentations. The diagnostic sensitivity of radiologic is limited, so it is necessary to verify with clinical symptoms and virus RNA detections.",
+            "cite_spans": [
+                {
+                    "start": 142,
+                    "end": 146,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 305,
+                    "end": 309,
+                    "text": "[55]",
+                    "ref_id": "BIBREF54"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical symptoms"
+        },
+        {
+            "text": "Based on the current information, most patients had a good prognosis, while a few patients were in critical condition, especially the elderly and those with chronic underlying diseases. As of 1 March 2020, a total of 79,968 confirmed cases, including 14,475 (18.1%) with severe illness, and 2873 deaths (3.5%) in mainland China had been reported by WHO [2] . Complications included acute respiratory distress syndrome (ARDS), arrhythmia, shock [46] , acute kidney injury, acute cardiac injury, liver dysfunction and secondary infection [48] . The poor clinical outcome was related to disease severity. The disease tends to progress faster in elderly people, with the median number of days from the occurrence of the first symptoms to death shorter among people aged 65 years or more [56, 57] . Similar to H7N9 patients [58] , the elderly male with comorbidities and ARDS showed a higher death risk. Additionally, more than 100 children were infected, with the youngest being 30 h after birth [59] . Neonates and the elderly need more attention and care due to their immature or weak immune system.",
+            "cite_spans": [
+                {
+                    "start": 353,
+                    "end": 356,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 444,
+                    "end": 448,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 536,
+                    "end": 540,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 783,
+                    "end": 787,
+                    "text": "[56,",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 788,
+                    "end": 791,
+                    "text": "57]",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 819,
+                    "end": 823,
+                    "text": "[58]",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 992,
+                    "end": 996,
+                    "text": "[59]",
+                    "ref_id": "BIBREF58"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Complications and clinical outcomes"
+        },
+        {
+            "text": "The immune response is vital for the control and resolution of CoV infections, while it can also lead to immunopathogenesis, associated with the immune response out of control. The S proteins of Coronavirus binds to the host cells by ACE2, fusing to the membrane and release the viral RNA. The viral RNAs, as pathogen-associated molecular patterns (PAMPs), are detected by the pattern recognition receptors (PRRs). Usually, Toll-like receptor (TLR) 3, TLR7, TLR8, and TLR9 sense viral RNA and DNA in the endosome [60, 61] . The viral RNA receptor retinoic-acid inducible gene I (RIG-I) [62] , cytosolic receptor melanoma differentiation-associated gene 5 (MDA5) and nucleotidyltransferase cyclic GMP-AMP synthase (cGAS) [63] are responsible for the recognition of viral RNA and DNA in the cytoplasm. These complex signalling recruit adaptors, including TIR-domain-containing adaptor protein including IFN-\u03b2 (TRIF), mitochondrial antiviral-signalling protein (MAVS) [64] and stimulator of interferon genes protein (STING) [65] to trigger downstream cascades molecules, involving adaptor molecule MyD88 and lead to the activation of the transcription factor nuclear factor-\u03baB (NF-\u03baB) and interferon regulatory factor 3 (IRF3) and the production of type I Interferons (IFN-\u03b1 /\u03b2) and a series of pro-inflammatory cytokines [66] . Hence, virus-cell interactions produce a diverse set of immune mediators against the invading virus [67] . Innate immunity is needed in a precise regulation to eliminate the virus, otherwise will result in immunopathology. A few plasma cytokines and chemokines were observed ascended in COVID-19 patients, including IL-1, IL-2, IL-4, IL-7, IL-10, IL-12, IL-13, IL-17, GCSF, macrophage colony-stimulating factor (MCSF), IP-10, MCP-1, MIP-1\u03b1, hepatocyte growth factor (HGF), IFN-\u03b3 and TNF-\u03b1 [48, 68, 69] . Of note, an anatomy report of COVID-19 pneumonia corpse [70] indicated that COVID-19 caused an inflammatory response in the lower airway and led to lung injury. Collectively, the virus particles invade the respiratory mucosa firstly and infect other cells, triggering a series of immune responses and the production of cytokine storm in the body, which may be associated with the critical condition of COVID-19 patients.",
+            "cite_spans": [
+                {
+                    "start": 513,
+                    "end": 517,
+                    "text": "[60,",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 518,
+                    "end": 521,
+                    "text": "61]",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 586,
+                    "end": 590,
+                    "text": "[62]",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 720,
+                    "end": 724,
+                    "text": "[63]",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 965,
+                    "end": 969,
+                    "text": "[64]",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1021,
+                    "end": 1025,
+                    "text": "[65]",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 1319,
+                    "end": 1323,
+                    "text": "[66]",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1426,
+                    "end": 1430,
+                    "text": "[67]",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 1815,
+                    "end": 1819,
+                    "text": "[48,",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1820,
+                    "end": 1823,
+                    "text": "68,",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 1824,
+                    "end": 1827,
+                    "text": "69]",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 1886,
+                    "end": 1890,
+                    "text": "[70]",
+                    "ref_id": "BIBREF69"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Host immune response and immunopathology"
+        },
+        {
+            "text": "Given the lack of effective antiviral therapy against COVID-19, current treatments mainly focused on symptomatic and respiratory support according to the Diagnosis and Treatment of Pneumonia Caused by COVID-19 (updated to version 6) issued by National Health Commission of the People's Republic of China [71] . Nearly all patients accepted oxygen therapy, and WHO recommended extracorporeal membrane oxygenation (ECMO) to patients with refractory hypoxemia [72] . Rescue treatment with convalescent plasma and immunoglobulin G [73] are delivered to some critical cases according to their conditions.",
+            "cite_spans": [
+                {
+                    "start": 304,
+                    "end": 308,
+                    "text": "[71]",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 457,
+                    "end": 461,
+                    "text": "[72]",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 527,
+                    "end": 531,
+                    "text": "[73]",
+                    "ref_id": "BIBREF72"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Current therapies"
+        },
+        {
+            "text": "Based on the experience of fighting the epidemic SARS-CoV and MERS-CoV previously, we may learn some lessons for some treatment strategies against coronavirus [74] . Antiviral drugs and systemic corticosteroid treatment commonly used in clinical practice previously, including neuraminidase inhibitors (oseltamivir, peramivir, zanamivir, etc), ganciclovir, acyclovir, and ribavirin, as well as methylprednisolone [46, 75] for influenza virus, are invalid for COVID-19 and not recommended.",
+            "cite_spans": [
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "[74]",
+                    "ref_id": "BIBREF73"
+                },
+                {
+                    "start": 413,
+                    "end": 417,
+                    "text": "[46,",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 418,
+                    "end": 421,
+                    "text": "75]",
+                    "ref_id": "BIBREF74"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antiviral treatments"
+        },
+        {
+            "text": "Remdesivir (GS-5734) is a 1\u2032-cyano-substituted adenosine nucleotide analog prodrug and shows broadspectrum antiviral activity against several RNA viruses. Based on the data collected from in vitro cell line and mouse model, remdesivir could interfere with the NSP12 polymerase even in the setting of intact ExoN proofreading activity [76] . Remdesivir has been reported to treat the first US case of COVID-19 successfully [77] . Chloroquine is a repurposed drug with great potential to treat COVID-19. Chloroquine has been used to treat malaria for many years [78] , with a mechanism that is not well understood against some viral infections. Several possible mechanisms are investigated: Chloroquine can inhibit pH-dependent steps of the replication of several viruses [79] , with a potent effect on SARS-CoV infection and spread [80] . Moreover, chloroquine has immunomodulatory effects, suppressing the production/release of TNF-\u03b1 and IL-6. It also works as a novel class of autophagy inhibitor [81] , which may interfere with viral infection and replication. Several studies have found that chloroquine interfered with the glycosylation of cellular receptors of SARS-CoV [80] and functioned at both entry and at post-entry stages of the COVID-19 infection in Vero E6 cells [82] . A combination of remdesivir and chloroquine was proven to effectively inhibit the recently emerged SARS-CoV-2 in vitro.",
+            "cite_spans": [
+                {
+                    "start": 334,
+                    "end": 338,
+                    "text": "[76]",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 422,
+                    "end": 426,
+                    "text": "[77]",
+                    "ref_id": "BIBREF76"
+                },
+                {
+                    "start": 560,
+                    "end": 564,
+                    "text": "[78]",
+                    "ref_id": "BIBREF77"
+                },
+                {
+                    "start": 770,
+                    "end": 774,
+                    "text": "[79]",
+                    "ref_id": "BIBREF78"
+                },
+                {
+                    "start": 831,
+                    "end": 835,
+                    "text": "[80]",
+                    "ref_id": "BIBREF79"
+                },
+                {
+                    "start": 998,
+                    "end": 1002,
+                    "text": "[81]",
+                    "ref_id": "BIBREF80"
+                },
+                {
+                    "start": 1175,
+                    "end": 1179,
+                    "text": "[80]",
+                    "ref_id": "BIBREF79"
+                },
+                {
+                    "start": 1277,
+                    "end": 1281,
+                    "text": "[82]",
+                    "ref_id": "BIBREF81"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Antiviral treatments"
+        },
+        {
+            "text": "Scientists previously confirmed that the protease inhibitors lopinavir and ritonavir, used to treat infection with human immunodeficiency virus (HIV) [83] , could improve the outcome of MERS-CoV [84] and SARS-CoV [85] patients. It has reported that \u03b2-coronavirus viral loads of a COVID-19 patient in Korea significantly decreased after lopinavir/ritonavir (Kaletra\u00ae, AbbVie, North Chicago, IL, USA) treatment [86] . Additionally, clinicians combined Chinese and Western medicine treatment including lopinavir/ritonavir (Kaletra\u00ae), arbidol, and Shufeng Jiedu Capsule (SFJDC, a traditional Chinese medicine) and gained significant improvement in pneumonia associated symptoms in Shanghai Public Health Clinical Center, China [87] .The other antiviral drugs include nitazoxanide, favipiravir, nafamostat, and so on (See Table 1 for details).",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 154,
+                    "text": "[83]",
+                    "ref_id": "BIBREF82"
+                },
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[84]",
+                    "ref_id": "BIBREF83"
+                },
+                {
+                    "start": 213,
+                    "end": 217,
+                    "text": "[85]",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 409,
+                    "end": 413,
+                    "text": "[86]",
+                    "ref_id": "BIBREF85"
+                },
+                {
+                    "start": 723,
+                    "end": 727,
+                    "text": "[87]",
+                    "ref_id": "BIBREF86"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 817,
+                    "end": 824,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Antiviral treatments"
+        },
+        {
+            "text": "The outbreak of COVID-19 swept across China rapidly and has spread to 85 countries/territories/areas outside of China as of 5 March 2020 [2] . Scientists have made progress in the characterization of the novel coronavirus and are working extensively on the therapies and vaccines against the virus. We have summarized the current knowledge of SARS-CoV-2 as follows: Firstly, the emerging pneumonia, COVID-19, caused by SARS-CoV-2, exhibits strong infectivity but less virulence, compared to SARS and MERS, in terms of morbidity and mortality.",
+            "cite_spans": [
+                {
+                    "start": 137,
+                    "end": 140,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Originating from reservoir of bats and unknown intermediate hosts, SARS-CoV-2 binds to ACE2 with high affinity as a virus receptor to infect humans. Secondly, the susceptible population involves the elderly and people with certain underlying medical conditions, which requires more attention and care. Thirdly, so far, the supporting treatments, combined with potent antiviral drugs, such as remdesivir, chloroquine, or lopinavir/ritonavir, have been conducted with definite effect on treat COVID-19 patients, while solid data from more clinical trials are needed. However, questions remain vague and more studies are urgent to explore the transmission and pathogenicity mechanism of the emerging coronavirus. To make clear the evolutionary path from the original host to cross-species transmission so as to potentially limit the transmission to na\u00efve animals or humans. In addition, to uncover the mystery of the molecular mechanism of viral entry and replication, which provides the basis of future research on developing targeted antiviral drugs and vaccines.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Given more than 80% of patients are confirmed in Hubei province, the hospitals and medical workers in Hubei are facing and bearing enormous pressure and severe challenge, including a high risk of infection and inadequate protection, as well as overwork, frustration and exhaustion [105] . Chinese Government and authorities have launched psychological intervention, and we sincerely hope that Chinese people and other countries overcome the epidemic as fast as possible. ",
+            "cite_spans": [
+                {
+                    "start": 281,
+                    "end": 286,
+                    "text": "[105]",
+                    "ref_id": "BIBREF104"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "565--74",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "COVID-2019) situation reports",
+            "authors": [],
+            "year": 2020,
+            "venue": "WHO. Coronavirus disease",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Pattern of early human-to-human transmission of Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Riou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Althaus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Euro Surveill",
+            "volume": "25",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2020.25.4.2000058"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gayle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rocklov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa021"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating personto-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "514--537",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "8",
+            "pages": "727--760",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "SARS and other coronaviruses as causes of pneumonia",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wunderink",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Mers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Respirology",
+            "volume": "23",
+            "issn": "2",
+            "pages": "130--137",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2012-7"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The first two cases of 2019-nCoV in Italy: where they come from",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Giovanetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Benvenuto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Angeletti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ciccozzi",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Med Virol",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--4",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25699"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Paraskevis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kostaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Magiorkinis",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Panayiotakopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sourvinos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tsiodras",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Genet Evol",
+            "volume": "79",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Bats may be SARS reservoir",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hampton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "JAMA",
+            "volume": "294",
+            "issn": "18",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Bats and coronaviruses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kulcsar",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Misra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Frieman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mossman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v11010041"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "5748",
+            "pages": "676--685",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2008-3"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Composition and divergence of coronavirus spike proteins and host ACE2 receptors predict potential intermediate hosts of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25726"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Transmission characteristics of MERS and SARS in the healthcare setting: a comparative study",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Abdirizak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jung",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BMC Med",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Clinical and epidemiologic characteristics of spreaders of middle east respiratory syndrome coronavirus during the 2015 outbreak in Korea",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Bang",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Korean Med Sci",
+            "volume": "32",
+            "issn": "5",
+            "pages": "744--753",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "SARS and MERS: recent insights into emerging coronaviruses",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Falzarano",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat Rev Microbiol",
+            "volume": "14",
+            "issn": "8",
+            "pages": "523--557",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "From SARS to MERS, thrusting coronaviruses into the spotlight",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v11010059"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Origin and evolution of pathogenic coronaviruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nat Rev Microbiol",
+            "volume": "17",
+            "issn": "3",
+            "pages": "181--92",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Genome composition and divergence of the novel coronavirus (2019-nCoV) originating in China",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Host Microbe",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2020.02.001"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "COVID-2019: the role of the nsp2 and nsp3 in its pathogenesis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Angeletti",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Benvenuto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bianchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Giovanetti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pascarella",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ciccozzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25719"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Origin and evolution of the 2019 novel coronavirus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa112"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Poultry farms as a source of avian influenza a (H7N9) virus reassortment and human infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Sci Rep",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "On the origin and continuing evolution of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Natl Sci Rev",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nsr/nwaa036"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "ACE2 receptor expression and severe acute respiratory syndrome coronavirus infection depend on differentiation of human airway epithelia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Look",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hickey",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pewe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Netland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "23",
+            "pages": "14614--14635",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Receptor recognition by novel coronavirus from Wuhan: an analysis based on decade-long structural studies of SARS",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00127-20"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Structural insights into coronavirus entry",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tortorici",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Veesler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Adv Virus Res",
+            "volume": "105",
+            "issn": "",
+            "pages": "93--116",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Current advancements and potential strategies in the development of MERS-CoV vaccines",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Expert Rev Vaccines",
+            "volume": "13",
+            "issn": "6",
+            "pages": "761--74",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Lan",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Mol Immunol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41423-020-0374-2"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Measures for diagnosing and treating infections by a novel coronavirus responsible for a pneumonia outbreak originating in Wuhan",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ojcius",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.micinf.2020.01.003"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Host factors in coronavirus replication",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "De Wilde",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kikkert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Van Hemert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Curr Top Microbiol Immunol",
+            "volume": "419",
+            "issn": "",
+            "pages": "1--42",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Coronavirus transcription: a perspective",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sawicki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sawicki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Curr Top Microbiol Immunol",
+            "volume": "287",
+            "issn": "",
+            "pages": "31--55",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Identification of novel subgenomic RNAs and noncanonical transcription initiation signals of severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hussain",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "9",
+            "pages": "5288--95",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The C-terminal domain of the MERS coronavirus M protein contains a trans-Golgi network localization signal",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Perrier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bonnin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Desmarets",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Danneels",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Goffard",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Rouille",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Biol Chem",
+            "volume": "294",
+            "issn": "39",
+            "pages": "14406--14427",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses. Nat Microbiol",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Letko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41564-020-0688-y"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gui",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS Pathog",
+            "volume": "14",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Host cell proteases: critical determinants of coronavirus tropism and pathogenesis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Millet",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Whittaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Virus Res",
+            "volume": "202",
+            "issn": "",
+            "pages": "120--154",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Inhibitors of cathepsin L prevent severe acute respiratory syndrome coronavirus entry",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Gosalia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rennekamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bates",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "P Natl Acad Sci",
+            "volume": "102",
+            "issn": "33",
+            "pages": "11876--81",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Early transmission dynamics in Wuhan, China, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Emerging threats from zoonotic coronaviruses-from SARS and MERS to 2019-nCoV",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hsueh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Microbiol Immunol Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jmii.2020.02.001"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "386--395",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hamming",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Timens",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bulthuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lely",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Navis",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Van Goor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Pathol",
+            "volume": "203",
+            "issn": "2",
+            "pages": "631--638",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version)",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mil Med Res",
+            "volume": "7",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Identification of severe acute respiratory syndrome in Canada",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Poutanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Low",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Finkelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1995--2005",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Outbreak of pneumonia of unknown etiology in Wuhan, China: the mystery and the miracle",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stratton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "401--403",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--520",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "A major outbreak of severe acute respiratory syndrome in Hong Kong",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cameron",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Joynt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "20",
+            "pages": "1986--94",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Epidemiological, demographic, and clinical characteristics of 47 cases of Middle East respiratory syndrome coronavirus disease from Saudi Arabia: a descriptive study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Rabiah",
+                    "middle": [],
+                    "last": "Fa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Hajjar",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [
+                        "-"
+                    ],
+                    "last": "Barrak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "9",
+            "pages": "752--61",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Factors associated with clinical outcome in 25 patients with avian influenza a (H7N9) infection in Guangzhou, China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Infect Dis",
+            "volume": "16",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Clinical characteristics of novel coronavirus cases in tertiary hospitals in Hubei Province",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin Med J",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/CM9.0000000000000744"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "CT imaging features of 2019 novel coronavirus (2019-nCoV)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200230"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Updated understanding of the outbreak of 2019 novel coronavirus (2019-nCoV) in Wuhan",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "441--448",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a singlecentered, retrospective, observational study",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s2213-2600(20)30079-5"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Clinical findings in 111 cases of influenza a (H7N9) virus infection",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl J Med",
+            "volume": "368",
+            "issn": "24",
+            "pages": "2277--85",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "A contingency plan for the management of the 2019 novel coronavirus outbreak in neonatal intensive care units. Lancet Child Adolesc Health",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "National Clinical Research",
+                    "middle": [],
+                    "last": "Center For Child",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "30040--30047",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2352-4642(20)30040-7"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Recognition of doublestranded RNA and activation of NF-kappaB by toll-like receptor 3",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Alexopoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Medzhitov",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Flavell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nature",
+            "volume": "413",
+            "issn": "6857",
+            "pages": "732--740",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Innate immune sensing and signaling of cytosolic nucleic acids",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Annu Rev Immunol",
+            "volume": "32",
+            "issn": "",
+            "pages": "461--88",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Sensing viral invasion by RIG-I like receptors",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Yoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kato",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fujita",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Curr Opin Microbiol",
+            "volume": "20",
+            "issn": "",
+            "pages": "131--139",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Cyclic GMP-AMP is an endogenous second messenger in innate immune signaling by cytosolic DNA",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Science",
+            "volume": "339",
+            "issn": "6121",
+            "pages": "826--856",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Identification and characterization of MAVS, a mitochondrial antiviral signaling protein that activates NF-kappaB and IRF 3",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Seth",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ea",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Cell",
+            "volume": "122",
+            "issn": "5",
+            "pages": "669--82",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ishikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Barber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nature",
+            "volume": "455",
+            "issn": "7213",
+            "pages": "674--682",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "The role of pattern-recognition receptors in innate immunity: update on toll-like receptors",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kawai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Nat Immunol",
+            "volume": "11",
+            "issn": "5",
+            "pages": "373--84",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Innate immunity to virus infection",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Takeuchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Akira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Immunol Rev",
+            "volume": "227",
+            "issn": "1",
+            "pages": "75--86",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Advances in the research of cytokine storm mechanism induced by Corona Virus Disease 2019 and the corresponding immunotherapies",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ju",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Zhonghua Shaoshang Zazhi",
+            "volume": "36",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "2019-novel coronavirus (2019-nCoV) infections trigger an exaggerated cytokine response aggravating lung injury",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "General anatomy report of novel coronavirus pneumonia death corpse",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Forensic Med",
+            "volume": "36",
+            "issn": "1",
+            "pages": "19--21",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Diagnosis and Treatment of Pneumonia Caused by 2019-nCoV (version 6)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Convalescent plasma as a potential therapy for COVID-19",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "20",
+            "pages": "30141--30150",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s1473-3099(20)30141-9"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Coronaviruses -drug discovery and therapeutic options",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat Rev Drug Discov",
+            "volume": "15",
+            "issn": "5",
+            "pages": "327--374",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Potential antiviral therapeutics for 2019 Novel Coronavirus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin J Tuberc Respir Dis",
+            "volume": "43",
+            "issn": "0",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Coronavirus susceptibility to the antiviral remdesivir (gs-5734) is mediated by the viral polymerase and the proofreading exoribonuclease. mBio",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Agostini",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Andres",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "221--239",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00221-18"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debolt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lofy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wiesman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bruce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001191"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Chloroquine analogs as antimalarial candidates with potent in vitro and in vivo activity",
+            "authors": [
+                {
+                    "first": "Acc",
+                    "middle": [],
+                    "last": "Aguiar",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Murce",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cortopassi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Pimentel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Almeida",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dcs",
+                    "middle": [],
+                    "last": "Barros",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Int J Parasitol Drugs Drug Resist",
+            "volume": "8",
+            "issn": "3",
+            "pages": "459--64",
+            "other_ids": {}
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Effects of chloroquine on viral infections: an old drug against today's diseases?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Savarino",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Boelaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cassone",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Majori",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cauda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet Infect Dis",
+            "volume": "3",
+            "issn": "11",
+            "pages": "722--729",
+            "other_ids": {}
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Chloroquine is a potent inhibitor of SARS coronavirus infection and spread",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Vincent",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bergeron",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Benjannet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Rollin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virol J",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Quinoline-based antimalarial drugs: a novel class of autophagy inhibitors",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Golden",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hofman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Louie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Schonthal",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Neurosurg Focus",
+            "volume": "38",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41422-020-0282-0"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "Lopinavir/ritonavir: a review of its use in the management of HIV infection",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cvetkovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Goa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Drugs",
+            "volume": "63",
+            "issn": "8",
+            "pages": "769--802",
+            "other_ids": {}
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "Treatment of Middle East respiratory syndrome with a combination of lopinavir/ritonavir and interferon-\u03b21b (MIRACLE trial): statistical analysis plan for a recursive two-stage group sequential randomized controlled trial",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Asiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Assiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aziz",
+                    "middle": [],
+                    "last": "Jokhdar",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alothman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Balkhy",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Trials",
+            "volume": "21",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "Role of lopinavir/ritonavir in the treatment of SARS: initial virological and clinical findings",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Thorax",
+            "volume": "59",
+            "issn": "3",
+            "pages": "252--258",
+            "other_ids": {}
+        },
+        "BIBREF85": {
+            "ref_id": "b85",
+            "title": "Case of the index patient who caused tertiary transmission of COVID-19 infection in Korea: the application of lopinavir/ritonavir for the treatment of COVID-19 infected pneumonia monitored by quantitative RT-PCR",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jeon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Seong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Korean Med Sci",
+            "volume": "35",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF86": {
+            "ref_id": "b86",
+            "title": "Clinical characteristics and therapeutic procedure for four cases with 2019 novel coronavirus pneumonia receiving combined Chinese and Western medicine treatment",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biosci Trends",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.5582/bst.2020.01030"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "ref_id": "b87",
+            "title": "Mechanism of inhibition of ebola virus rna-dependent rna polymerase by remdesivir",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tchesnokov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gotte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v11040326"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "ref_id": "b88",
+            "title": "GS-5734) protects African green monkeys from Nipah virus challenge",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gary",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bannister",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cronin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Sci Transl Med",
+            "volume": "11",
+            "issn": "494",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/scitranslmed.aau9242"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "ref_id": "b89",
+            "title": "Strategies of development of antiviral agents directed against influenza virus replication",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hsieh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Curr Pharm Des",
+            "volume": "13",
+            "issn": "34",
+            "pages": "3531--3573",
+            "other_ids": {}
+        },
+        "BIBREF90": {
+            "ref_id": "b90",
+            "title": "A synthetic serine protease inhibitor, Nafamostat Mesilate, is a drug potentially applicable to the treatment of ebola virus disease",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yamaya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Tohoku J Exp Med",
+            "volume": "237",
+            "issn": "1",
+            "pages": "45--50",
+            "other_ids": {}
+        },
+        "BIBREF91": {
+            "ref_id": "b91",
+            "title": "Hepatitis C guidance 2018 update: AASLD-IDSA recommendations for testing, managing, and treating hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Paaasld-Idsa H Guidance",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Panel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clin Infect Dis",
+            "volume": "67",
+            "issn": "10",
+            "pages": "1477--92",
+            "other_ids": {}
+        },
+        "BIBREF93": {
+            "ref_id": "b93",
+            "title": "Ribavirin and interferon therapy for critically ill patients with middle east respiratory syndrome: a multicenter observational study",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shalhoub",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mandourah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Al-Hameed",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Omari",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Qasim",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciz544"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "ref_id": "b94",
+            "title": "Influenza treatment with oseltamivir outside of labeled recommendations",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mcquade",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Blair",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Am J Health",
+            "volume": "72",
+            "issn": "2",
+            "pages": "112--118",
+            "other_ids": {}
+        },
+        "BIBREF95": {
+            "ref_id": "b95",
+            "title": "Oseltamivir for influenza in adults and children: systematic review of clinical study reports and summary of regulatory comments",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jefferson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Doshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Spencer",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Onakpoya",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Heneghan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMJ",
+            "volume": "348",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF96": {
+            "ref_id": "b96",
+            "title": "Antiviral drugs against alphaherpesvirus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shiraki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Adv Exp Med Biol",
+            "volume": "1045",
+            "issn": "",
+            "pages": "103--125",
+            "other_ids": {}
+        },
+        "BIBREF98": {
+            "ref_id": "b98",
+            "title": "Favipiravir (T-705), a novel viral RNA polymerase inhibitor",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Furuta",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gowen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Takahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Shiraki",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Smee",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Barnard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Antivir Res",
+            "volume": "100",
+            "issn": "2",
+            "pages": "446--54",
+            "other_ids": {}
+        },
+        "BIBREF99": {
+            "ref_id": "b99",
+            "title": "The mechanism of resistance to favipiravir in influenza",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Goldhill",
+                    "suffix": ""
+                },
+                {
+                    "first": "Te",
+                    "middle": [],
+                    "last": "Velthuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ajw",
+                    "middle": [],
+                    "last": "Fletcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Langat",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zambon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lackenby",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "P Natl Acad Sci USA",
+            "volume": "115",
+            "issn": "45",
+            "pages": "11613--11621",
+            "other_ids": {}
+        },
+        "BIBREF100": {
+            "ref_id": "b100",
+            "title": "Will there be a cure for Ebola?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Cardile",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Warren",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Martins",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reisler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bavari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Annu Rev Pharmacol",
+            "volume": "57",
+            "issn": "",
+            "pages": "329--377",
+            "other_ids": {}
+        },
+        "BIBREF101": {
+            "ref_id": "b101",
+            "title": "Nitazoxanide: a first-in-class broad-spectrum antiviral agent",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rossignol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Antivir Res",
+            "volume": "110",
+            "issn": "",
+            "pages": "94--103",
+            "other_ids": {}
+        },
+        "BIBREF102": {
+            "ref_id": "b102",
+            "title": "A screen of the NIH clinical collection small molecule library identifies potential anti-coronavirus drugs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Forrest",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Antivir Res",
+            "volume": "114",
+            "issn": "",
+            "pages": "1--10",
+            "other_ids": {}
+        },
+        "BIBREF103": {
+            "ref_id": "b103",
+            "title": "Nitazoxanide, a new drug candidate for the treatment of Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rossignol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect Public Health",
+            "volume": "9",
+            "issn": "3",
+            "pages": "227--257",
+            "other_ids": {}
+        },
+        "BIBREF104": {
+            "ref_id": "b104",
+            "title": "The mental health of medical workers in Wuhan, China dealing with the 2019 novel coronavirus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "7",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Viral and host factors that influence the pathogenesis of SARS-CoV-2. Bats are the reservoir of a wide variety of coronaviruses, including severe acute respiratory syndrome coronavirus (SARS-CoV) -like viruses. SARS-CoV-2 may originate from bats or unknown intermediate hosts and cross the species barrier into humans. Virus-host interactions affect viral entry and replication. Upper panel: Viral factor. SARS-CoV-2 is an enveloped positive single-stranded RNA (ssRNA) coronavirus. Two-thirds of viral RNA, mainly located in the first open reading frame (ORF 1a/b), encodes 16 non-structure proteins (NSPs)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Angiotensin-converting enzyme 2; APN: Aminopeptidase N; ARDS: Acute respiratory distress syndrome; BALF: Bronchoalveolar lavage fluid; cGAS: Cyclic GMP-AMP synthase; CoV: Coronavirus; COVID-19: Coronavirus disease 2019; CSG: Coronavirus Study Group; DPP4: Dipeptidyl peptidase-4; E protein: Envelope protein; ECMO: Extracorporeal membrane oxygenation; ER: Endoplasmic reticulum; GCSF: Granulocyte colony-stimulating factor; HGF: Hepatocyte growth factor; HR1: Heptad repeats 1; HR2: Heptad repeats 2; IFN: Interferon; IL: Interleukin; IP-10: 10 kD interferon-gamma-induced protein; IRF3: Interferon regulatory factor 3; M protein: Matrix protein; MAVS: Mitochondrial antiviral-signalling protein; MCP-1: Monocyte chemoattractant protein-1; MCSF: Macrophage colony-stimulating factor; MDA5: Melanoma differentiation-associated gene 5; MERS-CoV: Middle East respiratory syndrome coronavirus; MIP-1\u03b1: Macrophage inflammatory protein 1-\u03b1; N protein: Nucleocapsid protein; NF-\u03baB: Nuclear factor-\u03baB; NSP: Non-structure protein; ORF: Open reading frame; PAMP: Pathogen-associated molecular pattern; PRR: Pattern recognition receptor; RBD: Receptor-binding domain; RIG-I: Retinoic-acid inducible gene I; RTC: Replication-transcription complex; S protein: Spike glycoprotein; SARS-CoV: Severe acute respiratory syndrome coronavirus; STING: Stimulator of interferon genes protein; TLR: Toll-like receptor; TMPRSS2: Transmembrane protease serine 2; TNF-\u03b1: Tumor necrosis factor \u03b1; TRIF: TIR-domain-containing adaptor protein including IFN-\u03b2; WHCV: Wuhan-Hu-1 coronavirus; WHO: World Health Organization",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Common and potent antiviral drugs Protease inhibitors Inhibiting HIV-1 protease for protein cleavage, resulting in non-infectious, immature viral particles HIV/AIDS, SARS, MERS [83-85] Acting on viral genetic copying to prevent its reproduction, without affecting host cellular RNA or DNA synthesis Nitazoxanide Antiprotozoal agent Modulating the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, viruses A wide range of viruses including human/animal coronaviruses [102-104] HIV Human immunodeficiency virus, AIDS Acquired immune deficiency syndrome, SARS Severe acute respiratory syndrome, MERS Middle East respiratory syndrome, HCV Hepatitis C virus, HSV Herpes simplex virus, VZV Varicella-zoster virus",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank Drs. Hong Shan, Jin-Yu Xia, Zhong-He Li, Jing Liu, Ming-Xing Huang, Xi Liu, Fei Xiao, Shao-Lin Li, Xiao-Feng Li, Xiao-Hua Wang, Xiu-Juan Qu and Ms. Yan Nan from library, from the Fifth Affiliated Hospital, Sun Yat-Sen University, for their sharing the critical information on theranostics of COVID-19 patients and literature searching. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

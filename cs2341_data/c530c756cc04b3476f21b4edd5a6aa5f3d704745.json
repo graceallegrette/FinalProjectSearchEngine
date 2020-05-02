@@ -1,0 +1,830 @@
+{
+    "paper_id": "c530c756cc04b3476f21b4edd5a6aa5f3d704745",
+    "metadata": {
+        "title": "Drug repurposing strategies for COVID-19",
+        "authors": [
+            {
+                "first": "Suranga",
+                "middle": [
+                    "L"
+                ],
+                "last": "Senanayake",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Limerick",
+                    "location": {
+                        "settlement": "Limerick",
+                        "country": "Republic of Ireland"
+                    }
+                },
+                "email": "suranga.senan@ul.ie"
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "It is no secret that COVID-19 has caught the global public health community by surprise, with the number of laboratory-confirmed human cases surpassing the 200,000 mark as of late March 2020, leading to the WHO declaring it a pandemic. While all efforts should be made toward prevention and/or containment of the 2019/2020 outbreak, it is evident that contingency measures with experimental therapeutics must be urgently sought. With the average cost of de novo drug development reportedly over $1 billion USD, what are viable strategies to discover potential candidate drugs to combat severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)? Here we take a snapshot look at the strategy of drug repurposing -also known as drug reprofiling or repositioning -that promises to identify antiviral agents for the novel coronavirus disease in a time-critical fashion. We also offer a perspective that antiviral combinations with a 'double hit effect' may offer the best chance of success and clinical translatability.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Broad-spectrum antiviral agents (BSAAs) that have been deemed 'safe-in-man' through testing on early phase clinical trials have been touted as good drug repurposing candidates [1] . Andersen et al. have recently summarized 31 potential candidates for COVID-19 in a highly accessible database of 120 experimental, investigational and approved agents [2] . Conceptually, BSAAs take advantage of the promiscuity of viral replicative mechanisms and host interactions to target two or more viral families [3] . Following the COVID-19 outbreak in December 2019, a few existing BSAAs have been rapidly introduced into clinical trials, spanning Phases II though IV. Umifenovir is a membrane fusion inhibitor targeting viral entry and lopinavir/ritonavir is a drug combination targeting viral protease, both approved for the indications of Influenza and HIV. They are currently being considered in different combinations in a Phase IV clinical trial for pneumonia associated with COVID-19 (ClinicalTrials.gov ID: NCT04255017) [4] .",
+            "cite_spans": [
+                {
+                    "start": 176,
+                    "end": 179,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 349,
+                    "end": 352,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 500,
+                    "end": 503,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1017,
+                    "end": 1020,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Repurposing of existing antivirals"
+        },
+        {
+            "text": "At the Phase III level, remdesivir, a viral RNA-dependent RNA polymerase inhibitor, is under investigation for mild and moderate SARS-CoV-2 (ClinicalTrials.gov Identifier: NCT04252664) [5] . Remdesivir has activity in preclinical studies against the species of coronaviridae implicated in SARS-CoV and Middle East respiratory syndrome (MERS-CoV) [6] . Notably, it has already been studied in a randomized, controlled trial for Ebola virus disease, demonstrating an antiviral effect [7] . Other Phase III agents being evaluated in combination therapy for viral pneumonia interestingly include the antimalarial hydroxychloroquine, based on promising in vitro data (ClinicalTrials.gov Identifier: NCT04261517) [8] . Chloroquine, in addition to its immunomodulating properties, has been shown to have antiviral activity at entry and post-entry stages of the SARS-CoV-2 infection. It can enhance the antiviral activity of remdesivir and potentially serve as a synergizer of BSAAs [9] .",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 188,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 346,
+                    "end": 349,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 482,
+                    "end": 485,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 707,
+                    "end": 710,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 975,
+                    "end": 978,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Repurposing of existing antivirals"
+        },
+        {
+            "text": "At more early stages, the viral RNA polymerase inhibitor favipiravir in combination is also on a Phase II clinical trial for novel coronavirus-associated pneumonia (Chinese Clinical Trial Registry Identifier: ChiCTR2000029544) [10] . Finally, preclinical studies of ribavirin (ribonucleic analog) has shown in vitro activity against SARS-CoV-2 [9] .",
+            "cite_spans": [
+                {
+                    "start": 227,
+                    "end": 231,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 344,
+                    "end": 347,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Repurposing of existing antivirals"
+        },
+        {
+            "text": "One limitation of phenotypic screens is the low potency of hit compounds as single agents, as their maximal tolerated dose is often subtherapeutic for the new indications being sought [11] . One way to circumvent this issue is to evaluate two or more drugs acting on different cellular signaling pathways involving viral replication with minimal redundancy. Another strategy is high-throughput screening of compound libraries for synergistic combinations at the host-virus interactome level for emerging and re-emerging infectious diseases, which may allow researchers to narrow down the spectrum of individual antimicrobials [3, 12, 13] . These strategies promise to address the often-weak activity of BSAAs by improving efficacy while potentiating dose reductions, reducing duration, cost of the drug development pipeline, lowering toxicity and minimizing emergence of secondary resistance.",
+            "cite_spans": [
+                {
+                    "start": 184,
+                    "end": 188,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 626,
+                    "end": 629,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 630,
+                    "end": 633,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 634,
+                    "end": 637,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "BSAA combination therapy"
+        },
+        {
+            "text": "A notion that will determine the effectiveness of this drug repurposing strategy is whether such agents will compare favorably with virus-specific vaccines or small molecules, both options traditionally considered gold standards of modern drug development. If one were to extrapolate the experience from precision oncology, where targeted cancer therapies and immunotherapeutics have made major gains against cancer, a broad-spectrum strategy will have fundamental flaws. Importantly, the lack of specificity of BSAAs may become implicated in the emergence of drug resistance and more virulent strains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Future perspective"
+        },
+        {
+            "text": "For example, the nonstructural protein nsp14-ExoN, together with its cofactor nsp10, of coronaviridae has been found to repair nucleotide mismatches caused by nucleoside analogs such as ribavirin, thus potentially negating the antiviral effect of BSAAs [14] . As elegantly demonstrated by Ferron et al., the nsp14-ExoN of SARS-CoV forms part of a highly flexible complex with multienzymatic properties, likely facilitating compensated low fidelity of replication. What are viable strategies to circumvent this remarkable innate ability of coronaviridae to proofread their RNA and maintain genomic integrity, while allowing some degree of evolutionary freedom to mutate? Again high-throughput screening can come to the rescue here. Possibilities include compounds with affinity toward the nsp14-ExoN catalytic subunit or those with allosteric effects at critical sites with conserved residues causing conformational change of the entire viral RNA repair complex. Therefore, the hunt should now be on to identify an inhibitor of this viral nuclease.",
+            "cite_spans": [
+                {
+                    "start": 253,
+                    "end": 257,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Future perspective"
+        },
+        {
+            "text": "Further, drug repurposing will have to compete with structure-based design of preventative/therapeutic vaccines and small molecules on efficacy and off-target toxicity turfs. The CoV spike glycoprotein used by SARS-CoV-2 at the atomic resolution and human ACE2 enzyme as its port of cellular entry have now been determined. These discoveries are hoped to spur rapid efforts to develop vaccines and antibodies. However, such processes typically take up to a decade and can be hindered by the potential for blunted antigenicity of epitopes due to genetic drift of the virus [15] [16] [17] .",
+            "cite_spans": [
+                {
+                    "start": 572,
+                    "end": 576,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 577,
+                    "end": 581,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 582,
+                    "end": 586,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Future perspective"
+        },
+        {
+            "text": "Another important dimension in this quest for repurposed drugs involves patent protection issues under current national and/or international regulations [18] . A global health emergency of this magnitude calls for a bold, international response at the governmental and political levels. Therefore, the regulatory community must act fast to minimize any financial hurdles implicating private industry and update guidelines for drug licensure through repurposing if necessary. It should not escape us that this is a vital behind-the-scene act while efforts are underway to seek new indications for existing compounds.",
+            "cite_spans": [
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Future perspective"
+        },
+        {
+            "text": "The urgently launched clinical trials worldwide on investigational medicinal products for the current COVID-19 outbreak should read out within weeks to months. We can anticipate the notion of drug repurposing for emerging viral diseases to be scrutinized based on these results. At a deeper level, this is a battle not only against COVID-19 but for the very soul concept of new antimicrobials and their clinical indications: 'one drug, one virus versus one drug, multiple viruses or multiple drugs, one virus are the contenders' [19, 20] .",
+            "cite_spans": [
+                {
+                    "start": 529,
+                    "end": 533,
+                    "text": "[19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 534,
+                    "end": 537,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Future perspective"
+        },
+        {
+            "text": "The authors have no relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript. This includes employment, consultancies, honoraria, stock ownership or options, expert testimony, grants or patents received or pending, or royalties.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Financial & competing interests disclosure"
+        },
+        {
+            "text": "No writing assistance was utilized in the production of this manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Financial & competing interests disclosure"
+        },
+        {
+            "text": "This work is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Open access"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Discovery and development of safe-in-man broad-spectrum antiviral agents",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Andersend",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ianevski",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lysvand",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Int. J. Infect. Dis. doi",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.02.0182020"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Broad-spectrum antiviral agents (BSAAs) and viruses they inhibit",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Drugvirus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Common nodes of virus-host interaction revealed through an integrated network analysis",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "B\u00f6sl",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ianevski",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Than",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Immunol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "NIH Clinical Trials. A prospective/retrospective,randomized controlled clinical study of antiviral therapy in the 2019-nCoV pneumonia",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "NIH Clinical Trials. Mild/moderate 2019-nCoV remdesivir RCT",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tchesnokov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Porter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gotte",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J. Biol. Chem",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1074/jbc.AC120.0130562020"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "A randomized, controlled trial of ebola virus disease therapeutics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mulangu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Doff",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Davey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N. Engl. J. Med",
+            "volume": "381",
+            "issn": "24",
+            "pages": "2293--2303",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Efficacy and safety of hydroxychloroquine for treatment of pneumonia caused by 2019-nCoV (HC-nCoV",
+            "authors": [],
+            "year": 2020,
+            "venue": "NIH Clinical Trials",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Res",
+            "volume": "30",
+            "issn": "3",
+            "pages": "269--271",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Chinese Clinical Trial Registry. A randomized controlled trial for the efficacy and safety of Baloxavir Marboxil, Favipiravir tablets in novel coronavirus pneumonia (COVID-19) patients who are still positive on virus detection under the current antiviral therapy",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Drug combination therapy increases successful drug repositioning",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sanderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Drug Discov. Today",
+            "volume": "21",
+            "issn": "7",
+            "pages": "1189--1195",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Improving therapy of severe infections through drug repurposing of synergistic combinations",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Williamson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Curr. Opin. Pharmacol",
+            "volume": "48",
+            "issn": "",
+            "pages": "92--98",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Drug repurposing screens and synergistic drug-combinations for infectious diseases",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Simeonov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Br. J. Pharmacol",
+            "volume": "175",
+            "issn": "2",
+            "pages": "181--191",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Subissi",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Morais",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ats",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "115",
+            "issn": "2",
+            "pages": "162--171",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wrapp",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Corbett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "367",
+            "issn": "6483",
+            "pages": "1260--1263",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Letko",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Marzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41564-020-0688-y2020"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Receptor recognition by novel coronavirus from Wuhan: an analysis based on decade-long structural studies of SARS",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J. Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00127-202020"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Challenges and opportunities of drug repositioning",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Novac",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Trends Pharmacol. Sci",
+            "volume": "34",
+            "issn": "5",
+            "pages": "267--272",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Approved antiviral drugs over the past 50 years",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Clercq",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Clin. Microbiol. Rev",
+            "volume": "29",
+            "issn": "3",
+            "pages": "695--747",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Emerging viral diseases: confronting threats with new technologies",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Marston",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Folkers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Morens",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Fauci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Sci. Transl. Med",
+            "volume": "6",
+            "issn": "253",
+            "pages": "253--263",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": []
+}

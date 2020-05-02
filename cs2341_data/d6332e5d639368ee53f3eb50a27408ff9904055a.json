@@ -1,0 +1,3038 @@
+{
+    "paper_id": "d6332e5d639368ee53f3eb50a27408ff9904055a",
+    "metadata": {
+        "title": "A N7-guanine RNA cap methyltransferase signature-sequence as a genetic marker of large genome, non-mammalian Tobaniviridae",
+        "authors": [
+            {
+                "first": "Fran\u00e7",
+                "middle": [],
+                "last": "Ois Ferron",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS and Aix-Marseille Universit\u00e9",
+                    "location": {
+                        "addrLine": "Polytech Case 925",
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Humberto",
+                "middle": [
+                    "J"
+                ],
+                "last": "Debat",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Instituto Nacional de Tecnolog\u00eda Agropecuaria",
+                    "location": {
+                        "postCode": "X5119",
+                        "settlement": "C\u00f3rdoba",
+                        "country": "Argentina"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ashleigh",
+                "middle": [],
+                "last": "Shannon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS and Aix-Marseille Universit\u00e9",
+                    "location": {
+                        "addrLine": "Polytech Case 925",
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Etienne",
+                "middle": [],
+                "last": "Decroly",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS and Aix-Marseille Universit\u00e9",
+                    "location": {
+                        "addrLine": "Polytech Case 925",
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bruno",
+                "middle": [],
+                "last": "Canard",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "UMR 7257",
+                    "institution": "CNRS and Aix-Marseille Universit\u00e9",
+                    "location": {
+                        "addrLine": "Polytech Case 925",
+                        "postCode": "13009",
+                        "settlement": "Marseille",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The order Nidovirales is a diverse group of (+)RNA viruses, classified together based on their common genome organisation and conserved replicative enzymes, despite drastic differences in size and complexity. One such difference pertains to the mechanisms and enzymes responsible for generation of the proposed viral 5 RNA cap. Within the Coronaviridae family, two separate methytransferases (MTase), nsp14 and nsp16, perform the RNA-cap N7-guanine and 2 -OH methylation respectively for generation of the proposed m7GpppNm type I cap structure. For the majority of other families within the Nidovirales order, the presence, structure and key enzymes involved in 5 capping are far less clear. These viruses either lack completely an RNA MTase signature sequence, or lack an N7-guanine methyltransferase signature sequence, obscuring our understanding about how RNA-caps are N7-methylated for these families. Here, we report the discovery of a putative Rossmann fold RNA methyltransferase in 10 Tobaniviridae members in Orf1a, an unusual genome locus for this gene. Multiple sequence alignments and structural analyses lead us to propose this novel gene as a typical RNA-cap N7-guanine MTase with substrate specificity and active-site organization similar to the canonical eukaryotic RNA-cap N7guanine MTase.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The order Nidovirales is a large and diverse group of positive-stranded RNA viruses (Figure 1 ), capable of infecting a range of vertebrate and invertebrate hosts, causing significant global burden. The order has recently been reclassified into nine families ((1), Abyssoviridae, Arteriviridae, Coronaviridae (CoV), Medioniviridae, Mesoniviridae, Mononiviridae, Euroniviridae, Roniviridae and Tobaniviridae), several of which have attracted much attention in the past decades as the causative agents of serious diseases in humans and animals. This includes the human pathogens Severe Acute Respiratory Syndrome (SARS) and Middle-East Respiratory Syndrome (MERS) of the family CoV, which are associated with high case fatalities of \u223c10% and \u223c35%, respectively (reviewed in (2) ). In addition, animal pathogens of the Arteriviridae family, including Equine Arteritis virus (EAV,) and Porcine Reproductive Respiratory Syndrome virus (PRSSV 1-2,) have caused substantial economic burden for the equine and swine industries.",
+            "cite_spans": [
+                {
+                    "start": 772,
+                    "end": 775,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 84,
+                    "end": 93,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The Nidovirus genome is predominantly comprised of two overlapping open reading frames (ORFs); ORF1a and ORF1b, which are translated directly from the viral genome to yield two polyproteins, pp1a and pp1ab, with the latter being the result of a \u22121 ribosomal frameshift. Cleavage of the polyproteins by viral proteases liberates between 12 and 17 non-structural proteins (nsp) that constitute the viral replicase/transcriptase complex (RTC). Template driven RNA synthesis by the RTC allows both genome amplification and the production of a set of subgenomic mRNAs (sg mRNAs) from 3 end of the genome, which encode the structural and accessory proteins.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Two salient features of these viruses are, amongst others, their complex and still obscure replication/transcription mechanism along with their broad genome-size range. While these viruses are classed together based on a conserved genome organisation and a common ancestry of core replicative enzymes (3, 4) , their genomes vary considerably in size and complexity, from 12.7 to 15.7 kb for Arteriviridae (hereafter referred to as small-genome nidoviruses), to over 25 kb for the other families (hereafter referred Table S1 ). When present in the NCBI viral genomes database in the 92 Nidovirales complete genomes repository (https://www.ncbi.nlm.nih.gov/genomes/GenomesGroup.cgi? taxid=76804), no accession number is indicated. When an accession number is given in parenthesis, it is referring to the GenBank accession number (https://www.ncbi.nlm.nih.gov/genbank/). The genome dataset used in this study is given in Supplementary Table S1 to as large-genome nidoviruses) including Tobaniviridae and CoV (\u223c27-32 kb), and Mononiviridae (up to 41.1 kb)--among the largest (+)RNA viruses known (5) . The expansion of the viral genome is believed to be due to the gradual acquisition of novel domains, which have allowed these viruses to develop into an unprecedented evolutionary space.",
+            "cite_spans": [
+                {
+                    "start": 301,
+                    "end": 304,
+                    "text": "(3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 305,
+                    "end": 307,
+                    "text": "4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1092,
+                    "end": 1095,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 515,
+                    "end": 523,
+                    "text": "Table S1",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 918,
+                    "end": 940,
+                    "text": "Supplementary Table S1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Of particular interest is the acquisition and adaptation of enzymes involved in the viral capping pathway. It is currently presumed that most Nidovirales genomes carry a 5 cap structure which serves to both protect the viral genome from host degradation by 5 exonucleases and to signal translation of the genome. The evidence for the presence of an RNA cap comes from immunological detection in Torovirus (family Tobaniviridae) genomic and sg mRNAs (6) and co-migration analysis using low-resolution chromatographic techniques for Mouse hepatitis virus (MHV, family CoV) (7) and Simian Hemorragic fever virus (family Arteriviridae) (8), however there is still no high-resolution structural analysis available for any Nidovirales RNA cap. Other families of the Nidovirales order are assumed to contain a canonical 5 cap based on the presence of enzymes required in the capping pathway (reviewed in (9)), although direct demonstration of the presence of an RNA cap structure is still missing for many of these viruses.",
+            "cite_spans": [
+                {
+                    "start": 571,
+                    "end": 574,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In Eukaryotes, the RNA cap structure is thought to be synthesized post-transcriptionally through a well-described capping pathway (10) . Most +RNA viruses supposedly follow this conventional RNA capping pathway in which nascent viral 5 -triphosphate genomic RNA (and sg mR-NAs) is processed through three enzymatic reactions to yield an RNA cap whose structure is indistinguishable from that of cellular mRNAs. The capping pathway involves firstly the hydrolysis of the 5 -triphosphate RNA into a 5 -diphosphate by an RNA triphosphatase. A GMP residue (the cap , originating from GTP) is subsequently covalently transferred to the 5 -diphosphate RNA in the 5 to 5 orientation by a guanlylyltransferase (GTase), releasing inorganic pyrophosphate. Both the cap and the first transcribed nucleotide are then methylated at the N7guanine (mGpppN-RNA, so-called Cap0 structure) and the 2 -oxygen position (mGpppNm-RNA, Cap1 structure) respectively, by one or two S-Adenosyl-Methionine (SAM)dependent RNA methyltransferases (MTases) (9) .",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 134,
+                    "text": "(10)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1026,
+                    "end": 1029,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Our understanding of Nidovirales RNA capping pathway, cap structures, and enzymes is still rather limited. In the case of CoVs, three out of four of the enzymes required in the presumed viral capping pathway have been identified, with the missing activity being that of the GTase. All proteins required for capping are located in Orf1b, including nsp13 which functions as the 5 -triphosphatase (along with RNA helicase) (11), nsp14 which contains an N7guanine MTase domain fused to an N-terminal exoribonuclease (ExoN) (12, 13) and nsp16 which performs the 2 -O MTase activity (14) (15) (16) .",
+            "cite_spans": [
+                {
+                    "start": 519,
+                    "end": 523,
+                    "text": "(12,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 524,
+                    "end": 527,
+                    "text": "13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 577,
+                    "end": 581,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 582,
+                    "end": 586,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 587,
+                    "end": 591,
+                    "text": "(16)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Remarkably, the CoV nsp14 N7-guanine MTase is the only example of a non-Rossman fold (NRF) viral MTase known so far. Until its discovery through elegant yeastcomplementation assays (13) , all known viral MTases (both N7 and 2 -O) belong to the Rossmann fold (RF) family, one of the five most ubiquitous and ancient super-secondary structures adopted throughout the superfamily of dinucleotide binding enzymes (17, 18) . Briefly, RF-MTases are characterized predominantly by two structural features; first, a \u2424\u2423\u2424 architecture (formed by a seven-stranded \u2424sheet surrounded by 6 \u2423-helices, with the seventh \u2424-strand inserted in an anti-parallel orientation between the fifth and sixth strand) and secondly a glycine rich loop (G-x-G-x n -G) which interacts with the SAM cofactor. Viral 2 -O MTases can be further distinguished by the presence of a conserved K-D-K-E catalytic tetrad, and in general have been much better defined than N7-guanine MTases at the structural and functional level (reviewed in (9)). While various crystal structures of viral enzymes involved in N7-guanine methyltransferase activity have been resolved (19) (20) (21) (22) (23) , the identification of a specific signature sequences is far less clear.",
+            "cite_spans": [
+                {
+                    "start": 181,
+                    "end": 185,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 409,
+                    "end": 413,
+                    "text": "(17,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 414,
+                    "end": 417,
+                    "text": "18)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1126,
+                    "end": 1130,
+                    "text": "(19)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1131,
+                    "end": 1135,
+                    "text": "(20)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1136,
+                    "end": 1140,
+                    "text": "(21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1141,
+                    "end": 1145,
+                    "text": "(22)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1146,
+                    "end": 1150,
+                    "text": "(23)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Structural analysis of the CoV nsp14 N7-guanine MTase revealed substantial structural deviations incompatible with classification into the RF family, including lack of both the \u2424\u2423\u2424 structural motif and standard MTase sequence motifs (20) . Rather than the alternating \u2423 -\u2424 architecture, SARS nsp14 is comprised of 12 \u2424-strands and 5 \u2423-helices, with the core of the structure formed by a five-stranded \u2424-sheet. The SARS-CoV N7-MTase domain is unique to Nidoviruses so far, defining a new structural family of NRF N7-guanine MTases. Furthermore, it is currently the only N7-guanine MTase detected into the Nidovirales order.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 237,
+                    "text": "(20)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Despite the presence of MTases amongst large-genome Nidoviruses, their presence, structure, specific activity and genomic distribution throughout the rest of the order varies considerably. For example, small-genome arteriviruses are not known to encode any evident MTase signature sequence, while only the 2 -O-MTase (but not the N7-MTase) has been identified for most other families (e.g Tobaniviridae, Medioniviridae, Roniviridae and Euroniviridae). Furthermore, for many viruses the presence of a specific MTase has not been specifically shown, but rather is extrapolated based on its presence in other members of the family. This raises several important questions as to how (and if) capping is performed in these families, and the evolution of the capping pathway in regards to the order as a whole.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In this paper, we performed large-scale genomic analysis of the order Nidovirales, in order to establish and clarify the presence and genomic location of MTase domains across different viral families. Sequence-based structural alignments were performed on newly identified MTase domains in order to predict activity and function. Several previously unidentified MTase signature-sequences have been identified, including the presence of a (presumably) 2 -O-MTase domain in two small-genome arteri-like viruses. Importantly, we also report the discovery of an RF-MTase sequence in the Orf1a of ten members of the Tobaniviridae family, an unusual and previously unseen location for this enzyme. Remarkably, sequence base structure alignments reveal that this enzyme is closely related to the canonical eukaryotic RF-N7-guanine MTase, suggesting it performs the currently missing N7-guanine RNA cap methylation for this family. If this is the case, this would represent the first RF-N7-guanine MTase identified for the Nidovirales order. Furthermore, this MTase was only identified in nonmammalian Tobaniviridae, and thus may represent a genetic marker distinguishing non-mammalian from mammalian Tobaniviridae.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Virus genome sequences were retrieved from the NCBI database (https://www.ncbi.nlm.nih.gov/genomes/ GenomesGroup.cgi?taxid=439488) or Genbank (ncbi.nlm.nih.gov/genbank). The initial dataset was that of Lauber et al. (24) , to which novel or recently described genome sequences (retrieved in NCBI of GenBank) were added. Additionally, the putative and unpublished Palaemon nidovirus and Western flower thrips nidovirus, and the proposed Botrylloides leachii nidovirus (25) were identified in the Sequence Read Archive (SRA) runs SRR5658389, SRR492945 and SRR2729873, respectively, and the virus sequences were assembled, curated and annotated as described elsewhere (26, 27) . The resulting sequences are available upon request to H.D. Accession numbers of the dataset are given in Supplementary Table  S1 .",
+            "cite_spans": [
+                {
+                    "start": 216,
+                    "end": 220,
+                    "text": "(24)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 467,
+                    "end": 471,
+                    "text": "(25)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 665,
+                    "end": 669,
+                    "text": "(26,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 670,
+                    "end": 673,
+                    "text": "27)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 781,
+                    "end": 804,
+                    "text": "Supplementary Table  S1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "The conserved Nidovirales C-terminus RdRp core was used to build phylogenetic trees based on MAFFT v7.427 multiple sequence alignment (MSA) with BLOSUM62 scoring matrix and G-INS-i iterative refinement method. The alignments were used as input for maximum likelihood trees generated with the FasTtree v2.1.5 software (best-fit model = JTT-Jones-Taylor-Thorton with single rate of evolution for each site = CAT). Local support values were computed using the Shimodaira-Hasegawa test (SH) with 1000 replicates.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Structural alignment of reference or retrieved MTases were done using EXPRESSO (28) and proofed with Chimera (29) . N7-Mtases reference motifs were inferred and defined based on visual inspection and analysis of the structures. The subsequent motifs were used as orthogonal validation and not used for the search.",
+            "cite_spans": [
+                {
+                    "start": 79,
+                    "end": 83,
+                    "text": "(28)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 109,
+                    "end": 113,
+                    "text": "(29)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Sequences were analyzed using HHblits and HHpred tools of the BioInformatics tookit (30) searching against SCOPe70 2.07. Primary hits were selected by a two criteria cut-off: (i) a minimum domain length of 110 amino acids and (ii) an E-Value <10 \u22125 (Original hit values are in Supplementary Table S2 ). Refined domain boundaries are based on alignments driven by secondary structure prediction generated with predict protein (31) . When available, cleavage sites were used to predict protein gene products of the Orf1ab, Orf1a and Orf1b polyproteins. The boundaries were otherwise approximately (\u00b110 aa) determined using structural homologies detected using HHPred, except for the N-term boundary of the Orf1b gene product: In Nidovirales, the absence of any structural data nor homology (outside the order) on the N-terminus of the RdRp gene (nsp9 Arteriviridae, nsp12 in CoV), which was used for phylogenic analysis, precludes precise sequence homology search in this limited area comprised between the nsp10 and nsp12 proteins (Coronavirus gene-product naming).",
+            "cite_spans": [
+                {
+                    "start": 425,
+                    "end": 429,
+                    "text": "(31)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 277,
+                    "end": 299,
+                    "text": "Supplementary Table S2",
+                    "ref_id": null
+                }
+            ],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "MSAs were generated using Muscle in SeaView (32) . For each sequence of unknown structure, secondary structures were predicted using Predict Protein (31) . The predicted secondary structures were used to validate the alignment with structural references. The MSA was rendered using ESPript 3.0 (33), together with appropriate structural models as indicated, to assign secondary structures. When possible, structural 3D models were generated using Phyre 2.0 (34) . Conserved patches of amino-acids were generated using WebLogo (35) and mapped in the structural models rendered in Chimera (e.g. Figure 3 ).",
+            "cite_spans": [
+                {
+                    "start": 44,
+                    "end": 48,
+                    "text": "(32)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 149,
+                    "end": 153,
+                    "text": "(31)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 457,
+                    "end": 461,
+                    "text": "(34)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 526,
+                    "end": 530,
+                    "text": "(35)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 593,
+                    "end": 601,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "We first wanted to establish and clarify the presence and genomic location of 2 -O-MTase domains located downstream of the RNA-dependent-RNA-polymerase (RdRp), as is the case for SARS-CoV nsp16. In order to do this, available genome sequences (Table 1 and Supplementary  Table S1 ) were aligned based on the structurally conserved RdRp domain, and used to build a phylogenetic tree (Figure 1) . From this alignment, we first determined that the majority of viruses within the Nidovirales order code for at least one RF-MTase protein, identified through the presence of the G-x-G-x n -G element of the SAM binding motif. These RF-MTase domains were additionally found to contain the canonical K-D-K E catalytic tetrad of 2 -O-MTases (Figure 1 , green and Table 1 ). Conversely, this MTase was confirmed to be absent in members of the Arteriviridae family, including EAV, PRRSV and LDV. Interestingly however, the RF-MTase signature sequence was identified in two recently discovered arteri-like viruses: Hainan Hebius Popei Arterivirus (HHPAV, \u223c12.5 kb) and Nanhai ghost shark arterivirus (NGSAV, \u223c13.2 kb). Similar to the CoV 2 -O-MTase encoded on nsp16, all the identified RF-MTases, including the small-genome, arteri-like Nidoviruses, are located in a conserved genomic position at the 3 -end of Orf1b.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 243,
+                    "end": 279,
+                    "text": "(Table 1 and Supplementary  Table S1",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 382,
+                    "end": 392,
+                    "text": "(Figure 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 732,
+                    "end": 741,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 754,
+                    "end": 761,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "All non-arterivirus Nidovirales members carry at least one 2 -O-Mtase"
+        },
+        {
+            "text": "We subsequently performed an MSA of nsp16 from the Roniviridae and Tobaniviridae families (Figure 1 , in green), followed by modeling of a typical representative of these nsp16s (not shown). Consistent with phylogenetic analysis, all these enzymes are predicted to be canonical RNA 2 -O MTases, containing a typical K-D-K-E catalytic tetrad. As noted by others in the Ronivirus nsp16 model (36) , minor structural differences are observed across the Tobaniviridae family, such as the absence of \u24243 strand and a shorter loop upstream helix \u2423D, however overall the structure are consistent with a 2 -O-MTase function. Based on this, we conclude that non-arterivirus Nidovirales code for a RF 2 -O-MTase, containing a canonical K-D-K E catalytic tetrad which is located in a highly conserved position at the 3 -end of Orf1b.",
+            "cite_spans": [
+                {
+                    "start": 390,
+                    "end": 394,
+                    "text": "(36)",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 90,
+                    "end": 99,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "All non-arterivirus Nidovirales members carry at least one 2 -O-Mtase"
+        },
+        {
+            "text": "A distinguishing feature of large-genome Nidoviruses, is the possession of a unique NRF-MTase responsible for cap N7guanine methylation. This has been most studied for the CoV family, where the N7-guanine MTase is fused to an N-terminal ExoN domain encoded on nsp14. It has been previously reported that the N7-guanine MTase domain is not uniformly present in nsp14-containing nidoviruses (24). Only the Tobaniviridae is expanded and genera indicated in italic plus unassigned viruses (see Figure 1 ). We therefore deduce that the nidovirus enzyme responsible for N7-guanine methylation does not appear to be located in a conserved genomic location, nor contains a conserved structural architecture. The majority of viruses in the CoV and Mesoniviridae families appear to utilise a nidoviruses specific, NRF-MTase located directly downstream of the ExoN domain, as described for SARS-CoV. For other families, the enzyme responsible for N7-guanine methylation of the RNA-cap remains to be defined.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 490,
+                    "end": 498,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "The location and structure of N7-guanine MTases is not uniform along Nidovirales genomes"
+        },
+        {
+            "text": "The question still therefore remains as to how other members of the Nidovirales order methylate their RNA-cap at the N7-guanine position. One possibility would be that the RF-MTase identified at the 3 end of Orf1b is bi-functional, carrying both 2 -O and N7-guanine methylation activity, as seen for the Flavivirus NS5 MTase. However, there is no obvious signature sequence to indicate bi-functionality, and furthermore no evidence to suggest that the activity for those virus families would deviate from the 2 -O methylation specificity shown for the same domain of largegenome nidoviruses (36, 37) . Another possibility would be that another gene would code for an enzyme performing this methylation, and had escaped detection by standard bioinformatic methods. We thus performed a more extensive search for MTase signature-sequences along the whole Orf1ab in all Nidovirales. Surprisingly, a RF-MTase signature-sequence was detected in Orf1a of 10 members of the Tobaniviridae family ( Figure 2 ). Strictly conserved amino-acids in these new viral MTases define three motifs (i) three glycines of the SAM binding site (Gly54, Gly56 and Gly58 in white bream virus (WBV)) located just downstream of a three amino acids hydrophobic segment in a \u2424-strand motif, (ii) a histidine (His117 in WBV) immediately followed by either a phenylalanine or tyrosine and (iii) a glutamic acid (Glu175 in WBV) (Figure 3 ). Interestingly the catalytic K-D-K-E tetrad associated with 2 -O-MTases is lacking.",
+            "cite_spans": [
+                {
+                    "start": 591,
+                    "end": 595,
+                    "text": "(36,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 596,
+                    "end": 599,
+                    "text": "37)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 989,
+                    "end": 997,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1395,
+                    "end": 1404,
+                    "text": "(Figure 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Selected Tobaniviridae members possess a RF-MTase signature-sequence in Orf1a lacking the canonical 2 -O catalytic K-D-K-E tetrad"
+        },
+        {
+            "text": "Remarkably, the novel Orf1a MTase gene was found to be predominantly associated with reptiles and fish, with the exception of two cases (Xinzhou Nematode virus 6 and Xinzhou toro-like virus 1, from the Sectovirus 1 and Infratovirus 1 species, respectively), where the viruses were isolated from snake-associated nematodes (although the host and life-cycle has not been clearly assessed). The mammalian toroviruses (EToV, BToV, Bovine TCH5 nidovirus, GToV and PToV) do not carry the MTase signature sequence.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Selected Tobaniviridae members possess a RF-MTase signature-sequence in Orf1a lacking the canonical 2 -O catalytic K-D-K-E tetrad"
+        },
+        {
+            "text": "We therefore conclude that certain members of the Tobaniviridae family possess a RF-MTase signature sequence in their Orf1a, and that this newly identified RF-MTase candidate may be a genetic marker distinguishing mammalian and non-mammalian members of this family.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Selected Tobaniviridae members possess a RF-MTase signature-sequence in Orf1a lacking the canonical 2 -O catalytic K-D-K-E tetrad"
+        },
+        {
+            "text": "Unlike RF-2 -O-MTases (with their well-defined K-D-K-E tetrad) and the unique Nidovirus NRF-MTase discussed above, signature sequences of RNA cap N7-guanine MTases are much less evident. In order to expand our search criteria and establish potential activity of identified MTase domains in the Nidovirales order, we first attempted to discern a specific N7-guanine MTase signature sequence which could be used to aid in defining this family of enzymes. A wealth of structural and mechanistic data has been acquired from N7-guanine MTases from the microsporidian parasite Encephalitozoon cuniculi (Ecm1, PDB ID: 1Z3C) (38) (39) . Combining this data with structural information from the human RNA N7-guanine methyltransferase (PDB ID: 3BGV), we were unable to define specific N7-guanine MTase sequence motifs ( Supplementary Figure S1 ), suggesting that structural conservation has likely prevailed over sequence conservation. We therefore narrowed the structural comparison to include only Encephalitozoon cuniculi, poxvirus and the human RNA N7-guanine Mtases. This allowed detection of five conserved amino acid motifs K/G/D/HY/E/Y (Supplementary Figure S2) , spatially coherent in the structure to fulfil the binding and catalytic reaction.",
+            "cite_spans": [
+                {
+                    "start": 617,
+                    "end": 621,
+                    "text": "(38)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 622,
+                    "end": 626,
+                    "text": "(39)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 810,
+                    "end": 833,
+                    "text": "Supplementary Figure S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1149,
+                    "end": 1159,
+                    "text": "Figure S2)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "What could define a N7-guanine MTase signature?"
+        },
+        {
+            "text": "We subsequently performed a structure-based alignment of the Orf1a MTase with several structurally-defined eukaryotic RNA-cap N7-guanine MTases ( Figure 3A) , of which Ecm1 can be considered as prototypic (38) . The new alignment with these known N7-MTases reveals that although two deletions are observed relative to structurally characterized N7-guanine MTases (PDB IDs: 2P7I and 4CKB), they do not alter typical RF characteristic features. The conserved amino-acids remain essentially the same: two glycines within the SAM binding pocket (Gly54 and Gly56 in WBV, Gly74 and Gly76 in Ecm1) and a histidine (His117 in WBV, His144 in Ecm1) immediately followed by either phenylalanine or tyrosine. Glu175 is also remains highly conserved, and in the Ecm1 structure its homosteric counterpart (Glu225) is positioned close to His144 for interaction with the guanine base.",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "(38)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 146,
+                    "end": 156,
+                    "text": "Figure 3A)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "The RF-MTase signature-sequence in Orf1a is a putative RNA cap N7-guanine MTase"
+        },
+        {
+            "text": "Taken together, these results suggest that this MTase is a N7-guanine MTase comprised of five conserved motifs, which are represented in Figure 3B structurally aligned onto the vaccinia N7-guanine MTase structure D12 (PDB ID: 4CKB).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 146,
+                    "text": "Figure 3B",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "The RF-MTase signature-sequence in Orf1a is a putative RNA cap N7-guanine MTase"
+        },
+        {
+            "text": "It is currently assumed that (+)stranded viruses encode one or more MTases in their genomes to perform the necessary methylation leading to the RNA cap formation. RNA virus cap-MTases perform two types of reactions: the methylation of the N7-guanine of the RNA cap, and the methylation of the adenosine 2 -O ribose of the first transcribed nucleotide (9) . Most of these viral MTases, with SARS-CoV nsp14 as a notable exception, belong to the RF family of enzymes (reviewed in (9) ). The RF is an evolutionary ancient fold, which has been widely evolved to perform a variety of chemical reactions. Its structural plasticity is well illustrated by the Blue tongue virus VP4 MTase (family Reoviridae) which incorporates an entire functional domain within two additional secondary structure elements, in addition to the flavivirus NS5 MTase, which is able to perform both N7-guanine and 2 -O ribose methylation with the same \u223c33 kDa domain fused to the N-terminus of the viral RdRp (23, 39) .",
+            "cite_spans": [
+                {
+                    "start": 351,
+                    "end": 354,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 477,
+                    "end": 480,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 979,
+                    "end": 983,
+                    "text": "(23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 984,
+                    "end": 987,
+                    "text": "39)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "At a structural level there is a remarkable conservation of the RF for viral 2 -O MTases, combined with a conserved Figure 1 ). (B) approximate genome organisation and gene content along the family described in A). The genomes are not drawn to scale. Torovirinae: Bovine, Goat, Equine and Procine toroviruses; Bovine nidovirus 1 is the Bostovirus (Remotovirinae), whose genome is represented smaller than its fellow members to account for its \u223c20 kb genome size; Piscavirinae and Serpentovirinae are the viruses boxed in green. See ref (1) . mechanism of action, reflected by the K-D-K-E catalytic tetrad. Conversely, N7-guanine methylation does not appear to obey any particular rule, neither at the structural nor at the biochemical level. Furthermore, the pathway and target molecule for N7-guanine methylation appears to be somewhat variable. For example in some families of viruses this reaction can be performed on a GTP molecule which is then used to cap the RNA (40) . This is the case with the alphavirus nsp1 enzyme, whose structure is currently unknown. On the other hand, several crystal structures of viral enzymes involved in N7-guanine methylation of RNA caps have been reported, such as that of flaviviruses (NS5, (23, 39) ), rotaviruses and reoviruses (VP4 and lambda2, respectively (21, 22) ), and coronaviruses (nsp14, (19, 20) ). As stated above, the majority of these N7-MTases also adopt a RF (with the exception of SARS nsp14). However, at the sequence level no structurally conserved residues can be de-fined, thus complicating the detection of N7-MTases using bioinformatic analysis alone.",
+            "cite_spans": [
+                {
+                    "start": 536,
+                    "end": 539,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 970,
+                    "end": 974,
+                    "text": "(40)",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1230,
+                    "end": 1234,
+                    "text": "(23,",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1235,
+                    "end": 1238,
+                    "text": "39)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 1300,
+                    "end": 1304,
+                    "text": "(21,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1305,
+                    "end": 1308,
+                    "text": "22)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1338,
+                    "end": 1342,
+                    "text": "(19,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1343,
+                    "end": 1346,
+                    "text": "20)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 116,
+                    "end": 124,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "It is currently assumed that viruses within the order Nidovirales utilise a conventional capping pathway for synthesis of an RNA cap which is indistinguishable from that of the host RNA. However, in many cases the enzymes required in the capping pathway, including the N7-and 2 -O-MTase domains, have not been specifically identified, but rather are assumed to be present based on related genomes. Furthermore, the drastic variation in genome length suggests that the cap structure, enzymatic pathway and proteins may not be identical for all families, particularly in regards to the small-genome arteriviruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Here, we confirmed that with the exception of the Arteriviridae family, Nidovirales contain a RF-MTase located at a conserved position at the 3 end of Orf1b. This enzyme is presumed to contain 2 -O-MTase activity, based on the presence of the conserved K-D-K-E catalytic tetrad and given the consistent genomic location with the wellcharacterized nsp16 2 -O-MTase of CoVs. The large-scale distribution of this domain, including in two small-genome arteri-like viruses (HHPA and NGSA) is somewhat surprising and may have a significant impact on our understanding of genome size evolution in Nidovirales. Phylogenetic branching of both HHPA and NGSA suggests that arteriviruses might not be primitive small version of larger Coronavirus genomes, but may rather originate from sizereduction of a large Nidovirus ancestor genome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The presence of N7-guanine MTases in the Nidovirales order is more speculative. Until this point, the only confirmed N7-guanine MTase for the Nidovirales order was the unique NRF-MTase located in Orf1b just downstream of the ExoN domain in large-genome nidoviruses. While we could confirm the presence of nsp14-like NRF-MTases for viruses of the CoVs and mesoniviruses, we were unable to detect any nsp14-like NRF-MTase for the majority of other families, with the exception being a single member of the Tobaniviridae family, Fathead minnow virus 1. The question therefore remains as to how the other Nidovirus members methylate their RNA-cap at the N7-guanine position.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Interestingly, for unique members of the Abyssoviridae and Mononiviridae families, a predicted RF-MTase was identified in the analogous genomic location to the CoV nsp14 NRF-MTase, just downstream of the viral ExoN. The lack of the characteristic K-D-K-E catalytic tetrad suggests this protein does not contribute to 2 -O methylation, supported by the fact that both families already contain a conserved 2 -O MTase signature sequence at the end of Orf1b. Based on its conserved genomic location, we therefore suggest that this protein could function as the missing N7-guanine MTase, raising an interesting and curious question regarding the evolution and functional complementarity between the NRF-N7-guanine MTase of CoVs and the RF-MTases of these families.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Expansion of genomic search for potential MTase domains also revealed a RF-MTase signature-sequence in Orf1a of 10 members of the Tobaniviridae family. The presence of an MTase in Orf1a is unexpected, and has not been reported before, although signature sequences of an uncharacterized MTase had been detected in Ball Python nidovirus, Sectovirus 1 and Infratovirus 1 (25) . Protein and enzyme functions in Nidovirales have been classified into a functional triangle (24) , with each side of the triangle representing a carrier of the following roles: Orf1a-host defense; Orf1b--genome replication and maintenance; 3 nested Orfs--structural and accessory proteins. In this triangle, the MTase activity involved in genome maintenance would usually map to Orf1b (24) . The location in Orf1a may therefore suggest additional or auxiliary roles in tasks other than RNA capping, however this remains to be determined. Accordingly, it was recently reported that viral or cellular MTases can be recruited by viruses in order to induce internal methylation of their genome (41) and escape to the antiviral response mediated by MDA5 (42) . Furthermore, \u22121 ribosomal frameshifting being a mechanism commonly used in viral and cellular proteins to regulate ratios and copy numbers of specific genes, it would suggest that the levels of Orf1a products is higher than those of Orf1b, raising the question as to why only Tobaniviridae members would need this additional MTase in higher quantities.",
+            "cite_spans": [
+                {
+                    "start": 368,
+                    "end": 372,
+                    "text": "(25)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 467,
+                    "end": 471,
+                    "text": "(24)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 760,
+                    "end": 764,
+                    "text": "(24)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1065,
+                    "end": 1069,
+                    "text": "(41)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1124,
+                    "end": 1128,
+                    "text": "(42)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Taken together, this analysis clarifies the presence and location of MTase domains across the Nidovirales order, revealing a surprising variability. The identification of novel, putative RF-MTase domains may unveil the currently missing enzyme behind N7-guanine methylation for several viral families. If this is the case, it is a surprising structural deviation from the known CoV NRF-N7-guanine MTase nsp14. Dual N7 and 2 -O methylation activity by RF-MTases is also possible, as evidenced by the flavivirus NS5 MTase, particularly for families for which only a single (nsp16-like) MTase could be identified.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In any case, the type, diversity, and distribution of RNA MTases across the Nidovirales order reveals an enormous variability regarding genome organization, regulation and evolution, that need to be addressed both functionally and structurally. SAM-dependent MTases are ancient folds associated with RNA stability and evolution (43) . Their presence and properties in a phylogenetic tree may well give interesting clues regarding RNA genome evolution and its associated issue of host defense mechanisms.",
+            "cite_spans": [
+                {
+                    "start": 328,
+                    "end": 332,
+                    "text": "(43)",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Supplementary Data are available at NARGAB Online.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SUPPLEMENTARY DATA"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Additional changes to taxonomy ratified in a special vote by the International Committee on Taxonomy of Viruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Siddell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lefkowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mushegian",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dutilh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Harrach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Junglen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Arch. Virol",
+            "volume": "164",
+            "issn": "",
+            "pages": "943--946",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "SARS to MERS, Thrusting Coronaviruses into the Spotlight. Viruses, 11",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Nidovirales: evolving the largest RNA virus genome",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res",
+            "volume": "117",
+            "issn": "",
+            "pages": "17--37",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bredenbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dobbe",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "Llm",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Rozanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wjm",
+                    "middle": [],
+                    "last": "Spaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J. Mol. Biol",
+            "volume": "331",
+            "issn": "",
+            "pages": "991--1004",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A planarian nidovirus expands the limits of RNA genome size",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saberi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gulyaeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brubacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Newmark",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS Pathog",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Discontinuous and non-discontinuous subgenomic RNA transcription in a nidovirus",
+            "authors": [
+                {
+                    "first": "Alw",
+                    "middle": [],
+                    "last": "Van Vliet",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pjm",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "De Groot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J",
+            "volume": "21",
+            "issn": "",
+            "pages": "6571--6580",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Further characterization of mRNA's of mouse hepatitis virus: presence of common 5 -end nucleotides",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Patton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Stohlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J. Virol",
+            "volume": "41",
+            "issn": "",
+            "pages": "557--565",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The cap structure of simian hemorrhagic fever virion RNA",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sagripanti",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Zandomeni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Weinmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Virology",
+            "volume": "151",
+            "issn": "",
+            "pages": "146--150",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Conventional and unconventional mechanisms for capping viral mRNA",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lescar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Nat. Rev. Microbiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "51--65",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "mRNA capping: biological functions and applications",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ramanathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Robb",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-H",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nucleic Acids Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "7511--7526",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Human coronavirus 229E nonstructural protein 13: characterization of duplex-unwinding, nucleoside triphosphatase, and RNA 5 -triphosphatase activities",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ivanov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Virol",
+            "volume": "78",
+            "issn": "",
+            "pages": "7833--7838",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Discovery of an RNA virus 3 \u21925 exoribonuclease that is critically involved in coronavirus RNA synthesis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Minskaia",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hertzig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Campanacci",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cambillau",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "103",
+            "issn": "",
+            "pages": "5108--5113",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Functional screen reveals SARS coronavirus nonstructural protein nsp14 as a novel cap N7 methyltransferase",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tien",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahola",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "106",
+            "issn": "",
+            "pages": "3484--3489",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Coronavirus nonstructural protein 16 is a cap-0 binding enzyme possessing (nucleoside-2 O)-methyltransferase activity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Selisko",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "8071--8084",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Crystal structure and functional analysis of the SARS-coronavirus RNA cap 2 -O-methyltransferase nsp10/nsp16 complex",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debarnot",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gluais",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Papageorgiou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sharff",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bricogne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Biochemical and structural insights into the mechanisms of SARS coronavirus RNA ribose 2 -O-methylation by nsp16/nsp10 protein complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ke",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Tien",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS Pathog",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Comparison of super-secondary structures in proteins",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Rossmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "J. Mol. Biol",
+            "volume": "76",
+            "issn": "",
+            "pages": "241--256",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Rossmann-fold methyltransferases: taking a \"\u2424-Turn\" around their cofactor, S-Adenosylmethionine",
+            "authors": [
+                {
+                    "first": "Bps",
+                    "middle": [],
+                    "last": "Chouhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Maimaiti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gade",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Laurino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Biochemistry (Mosc)",
+            "volume": "58",
+            "issn": "",
+            "pages": "166--170",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Structural basis and functional analysis of the SARS coronavirus nsp14-nsp10 complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "112",
+            "issn": "",
+            "pages": "9436--9441",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Subissi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Silveira De Morais",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ntt",
+                    "middle": [],
+                    "last": "Le",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sevajol",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gluais",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vonrhein",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bricogne",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "115",
+            "issn": "",
+            "pages": "162--171",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Bluetongue virus VP4 is an RNA-capping assembly line",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sutton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Grimes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Roy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nat. Struct. Mol. Biol",
+            "volume": "14",
+            "issn": "",
+            "pages": "449--451",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "RNA synthesis in a cage-structural studies of reovirus polymerase lambda3",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Farsetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nibert",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Cell",
+            "volume": "111",
+            "issn": "",
+            "pages": "733--745",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "An RNA cap (nucleoside-2 -O-)-methyltransferase in the flavivirus RNA polymerase NS5: crystal structure and functional characterization",
+            "authors": [
+                {
+                    "first": "M-P",
+                    "middle": [],
+                    "last": "Egloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Benarroch",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Selisko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-L",
+                    "middle": [],
+                    "last": "Romette",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "EMBO J",
+            "volume": "21",
+            "issn": "",
+            "pages": "2757--2768",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "The footprint of genome architecture in the largest genome expansion in RNA viruses",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Goeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Parquet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Del",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Nga",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Morita",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Pathog",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Description and initial characterization of metatranscriptomic nidovirus-like genomes from the proposed new family Abyssoviridae, and from a sister group to the Coronavirinae, the proposed genus Alphaletovirus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bukhari",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Mulley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gulyaeva",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Neuman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Virology",
+            "volume": "524",
+            "issn": "",
+            "pages": "160--171",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Expanding the size limit of RNA viruses: Evidence of a novel divergent nidovirus in California sea hare, with a \u223c35.9 kb virus genome",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Debat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/www.doi.org/10.1101/307678"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "An RNA virome associated to the Golden Orb-Weaver Spider Nephila clavipes",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Debat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front. Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Expresso: automatic incorporation of structural information in multiple sequence alignments using 3D-Coffee",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Armougom",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moretti",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Poirot",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Audic",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dumas",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schaeli",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Keduas",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Notredame",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Nucleic Acids Res",
+            "volume": "34",
+            "issn": "",
+            "pages": "604--608",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "UCSF Chimera-a visualization system for exploratory research and analysis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Pettersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goddard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Couch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Greenblatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ferrin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Comput. Chem",
+            "volume": "25",
+            "issn": "",
+            "pages": "1605--1612",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "A completely reimplemented MPI bioinformatics toolkit with a New HHpred Server at its core",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zimmermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Stephens",
+                    "suffix": ""
+                },
+                {
+                    "first": "S-Z",
+                    "middle": [],
+                    "last": "Nam",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Rau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "K\u00fcbler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lozajic",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gabler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "S\u00f6ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Lupas",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Alva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Mol. Biol",
+            "volume": "430",
+            "issn": "",
+            "pages": "2237--2243",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "PredictProtein-an open resource for online prediction of protein structural and functional features",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yachdav",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kloppmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kajan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Goldberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "H\u00f6nigschmid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schafferhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roos",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bernhofer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nucleic Acids Res",
+            "volume": "42",
+            "issn": "",
+            "pages": "337--343",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "SeaView version 4: a multiplatform graphical user interface for sequence alignment and phylogenetic tree building",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gouy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Guindon",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Gascuel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Mol. Biol. Evol",
+            "volume": "27",
+            "issn": "",
+            "pages": "221--224",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "ESPript/ENDscript: extracting and rendering sequence and 3D information from atomic structures of proteins",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gouet",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Robert",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Courcelle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nucleic Acids Res",
+            "volume": "31",
+            "issn": "",
+            "pages": "3320--3323",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "The Phyre2 web portal for protein modeling, prediction and analysis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kelley",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mezulis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Yates",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Wass",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mje",
+                    "middle": [],
+                    "last": "Sternberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat. Protoc",
+            "volume": "10",
+            "issn": "",
+            "pages": "845--858",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "WebLogo: a sequence logo generator",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Crooks",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-M",
+                    "middle": [],
+                    "last": "Chandonia",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Brenner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Genome Res",
+            "volume": "14",
+            "issn": "",
+            "pages": "1188--1190",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Identification and Characterization of a Ribose 2 -O-Methyltransferase Encoded by the Ronivirus Branch of Nidovirales",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Virol",
+            "volume": "90",
+            "issn": "",
+            "pages": "6675--6685",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Coronavirus nonstructural protein 16 is a cap-0 binding enzyme possessing (nucleoside-2 O)-methyltransferase activity",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Selisko",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "8071--8084",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Structure and mechanism of mRNA cap (guanine-N7) methyltransferase",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fabrega",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hausmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Mol. Cell",
+            "volume": "13",
+            "issn": "",
+            "pages": "77--89",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "West Nile virus 5 -cap structure is formed by sequential guanine N-7 and ribose 2 -O methylations by nonstructural protein 5",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ray",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tilgner",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Deas",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "P-Y",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J. Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "8362--8370",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Reaction in alphavirus mRNA capping: formation of a covalent complex of nonstructural protein nsP1 with 7-methyl-GMP",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahola",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "K\u00e4\u00e4ri\u00e4inen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Proc. Natl. Acad. Sci. U.S.A",
+            "volume": "92",
+            "issn": "",
+            "pages": "507--511",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "The methyltransferase domain of the Sudan ebolavirus L protein specifically targets internal adenosines of RNA substrates, in addition to the cap structure",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Guez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Paesen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Debart",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-J",
+                    "middle": [],
+                    "last": "Vasseur",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Grimes",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nucleic Acids Res",
+            "volume": "46",
+            "issn": "",
+            "pages": "7902--7912",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "FTSJ3 is an RNA 2 -O-Methyltransferase recruited by HIV to avoid innate immunity sensing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ringeard",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Marchand",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Motorin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bennasser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nature",
+            "volume": "565",
+            "issn": "",
+            "pages": "500--504",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Reviving the RNA World: An Insight into the Appearance of RNA Methyltransferases",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Rana",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ankri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front. Genet",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Presence, type and loci of signature-sequences of Nidovirales RNA MTases: RF-MTase of unknown specificity (light red), non-RF nsp14-like MT (yellow) and RF nsp16-like MTase (green). Both light red and yellow MTases map to the nsp14 C-ter locus, ie. immediately downstrean the ExoN domain, while nsp16-like MTase map to the nsp16 locus, at the end of Orf1b. The tree was made based on MAFFT v7.427 multiple sequence alignment with BLOSUM62 scoring matrix and G-INS-i iterative refinement method. The alignments were used as input for maximum likelihood trees generated with the FasTtree v2.1.5 software (best-fit model = JTT-Jones-Taylor-Thorton with single rate of evolution for each site = CAT). Local support values were computed using the Shimodaira-Hasegawa test (SH) with 1000 replicates. Numbers at the nodes represent FasTtree support values and scale var substitutions per site. The tree included two novel Ronivirus-like and Mesonivirus-like genome sequences: Western Flower Thrips Mesonivirus, and Palaemon Nidovirus, respectively (WFTV, PAN, unpublished, see the 'Materials and Methods' section and Supplementary",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "and the D1:D12 heterodimer of the dsDNA Poxvirus (PDB ID: 4CKB) (37). Regarding RNA viruses, there are only three crystal structures of RF-MTases known to methylate N7-guanine caps. They are the rotavirus VP4 (PDB ID: 1KQR) the reovirus Lambda2 (PDB ID: 1EJ6) of the dsRNA Reoviridae family (21,22), and the West Nile Virus NS5 of the +RNA Flavivirus family (PDB ID: 2OYO) which performs bi-functional N7-guanine and 2 -O-MTase activities",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Distribution of the Orf1a MTase along the (A) Tobaniviridae phylogenetic tree (see",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "(A) Structural alignment of Tobaniviridae MTases together with various prokaryotic, eukaryotic and viral members; Pectobacterium Atrosepticum ECA1738 (PDB ID: 2P7I), Vaccinia virus D1:D12 heterodimer (PDB ID: 4CKB), Encephalitozooan cuniculi EcmI (PDB ID: 1Z3C), human RNA N7guanine MTase (PDB ID: 3BGV). (B) Vaccinia Virus N7-guanine MTase structure (PDB: 4CKB) with highlighted motifs 1 to 5 and their corresponding amino-acid frequencies as determined by WebLogo analysis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ". From top to bottom of the figure: Arteriviridae: HHPAV: Hainan hebius popei arterivirus (MG600021); NGSAV: Nanhai ghost shark arterivirus (MG600024); SHFV: simian hemorrhagic fever virus; EAV: Equine arteritis virus; LDV, Lactate elevating virus; PRRSV-1 and 2, porcine reproductive and respiratory syndrome virus. Tobaniviridae: BToV: Breda virus; GToV: Goat torovirus; EToV: Berne virus (CAA36747); PToV: Porcine torovirus; CSV: Chinook salmon bafinivirus; FHMNV: Fathead Minnow nidovirus 1; WBV: white bream virus; BoNV: Bovine nidovirus TCH5; INToV: Xinzhou nido-like virus 6; SECToV; Xinzhou toro-like virus 1; GRBS-ToV: Guangdong red banded snake torovirus (MG600030); ShNV: shingleback nidovirus 1 (KX184715); BPNV: Ball python nidovirus 1; MVNV: Morelia viridis nidovirus; BRV: Bellinger River virus (MF685025); Coronaviridae: IBV: Infectious Bronchitis Virus; BWCoV: Beluga Whale coronavirus SW1; HCoV HKU1: Human coronavirus HK1; MHV: Mouse hepatitis virus; BatCoV HKU9: Rousettus bat Coronavirus HKU9; SARS-CoV: Severe acute respiratory syndrome coronavirus; MERS CoV: middle-east respiratory syndrome coronavirus; Ty-BatCoV HKU4: Tylonycteris bat coronavirus HKU4; Pi-BatCoV HKU5: pipistrellus bat coronavirus HKU5; FIPV: Feline infectious peritonitis virus; Rh-BatCoV-HKU2: Rhinolophus bat coronavirus HKU2; HCoV 229E: Human coronavirus 229E; HCoV OC43: Human coronavirus OC43 (YP 003766); HCoV NL63: Human coronavirus NL63; PEDV: Porcine epidemic diarrhea virus; Sc-BatCoV 512: Scotophilus bat coronavirus 512; Mi-BatCoV-1A: bat coronavirus 1A; Mi-BatCoV HKU8: Miniopterus bat coronavirus HKU8. Medioniviridae: BlNV: Botrylloides leachii nidovirus; TurrNV: Turrinivirus 1; WFTV: Western Flower Thrips virus. Mesoniviridae: MenoV: Meno virus; NseV: Nse virus; HanaV: Hana virus; KSaV: Karang sari virus; DKNV: Dak Nong virus; CASV: Casuarina virus; NDiV: Nam Dinh virus; CavV: Cavally virus; DMV: Dianke mesonivirus. Roniviridae: PAN: Palaemon nidovirus; GAV: Gill-associated virus; YHV: Yellow head virus (EU487200). Euroniviridae: PagRV: Paguronivirus 1; CharNV: Charybnivirus 1; DecNV: Decronivirus 1. Abyssoviridae: AAbV: Aplysia abyssovirus 1. Mononiviridae: PSCNV: Planidovirus 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Distribution and putative substrate specificities of MTases in the four families of the Nidovirales Order * : Arteriviruses do not usually carry any MTase, except the two newly identified Hainan Hebius Popei arterivirus and Nanhai gost shark arterivirus (see text). ** : although in the nsp14 locus immediately downstream the ExoN gene, the MTase has a Rossmann fold. Virus species names are indicated and genome size corresponds to exemplar virus sequence used in this study.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Conflict of interest statement. None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CNRS (in part); Australian Endeavour Research Fellowship (to A.S.)."
+        }
+    ]
+}

@@ -1,0 +1,781 @@
+{
+    "paper_id": "93d47e78b27a6291cb5bfc81c11f1dacfd11376b",
+    "metadata": {
+        "title": "The impact of early social distancing at COVID-19 Outbreak in the largest Metropolitan Area of Brazil",
+        "authors": [
+            {
+                "first": "Fabiana",
+                "middle": [],
+                "last": "Ganem",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "settlement": "Bras\u00edlia",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fabio",
+                "middle": [
+                    "Macedo"
+                ],
+                "last": "Mendes",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Brasilia",
+                    "location": {
+                        "settlement": "Bras\u00edlia",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Silvano",
+                "middle": [],
+                "last": "Barbosa De Oliveira",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "settlement": "Bras\u00edlia",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Victor",
+                "middle": [
+                    "Bertollo"
+                ],
+                "last": "Gomes Porto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "settlement": "Bras\u00edlia",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wildo",
+                "middle": [],
+                "last": "Navegantes De Ara\u00fajo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Brasilia",
+                    "location": {
+                        "settlement": "Bras\u00edlia",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Helder",
+                "middle": [
+                    "I"
+                ],
+                "last": "Nakaya",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of S\u00e3o Paulo",
+                    "location": {
+                        "settlement": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fredi",
+                "middle": [
+                    "A"
+                ],
+                "last": "Diaz-Quijano",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laborat\u00f3rio de Infer\u00eancia Causal em Epidemiologia",
+                    "institution": "University of S\u00e3o Paulo",
+                    "location": {
+                        "settlement": "S\u00e3o Paulo",
+                        "region": "SP",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Julio",
+                "middle": [],
+                "last": "Croda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "settlement": "Bras\u00edlia",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We evaluated the impact of early social distancing on the COVID-19 transmission in the S\u00e3o Paulo metropolitan area. Using an age-stratified SEIR model, we determined the time-dependent reproductive number, and forecasted the ICU beds necessary to tackle this epidemic. Within 60 days, these measures might prevent 89,450 deaths.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The COVID-19 pandemic has led to the collapse of healthcare systems in several countries (1) . The virus has a higher basic reproduction number (R0) (i.e., the average number of secondary cases generated by a primary case) and case fatality rate (CFR) when compared to Influenza (R0:2,5-3,2 and CFR:0,4-2,9% versus R0: 1, 3 and CFR:0,15%-0,25%, respectively) (2) (3) (4) (5) . To tackle the spread of disease, a range of interventions have been implemented in China, including increasing test capacity, rapid isolation of suspected and confirmed cases and their contacts, social distancing measures, as well as restricting mobility (6) .",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 92,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 319,
+                    "end": 321,
+                    "text": "1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 322,
+                    "end": 323,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 359,
+                    "end": 362,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 363,
+                    "end": 366,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 367,
+                    "end": 370,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 632,
+                    "end": 635,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The first confirmed case of COVID-19 in Brazil was on February 26th in the city of S\u00e3o Paulo and, since March 17th, the state of S\u00e3o Paulo has recommended a series of social distancing measures. These include recommending that older adults and individuals with chronic medical conditions stay at home as much as possible;",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "cancelling mass events; reducing public transportation; closing schools, universities and workplaces; and maintaining only essential services.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The collapse of health care systems is the major concern for most countries hit by the pandemic. Among the confirmed cases in China, 18.5% were considered severe and 25.3% of those required intensive care (2) . The S\u00e3o Paulo Metropolitan Area (SPMA) has 7,300 ICU beds available, 2,880 of which belong registered in the National Council of Health Establishments (Cadastro Nacional de Estabelecimentos de Sa\u00fade, CNES: http://cnes.datasus.gov.br).",
+            "cite_spans": [
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Considering the significant expected burden of the COVID-19 pandemic, nonpharmacological interventions are necessary to flatten the epidemic curve and prepare the public response to the shortage of ICU beds and healthcare workers needed to treat critically ill patients (4).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We evaluated the impact of early social distancing measures in the transmission of COVID-19 in the SPMA, and projected the number of ICU beds necessary for COVID-19 patients in Brazil.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "During the epidemic, the Brazilian Ministry of Health (MoH) implemented an electronic form for reporting suspected cases of respiratory syndrome. We retrieved all . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "confirmed COVID-19 cases between 26 th February and 30 th March. The form includes several different information, such as exposure and travel information, the contact names of people that could be infected (primary cases), the date of onset of symptoms, and laboratory results. Using only locally acquired cases, we linked the reported contacts with the original dataset of confirmed cases in order to create a set of infection pairs. We then compared the dates of onset of symptoms to establish the set of serial intervals. In addition, we used the daily number of COVID-19 confirmed patients from a S\u00e3o Paulo state to calculate time dependent reproductive number R(t).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "In 2009, the MoH established a mandatory notification of any hospitalized case of severe acute respiratory illness (SARI) into the National Disease Notification System (SIVEP-GRIPE). We retrieved all SARI cases notified on the SIVEP-GRIPE system between 26 th February and 30 th March (5). Those cases were included regardless of COVID19 confirmation as a proxy of COVID19 infections. This proxy was used to validate R(t) of confirmed COVID19 cases and was chosen in order to minimize the impact on shortage of RT-PCR tests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "We calculated the R(t) during one month period for confirmed cases of COVID19, as well as SARI in the SPMA, and estimated the expected number of COVID19 cases requiring an ICU bed. The reproductive number at the beginning of the epidemic (R0) and during the epidemic (Rt) were calculated using the package R0 R Studio (3). The expected ICU demand was calculated using an age stratified SEIR model (7), which includes compartments for individuals requiring hospitalization and intensive care. The parameters are described in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 524,
+                    "end": 531,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "The study"
+        },
+        {
+            "text": "Considering only the confirmed cases reported by S\u00e3o Paulo State, the R0 (i.e.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "previously to the introduction of social distancing measures) was close to 2. During the interventions, the R(t) dropped to values close to 1 and had a subsequent increase ( Figure 1a ). Underreporting and the shortage of confirmatory tests for COVID19 could directly affect these R(t) estimations. To deal with this, we analyzed the number of SARI available in the Epidemiological Surveillance of Influenza System (SIVEP-GRIPE) and",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 174,
+                    "end": 183,
+                    "text": "Figure 1a",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "The study"
+        },
+        {
+            "text": "showed that the social distancing measures reduced the R(t) below to 1 with a more accurate confidence interval (Figure 1b) . The R(t) of SARI cases was used in the SEIR model to forecasted the ICU beds necessary and the number of deaths.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 112,
+                    "end": 123,
+                    "text": "(Figure 1b)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "The study"
+        },
+        {
+            "text": ". CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.06.20055103 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "In the absence of social distancing measures, the model predicts that in the end of 30 days, COVID19 patients would demand 5,384 ICU beds, which corresponds to 230% of the ICU capacity and exceed 14 times the ICU capacity in the second month.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "Overall, this would result in 1,783 deaths in the first month and 89,349 in the second month. With maintenance of social distancing measures, the model predicts 317 deaths in the first month and a total of 1682 in the second. This scenario does not overburden the healthcare system and requires a maximum of 76% ICU beds capacity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "The impact of the social distancing measures must be monitored daily based on the number of hospitalized SARI, especially during the shortage of the COVID-19 confirmation tests. Using the severe cases notification systems, we identified that the social distance measures implemented in the SPMA reduced the COVID19 R(t) to below 1. In April and May, during influenza seasonality, with the maintenance of this level of social distance, the SPMA will need no additional ICU beds for COVID19 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "We realized that the downward trend seems to have started before the intervention. This could be explained by a decrease in mobility documented since the first days of March in places like national parks, public beaches, marinas, dog parks, plazas, and public gardens. According to a COVID-19 Community Mobility Report performed by Google this reduction was intensified and spread to other settings since the local government declared a state of emergency (9) . This report suggested that intervention was effectively applied, and it is consistent with the transmissibility reduction observed.",
+            "cite_spans": [
+                {
+                    "start": 456,
+                    "end": 459,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "The baseline scenario shows that completely relaxing social distancing produces thousands of additional deaths. Figure 2 shows that the rate of fatalities per day increases dramatically when ICU capacity is overloaded. The simulation shows that the number of deaths per day in this scenario quickly spikes from 100, a week prior the system is overloaded, to a peak of 4,160 deaths per day in less than a month.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 112,
+                    "end": 120,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "The study"
+        },
+        {
+            "text": "Several factors may impact our predictions. To minimize the impact on our estimations caused by the delay between the patient's onset of symptoms are reported we censored the last week of data. Another potential limitation is that outbreaks of COVID19 in nearby cities could lead to an overburden in the SPMA healthcare system, . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "which is a reference for the State of S\u00e3o Paulo, even if the epidemic is controlled in the SPMA.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The study"
+        },
+        {
+            "text": "Despite the limitations, we reported through SARI electronic notification systems as a proxy for severe cases of COVID19 an important decrease on the R(t) after two",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "week of the implementation of social distance measures in the SPMA. These measures are expected to avoid 89,450 deaths in 60 days even without any increase in total ICU bed capacity. . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.06.20055103 doi: medRxiv preprint . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.06.20055103 doi: medRxiv preprint . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.06.20055103 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Novel Coronavirus Pneumonia Emergency Response Epidemiology Team",
+            "authors": [],
+            "year": null,
+            "venue": "The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Transmission parameters of the A/H1N1 (2009) influenza virus pandemic: a review. Influenza Other Respir Viruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bo\u00eblle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ansart",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cori",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Valleron",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "",
+            "volume": "5",
+            "issn": "",
+            "pages": "306--322",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The 2009 A (H1N1) influenza virus pandemic: A review",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Girard",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Assossou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kieny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Vaccine",
+            "volume": "28",
+            "issn": "31",
+            "pages": "4895--902",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The reproductive number of COVID-19 is higher compared to SARS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gayle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rockl\u00f6v",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "27",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Real-time forecasts of the COVID-19 epidemic in China from",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Roosa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kirpich",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rothenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hyman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Dis Model",
+            "volume": "5",
+            "issn": "",
+            "pages": "256--63",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Laydon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nedjati",
+                    "middle": [],
+                    "last": "Gilani",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ainslie",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Baguelin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Expected impact of COVID-19 outbreak in a major metropolitan area in Brazil | medRxiv",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.14.20035873v1"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "COVID-19 Community Mobility Report",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "COVID-19 Community Mobility Report",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "S.G. dos Santos is a biologist and PhD candidate. Her main research interest is epidemiology of infectious diseases and mathematical modelling TABLES",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Time-dependent reproductive number R(t) estimated for the confirmed COVID19 cases (a), and for the SARI cases (b). Solid line corresponds to R(t), red area to the confidence interval, vertical dotted line represents, respectively the date of the onset of symptoms of the first confirmed case in Brazil and date of the first social distancing measure implemented by the S\u00e3o Paulo state.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Estimation of the number of ICU patients (Black line) and fatalities (Red line). The solid line uses the time dependent reproductive number R(t) measured for SPMA and the dashed line represents the scenario in which no social distancing takes place. The vertical dashed line represents the date in which the local government declared a state of emergency and the horizontal gray line represents the number of available ICU beds.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "FIGURE 1. A)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "FIGURE 2.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Parameters used in the age stratified SEIR model to forecast the ICU beds",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": ")",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "FADQ and JC were granted a fellowship for research productivity from the Brazilian National Council for Scientific and Technological Development -CNPq, process/contract identification: 312656/2019-0 and 310551/2018-8, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments:"
+        }
+    ]
+}

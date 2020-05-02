@@ -1,0 +1,783 @@
+{
+    "paper_id": "793a82a423402d4c2badcc9b37f1b352ecc7e519",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Harry",
+                "middle": [],
+                "last": "Wetzler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ofstead & Associates, Inc",
+                    "location": {
+                        "addrLine": "1360 Energy Park Drive, Suite 300",
+                        "postCode": "55108",
+                        "settlement": "Saint Paul",
+                        "region": "MN",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Erica",
+                "middle": [],
+                "last": "Wetzler",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Some have claimed that the number of Covid-19 deaths is not much greater than would be experienced in the usual course of events. We sought to estimate the number of deaths due to Covid-19 in the United States and compare that number to the number of expected deaths in the same time period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Methods: To obtain the number of Covid-19 deaths, we multiplied published infection fatality rates by age by population numbers and assumed infection rates. The number of Covid-19 deaths was compared to the number of deaths using life table mortality rates.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Covid-19 deaths are increasing rapidly. At 12:44 AM GMT on April 3, 2020 the worldwide Covid-19 death toll was reported to be 53,327 with 6,070 of these deaths occurring in the United States. 1 One aspect of this grim situation that has received less attention is the extent to which some of these deaths would have occurred without the viral insult. Noted British statistician Sir David Spiegelhalter was quoted as saying \"Many people who die of Covid would have died anyway within a short period.\" 2 Murray and colleagues at the Institute for Health Metrics and Evaluation (IHME) have predicted that a total of 93,531 (95% UI: 39,966-177,866) Covid-19 deaths will occur in the US by July 15, 2020. 4,5 The projections assume the continuation of full social distancing through the end of May 2020. The IHME death total has received national recognition recently. 6 The goals of our study were to estimate the infection rate (IR) needed to produce the IHME number of deaths based on published infection fatality rates (IFRs), and how many of the deaths would be excess deaths, meaning they would not have occurred when they did or as soon as they did in the absence of SARS-CoV-2.",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 193,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 500,
+                    "end": 501,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 685,
+                    "end": 703,
+                    "text": "July 15, 2020. 4,5",
+                    "ref_id": null
+                },
+                {
+                    "start": 864,
+                    "end": 865,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Whereas Bannerjee, et al, used population IRs and relative mortality risk associated with infection, we used IRs and IFRs from Verity, et al, as the basis of our estimates. 7 An exponential model was fit to the IFRs for ages 0-49 and a cubic model was used for . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 173,
+                    "end": 174,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051532 doi: medRxiv preprint ages 50-100. These modelled IFRs were applied to the US population at the end of March 2020 by single year of age and gender. The number of deaths due to Covid-19 is the IR times the sum of the age-and sex-specific IFRs times the population in that agesex cell.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Covid-19 deaths = IR x \u2211 age,sex (IFR age x population age-sex )",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "To obtain the number of expected deaths, we applied death rates by single year of age and gender from the 2017 US life table to the US population. 8, 9 Since 93% of the Covid-19 deaths are predicted to occur during April and May, we used one-sixth of the annual expected deaths. 5 Expected deaths = IR x \u2211 age,sex (life table rate age-sex x population age-sex )/6",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 149,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 150,
+                    "end": 151,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 279,
+                    "end": 280,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "The number of excess deaths is then the Covid-19 deaths minus the expected deaths.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "Murray, et al, predict that the total number of deaths will reach an asymptote on July 15, 2020, three and a half months from April 1, 2020. 5 Thus, we also compared the number of Covid-19 deaths to those expected to occur during 3.5 months.",
+            "cite_spans": [
+                {
+                    "start": 141,
+                    "end": 142,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "We used Microsoft Excel Solver to find the IR that would produce the projected numbers of Covid-19 deaths by the end of May 2020 and July 15, 2020. Similarly, Solver was used to determine the number of months needed to generate the excess deaths.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "The ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "That over 70,000 unexpected deaths may occur in only 2 months is stark evidence of the intensity of this pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Professor Neil Ferguson, director of the MRC Centre for Global Infectious Disease Analysis at Imperial College London, said the proportion of Covid-19 victims who would have died anyway could be \"as many as half or two-thirds\". 11 Unpublished analyses of Health and Retirement Study data revealed that proxies who were interviewed after sample persons died said that 40-75% of deaths were expected in those dying in the 50 to 100 age range with the percentage increasing linearly with age. 12 Our findings of 60% or more of excess deaths, which we suggest will be largely unexpected, are a reason for alarm.",
+            "cite_spans": [
+                {
+                    "start": 228,
+                    "end": 230,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "It is reasonable to ask if over 10 million of the US population could be infected by the end of May given the number of confirmed positive tests in the US is less than 250,000 on April 2, 2020. 1 Yet with the exponential growth in infections currently being observed in the US, there could easily be more than 10 million infections by the end of May. 13 . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 195,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 351,
+                    "end": 353,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051532 doi: medRxiv preprint This increase is even more plausible when we recognize that the number of reported infections in the US is probably understated by at least a factor of ten. 14 Iceland has a robust nationwide testing program and 6.3% of over 20,000 tests (representing 6.1% of the nation's population) were positive through April 2, 2020. 15 Notably, approximately 50% of those with positive results were asymptomatic and there were only 2 deaths recorded. 16 South Korea, which also has aggressive testing and surveillance programs, has a 2.4% positive rate as of April 1, 2020. 17 It is noteworthy that on March 18, 2020 the rate was 2.9%. The infection curve in South Korea has flattened but it has not in the US. Flaxman, et al, estimated that between 7 and 43 million individuals have been infected with SARS-CoV-2 up to March 28, 2020 across 11 European countries. This means that 1.88% to 11.43% of the population was infected with an average IR of 4.9%. 18 Lee has suggested that Covid-19 deaths are coded differently than, say, influenza deaths on death certificates. 19 Specifically, in the United Kingdom Covid-19 is a notifiable disease. As a result, any patient who is positive for SARS-CoV-2 will be coded as a Covid-19 death. Conversely, influenza is not a notifiable disease and a person dying with influenza would not necessarily be recorded as an influenza death.",
+            "cite_spans": [
+                {
+                    "start": 466,
+                    "end": 468,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 584,
+                    "end": 586,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 692,
+                    "end": 709,
+                    "text": "April 1, 2020. 17",
+                    "ref_id": null
+                },
+                {
+                    "start": 1089,
+                    "end": 1091,
+                    "text": "18",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1204,
+                    "end": 1206,
+                    "text": "19",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Extensive business closures and social distancing measures have slowed economies across the world. In addition, medical resources are being diverted to care for Covid-19 patients. Although excess deaths from these changes have yet to be quantified, they do occur. Thomas suggests that a temporary decrease in per capita Gross Domestic Product of not more than 6.4% will balance Covid-19 deaths and those due to economic slowdown. 20 Lipsitch, et al, pointed out that we need four types of information: the full spectrum of disease severity, how transmissible is the virus, infector characteristics, and risk factors for severe illness and death. 21 Accordingly, viral testing should be used for more than clinical care. Indeed, the Food and Drug Administration issued the first emergency use . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 430,
+                    "end": 432,
+                    "text": "20",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 646,
+                    "end": 648,
+                    "text": "21",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051532 doi: medRxiv preprint authorization for a coronavirus serology test on April 1, 2020. 22 One way to obtain nationwide US IR data would be to involve the National Health and Nutrition Examination Survey which already examines and tests (although not yet for SARS-CoV-2) a representative sample of US residents.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "One limitation of our estimates is that the IFRs are not gender-specific. Although males seem to have higher fatality rates, the data are not yet conclusive. 23 Spiegelhalter has published IFR rates that are slightly higher than those of Verity, et al. 24 Using these rates would reduce the IRs needed to generate the specified Covid-19 death numbers.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 160,
+                    "text": "23",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 253,
+                    "end": 255,
+                    "text": "24",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Another concern is that the IHME predictions assume that social distancing (SD) measures will be maintained through the end of May 2020. Given the difficulties of implementing SD in some localities, the IHME predictions could be conservative. 25 Murray, et al, acknowledge the impact of the implementation of SD on their estimates. 4 Conclusions During April and May 2020, over 80% of the deaths predicted in the US population infected with SARS-CoV-2 will be excess deaths, i.e., deaths that would not have occurred during those 2 months without the increased fatality rates due to SARS-CoV-2.",
+            "cite_spans": [
+                {
+                    "start": 243,
+                    "end": 245,
+                    "text": "25",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 332,
+                    "end": 333,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Under normal conditions it would take 9.2 months for these excess deaths to occur. The IR needed to generate these deaths, 3.2%, means that over 10 million will be infected in the US. It is plausible to expect this extent of infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051532 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World COVID-19 Stats",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "How to understand the coronavirus death toll",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Triggle",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Estimating excess 1-year mortality from COVID-19 according to underlying conditions and age in England: a rapid analysis using NHS health records in 3.8 million adults",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pasea",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.22.20040287"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Forecasting COVID-19 impact on hospital bed-days, ICU-days, ventilator-days and deaths by US state in the next 4 months",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.27.20043752"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "COVID-19 Projections",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Model cited by White House says 82,000 people could die from coronavirus by August, even with social distancing",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Cnn",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Estimates of the severity of coronavirus disease 2019: a model-based analysis. The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Verity",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Okell",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Dorigatti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s1473-3099(20)30243-7"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "United States life tables",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "National Vital Statistics Reports",
+            "volume": "",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Annual Estimates of the Resident Population by Single Year of Age and Sex for the United States",
+            "authors": [],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "The mystery of the true coronavirus death rate. Financial Times",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hodgson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Coronavirus Disease (COVID-19) -Statistics and Research. Our World in Data",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roser",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ritchie",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ortiz-Ospina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Experts Say The Coronavirus Outlook Has Worsened, But The Trajectory Is Still Unclear",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Boice",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19 in Iceland -Statistics. www.covid.is",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Iceland lab's testing suggests 50% of coronavirus cases have no symptoms",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "John",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "South Korea: coronavirus infections, recoveries, and test cases 2020. Statista",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Flaxman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Swapnil",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "Axel",
+                    "middle": [],
+                    "last": "Gandy",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "How deadly is the coronavirus? It's still far from clear. The Spectator",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "J-value assessment of how best to combat Covid-19",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Defining the Epidemiology of Covid-19 -Studies Needed",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lipsitch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Swerdlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/nejmp2002125"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Why is coronavirus killing more men than women? Wired UK",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "How much 'normal' risk does Covid represent? Medium",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Spiegelhalter",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "This Midwestern mayor is fighting to get her residents to take coronavirus seriously",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bash",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bridget",
+                    "middle": [],
+                    "last": "Nolan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cassie",
+                    "middle": [],
+                    "last": "Spodak",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Triggle asserted that \"Knowing exactly how many [would have died anyway within a short period] is impossible to tell at this stage.\" 2 Although it is impossible to know exactly how many would have died anyway within a short period of time, at least one study has examined the issue. Bannerjee, et al, used life table methods to estimate excess oneyear mortality from COVID-19. 3 They found that if 10% of the United Kingdom population were infected, the number of excess deaths would be 13,791 if Covid-19confers a 20% increase in mortality risk and 34,479 with a 50% increase in risk.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "United States population on March 31, 2020 was estimated to be 329,455,737. 10 Using the IFRs from Verity, et al, an IR of 3.21% (95% UI: 1.41% -5.98%) would result in the 86,978 (95% UI: 38,221 -162,147) Covid-19 deaths that Murray, et al, project to occur in April and May. Under normal conditions an estimated 15,554 deaths would be . CC-BY-NC-ND 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity. is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051532 doi: medRxiv preprint expected to occur in 3.21% of the US population during the same time frame. Thus, the excess deaths are 71,424 (95% UI: 31,386 -133,150) (82% of the total). Ordinarily, it would take 9.2 months (95% UI: 4.0 -17.1) for 71,424 people to die in 3.21% of the US population. An IR of 3.21% means that 10.6 million in the US population are infected. By mid-July Murray, et al, predict an additional 2,679 Covid-19 deaths resulting in a total of 89,657 (95% UI: 38,310 -170,499) over the 3.5 month period of April 1 through July 15. An IR of 3.81% (95% UI: 1.63% -7.24%) would be needed to produce that number of deaths if the Verity, et al, IFRs prevail. The number of excess deaths would be 57,389 (95% UI: 24,522 -109,136) (64% of the total). In normal circumstances it would take 6.2 months (95% UI: 2.7 -11.8) for that number of deaths to occur.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

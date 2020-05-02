@@ -1,0 +1,2776 @@
+{
+    "paper_id": "ba367dc0470fd6c7391207b5f46445a370e8e6d8",
+    "metadata": {
+        "title": "Clinical Infectious Diseases Clinical Infectious Diseases \u00ae 2019;XX(XX):1-10 Improved Diagnostics Help to Identify Clinical Features and Biomarkers That Predict Mycoplasma pneumoniae Community-acquired Pneumonia in Children",
+        "authors": [
+            {
+                "first": "P",
+                "middle": [
+                    "M Meyer"
+                ],
+                "last": "Sauteur",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Patrick",
+                "middle": [
+                    "M Meyer"
+                ],
+                "last": "Sauteur",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Selina",
+                "middle": [],
+                "last": "Krautter",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lilliam",
+                "middle": [],
+                "last": "Ambroggio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Michelle",
+                "middle": [],
+                "last": "Seiler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Paolo",
+                "middle": [],
+                "last": "Paioni",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christa",
+                "middle": [],
+                "last": "Relly",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Riccarda",
+                "middle": [],
+                "last": "Capaul",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christian",
+                "middle": [],
+                "last": "Kellenberger",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Thorsten",
+                "middle": [],
+                "last": "Haas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Claudine",
+                "middle": [],
+                "last": "Gysin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lucas",
+                "middle": [
+                    "M"
+                ],
+                "last": "Bachmann",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Medignition Inc Research Consultants",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland,"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Annemarie",
+                "middle": [
+                    "M C"
+                ],
+                "last": "Van Rossum",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Erasmus MC University",
+                    "location": {
+                        "settlement": "Rotterdam",
+                        "country": "The Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christoph",
+                "middle": [],
+                "last": "Berger",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Children's Hospital Zurich",
+                    "location": {
+                        "settlement": "Zurich",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background. There are no reliable signs or symptoms that differentiate Mycoplasma pneumoniae (Mp) infection in communityacquired pneumonia (CAP) from other etiologies. Additionally, current diagnostic tests do not reliably distinguish between Mp infection and carriage. We previously determined that the measurement of Mp-specific immunoglobulin M antibody-secreting cells (ASCs) by enzyme-linked immunospot assay allowed for differentiation between infection and carriage. Using this new diagnostic test, we aimed to identify clinical and laboratory features associated with Mp infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Methods. This is a prospective cohort study of children, 3-18 years of age, with CAP from 2016 to 2017. Clinical features and biomarkers were compared between Mp-positive and -negative groups by Mann-Whitney U test or Fisher exact test, as appropriate. Area under the receiver operating characteristic curve (AUC) differences and optimal thresholds were determined by using the DeLong test and Youden J statistic, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results. Of 63 CAP patients, 29 were Mp-positive (46%). Mp positivity was statistically associated with older age (median, 8.6 vs 4.7 years), no underlying disease, family with respiratory symptoms, prior antibiotic treatment, prolonged prodromal respiratory symptoms and fever, and extrapulmonary (skin) manifestations. Lower levels of C-reactive protein, white blood cell count, absolute neutrophil count, and procalcitonin (PCT), specifically PCT <0.25 \u03bcg/L, were statistically associated with Mp infection. A combination of age >5 years (AUC = 0.77), prodromal fever and respiratory symptoms >6 days (AUC = 0.79), and PCT <0.25 \u03bcg/L (AUC = 0.81) improved diagnostic performance (AUC = 0.90) (P = .05).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Conclusions. A combination of clinical features and biomarkers may aid physicians in identifying patients at high risk for Mp CAP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Mycoplasma pneumoniae (Mp) is a common bacterial cause of community-acquired pneumonia (CAP) in children [1, 2] . There are substantial challenges in differentiating infection from carriage for Mp [3, 4] . Current diagnostic tests, including polymerase chain reaction (PCR) of upper respiratory tract (URT) specimens or serology, do not reliably differentiate between Mp infection and carriage [4] . Therefore it is not surprising that previous studies found no signs or symptoms to differentiate Mp infection in CAP from other etiology [5, 6] , potentially because Mp detection was misclassified as infection when in fact it was carriage. Mp carriage is estimated to occur in up to 56% of healthy children [4, 5] . Mp infection is generally mild and self-limiting, and patients with Mp CAP are mostly managed in primary care [7] . The lack of a cell wall makes Mp naturally resistant to first-line empirical \u03b2-lactam antibiotics for CAP [5] . Empirical macrolide treatment is extensively used to cover potential Mp infection, which has led to the emergence of macrolide-resistant Mp and a parallel rise in macrolide resistance in other respiratory pathogens [8] . Therefore, with the challenges in diagnostic testing for Mp and its limited use in the primary care setting, it is essential to determine clinical features and biomarkers to aid in the diagnosis of Mp infection in children with CAP.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 109,
+                    "end": 111,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 197,
+                    "end": 200,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 201,
+                    "end": 203,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 394,
+                    "end": 397,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 537,
+                    "end": 540,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 541,
+                    "end": 543,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 707,
+                    "end": 710,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 711,
+                    "end": 713,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 826,
+                    "end": 829,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 938,
+                    "end": 941,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1159,
+                    "end": 1162,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We recently demonstrated in a prospective cohort study of CAP in children that the measurement of specific peripheral blood immunoglobulin M (IgM) antibody-secreting cells (ASCs) by enzyme-linked immunospot (ELISpot) assay improves diagnosis of Mp infection in CAP [9] . This test differentiated between Mp infection and carriage. Using this dataset, we here aimed to identify clinical features and biomarkers associated with Mp CAP, in which infection may be more accurately identified with the measurement of Mp-specific IgM ASCs.",
+            "cite_spans": [
+                {
+                    "start": 265,
+                    "end": 268,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Patients were enrolled between 1 May 2016 and 30 April 2017, at University Children's Hospital Zurich [9] . CAP was clinically defined as the presence of fever >38.5\u00b0C and tachypnea according to the British Thoracic Society (BTS) guidelines [2] . Eligible participants were inpatients or outpatients aged 3-18 years. CAP patients <3 years of age were excluded to reduce the probability of viral infection, as it is highest in this age group [10] [11] [12] [13] . Patients with hospital-acquired pneumonia, cystic fibrosis, or other chronic lung disorders (excluding asthma), or known primary or secondary immunodeficiencies, were excluded. The local ethics committee approved the protocol for this study (number 2016-00148). Written informed consent was obtained from all parents and children \u226514 years of age.",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 105,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 241,
+                    "end": 244,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 441,
+                    "end": 445,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 446,
+                    "end": 450,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 451,
+                    "end": 455,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 456,
+                    "end": 460,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patients"
+        },
+        {
+            "text": "All enrolled patients were investigated for Mp in pharyngeal swab samples by specific real-time PCR [9, 14] . If additional consent was given, blood samples were collected for separation of peripheral blood mononuclear cells (PBMCs) and serum [9] . Serum was stored at \u221280\u00b0C. As detailed elsewhere [9] , only CAP patients were included in this study if fresh (isolated \u22644 hours) PBMCs were available to avoid poor ELISpot assay performance, and tested for the presence of Mp IgM ASCs. A CAP patient with a positive Mp IgM ASC ELISpot assay result was considered to have CAP caused by Mp (Mp positive). If Mp IgM ASCs were not detected, the patient was considered to have CAP caused by another etiology (Mp negative). We additionally investigated the frequency of Mp by PCR from pharyngeal swabs among household contacts available for sampling at presentation of index patients.",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 103,
+                    "text": "[9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 104,
+                    "end": 107,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 243,
+                    "end": 246,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 298,
+                    "end": 301,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Specimen Collection and Diagnostic Testing"
+        },
+        {
+            "text": "After study closure, pharyngeal swab samples kept at \u221280\u00b0C were additionally tested for Streptococcus pneumoniae (Sp) by real-time PCR [15] , knowing that detection of Sp in the URT is likely colonization and not infection [16] . In fact, coinfection with Sp and Mp is uncommon, whereas co-colonization may be more common [4, 12] . Another 23 viral and bacterial respiratory pathogens were tested using the ePlex respiratory pathogen panel (GenMark Diagnostics, Carlsbad, California), as previously described [17] . In addition, Mp serology was performed (Virion\\Serion, W\u00fcrzburg, Germany). The study test results were not available to treating clinicians.",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 139,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 223,
+                    "end": 227,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 322,
+                    "end": 325,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 326,
+                    "end": 329,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 509,
+                    "end": 513,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Specimen Collection and Diagnostic Testing"
+        },
+        {
+            "text": "Demographic, epidemiological, and clinical data were systematically collected using a standardized questionnaire. Full recovery was assessed until 6 months after enrollment. Chest radiographs were ordered for clinical reasons and therefore were not available in 3 (5%) patients. Chest radiographs were assessed by a radiologist during routine clinical care. These radiological findings and the corresponding images were retrospectively reviewed by 2 of the authors, who were blinded to clinical information, using criteria for radiographic pneumonia [18, 19] .",
+            "cite_spans": [
+                {
+                    "start": 550,
+                    "end": 554,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 555,
+                    "end": 558,
+                    "text": "19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Clinical Data"
+        },
+        {
+            "text": "Blood cell count and C-reactive protein (CRP) analysis was performed as part of routine clinical care. Procalcitonin (PCT) testing was performed retrospectively in a batched analysis and results were not available to treating physicians. PCT levels were measured using a sensitive assay with a detection limit of 0.007 ng/mL (B\u00b7R\u00b7A\u00b7H\u00b7M\u00b7S PCT sensitive KRYPTOR, Thermo-Scientific, Berlin, Germany) [20] .",
+            "cite_spans": [
+                {
+                    "start": 397,
+                    "end": 401,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Laboratory Data"
+        },
+        {
+            "text": "The nonparametric Mann-Whitney U test was used to compare continuous variables and the Fisher exact test to compare proportions between Mp-positive and Mp-negative groups. We calculated the area under the receiver operating characteristic (ROC) curve (AUC) of clinical features and biomarkers in differentiating between groups determined by Mp IgM ASC ELISpot assay (reference standard). We considered AUC \u2265 0.75 as adequate discrimination [21] . AUC differences were calculated using the DeLong test. Missing values were removed (ignored by roc.formula [22] ). The best biomarker threshold was defined as the optimal cutoff that maximized the distance to the identity (diagonal) line in the ROC curve according to Youden J statistic. All reported P values are 2-tailed with statistical significance defined as P value <.05. Data were analyzed using the R software environment, version 3.6.0 [22] .",
+            "cite_spans": [
+                {
+                    "start": 440,
+                    "end": 444,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 554,
+                    "end": 558,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 892,
+                    "end": 896,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "During the 12-month study period, 152 CAP patients were enrolled and Mp DNA was detected by PCR in 44 (29%) participants. Of the enrolled population, 63 (41%) CAP patients met the criteria of having fresh PBMCs available to undergo diagnostic testing with the Mp IgM ASC ELISpot assay and were included in this study. Of these, 29 (46%) were Mp-positive, determined by detection of Mp IgM ASCs. As detailed elsewhere [9] , all 29 Mp IgM ASC-positive patients were also Mp PCR positive and IgM positive. However, Mp PCR was also positive in 3 (5%) patients who were Mp IgM ASC and IgM negative, and Mp IgM was found in another 3 (5%) patients who were Mp IgM ASC and PCR negative. Chest radiographs were performed in 60 of 63 (95%) included CAP patients, whereof 59 (98%) met the criteria for radiographic pneumonia. Fever was detected in the URT of 9 siblings (64%), 7 mothers (35%), and 1 father (8%). Most of them reported having RTI symptoms (59%), but 6 siblings and 1 mother were asymptomatic carriers. The duration of RTI symptoms and fever prior to CAP diagnosis was longer in Mp-positive (median, 9.0 [IQR, 6.0-10.0] days) than Mp-negative patients (4.0 [IQR, 3.0-7.0] days; P < .01). No other symptoms and signs were statistically different between groups. Mp-positive patients were no different than Mp-negative patients to have consolidation, interstitial infiltrates, or pleural effusion. Extrapulmonary manifestations were only observed in Mp-positive children with CAP (31% vs 0%; P < .01) and included dermatological and neurological disorders (Table 1) . After inclusion, 9 (31%) of Mp-positive patients were not treated with an antibiotic in vitro active against Mp.",
+            "cite_spans": [
+                {
+                    "start": 417,
+                    "end": 420,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1559,
+                    "end": 1568,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Study Population"
+        },
+        {
+            "text": "Hospitalization rates and length of hospital stay were similar between the 2 groups. Detailed characteristics for hospitalized and ambulatory Mp-positive and Mp-negative patients are shown in Supplementary Tables 1 and 2. Among hospitalized patients, Mp-positive patients were more likely to have oxygen demand, extrapulmonary manifestations, and poor outcome than Mp-negative patients. Sequelae were only observed [9] . b Only patients between 3 and 18 years of age were enrolled (inclusion criteria) [9] . c Per the national immunization schedule in Switzerland. d Chronic lung disorders (excluding asthma) were part of the exclusion criteria [9] . e Asymptomatic carriers: Mp-positive CAP family members: 6 siblings, 1 mother; Mp-negative CAP family members: 1 mother. f According to the prediction rule for risk of Mp infection in children with CAP by Fischer et al [23] .",
+            "cite_spans": [
+                {
+                    "start": 415,
+                    "end": 418,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 502,
+                    "end": 505,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 870,
+                    "end": 874,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study Population"
+        },
+        {
+            "text": "g Inclusion criteria were clinical diagnosis of CAP with fever >38.5\u00b0C and tachypnea according to the British Thoracic Society guidelines [2] . h Radiographic evidence of pneumonia was not part of inclusion criteria, but routinely performed in 60 of 63 (95%) included CAP patients; 98% (59/60) met the criteria for radiological pneumonia [18, 19] . ",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 141,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 338,
+                    "end": 342,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 343,
+                    "end": 346,
+                    "text": "19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study Population"
+        },
+        {
+            "text": "Hematological assessment together with PCT and CRP analysis for Mp-positive and Mp-negative CAP patients is shown in Table 2 . Mp-positive CAP patients had lower white blood cell (WBC) count, absolute neutrophil count (ANC), PCT, and CRP values than Mp-negative patients (Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 117,
+                    "end": 124,
+                    "text": "Table 2",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 271,
+                    "end": 280,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Laboratory Findings"
+        },
+        {
+            "text": "Differences in clinical features and biomarkers may be attributed to another pathogen causing a subset of infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Detection of Pathogens"
+        },
+        {
+            "text": "Therefore, pharyngeal swab samples were tested in this study for other pathogens. Two or more pathogens were found in the URT of 20 (69%) Mp-positive and 13 (38%) Mp-negative patients (Table 3) . Sp was equally detected in both cohorts in >60%. Exclusively found in Mp-negative patients was respiratory syncytial virus (RSV; n = 8 [24%]; P < .01), influenza virus (n = 2), parainfluenza virus (n = 2), and coronavirus (n = 1). No virus was statistically associated with Mp positivity. Rhinovirus, adenovirus, and bocavirus were equally detected in both cohorts. Thus, we also compared clinical features and biomarkers of Mp-positive patients against the following subgroups of Mpnegative patients (n = 34): first, positive for RSV (n = 8, as it is the only virus for which detection in the URT has a high predictive value for CAP etiology [16] ); second, positive for other Abbreviations: ANC, absolute neutrophil count; CAP, community-acquired pneumonia; CI, confidence interval; CRP, C-reactive protein; IQR, interquartile range; Mp, Mycoplasma pneumoniae; NA, not available; OR, odds ratio; PCT, procalcitonin; WBC, white blood cell. a Age-specific reference values for hematology were defined as previously described [46] . b According to the admission CRP/PCT ratio for risk of Mp infection in hospitalized adults with CAP by Neeser et al [24] .",
+            "cite_spans": [
+                {
+                    "start": 839,
+                    "end": 843,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1221,
+                    "end": 1225,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1344,
+                    "end": 1348,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 184,
+                    "end": 193,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Detection of Pathogens"
+        },
+        {
+            "text": "viruses than RSV (n = 7, being aware that URT detection of other pathogens than RSV may not be related to pneumonia [3] ); and third, negative for viruses (n = 19, in which Sp was detected in 14 [74%] in the URT and additionally in 2 of 2 in pleural aspirate during routine clinical care). However, although numbers were again smaller for this subanalysis, Mp-positive CAP was also compared to subgroups of Mp-negative CAP statistically associated with older age, prolonged prodromal respiratory symptoms, and low levels of PCT (Supplementary Figure  1 and Supplementary Table 3 ).",
+            "cite_spans": [
+                {
+                    "start": 116,
+                    "end": 119,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 543,
+                    "end": 552,
+                    "text": "Figure  1",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 557,
+                    "end": 578,
+                    "text": "Supplementary Table 3",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Detection of Pathogens"
+        },
+        {
+            "text": "ROC analysis was performed for clinical features and biomarkers that were associated with Mp-positive CAP. The ROC curves showed good discriminative ability (AUC \u2265 0.75) in differentiating groups for age (AUC = 0.77), duration of prodromal symptoms (AUC = 0.79), PCT (AUC = 0.81), and CRP (AUC = 0.76) (Figure 2A and 2B) . The best clinical threshold to discriminate Mp-positive from Mp-negative patients was age 5 years and prodromal fever and RTI symptom duration of 6 days ( Table 4 ). The optimal biomarker thresholds were 0.25 \u03bcg/L for PCT, 50 mg/L for CRP, 18 \u00d7 10 9 /L for WBC count, and 8 \u00d7 10 9 /L for ANC. For assessment of Mp-positive CAP, the positive likelihood ratios were highest for age >5 years ( Table 4 ).",
+            "cite_spans": [
+                {
+                    "start": 712,
+                    "end": 713,
+                    "text": "(",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 302,
+                    "end": 320,
+                    "text": "(Figure 2A and 2B)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 478,
+                    "end": 485,
+                    "text": "Table 4",
+                    "ref_id": "TABREF8"
+                },
+                {
+                    "start": 714,
+                    "end": 721,
+                    "text": "Table 4",
+                    "ref_id": "TABREF8"
+                }
+            ],
+            "section": "ROC Analysis and Performance Curves"
+        },
+        {
+            "text": "We evaluated clinical features and biomarkers to diagnose Mp infection within a well-defined cohort of ambulatory and hospitalized children with CAP, in which Mp infection was diagnosed with the Mp IgM ASC ELISpot assay that allows for the differentiation between Mp infection and carriage [9] . Diagnosing Mp as the cause of CAP at an early stage is important to avoid ineffective first-line empirical \u03b2-lactam antibiotics and to evaluate targeted treatment against Mp in severe cases [2] .",
+            "cite_spans": [
+                {
+                    "start": 290,
+                    "end": 293,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 486,
+                    "end": 489,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Several scores, ratios, algorithms, and prediction rules have been reported to diagnose Mp infection on the basis of clinical features [5, 7, 23, 24] . However, previous studies found no reliable signs or symptoms to differentiate Mp infection in CAP from other etiology [5, 6] , potentially because Mp infection was misclassified as infection when it was carriage. We recently demonstrated that the Mp IgM ASC ELISpot assay differentiates Mp infection from carriage [9] : While Mp DNA and/or IgM were also detected in 48% and 29% healthy control children (n = 21), all were tested negative by the Mp IgM ASC ELISpot assay [9] . Notably, the high Mp detection rate in CAP patients (46%) in this study may be related to the inclusion age of 3-18 years, in which Mp is most frequently detected [1, 2] , and the coinciding Mp epidemic in Europe during the study period [25] [26] [27] [28] . Prevalence estimates are important for translation of diagnostic study findings into clinical practice. When taking the Bayes theorem into account, the posttest probability of disease presence will be higher given a higher pretest probability or prevalence [29] [30] [31] . For proper implementation of a new diagnostic test into clinical practice, it is therefore necessary that the test will be assessed in the context of all the other diagnostic information that is available at the time point of testing.",
+            "cite_spans": [
+                {
+                    "start": 135,
+                    "end": 138,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 139,
+                    "end": 141,
+                    "text": "7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 142,
+                    "end": 145,
+                    "text": "23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 146,
+                    "end": 149,
+                    "text": "24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 271,
+                    "end": 274,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 275,
+                    "end": 277,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 467,
+                    "end": 470,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 623,
+                    "end": 626,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 792,
+                    "end": 795,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 796,
+                    "end": 798,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 866,
+                    "end": 870,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 871,
+                    "end": 875,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 876,
+                    "end": 880,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 881,
+                    "end": 885,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1145,
+                    "end": 1149,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1150,
+                    "end": 1154,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1155,
+                    "end": 1159,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We were able to corroborate previous study findings in that Mp-positive CAP manifests predominantly in school-aged children >5 years [1, 12, 23] and children present with prodromal fever and respiratory symptoms of >6 days [1] , significantly longer compared with CAP caused by other etiology. Other symptoms and signs, as well as radiographic findings, did not differentiate Mp-positive from Mp-negative CAP [1, 5, 6] . Data are presented as no. or no. (%). Differences between proportions were determined by the Fisher exact test. P values <.05 are indicated in bold. Pharyngeal samples were tested in all patients by real-time polymerase chain reaction (PCR) for Mp [14] and Sp [15] , and for other bacterial and viral pathogens by the ePlex respiratory panel [17] Extrapulmonary manifestations, predominantly skin disorders, were statistically associated with Mp-positive CAP in this study. Its presence significantly increases the probability of underlying Mp infection [32] . This may be also true for the presence of RTI within families of Mp-positive CAP patients. Our observation of frequent RTI symptoms and Mp detection in members of those families supports previous data about Mp spread among persons in close contact and family transmission of Mp [33] [34] [35] [36] .",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 136,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 137,
+                    "end": 140,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 141,
+                    "end": 144,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 223,
+                    "end": 226,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 409,
+                    "end": 412,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 413,
+                    "end": 415,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 416,
+                    "end": 418,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 669,
+                    "end": 673,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 681,
+                    "end": 685,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 763,
+                    "end": 767,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 975,
+                    "end": 979,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1260,
+                    "end": 1264,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1265,
+                    "end": 1269,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1270,
+                    "end": 1274,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1275,
+                    "end": 1279,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Mp infection is mild and self-limiting in most cases, and manifests predominantly in previously healthy children [5] . In our study, one-third of Mp-positive CAP patients were not treated with an antibiotic in vitro active against Mp, but all of these children fully recovered. The BTS guidelines advise that macrolide antibiotics may be added at any age in case of very severe disease or if there is no response to first-line empirical treatment [2] . Prior antibiotic treatment was associated with Mp CAP and included treatment with \u03b2-lactam antibiotics in most cases. This supports that in patients that do not respond to \u03b2-lactam antibiotics, Mp CAP should be considered [2, 7] . We did not find statistical differences in fever duration following CAP diagnosis, hospital length of stay, or recovery at follow-up between Mp-positive patients who did and did not receive antibiotics against Mp (data not shown). These findings support the need for future interventional studies assessing the effect of antibiotics for Mp CAP [1, 9, 37, 38] .",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 116,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 447,
+                    "end": 450,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 675,
+                    "end": 678,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 679,
+                    "end": 681,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1028,
+                    "end": 1031,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1032,
+                    "end": 1034,
+                    "text": "9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1035,
+                    "end": 1038,
+                    "text": "37,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1039,
+                    "end": 1042,
+                    "text": "38]",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our study demonstrated that in Mp-positive CAP biomarker levels of PCT, CRP, WBC count, and ANC were statistically lower compared with Mp-negative CAP. Despite limited numbers, this The threshold is the optimal cutoff that maximizes the distance to the identity (diagonal) line in the receiver operating characteristic curve in Figure 2 according to the Youden J statistic using the \"coords\" function in R software environment (version 3.6.0) [22] .",
+            "cite_spans": [
+                {
+                    "start": 443,
+                    "end": 447,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 328,
+                    "end": 336,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Abbreviations: ANC, absolute neutrophil count; AUC, area under the receiver operating characteristic curve; CI, confidence interval; CRP, C-reactive protein; LR, likelihood ratio; NA, not available; PCT, procalcitonin; RTI, respiratory tract infection; WBC, white blood cell.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "was even true for PCT and CRP of Mp-positive CAP in comparison to viral CAP (RSV) as a subgroup of Mp-negative CAP. Similar trends have been observed in previous CAP studies for CRP, WBC count, and ANC [23, [39] [40] [41] [42] [43] , and recently for PCT with median levels from 0.05 to 0.19 \u03bcg/L in CAP considered to be caused by Mp [39] [40] [41] 44] . A study with conflicting results suggesting higher PCT levels associated with Mp may be hampered by diagnostics [45] . A PCT cutoff of <0.25 \u03bcg/L reached the best discriminatory power in differentiating Mp-positive from Mp-negative children with CAP, which is supported by previous studies [39] [40] [41] 44] . Only 1 Mp-positive patient had a PCT level of 0.55 \u03bcg/L and was above this cutoff. Our study has several limitations. First, though sampling was performed in a relevant population of clinical CAP [9] , the study population is small and represents a convenience sample from an observational study, and we cannot rule out that unintended selection occurred. However, even though the sample size is small for prediction, the scope of this study was to describe risk factors for Mp infection. Second, mild cases may not have been referred to our tertiary center. Third, the study enrolled children from 3 to 18 years of age to reduce the probability of viral infection [9] . However, younger children with Mp infection may have, more likely, other RTIs than CAP [43] .",
+            "cite_spans": [
+                {
+                    "start": 202,
+                    "end": 206,
+                    "text": "[23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 207,
+                    "end": 211,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 212,
+                    "end": 216,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 222,
+                    "end": 226,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 227,
+                    "end": 231,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 334,
+                    "end": 338,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 339,
+                    "end": 343,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 344,
+                    "end": 348,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 349,
+                    "end": 352,
+                    "text": "44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 467,
+                    "end": 471,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 645,
+                    "end": 649,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 650,
+                    "end": 654,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 655,
+                    "end": 659,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 660,
+                    "end": 663,
+                    "text": "44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 862,
+                    "end": 865,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1331,
+                    "end": 1334,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1424,
+                    "end": 1428,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In conclusion, improved diagnostics helped to identify clinical features and biomarkers that may predict Mp CAP in children, such as age >5 years, no underlying disease, family with RTI, prior antibiotic treatment, prodromal respiratory symptoms and fever >6 days, as well as extrapulmonary (skin) manifestations. Biomarkers showed some differences between Mp-positive and Mp-negative patients in that Mp positivity was associated with low levels of CRP, WBC count, ANC, and PCT, particularly a PCT cutoff of <0.25 \u03bcg/L. However, the study size is small and even the best combinations of clinical features and biomarkers may not be reliable enough to be used as a diagnostic itself. Our data support that a combination of clinical features and biomarkers may help physicians in identifying patients at high risk for Mp CAP, which warrants further investigations in a larger cohort of children with Mp infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Supplementary materials are available at Clinical Infectious Diseases online. Consisting of data provided by the authors to benefit the reader, the posted materials are not copyedited and are the sole responsibility of the authors, so questions or comments should be addressed to the corresponding author. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Mycoplasma pneumoniae among children hospitalized with community-acquired pneumonia",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kutty",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Taylor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Infect Dis",
+            "volume": "68",
+            "issn": "",
+            "pages": "5--12",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "British Thoracic Society guidelines for the management of community acquired pneumonia in children: update 2011",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Coote",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Thorax",
+            "volume": "66",
+            "issn": "2",
+            "pages": "1--23",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Challenges and progress toward determining pneumonia etiology",
+            "authors": [
+                {
+                    "first": "Meyer",
+                    "middle": [],
+                    "last": "Sauteur",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Carriage of Mycoplasma pneumoniae in the upper respiratory tract of symptomatic and asymptomatic children: an observational study",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Spuesens",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Fraaij",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Visser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Med",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Mycoplasma pneumoniae from the respiratory tract and beyond",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Waites",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Balish",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Atkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clin Microbiol Rev",
+            "volume": "30",
+            "issn": "",
+            "pages": "747--809",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Clinical symptoms and signs for the diagnosis of Mycoplasma pneumoniae in children and adolescents with community-acquired pneumonia",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gill",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Thomson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mant",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Harnden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "The art and science of diagnosing Mycoplasma pneumoniae infection",
+            "authors": [
+                {
+                    "first": "Meyer",
+                    "middle": [],
+                    "last": "Sauteur",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Unger",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wwj",
+                    "middle": [],
+                    "last": "Van Rossum",
+                    "suffix": ""
+                },
+                {
+                    "first": "Amc",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "37",
+            "issn": "",
+            "pages": "1192--1197",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Rapid effectiveness of minocycline or doxycycline against macrolide-resistant Mycoplasma pneumoniae infection in a 2011 outbreak among Japanese children",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Okada",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Morozumi",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tajima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Clin Infect Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "1642--1651",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Diagnosis of Mycoplasma pneumoniae pneumonia with measurement of specific antibody-secreting cells",
+            "authors": [
+                {
+                    "first": "Meyer",
+                    "middle": [],
+                    "last": "Sauteur",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Seiler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tr\u00fcck",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "200",
+            "issn": "",
+            "pages": "1066--1075",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "British Thoracic Society of Standards of Care Committee. British Thoracic Society guidelines for the management of community-acquired pneumonia in childhood",
+            "authors": [],
+            "year": 2002,
+            "venue": "Thorax",
+            "volume": "57",
+            "issn": "1",
+            "pages": "1--24",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Viruses in community-acquired pneumonia in children aged less than 3 years old: high rate of viral coinfection",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "O\u00f1ate",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Perez-Yarza",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Montes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Vicente",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Perez-Trallero",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Med Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "1843--1852",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "CDC EPIC Study Team. Communityacquired pneumonia requiring hospitalization among U.S. children",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Arnold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "N Engl J Med",
+            "volume": "372",
+            "issn": "",
+            "pages": "835--880",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Respiratory viruses associated with community-acquired pneumonia in children: matched case-control study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rhedin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lindstrand",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hjelmgren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Thorax",
+            "volume": "70",
+            "issn": "",
+            "pages": "847--53",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Rapid detection of Mycoplasma pneumoniae in clinical samples by real-time PCR",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hardegger",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nadal",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Bossart",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Altwegg",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dutly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Microbiol Methods",
+            "volume": "41",
+            "issn": "",
+            "pages": "45--51",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Quantitative detection of Streptococcus pneumoniae in nasopharyngeal secretions by real-time PCR",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Greiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bosshard",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Imeri",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Altwegg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nadal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Clin Microbiol",
+            "volume": "39",
+            "issn": "",
+            "pages": "3129--3163",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Causes of severe pneumonia requiring hospital admission in children without HIV infection from Africa and Asia: the PERCH multi-country case-control study",
+            "authors": [],
+            "year": 2019,
+            "venue": "Lancet",
+            "volume": "394",
+            "issn": "",
+            "pages": "757--79",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Comparison of ePlex respiratory pathogen panel with laboratory-developed real-time PCR assays for detection of respiratory pathogens",
+            "authors": [
+                {
+                    "first": "Rht",
+                    "middle": [],
+                    "last": "Nijhuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Guerendiain",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ecj",
+                    "middle": [],
+                    "last": "Claas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Templeton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Clin Microbiol",
+            "volume": "55",
+            "issn": "",
+            "pages": "1938--1983",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Standardized interpretation of paediatric chest radiographs for the diagnosis of pneumonia in epidemiological studies",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cherian",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Mulholland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Carlin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Bull World Health Organ",
+            "volume": "83",
+            "issn": "",
+            "pages": "353--362",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Standardized interpretation of chest radiographs in cases of pediatric pneumonia from the PERCH study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Fancourt",
+                    "suffix": ""
+                },
+                {
+                    "first": "Deloria",
+                    "middle": [],
+                    "last": "Knoll",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barger-Kamate",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clin Infect Dis",
+            "volume": "64",
+            "issn": "",
+            "pages": "253--61",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Procalcitonin and midregional proatrial natriuretic peptide as biomarkers of subclinical cerebrovascular damage: the Northern Manhattan study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Katan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Von Eckardstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Stroke",
+            "volume": "48",
+            "issn": "",
+            "pages": "604--614",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Understanding receiver operating characteristic (ROC) curves",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Upadhye",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Worster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "CJEM",
+            "volume": "8",
+            "issn": "",
+            "pages": "19--20",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "R: A language and environment for statistical computing",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "R Core Team",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "R Foundation for Statistical Computing",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Use of simple heuristics to target macrolide prescription in children with community-acquired pneumonia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Steiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zucol",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Arch Pediatr Adolesc Med",
+            "volume": "156",
+            "issn": "",
+            "pages": "1005--1013",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "A high C-reactive protein/procalcitonin ratio predicts Mycoplasma pneumoniae infection",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Neeser",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Vukajlovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Felder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Chem Lab Med",
+            "volume": "57",
+            "issn": "",
+            "pages": "1638--1684",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Molecular typing of Mycoplasma pneumoniae strains in Sweden from 1996 to 2017 and the emergence of a new P1 cytadhesin gene, variant 2e",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Gullsby",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bondeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Clin Microbiol",
+            "volume": "57",
+            "issn": "",
+            "pages": "49--68",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Mycoplasma pneumoniae outbreak, southeastern Finland, 2017-2018: molecular epidemiology and laboratory diagnostic lessons",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kurkela",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Puolakkainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hokynar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Eur J Clin Microbiol Infect Dis",
+            "volume": "38",
+            "issn": "",
+            "pages": "1867--71",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Annual summary of respiratory Mycoplasma pneumoniae laboratory surveillance data",
+            "authors": [
+                {
+                    "first": "Public",
+                    "middle": [],
+                    "last": "Health England",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Annual report surveillance of influenza and other respiratory infections in the Netherlands",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Multivariable adjustments counteract spectrum and test review bias in accuracy studies",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bachmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ter Riet",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kessels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Clin Epidemiol",
+            "volume": "4",
+            "issn": "",
+            "pages": "357--61",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "A readers' guide to the interpretation of diagnostic test properties: clinical example of sepsis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bachmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jaeschke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Intensive Care Med",
+            "volume": "29",
+            "issn": "",
+            "pages": "1043--51",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Variation of a test's sensitivity and specificity with disease prevalence",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leeflang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Rutjes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reitsma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Hooft",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bossuyt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "CMAJ",
+            "volume": "185",
+            "issn": "",
+            "pages": "537--581",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Frequency and clinical presentation of mucocutaneous disease due to Mycoplasma pneumoniae infection in children with community-acquired pneumonia",
+            "authors": [
+                {
+                    "first": "Meyer",
+                    "middle": [],
+                    "last": "Sauteur",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Theiler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "B\u00fcttcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Seiler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Weibel",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "JAMA Dermatol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Results of molecular detection of Mycoplasma pneumoniae among patients with acute respiratory infection and in their household contacts reveals children as human reservoirs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dorigo-Zetsma",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wilbrink",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Van Der Nat",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Bartelds",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Heijnen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dankert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Infect Dis",
+            "volume": "183",
+            "issn": "",
+            "pages": "675--683",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Community outbreak of Mycoplasma pneumoniae infection: school-based cluster of neurologic disease associated with household transmission of respiratory illness",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Walter",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Grant",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Bandy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Infect Dis",
+            "volume": "198",
+            "issn": "",
+            "pages": "1365--74",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Fatal outcomes in family transmission of Mycoplasma pneumoniae",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kannan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hardy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Coalson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Clin Infect Dis",
+            "volume": "54",
+            "issn": "",
+            "pages": "225--256",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Polyclonal spread of multiple genotypes of Mycoplasma pneumoniae in semi-closed settings in Yamagata, Japan",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Suzuki",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shimotai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Med Microbiol",
+            "volume": "68",
+            "issn": "",
+            "pages": "785--90",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Treatment of mycoplasma pneumonia: a systematic review",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Biondi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Mcculloh",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Alverson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Klein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dixon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ralston",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Pediatrics",
+            "volume": "133",
+            "issn": "",
+            "pages": "1081--90",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Antibiotics for community-acquired lower respiratory tract infections secondary to Mycoplasma pneumoniae in children",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gardiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Gavranich",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Molecular distance to health transcriptional score and disease severity in children hospitalized with communityacquired pneumonia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wallihan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Su\u00e1rez",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cohen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Front Cell Infect Microbiol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Increased procalcitonin level is a risk factor for prolonged fever in children with Mycoplasma pneumonia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Jeong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Soh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kwak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Korean J Pediatr",
+            "volume": "61",
+            "issn": "",
+            "pages": "258--63",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "A three-step diagnosis of pediatric pneumonia at the emergency department using clinical predictors, C-reactive protein, and pneumococcal PCR",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Alcoba",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Keitel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Maspoli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Eur J Pediatr",
+            "volume": "176",
+            "issn": "",
+            "pages": "815--839",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Epidemiology and clinical characteristics of community-acquired pneumonia in hospitalized children",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Michelow",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lozano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pediatrics",
+            "volume": "113",
+            "issn": "",
+            "pages": "701--708",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "The clinical presentation of pediatric Mycoplasma pneumoniae infections-a single center cohort",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Gordon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Oster",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Michael-Gayego",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "38",
+            "issn": "",
+            "pages": "698--705",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Procalcitonin accurately identifies hospitalized children with low risk of bacterial community-acquired pneumonia",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Stockmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ampofo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Killpack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Pediatric Infect Dis Soc",
+            "volume": "7",
+            "issn": "",
+            "pages": "46--53",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Procalcitonin in children admitted to hospital with community acquired pneumonia",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Moulin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Raymond",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lorrot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Arch Dis Child",
+            "volume": "84",
+            "issn": "",
+            "pages": "332--338",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Metaanalysis of reference values in hematology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Herklotz",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "L\u00fcthi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ottiger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Huber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Ther Umsch",
+            "volume": "63",
+            "issn": "",
+            "pages": "5--24",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Mp-induced rash and mucositis (n = 3), urticaria (n = 2), and maculopapular skin eruptions (n = 3); neurological (n = 1): aseptic meningitis. j Antibiotic treatment with \u22651 agent: Mp-positive CAP: amoxicillin with or without clavulanic acid + clarithromycin (n = 4), amoxicillin with or without clavulanic acid + doxycycline (n = 3); Mp-negative CAP: amoxicillin + clarithromycin (n = 1), amoxicillin with or without clavulanic acid + ceftazidime (n = 1). Mp-positive CAP not treated with an antibiotic in vitro active against Mp: 9 (31%); all of them fully recovered. k Abnormal outcomes: bronchiolitis obliterans with decreased lung function (n = 1), exertional dyspnea without physical findings, ie, normal lung and cardiac function (n = 1), postinflammatory pigmentary alteration (n = 1).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Using a PCT cutoff of <0.25 \u03bcg/L, only 1 (3%) Mp-positive patient had a PCT concentration above this cutoff compared with 19 (56%) Mp-negative patients (P < .01). The Mp-positive CAP patient with the high PCT level (ie, 0.55 \u03bcg/L) developed bronchiolitis obliterans and dermatological manifestations. The combination of clinical features and biomarkers was more effective in the diagnosis of Mp CAP compared with either clinical features or biomarkers alone (Figure 2C). Improved diagnostic performance was reached by combining clinical features (ie, age with duration of prodromal symptoms: AUC = 0.82 [95% CI, .7-.9]) together with PCT (AUC = 0.90 [95% CI, .8-1.0]) (P = .05;",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Biomarker test results of Mycoplasma pneumoniae-positive community-acquired pneumonia (CAP) vs M. pneumoniae-negative CAP in children: procalcitonin (A), C-reactive protein (B), white blood cell count (C), absolute neutrophil count (D). The P value is indicated in the graphs (Mann-Whitney U test). Abbreviations: ANC, absolute neutrophil count; CAP, community-acquired pneumonia; CRP, C-reactive protein; Mp, Mycoplasma pneumoniae; PCT, procalcitonin; WBC, white blood cell.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Receiver operating characteristic (ROC) curve of sensitivity vs specificity for clinical features (A), biomarkers (B), and a combination of both (C). Area under the ROC curve (AUC) differences (DeLong test): A and B, No significant AUC differences. C, *P = .37 (age vs combination of clinical features); **P = .05 (combination of clinical features vs combination of clinical features plus procalcitonin). Abbreviations: ANC, absolute neutrophil count; CRP, C-reactive protein; PCT, procalcitonin; RTI, respiratory tract infection; WBC, white blood cell.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Author contributions. P. M. M. S. had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Study design: P. M. M. S. and approved by all authors. Acquisition of data: P. M. M. S., S. K., M. S., P. P., C. R., C. K., T. H., C. G. Analysis and interpretation of data: P. M. M. S., L. A., L. M. B., A. M. C. v. R., C. B. Drafting of the manuscript: P. M. M. S. Critical revision of the manuscript for important intellectual content: all authors. Statistical analysis: P. M. M. S., L. A., L. M. B. Obtained funding: P. M. M. S. Administrative, technical, or material support: P. M. M. S., M. S., C. K., T. H., C. G., C. B.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Demographic, Epidemiological, and Clinical Characteristics of Mycoplasma pneumoniae-Positive Community-acquired Pneumonia (CAP) Versus M. pneumoniae-Negative CAP in Children",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Data are presented as no. or no. (%) unless otherwise indicated. Differences between groups were determined by the Mann-Whitney U test (medians) and Fisher exact test (proportions). P values <.05 are indicated in bold.Abbreviations: CAP, community-acquired pneumonia; CI, confidence interval; ICU, intensive care unit; IQR, interquartile range; LOS, length of hospital stay; Mp, Mycoplasma pneumoniae; NA, not available; OR, odds ratio; RTI, respiratory tract infection; URT, upper respiratory tract. a Defined according to the Mp-specific immunoglobulin M (IgM) antibody-secreting cell (ASC) enzyme-linked immunospot assay results",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Continued",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Laboratory Findings of Mycoplasma pneumoniae-Positive Community-acquired Pneumonia (CAP) Versus M. pneumoniae-Negative CAP in ChildrenData are presented as no. or no. (%) unless otherwise indicated. Differences between groups were determined by the Mann-Whitney U test (medians) and Fisher exact test (proportions). P values <.05 are indicated in bold.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Pathogen Detection in Upper Respiratory Tract of Mycoplasma pneumoniae-Positive Community-acquired Pneumonia (CAP) Versus M. pneumoniae-Negative CAP in Children",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "Best Thresholds With Diagnostic Accuracy for Mycoplasma pneumoniae-Positive Community-acquired Pneumonia (CAP) Versus M. pneumoniae-Negative CAP in Children",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgments. The authors thank the children and their parents who contributed to this study; the emergency department staff and the outpatient clinic staff for recruiting participants; and the microbiology laboratory staff for processing samples, particularly Melanie Sigg and K\u00e4thi Sp\u00f6rri, for conducting the Streptococcus pneumoniae real-time polymerase chain reaction. We are grateful to Martin Hersberger (Division of Clinical Chemistry and Biochemistry, University Children's Hospital Zurich) for conducting the C-reactive protein analyses, and Monika Seiler (Institute for Clinical Chemistry, University Hospital Zurich, Switzerland) for performing the procalcitonin analyses.Disclaimer. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

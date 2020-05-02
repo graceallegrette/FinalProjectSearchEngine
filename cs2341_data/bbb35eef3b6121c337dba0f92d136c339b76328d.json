@@ -1,0 +1,1844 @@
+{
+    "paper_id": "bbb35eef3b6121c337dba0f92d136c339b76328d",
+    "metadata": {
+        "title": "Clinical Infectious Diseases Clinical Infectious Diseases \u00ae 2019;XX(XX):1-9 A Phase 2b, Randomized, Double-blind, Placebo-Controlled Multicenter Study Evaluating Antiviral Effects, Pharmacokinetics, Safety, and Tolerability of Presatovir in Hematopoietic Cell Transplant Recipients with Respiratory Syncytial Virus (RSV) Infection of the Lower Respiratory Tract",
+        "authors": [
+            {
+                "first": "Francisco",
+                "middle": [
+                    "M"
+                ],
+                "last": "Marty",
+                "suffix": "",
+                "affiliation": {},
+                "email": "fmarty@bwh.harvard.edu."
+            },
+            {
+                "first": "Roy",
+                "middle": [
+                    "F"
+                ],
+                "last": "Chemaly",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Texas",
+                    "location": {
+                        "addrLine": "MD Anderson Cancer Center",
+                        "settlement": "Houston",
+                        "region": "Texas",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kathleen",
+                "middle": [
+                    "M"
+                ],
+                "last": "Mullane",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Chicago Medical Center",
+                    "location": {
+                        "settlement": "Chicago",
+                        "region": "Illinois",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dong-Gun",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Catholic University of Korea",
+                    "location": {
+                        "settlement": "Seoul",
+                        "region": "South Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hans",
+                "middle": [
+                    "H"
+                ],
+                "last": "Hirsch",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University Hospital Basel",
+                    "location": {
+                        "settlement": "Basel",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Catherine",
+                "middle": [
+                    "B"
+                ],
+                "last": "Small",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Anne",
+                "middle": [],
+                "last": "Bergeron",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "H\u00f4pital Saint Louis",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shmuel",
+                "middle": [],
+                "last": "Shoham",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The Johns Hopkins Hospital",
+                    "location": {
+                        "settlement": "Baltimore",
+                        "region": "Maryland",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Per",
+                "middle": [],
+                "last": "Ljungman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Department of Cellular Therapy and Allogeneic Stem Cell Transplantation",
+                    "institution": "Karolinska University Hospital and Karolinska Institutet",
+                    "location": {
+                        "settlement": "Stockholm",
+                        "country": "Sweden"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alpana",
+                "middle": [],
+                "last": "Waghmare",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Seattle",
+                        "region": "Washington",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Elodie",
+                "middle": [],
+                "last": "Blanchard",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "CHU de Bordeaux",
+                    "location": {
+                        "settlement": "Bordeaux",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yae-Jean",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sungkyunkwan University School of Medicine",
+                    "location": {
+                        "addrLine": "14 Gilead Sciences, Inc",
+                        "settlement": "Seoul, Foster City",
+                        "region": "South Korea, California",
+                        "country": "USA,"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Matt",
+                "middle": [],
+                "last": "Mckevitt",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Danielle",
+                "middle": [
+                    "P"
+                ],
+                "last": "Porter",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Robert",
+                "middle": [],
+                "last": "Jordan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ying",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Polina",
+                "middle": [],
+                "last": "German",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Boeckh",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Seattle",
+                        "region": "Washington",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Timothy",
+                "middle": [
+                    "R"
+                ],
+                "last": "Watkins",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jason",
+                "middle": [
+                    "W"
+                ],
+                "last": "Chien",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sanjeet",
+                "middle": [
+                    "S"
+                ],
+                "last": "Dadwal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background. Presatovir significantly reduced nasal viral load, signs, and symptoms of respiratory syncytial virus (RSV) infection in a human challenge study. We evaluated presatovir in hematopoietic-cell transplant (HCT) recipients with RSV lower respiratory tract infection (LRTI).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Methods. Patients with confirmed RSV in upper and lower respiratory tract and new chest X-ray abnormalities were randomized (1:1), stratified by supplemental oxygen and ribavirin use, to receive oral presatovir 200 mg or placebo every 4 days for 5 doses. The primary endpoint was time-weighted average change in nasal RSV viral load through day 9. Secondary endpoints included supplemental oxygen-free days, incident respiratory failure requiring mechanical ventilation, and all-cause mortality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results. From January 31, 2015, to March 20, 2017, 60 patients from 17 centers were randomized (31 presatovir, 29 placebo); 59 received study treatment (50 allogeneic, 9 autologous HCT). In the efficacy population (29 presatovir, 28 placebo), presatovir treatment did not significantly reduce time-weighted average change in viral load (\u22121.12 vs \u22121.09 log 10 copies/mL; treatment difference \u22120.02 log 10 copies/mL, 95% confidence interval: \u2212.62, .57; P = .94), median supplemental oxygen-free days (26 vs 28 days, P = .84), incident respiratory failure (10.3 vs 10.7%, P = .98), or all-cause mortality (0 vs 7.1%, P = .19) versus placebo. Adverse events were similar between arms (presatovir 80%, placebo 79%). Resistance-associated substitutions in RSV fusion protein emerged in 6/29 presatovir-treated patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Conclusions. Presatovir treatment was well tolerated in HCT patients with RSV LRTI but did not improve virologic or clinical outcomes versus placebo. clinical Trials Registration. NCT02254421; EudraCT, #2014-002475-29 Keywords. Presatovir; respiratory syncytial virus; hematopoietic cell transplant; lower respiratory tract infection. Respiratory syncytial virus (RSV) infection is usually associated with respiratory diseases of infants and young children, but RSV lower respiratory tract infection (LRTI) can cause significant morbidity and mortality in adults with predisposing conditions [1]. In recent studies, 16%-27% of hematopoietic-cell transplantation (HCT) recipients initially diagnosed with RSV upper respiratory tract infection (URTI) had LRTI events [2-4]. Mortality rates of up to 60% are reported for RSV LRTI in HCT recipients but appear to be declining [3-7]; however, observed burden of RSV LRTI depends on diagnostic criteria. In cases",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "from 2003 to 2015, no patients with radiographic abnormalities consistent with LRTI but with RSV detected in upper respiratory tract samples only (\"possible\" RSV LRTI) died, but 28-day mortality was 26% in HCT recipients with probable or proven RSV LRTI [3] .",
+            "cite_spans": [
+                {
+                    "start": 254,
+                    "end": 257,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Despite RSV disease burden in HCT recipients and other high-risk adults, options for RSV prophylaxis or treatment in adults are limited. Aerosolized ribavirin is not indicated for RSV treatment in adults and is associated with concerns regarding difficulty of administration, adverse effects, and high cost [8, 9] . Although some centers report using aerosolized or oral ribavirin to treat RSV LRTI in adult HCT recipients, efficacy has not been demonstrated in a randomized controlled clinical trial [10, 11] . Palivizumab is used for prevention of severe RSV disease in high-risk children \u226424 months of age but is not effective as treatment for established infection in children or adult HCT recipients [12] [13] [14] . Thus, there is an unmet need for specific treatment for adults at risk for severe RSV infection.",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 310,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 311,
+                    "end": 313,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 501,
+                    "end": 505,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 506,
+                    "end": 509,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 705,
+                    "end": 709,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 715,
+                    "end": 719,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Presatovir is a novel, orally available RSV fusion inhibitor under investigation for treatment of RSV [15] . Presatovir has a favorable safety profile in adult volunteers, and presatovir treatment reduced viral load and respiratory symptoms in healthy adults challenged with RSV [16] [17] [18] . Here the safety, tolerability, and efficacy of presatovir in naturally infected HCT recipients with RSV LRTI were evaluated.",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 106,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 279,
+                    "end": 283,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 284,
+                    "end": 288,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 289,
+                    "end": 293,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "This phase 2, randomized, double-blind, placebo-controlled, 2-group parallel study recruited HCT recipients 18-75 years of age from 17 centers in 5 countries (Supplemental material, Appendix). Patients presenting any time post-HCT with upper and lower respiratory tract RSV infection documented \u22646 days before start of study treatment and evidence of new abnormalities on chest X-ray obtained \u226448 hours from screening were eligible for inclusion. Lower respiratory tract involvement could be documented from induced sputum, bronchoalveolar lavage, or lung biopsy, but not spontaneous sputum. Patients with documented concurrent LRTI with other respiratory viruses were excluded. Full eligibility criteria are provided in Supplemental methods.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patients and Study Design"
+        },
+        {
+            "text": "The study followed the International Conference on Harmonisation Good Clinical Practice guidelines and the principles of the Declaration of Helsinki and was approved by local ethics committees. Written informed consent was obtained from patients or legally responsible representatives. Data Monitoring Committee activities and changes to the study protocol are described in Supplemental methods. This trial was registered with ClinicalTrials.gov (NCT02254421) and EudraCT (2014-002475-29) before enrollment began.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patients and Study Design"
+        },
+        {
+            "text": "Patients were randomly assigned (1:1) to receive presatovir or placebo, stratified centrally by supplemental oxygen use (none to \u22642 L/min vs >2 L/min) and ribavirin use (prescribed at randomization, any route of administration) during the current RSV infection. The randomization schedule used permuted blocks of 2. Allocation was concealed by use of presatovir and placebo tablets with identical appearance. Study treatment assignment information was provided by an interactive web response system (Bracket Global, Wayne, PA, USA). Patients, all study staff, and sponsor were masked to study treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Randomization and Masking"
+        },
+        {
+            "text": "Patients received presatovir 200 mg (4 \u00d7 50 mg tablets) or placebo orally or via nasogastric tube every 4 days (\u00b124 hours) during study visits on days 1, 5, 9, 13, and 17, and were followed through study day 28. Patients RSV-positive by local molecular testing on day 22 could participate in an optional extended weekly follow-up through day 56. A detailed schedule of study assessments and procedures is provided in Supplemental Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 430,
+                    "end": 437,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Procedures"
+        },
+        {
+            "text": "For virology assessments, bilateral intranasal samples were obtained using midturbinate adult flocked swabs (Copan Diagnostics, Murrieta, CA, USA) at each study visit [19, 20] . Samples were analyzed using reverse transcription quantitative polymerase chain reaction (RT-qPCR) to determine RSV viral load, RSV sequencing of the F gene to evaluate development of resistance, and a multiplex assay to identify coinfections. All nasal samples were analyzed at central laboratories; further details are provided in Supplemental methods. Antibody titer and pharmacokinetic methods are described in Supplemental methods.",
+            "cite_spans": [
+                {
+                    "start": 167,
+                    "end": 171,
+                    "text": "[19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 172,
+                    "end": 175,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "Clinical assessments included vital signs, weight, and oxygen saturation by pulse oximetry; laboratory safety assessments included complete blood counts and serum electrolyte and liver enzyme measurements. Patients were observed without oxygen supplementation at each study visit, and the lowest oxygen saturation during observation was recorded. Cardiac safety was assessed via local electrocardiograms and troponin testing on days 1, 17, and 28. Additional safety assessments included evaluation of adverse events (AEs) and documentation of all concomitant medications, hospitalizations, rehospitalizations, intensive care unit care, invasive and noninvasive mechanical ventilation, and supplemental oxygen use (\u22652 L/min).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "The primary endpoint was time-weighted average change in nasal RSV viral load measured by RT-qPCR (log 10 copies/mL) from day 1 to day 9. Key secondary endpoints were number of supplemental oxygen-free days [3] , proportion of patients developing respiratory failure requiring invasive or noninvasive mechanical ventilation, and all-cause mortality through day 28. Prespecified exploratory endpoints are described in Supplemental methods. Safety was assessed from AEs and clinical and laboratory parameters.",
+            "cite_spans": [
+                {
+                    "start": 207,
+                    "end": 210,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Assuming time-weighted average change (standard deviation) in RSV log 10 viral load from day 1 to day 9 of -1.5 (1.75) log 10 copies/mL in placebo-treated patients, 25 patients per treatment group were planned to provide approximately 85% power to detect a \u22651.5 log 10 decrease in the primary endpoint in patients receiving presatovir relative to placebo using a 2-sided \u03b1 of 0.05. We estimated 85% of patients would be evaluable and planned to enroll 60 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The safety population included patients who received \u22651 dose of study drug. The efficacy population included safety population patients with quantifiable RSV viral load on day 1. Primary and secondary efficacy endpoints were analyzed in the efficacy population and post hoc in subgroups defined by supplemental oxygen use, ribavirin use, duration of RSV symptoms, graft-vshost disease (GVHD), lymphocyte count, and time from HCT to RSV infection on day 1.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The primary analysis tested superiority of presatovir vs placebo using parametric analysis of covariance using baseline viral load and randomization stratification factors as covariates with a 2-sided \u03b1 of 0.05 (Supplemental methods). Number of supplemental oxygen-free days was analyzed using a negative binomial model with stratification factors as covariates and an offset parameter to account for on-study duration. Patients who died prior to day 28 or received supplemental oxygen on all days of the study period were assigned a value of 0 supplemental oxygen-free days. The proportion of patients developing respiratory failure of any cause requiring invasive or noninvasive mechanical ventilation through day 28 and allcause mortality through day 28 were analyzed using Cochran-Mantel-Haenszel tests adjusting for the stratification factors at the 2-sided 0.05-level, with 2-sided 95% exact confidence interval (CI) based on the Clopper-Pearson method for each treatment group. Where number of events was small, Fisher exact test was used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "A sequential testing procedure was used to control the Type I error rate of 0.05 across the primary and secondary endpoints [21] .",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 128,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "From January 31, 2015, to March 20, 2017, 71 patients were screened for eligibility and 11 were excluded, mostly due to lack of new radiographical abnormalities or inability to confirm lower respiratory tract RSV infection ( Figure 1 ). Sixty patients were randomized, of whom 31 were assigned to presatovir and 29 to placebo; 1 patient randomized to presatovir withdrew consent before receiving study drug. Notable protocol deviations are described in Supplemental results.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 225,
+                    "end": 233,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Patients"
+        },
+        {
+            "text": "Patient demographics and baseline characteristics were generally balanced between study groups (Table 1) . Overall, the majority of patients (50/59; 84.7%) underwent allogeneic HCT and had chronic or acute GVHD (34/59, 57.6%). At start of study treatment, 53 (89.8%) patients were hospitalized for a median of 3 days (range, 0-133 days). Twenty-one (35.6%) patients required >2 L/min of oxygen supplementation, and 23 (39.0%) patients were prescribed ribavirin (any formulation). RSV LRTI was confirmed from induced sputum in 41 (69.5%) patients and by bronchoalveolar lavage in 18 (30.5%) patients. Median time from onset of RSV infection symptoms to start of study treatment was 5 days (range, 1-26 days). Infection was due to RSV A in 29 (49.2%) patients and RSV B in 28 (47.5%) patients; 2 (3.4%) patients (1 presatovir, 1 placebo) had missing day 1 RSV viral load data and were excluded from the efficacy population (N = 57). Median intranasal RSV viral load on day 1 was 6.36 log 10 copies/mL (range, 2.5-8.23 log 10 copies/mL).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 95,
+                    "end": 104,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Patients"
+        },
+        {
+            "text": "Nine patients (3 presatovir, 6 placebo) prematurely discontinued study treatment, and 4 patients discontinued study participation before day 28 (1 presatovir, 3 placebo) ( Figure 1 ). Twenty-seven (90.0%) of 30 patients in the presatovir group and 23/29 (79.3%) patients in the placebo group completed treatment to day 17 ( Figure 1 ). Figure 2A -B shows median absolute RSV viral load and change from baseline at each study visit. Despite adequate plasma concentrations (Supplemental results and Supplemental Table 3 ), presatovir treatment did not significantly reduce time-weighted average change in log 10 RSV viral load from day 1 to day 9 (\u22121.12 [1.226] log 10 copies/mL versus \u22121.09 [1.028] log 10 copies/ mL; treatment difference, \u22120.02 log 10 copies/mL; 95% CI, \u2212.62, .57; P = .94) compared with placebo ( Table 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 172,
+                    "end": 180,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 324,
+                    "end": 332,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 336,
+                    "end": 345,
+                    "text": "Figure 2A",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 510,
+                    "end": 517,
+                    "text": "Table 3",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 815,
+                    "end": 823,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Patients"
+        },
+        {
+            "text": "During the 28-day study period, 14/29 (48.3%) presatovirtreated patients and 12/28 (42.9%) placebo-treated patients required supplemental oxygen. Median (range) number of supplemental oxygen-free days was similar between presatovirtreated (26 [0-33] days) and placebo-treated (28 [0-30] days) patients (P = .84) ( Table 2 ). Three presatovir-treated patients (10.3%) and 3 placebo-treated patients (10.7%) developed respiratory failure requiring mechanical ventilation through study day 28 (P = 1.0). No presatovir-treated patients and 2 placebotreated patients (7.1%) died through day 28 (P = .24) ( Table 2) ; 1 death was due to respiratory failure. Exploratory efficacy outcomes are described in Supplemental results.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 314,
+                    "end": 321,
+                    "text": "Table 2",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 601,
+                    "end": 609,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Efficacy"
+        },
+        {
+            "text": "Primary and secondary efficacy endpoints did not differ appreciably between patients treated with presatovir relative to placebo in subgroups defined by absolute lymphocyte count on day 1, presence of GVHD, time from onset of RSV symptoms to study treatment, and timing of RSV infection after HCT (Supplemental Tables 6-9 ). Optional extended viral monitoring and serologic responses to RSV infection are presented in the Supplemental Results.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 311,
+                    "end": 321,
+                    "text": "Tables 6-9",
+                    "ref_id": null
+                }
+            ],
+            "section": "Efficacy"
+        },
+        {
+            "text": "Sequencing of RSV F gene detected postbaseline amino acid substitutions at resistance-associated positions in 6/29 (20.7%) of presatovir-treated patients and 0/28 placebo-treated patients. These substitutions were detected a median of 25 (range, 7-56) days after start of treatment (Supplemental Table 10 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 296,
+                    "end": 304,
+                    "text": "Table 10",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Efficacy"
+        },
+        {
+            "text": "Twenty-four presatovir-treated patients (80.0%) and 23 placebo-treated patients (79.3%) experienced \u22651 AE, whereas 7 presatovir-treated patients (23.3%) and 7 placebo-treated patients (24.1%) experienced serious AEs (SAEs). Adverse events \u2265grade 3 occurred in 7 presatovir-treated patients (23.3%) and 9 placebo-treated patients (31.0%). Individual AEs occurred in \u226410% of presatovir-treated patients (Table 3) . Numerically more frequent AEs in patients treated with presatovir versus placebo were pneumonia, increased alanine aminotransferase, hypokalemia, nausea, acute sinusitis, and epistaxis (3 patients each, 10%), and increased aspartate aminotransferase, dry mouth, and increased alkaline phosphatase (2 patients each, 6.7%; Table 3 ). Except for SAE pneumonia in 3 presatovirtreated patients (10%), grade 3 or 4 AEs and SAEs occurred in 1 patient each and were numerically less frequent overall in patients treated with presatovir versus placebo (Supplemental Tables 11-12 ). There were no significant imbalances in electrocardiogram and troponin results during the study. No patients treated with presatovir and 2 patients treated with placebo (6.9%) died during the 28-day study period; 1 death was due to respiratory failure and 1 to progressive acute leukemia. Another 2 patients (6.9%) who received placebo died after day 28, 1 of respiratory failure, and 1 of invasive fusariosis.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 401,
+                    "end": 410,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 734,
+                    "end": 741,
+                    "text": "Table 3",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 970,
+                    "end": 982,
+                    "text": "Tables 11-12",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Safety"
+        },
+        {
+            "text": "This is the first placebo-controlled clinical trial, to our knowledge, evaluating treatment of RSV LRTI with a new antiviral agent in HCT recipients. Presatovir had a favorable safety profile and was well tolerated but did not decrease timeweighted average change in nasal RSV viral load from day 1 to day 9, number of days with supplemental oxygen use, or frequency of respiratory failure or mortality relative to placebo. In contrast, presatovir treatment significantly reduced viral load, clinical signs, and symptoms of experimental RSV infection in healthy volunteers treated upon detection of RSV replication [16] . Potential explanations for this discrepancy have important implications for design of clinical trials evaluating antiviral treatments for RSV infection in HCT recipients and other patient populations.",
+            "cite_spans": [
+                {
+                    "start": 615,
+                    "end": 619,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In the past 5 years, treatment with a fusion inhibitor or nucleoside polymerase inhibitor significantly reduced RSV viral load, signs, and symptoms in 3 challenge studies in healthy human volunteers [16, 22, 23] . However, clinical trials of presatovir conducted in multiple different patient populations, including this study and a companion URTI study (Chemaly et al [24] , this issue), indicate difficulties remain in translating challenge study results to successful clinical trials in patients with natural infection [25, 26] . One partial explanation is the challenge model's inconsistent representation of the natural infection setting. Challenge study volunteers were inoculated intranasally with RSV, then monitored for nasal RSV replication with twice-daily nasal washes that were immediately evaluated with molecular assays for RSV [16, 22, 23] . Antiviral treatment was initiated 6-24 hours after RSV detection, generally several days before peak viral load and prior to manifestation of significant clinical signs and symptoms [16, 22, 23] . In the present study, patients with naturally acquired RSV LRTI received presatovir later in the disease course compared with challenge study subjects (median [range], 5 days after symptom onset); delay was also observed in the URTI trial (median [range], 4 [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] days) and other studies of presatovir in natural RSV infection [25, 26] . Because clinical signs and symptoms tend to correlate with nasal viral load [16, 22] , these patients presumably presented near or more likely after peak nasal viral load, potentially beyond the therapeutic window for presatovir even in immunocompromised patients. Host immune-mediated clearance of the virus at this stage may also mask treatment-induced reduction in viral load. Thus, treatment delay may explain lack of presatovir efficacy in the current study.",
+            "cite_spans": [
+                {
+                    "start": 199,
+                    "end": 203,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 208,
+                    "end": 211,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 369,
+                    "end": 373,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 522,
+                    "end": 526,
+                    "text": "[25,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 527,
+                    "end": 530,
+                    "text": "26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 843,
+                    "end": 847,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 848,
+                    "end": 851,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 852,
+                    "end": 855,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1040,
+                    "end": 1044,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1045,
+                    "end": 1048,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1049,
+                    "end": 1052,
+                    "text": "23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1313,
+                    "end": 1316,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1317,
+                    "end": 1320,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1321,
+                    "end": 1324,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1325,
+                    "end": 1328,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1329,
+                    "end": 1332,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1333,
+                    "end": 1336,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1337,
+                    "end": 1340,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1341,
+                    "end": 1344,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1345,
+                    "end": 1348,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1349,
+                    "end": 1353,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1417,
+                    "end": 1421,
+                    "text": "[25,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1422,
+                    "end": 1425,
+                    "text": "26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1504,
+                    "end": 1508,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1509,
+                    "end": 1512,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The mechanism of action of presatovir may also have limited efficacy in this study. Because RSV is capable of cell-to-cell spread, inhibition of viral fusion may not halt propagation of established infection along the respiratory tract. Therefore, fusion inhibitors, such as presatovir, may need to be administered, whereas virus-cell fusion still represents the main mode of viral spread to appreciably reduce nasal viral load. Emergence of F gene protein amino acid substitutions associated with fusion inhibitor resistance was also relatively frequent (21%) in this immunocompromised population. Polymerase inhibitors can terminate intracellular RSV replication and may have wider Data are n (%) unless otherwise specified.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Abbreviations: CMV, cytomegalovirus; GVHD, graft-vs-host disease; HCT, hematopoietic cell transplant; LRT, lower respiratory tract; max, maximum; min, minimum; RSV, respiratory syncytial virus. a On the day of the first dose of study drug, 11 patients receiving presatovir and 10 patients receiving placebo were being treated with ribavirin. Current or intended use of ribavirin on day of randomization was used to stratify randomization. b These patients were excluded from the efficacy population. c For these values, n = 29 for the presatovir arm and n = 28 for the placebo arm. [27] . However, no polymerase inhibitor has demonstrated clinical efficacy in a natural infection setting to date. Furthermore, nasal viral load is questionable as a primary endpoint for proofof-concept studies in naturally infected patients with LRTI because upper respiratory tract samples, although more convenient to obtain, may not reflect viral activity in the lower respiratory tract, particularly in immunocompromised patients. Alternative approaches are needed for noninvasive measurement of viral disease dynamics and antiviral activity in lower airway and alveolar tissue.",
+            "cite_spans": [
+                {
+                    "start": 582,
+                    "end": 586,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The findings of this trial call into question whether appearance of new radiological opacities with documentation of RSV in the upper or lower respiratory tract accurately classifies patients with RSV infection. This approach may be satisfactory for retrospective studies but inadequate as an enrollment criterion for prospective clinical trials. Radiographic findings in adults with RSV LRTI confirmed from a lower respiratory tract specimen are not well characterized, and radiographic abnormalities in these patients may be caused by other viruses, bacteria, or fungi-particularly in immunocompromised patients-or even noninfectious processes. As RSV chiefly affects airway epithelium [28] , RSV LRTI could manifest without radiographic findings, and present only as lower airway symptoms (eg, wheezing or obstructive spirometry pattern). Furthermore, the degree of lung injury in patients with RSV LRTI may not be reversible by antiviral treatment alone. These issues will need to be considered in future clinical trials.",
+            "cite_spans": [
+                {
+                    "start": 688,
+                    "end": 692,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The lack of clinical benefit in this study may also relate to the selected clinical endpoints, which occurred at lower-thananticipated rates that decreased power to detect a treatment effect. Although all subjects enrolled in the current study met Waghmare et al's criteria for proven or probable LRTI, median number of supplemental oxygen-free days through day 28 was much higher (26 and 28 days for presatovir-treated and placebo-treated patients, respectively, vs 17 days), and fewer patients required >2 L/min supplemental oxygen at baseline (35.6% versus 57%) relative to patients who presented with or developed LRTI in the Waghmare study [3] . Furthermore, lymphopenia is a major risk factor for RSV infection and subsequent poor outcomes in HCT recipients [2, 4, 29] , but only 4/47 patients with available data in the current study were lymphopenic (<200 cells/mm 3 ) at baseline, possibly because RSV infection occurred relatively late after HCT (median, 485 vs 129 days in the Waghmare study). These differences could be due to limited enrollment of patients perceived as fragile because of the requirement for lower respiratory sampling to confirm RSV LRTI. Enrichment of the study population for immunosuppressed patients should be considered in future clinical trials of therapies for RSV infection in HCT recipients.",
+            "cite_spans": [
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 764,
+                    "end": 767,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 768,
+                    "end": 770,
+                    "text": "4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 771,
+                    "end": 774,
+                    "text": "29]",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In summary, presatovir treatment was generally well tolerated in HCT recipients with naturally acquired RSV LRTI but did not achieve virologic or clinical endpoints. The tendency of adults with naturally acquired RSV infection to seek treatment only after several days of symptoms, when the treatment window may have closed for fusion inhibitors in particular, is a challenge for clinical trials of RSV-specific antiviral therapies. The numerically lower rate of pulmonary complications in the presatovir URTI trial suggests that early treatment, before LRTI develops, is key for success in future studies. Acute kidney injury 0 2 (6.9)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Atrial fibrillation 0 2 (6.9)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Alkaline phosphatase increased 2 (6.7) 0 Dizziness 0 2 (6.9) Fatigue 0 2 (6.9) Neutropenia 0 2 (6.9)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Data are shown as n (%).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Respiratory syncytial virus infection in adults",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Falsey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Clin Microbiol Rev",
+            "volume": "13",
+            "issn": "",
+            "pages": "371--84",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Respiratory syncytial virus in hematopoietic cell transplant recipients: factors determining progression to lower respiratory tract disease",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Guthrie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waghmare",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Infect Dis",
+            "volume": "209",
+            "issn": "",
+            "pages": "1195--204",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Supplemental oxygen-free days in hematopoietic cell transplant recipients with respiratory syncytial virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waghmare",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kimball",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Infect Dis",
+            "volume": "216",
+            "issn": "",
+            "pages": "1235--1279",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Impact of aerosolized ribavirin on mortality in 280 allogeneic haematopoietic stem cell transplant recipients with respiratory syncytial virus infections",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ghantoji",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Antimicrob Chemother",
+            "volume": "68",
+            "issn": "",
+            "pages": "1872--80",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Community respiratory virus infections among hospitalized adult bone marrow transplant recipients",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Whimbey",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Champlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Couch",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Clin Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "778--82",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Combination therapy with aerosolized ribavirin and intravenous immunoglobulin for respiratory syncytial virus disease in adult bone marrow transplant recipients",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Whimbey",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Champlin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Englund",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Bone Marrow Transplant",
+            "volume": "16",
+            "issn": "",
+            "pages": "393--402",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Management of RSV infections in adult recipients of hematopoietic stem cell transplantation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chemaly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Blood",
+            "volume": "117",
+            "issn": "",
+            "pages": "2755--63",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "VIRAZOLE\u00ae(Ribavirin for Inhalation Solution, USP)",
+            "authors": [],
+            "year": 2016,
+            "venue": "Valeant Pharmaceuticals North America LLC",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Aerosolized ribavirin: the most expensive drug for pneumonia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chemaly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Aitken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Wolfe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Boeckh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Transpl Infect Dis",
+            "volume": "18",
+            "issn": "",
+            "pages": "634--640",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Randomized controlled multicenter trial of aerosolized ribavirin for respiratory syncytial virus upper respiratory tract infection in hematopoietic cell transplant recipients",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boeckh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Englund",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin Infect Dis",
+            "volume": "44",
+            "issn": "",
+            "pages": "245--254",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "How I treat respiratory viral infections in the setting of intensive chemotherapy or hematopoietic cell transplantation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waghmare",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Englund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boeckh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Blood",
+            "volume": "127",
+            "issn": "",
+            "pages": "2682--92",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "SYNAGIS\u00ae (palivizumab) injection, for intramuscular use",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Updated guidance for palivizumab prophylaxis among infants and young children at increased risk of hospitalization for respiratory syncytial virus infection",
+            "authors": [],
+            "year": 2014,
+            "venue": "American Academy of Pediatrics Committee on Infectious Diseases",
+            "volume": "134",
+            "issn": "",
+            "pages": "415--435",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Palivizumab treatment of respiratory syncytial virus infection after allogeneic hematopoietic stem cell transplantation",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "De Fontbrune",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robin",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Porcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin Infect Dis",
+            "volume": "45",
+            "issn": "",
+            "pages": "1019--1043",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Discovery of an oral respiratory syncytial virus (RSV) fusion inhibitor (GS-5806) and clinical proof of concept in a human RSV challenge study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mackman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sangi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sperandio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Med Chem",
+            "volume": "58",
+            "issn": "",
+            "pages": "1630--1673",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Oral GS-5806 activity in a respiratory syncytial virus challenge study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Devincenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Whitley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mackman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N Engl J Med",
+            "volume": "371",
+            "issn": "",
+            "pages": "711--733",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Phase 1 first-in-human, single-and multipleascending dose, and food effect studies to assess the safety, tolerability, and pharmacokinetics of presatovir for the treatment of respiratory syncytial virus infection",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "German",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Chien",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Clin Pharmacol",
+            "volume": "58",
+            "issn": "",
+            "pages": "1025--1059",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "The drug-drug interaction profile of presatovir",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xin",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Weng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Murray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Clin Pharmacol",
+            "volume": "58",
+            "issn": "",
+            "pages": "771--80",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Accuracy and discomfort of different types of intranasal specimen collection methods for molecular influenza testing in emergency department patients",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Frazee",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rodriguez-Hoces De La Guardia",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Alter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Ann Emerg Med",
+            "volume": "71",
+            "issn": "",
+            "pages": "509--526",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Development and evaluation of a flocked nasal midturbinate swab for self-collection in respiratory virus infection diagnostic testing",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Smieja",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Castriciano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Carruthers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Clin Microbiol",
+            "volume": "48",
+            "issn": "",
+            "pages": "3340--3342",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Gatekeeping strategies for clinical trials that do not require all primary effects to be significant",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dmitrienko",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Offen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Westfall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Stat Med",
+            "volume": "22",
+            "issn": "",
+            "pages": "2387--400",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Activity of oral ALS-008176 in a respiratory syncytial virus challenge study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Devincenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mcclure",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Symons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "N Engl J Med",
+            "volume": "373",
+            "issn": "",
+            "pages": "2048--58",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Safety and efficacy of oral RV521 in a human respiratory syncytial virus (RSV) phase 2a challenge study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Devincenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tait",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Oluwayi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "197",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "A phase 2, randomized, double-blind, placebo-controlled trial of presatovir for the treatment of respiratory syncytial virus upper respiratory tract infection in hematopoietic-cell transplant recipients",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chemaly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dadwal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bergeron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciz1166"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "A phase 2b, randomized controlled trial of presatovir, an oral RSV fusion inhibitor, for the treatment of respiratory syncytial virus (RSV) in lung transplant (LT) recipients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gottlieb",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Torres",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Haddad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Heart Lung Transplant",
+            "volume": "37",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A phase 2b, randomized, double-blind, placebo-controlled trial of presatovir (GS-5806), a novel oral RSV fusion inhibitor, for the treatment of respiratory syncytial virus (RSV) in hospitalized adults",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hanfelt-Goade",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Maimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nimer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "197",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Late therapeutic intervention with a respiratory syncytial virus L-protein polymerase inhibitor, PC786, on respiratory syncytial virus infection in human airway epithelium",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Brookes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Coates",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Br J Pharmacol",
+            "volume": "175",
+            "issn": "",
+            "pages": "2520--2554",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Severe human lower respiratory tract illness caused by respiratory syncytial virus and influenza virus is characterized by the absence of pulmonary cytotoxic lymphocyte responses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Welliver",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Garofalo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hosakote",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Infect Dis",
+            "volume": "195",
+            "issn": "",
+            "pages": "1126--1162",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Respiratory viral infections in adults with hematologic malignancies and human stem cell transplantation recipients: a retrospective study at a major cancer center",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chemaly",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ghosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bodey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Medicine (Baltimore)",
+            "volume": "85",
+            "issn": "",
+            "pages": "278--87",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Patient disposition from screening through analysis. The adverse events leading to discontinuation of study drug were acute liver injury with cholestasis in 1 presatovir-treated patient; and sepsis and respiratory failure, bacterial infection and pancytopenia, and leukopenia in 1 placebo-treated patient each. a Includes the patient who withdrew consent without completing study treatment. b Includes the patient who died before completing study treatment. c 1 patient in each group did not have detectable RSV RNA on day 1. Abbreviations: LRT, lower respiratory tract; RSV, respiratory syncytial virus.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "1 patient each with chronic myeloid leukemia, hemophagocytic lymphohistiocytosis, myelofibrosis, and Waldenstrom macroglobulinemia in the presatovir group and 1 patient each with plasma cell leukemia and sickle cell disease in the placebo group.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Presatovir treatment did not significantly reduce respiratory syncytial virus (RSV) RNA relative to placebo. Panel (A) shows median nasal RSV RNA and panel (B) shows median change from baseline in nasal RSV RNA at each study visit in patients treated with presatovir (solid circles and lines) vs placebo (open circles, dashed lines) in the efficacy population. Error bars represent the interquartile range. Numbers below the graph are n at each time point.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": "Baseline Characteristics and Demographics in the Safety Population",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Continued therapeutic windows compared with fusion inhibitors",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Time-Weighted Average Change in Nasal RSV RNA to Day 9, Supplemental Oxygen-Free Days Through Day 28, Respiratory Failure Requiring Mechanical Ventilation, and All-Cause Mortality in the Efficacy Population Abbreviations: CI, confidence interval; max, maximum; min, minimum; RSV, respiratory syncytial virus; SD, standard deviation. a Results were calculated from the analysis of covariance model including baseline values and stratification factors. b Results were calculated from the negative binomial model with stratification factors ascovariates. c P-value was calculated using Fisher exact test.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Adverse Events and Laboratory Abnormalities Reported for at Least 2 Patients in the Safety Population",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Financial support. This work was supported by Gilead Sciences, Inc. Potential conflicts of interest. F. M. M. reports research grants paid to his institution and consulting fees for clinical trial design from Gilead Sciences, Inc., during the conduct of the study; and research support paid to his institution and consulting fees for clinical trial design from Chimerix and GlaxoSmithKline, research grant support paid to his institution from Ansun, and personal fees from Roche Molecular Diagnostics and Visterra outside the current study. R. F. C. reports research grants paid to his institution and personal fees from Gilead Sciences, Inc., during the conduct of the study; research grants paid to his institution from Ablynx, AiCuris, Ansun, Chimerix, Merck, Oxford Immunotec, Novartis, Pulmotec, Shire, and Xenex; and consultant fees/honoraria from Ablynx, Achaogen, ADMA Biologics, Ansun, Astellas, Chimerix, Clinigen, Janssen, Oxford Immunotec, Merck/ Merck Sharp and Dohme (MSD), Pulmotect, Shionogi, Shire, and Xenex outside the current study. K. M. M. reports grants as a clinical trial investigator from Gilead Sciences, Inc., during the conduct of the study; clinical research grants from Ansun, Astellas, Merck, Rebiotix, Scynexis, and Shire; and consultant fees/honoraria from Chimerix, GlaxoSmithKline, Merck, and Scynexis outside the current study. D. G. L. reports research grants and consultant fees or speaker honoraria from Astellas, MSD, and Pfizer outside the current study. H. H. H. reports nothing to disclose. C. B. S. reports grants paid to her institution from Gilead Sciences, Inc., during the conduct of the study and from Abbott, Ablynx, Chimerix, GlaxoSmithKline, Merck, Schering, Shire, and ViiV outside the current study. A. B. reports funding to her institution from Gilead Sciences, Inc., during the conduct of the study; and research grants from Pfizer and SOS Oxyg\u00e8ne and consultant/speaker fees from Ablynx; Gilead Sciences, Inc.; Merck; Pfizer; Shire; Therakos; and Zambon outside the current study. S. S. reports grants paid to his institution from Gilead Sciences, Inc., during the conduct of the study; grants paid to his institution from Astellas, Ansun, Cidara, Emergent BioSolutions, Merck, Scynexis, Shiongi, Shire, and T2 Microsystems outside the current study; and direct payments as a member of a data safety monitoring board from Merck outside the current study. P. L. reports research grants or fees/ honoraria paid to his institution from Astellas; Gilead Sciences, Inc.; Merck; Oxford Immunotec; and Shire; and consultant fees/honoraria from Ablynx and AiCuris outside the current study. A. W. reports clinical trial support from Gilead Sciences, Inc., during the conduct of the study. E. B. reports speaker fees from Boehringer Ingelheim; Gilead Sciences, Inc.; Novartis; Pfizer; and Roche outside the current study. Y. J. K. reports grants from Gilead Sciences, Inc., during the conduct of the study. M. M., D. P. P., Y. G., P. G., and T. R. W. are employees of Gilead Sciences, Inc., and may hold stock. R. J. is a former employee of and holds stock in Gilead Sciences, Inc. M. B. reports clinical trial support and consulting fees from Gilead Sciences, Inc., during the conduct of the study; and grants and personal fees from Ablynx; Ansun; Chimerix; GlaxoSmithKline; Merck; Shire; and Vir Bio; and personal fees from Bavarian Nordic; Humabs, Inc.; Janssen; Modema Therapeutics; Pulmocide; and Pulmotect outside the current study. J. W. C. is an employee and stockholder of Janssen BioPharma and a former employee and current stockholder of Gilead Sciences, Inc. S. S. D. reports grants paid to his institution from Gilead Sciences, Inc., during the conduct of the study; and grants to his institution and personal fees for consulting, advisory board, and speaker bureau participation from Merck; personal fees for advisory board participation from Clinigen and Janssen; and grants paid to his institution from Ablynx, AiCuris, Ansun, GlaxoSmithKline, Oxford Immunotec, and Shire outside the current study. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "Supplementary materials are available at Clinical Infectious Diseases online. Consisting of data provided by the authors to benefit the reader, the posted materials are not copyedited and are the sole responsibility of the authors, so questions or comments should be addressed to the corresponding author. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        }
+    ]
+}

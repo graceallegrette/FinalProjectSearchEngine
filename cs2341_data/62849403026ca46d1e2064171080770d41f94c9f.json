@@ -1,0 +1,2846 @@
+{
+    "paper_id": "62849403026ca46d1e2064171080770d41f94c9f",
+    "metadata": {
+        "title": "Direct sequencing of RNA with MinION Nanopore: detecting mutations based on associations",
+        "authors": [
+            {
+                "first": "Noam",
+                "middle": [],
+                "last": "Harel",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tel-Aviv University",
+                    "location": {
+                        "settlement": "Tel-Aviv",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Moran",
+                "middle": [],
+                "last": "Meir",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tel-Aviv University",
+                    "location": {
+                        "settlement": "Tel-Aviv",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Uri",
+                "middle": [],
+                "last": "Gophna",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tel-Aviv University",
+                    "location": {
+                        "settlement": "Tel-Aviv",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Adi",
+                "middle": [],
+                "last": "Stern",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tel-Aviv University",
+                    "location": {
+                        "settlement": "Tel-Aviv",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "One of the key challenges in the field of genetics is the inference of haplotypes from next generation sequencing data. The MinION Oxford Nanopore sequencer allows sequencing long reads, with the potential of sequencing complete genes, and even complete genomes of viruses, in individual reads. However, MinION suffers from high error rates, rendering the detection of true variants difficult. Here, we propose a new statistical approach named AssociVar, which differentiates between true mutations and sequencing errors from direct RNA/DNA sequencing using MinION. Our strategy relies on the assumption that sequencing errors will be dispersed randomly along sequencing reads, and hence will not be associated with each other, whereas real mutations will display a non-random pattern of association with other mutations. We demonstrate our approach using direct RNA sequencing data from evolved populations of the MS2 bacteriophage, whose small genome makes it ideal for MinION sequencing. AssociVar inferred several mutations in the phage genome, which were corroborated using parallel Illumina sequencing. This allowed us to reconstruct full genome viral haplotypes constituting different strains that were present in the sample. Our approach is applicable to long read sequencing data from any organism for accurate detection of bona fide mutations and interstrain polymorphisms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "A major goal of genetics today is the characterization of genetic diversity in a population. In microbes, such diversity is generated in particular by high mutation rates, which may generate both nucleotide substitutions as well as point insertions or deletions (indels) (1) . Longer indels may also occur (2) , as may events of genetic recombination. Disease pathogenesis, progression, management and epidemiology are all affected by the genetic diversity created in microbial populations (3) (4) (5) (6) (7) (8) (9) . Thus, characterizing this diversity is of utmost importance in clinical as well as research settings, which makes the development and improvement of suitable sequencing technologies crucial (10) (11) (12) . The availability of second-generation DNA sequencing technologies (13) , with the Illumina platform currently at the forefront, has made the sequencing of genomes conventional. In particular, this technology has dramatically furthered the study of viruses, whose relatively small genomes allow in depth characterization of a population of viruses (14, 15) .",
+            "cite_spans": [
+                {
+                    "start": 271,
+                    "end": 274,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 306,
+                    "end": 309,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 490,
+                    "end": 493,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 494,
+                    "end": 497,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 498,
+                    "end": 501,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 502,
+                    "end": 505,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 506,
+                    "end": 509,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 510,
+                    "end": 513,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 514,
+                    "end": 517,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 715,
+                    "end": 719,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 720,
+                    "end": 724,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 793,
+                    "end": 797,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1074,
+                    "end": 1078,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1079,
+                    "end": 1082,
+                    "text": "15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Illumina-based sequencing allows the detection of minor variants that the standard Sanger-based method often missed. However, Illumina short-read sequencing technologies all share one major limitation, the short length of each read, which typically ranges between 75 and 600 bp (for a paired end read). This means that a complete viral genome sequence cannot be obtained in a single read, impairing the ability to link distant mutations in an individual viral genome. Another Illumina limitation is that RNA cannot be sequenced directly. During library preparation, RNA is reverse-transcribed into cDNA and amplified by PCR. This creates multiple problems that have been extensively discussed but not resolved (10) : first, reverse transcription and PCR may introduce errors during early stages of amplification that will be carried on to later stages (16) (17) (18) . Second, some molecules may be preferentially amplified over others, a term known as PCR bias. Third, PCR and reverse transcription reactions can often result in chimeric DNA sequences that originate from different molecules (19) (20) (21) . Together, these problems make the inference of haplotypes from PCR-based libraries that are sequenced with Illumina extremely limited.",
+            "cite_spans": [
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 852,
+                    "end": 856,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 857,
+                    "end": 861,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 862,
+                    "end": 866,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1093,
+                    "end": 1097,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1098,
+                    "end": 1102,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1103,
+                    "end": 1107,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Currently, single-molecule third-generation sequencing systems, such as Oxford Nanopore Technologies, provide a promising alternative for sequencing full-length single viral genomes (22) . In fact, these technologies now allow directly sequencing either DNA or RNA. The long reads provided by these methods have the potential to allow for the inference of up to an entire genome of a typical RNA virus, whose genome is generally shorter than 10,000 bp (23) (24) (25) (26) (27) . However, one of the major shortcomings of the third gener-ation technologies are their relatively high error rates, with the proportion of errors on a read often exceeding 10% (28, 29) . This high error rate makes the detection of true single-nucleotide variants very difficult (7, 30, 31) .",
+            "cite_spans": [
+                {
+                    "start": 182,
+                    "end": 186,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 452,
+                    "end": 456,
+                    "text": "(23)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 457,
+                    "end": 461,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 462,
+                    "end": 466,
+                    "text": "(25)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 467,
+                    "end": 471,
+                    "text": "(26)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 472,
+                    "end": 476,
+                    "text": "(27)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 655,
+                    "end": 659,
+                    "text": "(28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 660,
+                    "end": 663,
+                    "text": "29)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 757,
+                    "end": 760,
+                    "text": "(7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 761,
+                    "end": 764,
+                    "text": "30,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 765,
+                    "end": 768,
+                    "text": "31)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Here, we devised a simple statistical procedure called As-sociVar that allows weeding out real mutations from technical errors using only the MinION sequencing results. We focused our analysis on the MS2 bacteriophage, an extremely small (3569 bases) and fast evolving +ssRNA virus (32, 33) that is highly amenable to direct sequencing with Oxford Nanopore MinION. We sequenced virus populations in parallel using both MinION and Illumina, allowing us to corroborate the inferences of AssociVar. This then allowed us to directly infer relationships between mutations and to deduce the entire genome sequences of viral strains in the population. We were also able to use AssociVar to analyze a yeast mRNA sample and data of mixed strains of Zika Virus. This illustrates the generality of our approach which can be applied to other organisms as well.",
+            "cite_spans": [
+                {
+                    "start": 282,
+                    "end": 286,
+                    "text": "(32,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 287,
+                    "end": 290,
+                    "text": "33)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "During the course of an evolve-and-resequence experiment, we performed serial passaging of the phage MS2 (Meir et al., in preparation). Briefly, clonal MS2 stock was propagated from a single plaque that was the precursor of all the evolutionary lines established in this work. We performed 15 serial passages at 37 \u2022 C with two biological replicates (hereby denoted as A and B). The serial passages were performed as follows: 100 ml cultures of naive Escherichia coli C-3000 were grown up to an optical density of OD 600 = 0.4 (corresponding to a density of about 10 8 cells/ml). Each passage was infected with 10 ml of 10 9 phages from the previous passage. The cultures were grown for 16 h at each temperature with shaking, and the E. coli cells were then removed by centrifugation. The supernatant was subjected to filtration with 0.22 m filter (Stericup \u00ae Filter, EMD Millipore) to remove any remaining residues. Naive hosts were provided for each passage. The new phage stock was then stored at 4 \u2022 C. Aliquots of these phage stocks were used for measuring the concentration of phages by plaque assay and infecting the next serial passage. We then determined the population frequency of each mutation at passage 1 and passage 15 through whole genome deep sequencing as described below, using Illumina and MinION.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Library preparation was performed according to our lab's AccuNGS sequencing protocol (34) with some modifications: The reverse transcription reaction was performed using SuperScript \u00ae III Reverse Transcriptase (Thermo Scientific), the reaction was performed on 500 ng of RNA phage with 1 l of dNTP mix (10 mM), 1 l of 3R primer (TG GGTGGTAACTAGCCAAGCAG) (10 M) and 10 l of sterile distilled water. The mixture was incubated for 10 min at 65 \u2022 C followed by incubation on ice for 7 min. After brief centrifugation, 4 l of 5X First-Strand Buffer were added along with 1 l DTT (0.1 M), 1 l of RNase OUT (Thermo Scientific) and 1 l of SuperScript\u2122 III RT (200 units/l). The mixture was incubated for 60 mins at 55 \u2022 C followed by inactivation for 15 mins at 70 \u2022 C. The last step was adding 1 l of RNase H to the reaction according to manufacturer instructions. cDNA from the reverse transcription reaction was directly used as a template for the PCR amplification of the full MS2 genome in three overlapping fragments. PCR reactions were performed using 'Phusion High-Fidelity DNA-polymerase' (Thermo Scientific) according to manufacturer instructions with the primers: 1F (GGGTGGGA CCCCTTTCGG), 1R (TTTTTCTAGAGAGCCGTTGC CT), 2F (GGCCCAAATCTCAGCCATGC), 2R (CGTG TCTGATCCACGGC), 3F (GGCACAAGTTGCAGGA TGCA), 3R (TGGGTGGTAACTAGCCAAGCAG), see Supplementary Figure S6 . After PCR, the three amplicons were purified with a PCR clean up kit (Promega). Purified amplicons were quantified with Qubit assays (Q33216, Life Technologies), diluted and pooled in equimolar concentrations. The Illumina Nextera XT library preparation protocol and kit were used to produce DNA libraries, according to manufacturer instructions with some modifications. Briefly, the tagmentation reaction was performed with 0.8 ng/l of DNA, 10 l TD Buffer, 5 l ATM enzyme and up to 5 l DDW. The mixture was incubated for 5 min at 55 \u2022 C and then directly used as a template for 50 l PCR reaction using 'Phusion High-Fidelity DNA-polymerase' (Thermo Scientific) according to manufacturer instructions with the index primers from the Nextera XT kit. After PCR, a double sized selection was performed using Ampure beads to remove short and long library fragments, since 350 bp fragments were required. We collected the supernatant and read 2 l from each sample in the TapeStation (Agilent high sensitives D1000) to verify fragment size. The yeast enolase sample was prepared as described for the phage RNA. RT and PCR amplification were performed using primers: E1 (ATGGCTGTCTCTAAAGTTTACG CTA) and E2 (TTACAACTTGTCACCGTGGTGG). Libraries were sequenced on an Illumina Miseq using the 2 \u00d7 250 MiSeq reagent kit (Illumina, MS-102-2003) for pairedend reads.",
+            "cite_spans": [
+                {
+                    "start": 85,
+                    "end": 89,
+                    "text": "(34)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1350,
+                    "end": 1359,
+                    "text": "Figure S6",
+                    "ref_id": null
+                }
+            ],
+            "section": "Illumina library preparation"
+        },
+        {
+            "text": "Bioinformatics processing of the data was performed using the AccuNGS pipeline (34) with the default parameters (minimal %ID = 85, e-value threshold = 1E\u221207 and Q score cutoff of 30). Briefly, this pipeline is based on (a) mapping the reads to the reference genome using BLAST, (b) searching for variants that appear on both overlapping reads, (c) calling variants with a given Q-score threshold and inferring their frequency. All libraries attained a mean coverage of \u223c10,000 reads/base. The reference genome was determined by comparing the consensus of passage 1 to Gen-Bank ID V00642.1 (differences noted in Supplementary Table S1). When examining the results of the control sequence (a plasmid bearing the MS2 genome), we noted a high error rate at several positions that resided near the primer sites, and accordingly 30 positions from each end of the genome were excluded from downstream analysis.",
+            "cite_spans": [
+                {
+                    "start": 79,
+                    "end": 83,
+                    "text": "(34)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Illumina MiSeq read mapping"
+        },
+        {
+            "text": "The Oxford Nanopore MinION was used to sequence the MS2 RNA directly. We sequenced the three samples (p15A,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Long-read Oxford Nanopore MinION sequencing"
+        },
+        {
+            "text": "Nucleic Acids Research, 2019, Vol. 47, No. 22 e148 p15B and p1A) in three separate runs. We prepared direct RNA libraries according to manufacturer library prep instructions with some modifications. We altered the supplied reverse transcriptase adapter (RTA) (22) , which has a T10 overhang, to specifically target the MS2 genome with 22 nucleotides complementary to the MS2 conserved 3 end (Supplementary Figure S6 ). The ligation reaction was performed with 500 ng RNA in 9 l, 100 nM costume adapter in 1 l, 10 l of NEBNext Quick Ligation Buffer and 1.5 l of T4 DNA Ligase enzyme (NEB). The mixture was incubated for 10 min at 65 \u2022 C followed by incubation on ice for 2 min and then directly used as a template for the next step of the library prep which is cDNA synthesis according to manufacturer instructions. The cDNA synthesis step was performed in order to maintain the RNA fragments integrity during MinION library prep and sequencing. The library was cleaned up each time using 2 l of AMPure XP DNA beads per 1 l of sample and we added 3 l of RNase OUT (Thermo Scientific) to protect the RNA. The RNA was directly sequenced on the MinION nanopore sequencing device using a FLO-MIN107 flow cell equipped with the R9.5 chemistry. The MinKNOW control software version 1.14.1 was used and was allowed to proceed for 48 h. The basecalling was performed locally by the Miniknow software as well, and the data was written out in the FASTQ format. Reads were filtered with the MiniKNOW default cutoff of a minimum average q-score of 7. The AccuNGS pipeline (34) described above was next applied to the data in order to determine variant frequencies. BLAST parameters were modified to minimal % identity = 60, e-value threshold = 1E\u221207 and no q-score cutoff, to allow the highly variable minion reads to map. As with the Illumina results, 30 positions from each end of the genome were excluded from downstream analysis. This also solved the problem of very low coverage areas in the MinION sequencing.",
+            "cite_spans": [
+                {
+                    "start": 14,
+                    "end": 50,
+                    "text": "Research, 2019, Vol. 47, No. 22 e148",
+                    "ref_id": null
+                },
+                {
+                    "start": 259,
+                    "end": 263,
+                    "text": "(22)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 406,
+                    "end": 415,
+                    "text": "Figure S6",
+                    "ref_id": null
+                }
+            ],
+            "section": "PAGE 3 OF 12"
+        },
+        {
+            "text": "Variant frequency distributions for MinION and MiSeq were calculated by using the AccuNGS pipeline results. For substitutions and deletions, the distribution is straightforward and accounts for the results for all bases. For insertions, we focused on point insertions, defined as the first insertion after any position, in order to create the frequency distributions. Positions close to the ends of the genome that show a high error rate in MiSeq due to primer proximity were removed from this analysis. To calculate the error rate, we sequenced a control sample from the beginning of the passaging experiment (p1A), and the mean, 95th percentile and 99th percentile errors were calculated for every error type.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MinION variant distributions and error rate estimation"
+        },
+        {
+            "text": "AssociVar searches for strong associations between variants as an indication that these represent bona fide mutations. The method is based on five stages:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AssociVar: association tests to identify real mutations"
+        },
+        {
+            "text": "(a) Detecting non-random associations. For each pair of positions, a read is classified into four categories based on whether the read bears the WT nucleotide (i.e., identical to the reference genome) or non-WT nucleotide (i.e., different from the reference genome) at each of the two given positions. We use this to create a 2 \u00d7 2 contingency matrix of observed counts, which is then used as the input for a chi-square test and a resulting chisquare statistic (see supplementary text). We focus only on contiguous reads that spanned the entire genome.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AssociVar: association tests to identify real mutations"
+        },
+        {
+            "text": "Notably at this stage we focus only on WT versus non-WT assignments (rather than the exact identity of the non-WT allele) for computational tractability. This is relaxed later on. (b) Removing proximal positions. Since we observed that positions that are highly proximal (<15 bp apart) often tended to be highly associated, and we suspected this is an artifact of the sequencing machine, chi square results for all such proximal positions were removed from the analysis. to each other tend to present spurious high associations, due to transitivity we expect a position next to a real mutation to also be highly associated with other positions with real mutations. In other words, if positions p and q are highly associated because they are real mutations, and positions q and q + 1 are highly associated because they are proximal, we will see a high association between positions p and q + 1 as well. However, we expect the association between the real mutations to be the highest, i.e. to be a local maximum in the surroundings of a given pair. A normalized chi score's surroundings is defined as the four neighboring normalized chi scores when the data is regarded as a two-dimensional matrix. For example, the normalized chi score for ( p, q) is required to be higher than the normalized chi scores for ( p, q \u2212 1), ( p, q + 1), ( p \u2212 1, q) and ( p + 1, q). (e) Use of a control sequence. In order to create a cutoff for the normalized chi-square statistic, we used the values obtained for a control sequence (Supplementary Figure  S3 ). We know that our control sample was not completely homogenous, since it contained two mutations at a frequency slightly higher than 10%. Nevertheless, it served as a valid control when setting a confidence rate of 99.9%, i.e. calculating the normalized chi score that allows 0.1% of the positions in our control sample to be identified as significant (allowing for three 'false positive' positions in our case). After stages (a) through (e), AssociVar infers n positions with real mutations in the population. The last stage is to identify the identity of the mutations (A, C, G, T, \u2212), in a similar way to that described in (a). Insertions are ignored here. Every position has four possible alternative variants (the three nucleotides that differ from the reference, or a deletion), and we test these variations against each other using chi-square tests, leading to 4n \u00d7 4(n\u22121)",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1528,
+                    "end": 1538,
+                    "text": "Figure  S3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "AssociVar: association tests to identify real mutations"
+        },
+        {
+            "text": "tests, where n is the number of positions previously identified as having real mutations. Again, we created a 2 \u00d7 2 contingency matrix of observed frequencies, which is then used as the input for the chi-square test. For every position, we choose the variant with the highest average chisquare statistic for all the tests for pairs containing that variant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AssociVar: association tests to identify real mutations"
+        },
+        {
+            "text": "We begin by focusing only on the variants inferred as bona fide mutations in the last stage. This means that in principle there are 2 n possible haplotypes bearing these mutations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Haplotype/Strain identification analysis"
+        },
+        {
+            "text": "We filter out reads with variants that do not match our inference (for example, if one of the inferred mutants is A535G, we filter out reads with the nucleotides C, T or a deletion at position 535). We then use our inferred 95 percentile error thresholds (Table 1) to deduce which combinations of mutations are likely to be true and which may have been created by the technical error rate. We use an iterative approach to classify which of the 2 n haplotypes is reliable. First, for every single nucleotide variant, we group together all of the haplotypes that include this base variant (a haplotype can appear in more than one group). Second, in each group, we compute the relative frequency of each haplotype as its proportion of all haplotypes in the group. We iterate through the haplotypes from highest frequency to lowest, classifying each haplotype as reliable or not. The first haplotype is automatically classified as reliable. For every haplotype, we compare its relative frequency with the probability that it is created by technical errors from the closest haplotype classified as reliable, called its parent haplotype, using the inferred error threshold. For example, if a haplotype has an additional deletion and substitution when compared to its parent haplotype, we require that its relative frequency be higher than the product of 0.214 \u00d7 0.237 = 0.051 to be classified as reliable (using the 95th percentile error frequencies in Table 1 ). We iterate through the haplotypes until classifying all the haplotypes in each group. If reads for a WT haplotype exist, the WT is also treated as a base for a group -which in this case will include all of the observed haplotypes. Haplotypes may appear in more than one group, if a haplotype appears as reliable in at least one group it will be classified as reliable overall. See supplementary text for a visual summary of the algorithm we employ.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 255,
+                    "end": 264,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 1447,
+                    "end": 1454,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Haplotype/Strain identification analysis"
+        },
+        {
+            "text": "The code we provide produces a file with all the variant combinations observed, the calculations described here and whether a haplotype is reliable or not. It also produces a file with the haplotypes classified as reliable, with their proportion in the population recalculated appropriately.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Haplotype/Strain identification analysis"
+        },
+        {
+            "text": "The sequencing data created and used in this study is available in the Sequencing Read Archive (SRA, https://www. ncbi.nlm.nih.gov/sra), under BioProject PRJNA547685.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sequencing data and code availability"
+        },
+        {
+            "text": "The accompanying code can be found at https://github. com/SternLabTAU/AssociVar.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sequencing data and code availability"
+        },
+        {
+            "text": "We set out to sequence two evolved populations of the MS2 coliphage. Both populations were derived by fifteen serial passages performed at 37 \u2022 C (denoted as A and B) as part of an evolve-and-resequence experiment (Methods). We first performed deep sequencing of both populations at passage 15 with the Illumina MiSeq platform (34) . This revealed several segregating mutations (Figure 1 ), some of which shared similar frequencies. However, due to the short-read nature of the sequencing it was impossible to infer whether these mutations co-occurred on the same genome.",
+            "cite_spans": [
+                {
+                    "start": 327,
+                    "end": 331,
+                    "text": "(34)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 378,
+                    "end": 387,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "We next sequenced the same two populations of RNA viruses from passage 15 using Oxford Nanopore's MinION. Importantly, we employed direct RNA sequencing, without using reverse transcription or PCR amplification, and without any shearing of the genomes. The only requirement for library preparation was the ligation of an adaptor to the 3 of the RNA genome, allowing the 3 to enter the sequencing pore. Each replica was sequenced independently, denoted as p15A and p15B. We also sequenced a sample from line A passage 1 using both Illumina MiSeq and MinION. As this was a mostly unevolved and homogenous population, we used this as a control sample.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "A total of 417,000, 105,000 and 400,000 reads were produced for the MinION-p15A, MinION-p15B and the control runs, respectively. In order to map the reads to the MS2 reference genome we ran our computational pipeline (Materials and Methods) (34) , which infers the proportion of each point mutation (A, C, G, T or '-') at each position in the genome. Over 97% of the reads were mapped to the reference, yet often sequencing terminated before it reached the 5 end in both the evolved and control populations (Supplementary Figure S1 ). Nevertheless, \u223c15% of the reads (between \u223c15,000 and \u223c60,000) covered the entire MS2 genome.",
+            "cite_spans": [
+                {
+                    "start": 241,
+                    "end": 245,
+                    "text": "(34)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 522,
+                    "end": 531,
+                    "text": "Figure S1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Read lengths and alignment"
+        },
+        {
+            "text": "We next focused on the frequency of an observed variant, defined here as any base called differently from what is present in the reference sequence, at any position. We expect such variants to be the sum of two independent processes: real biological variations derived from evolutionary processes in the phage populations, and technical errors introduced by the sequencing process. Comparing between the variant distributions of Illumina and MinION, it was evident that MinION suffers from a very high technical error rate (Figure 2) . Notably, in the control population the number of variants exceeding a frequency of 1% in the Illumina sequencing was 12, whereas with MinION we observed 8917 variants in 3326 positions exceeding 1%. This allowed us to infer that the vast majority of MinION variant frequencies are technical errors, and further allowed us to roughly estimate the various types of MinION error rates for our experiment (Table 1) . Notably, we observed that the point deletion and point insertion rates together exceeded the substitution rate, reinforcing previous observations (36, 37) . We attempted to use the inferred MinION error rates as thresholds that can distinguish between real mutations from errors, by setting the 95th percentile obtained for the control sample as an error threshold for each type of error (Table 1 ). This na\u00efve approach that is often used, quickly turned out to be invalid, as corroborated by our parallel Illumina results. For example, we knew from the Illumina results that only 6 mutations in line A and 8 mutations in line B exceeded a frequency of 10% at passage 15 ( Figure 1 ). However, the MinION results showed 1168 mutations in 949 positions and 1081 mutations in 879 positions exceeding 10% in both replicas, respectively.",
+            "cite_spans": [
+                {
+                    "start": 1095,
+                    "end": 1099,
+                    "text": "(36,",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1100,
+                    "end": 1103,
+                    "text": "37)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 523,
+                    "end": 533,
+                    "text": "(Figure 2)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 937,
+                    "end": 946,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 1337,
+                    "end": 1345,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 1622,
+                    "end": 1630,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Distribution of observed variants and MinION error rates"
+        },
+        {
+            "text": "We sought a strategy to weed out the technical errors from the real mutations in the MinION results independently of the Illumina results. We calculated the conditional probabilities of observing one variant given another variant observed on the same read ( Figure 3 ). When observing the pattern of conditional probabilities, we noted two distinctly different patterns. Some variants co-occurred more or less randomly with all other variants, manifested as more or less the same probability of observing one variant given any other variant (similar colors across a given column in Figure 3A) . On the other hand, some variants displayed a nonrandom pattern, where the probability of observing variants together depended very much on which pair of variants was examined (different colors across any given column in Figure 3B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 258,
+                    "end": 266,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 582,
+                    "end": 592,
+                    "text": "Figure 3A)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 815,
+                    "end": 825,
+                    "text": "Figure 3B)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Associations between variants in MinION"
+        },
+        {
+            "text": "Importantly, the variants that displayed a non-random pattern were variants that we knew were true mutations based on the Illumina data. This led us to realize that random technical errors are expected to display a different pattern than real biological mutations: we expect technical errors to be associated randomly with any other technical error, whereas a pair or more of real biological mutations are expected to be non-randomly associated with each other. This is a reflection of evolutionary processes operating on genomes. While mutations created from replicative polymerases will be mostly randomly distributed along the genome, selection and genetic drift will lead to the fact that specific combinations of mutations reach higher frequency. Thus, true mutations that are prevalent in a population will tend to be either present with some other mutations on the same genome/read, or not present with some other mutation on the same genome. Both these properties (tendency to be present or not present with other mutations) reflect non-random association between mutations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Associations between variants in MinION"
+        },
+        {
+            "text": "One of the most commonly used methods to test for associations between two properties is the chi-square test: here we use this test to see whether the observed joint variant counts deviate from what is expected when variants are counted independently. To this end, each variant was classified as either wild-type (WT) or non-WT, based on whether it was identical or not to the reference genome. Notably, this led to ( We began by inspecting all associations between all pairs of positions. This allowed us to make a few general observations. First, we observed that proximal pairs of positions (residing up to 15 bases apart from each other) tended to be highly associated. We postulate that this is a reflection of MinION errors, and also the high deletion rate, which could cause slight misalignment of reads covering positions proximal to the deletions. Second, we observed a very similar pattern of associations among the three samples. This suggests that MinION sequencing has a tendency towards specific a pattern of errors for a given genome that is sequenced (Supplementary Figure S2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1082,
+                    "end": 1092,
+                    "text": "Figure S2)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Associations between variants in MinION"
+        },
+        {
+            "text": "We devised a method called AssociVar that detects the real variants in the data, based on the following properties: (a) the method searches for the strongest non-random associations, (b) the method takes into account that pairs of proximal positions (i.e. up to 15 bases apart) that have high associations between them are likely false positives induced by the MinION machine itself, (c) in order to make the different positions comparable, the method normalizes the distribution of chi square scores per position, essentially searching for outliers from all the associations of a given po-sition, (d) the method also takes into account that because proximal positions are highly associated, a position next to a real mutation may be associated with other real mutations due to transitivity. However, we expect the two real mutations to display the highest association, i.e. we require an association to be a local maximum in a given window. Finally, (e) the method uses a control sample to set a cutoff for the highest associations (Materials and Methods). Associ-Var hence calculates a normalized chi-square statistic and infers the positions where 'true' variation occurs, based on the above properties ( Figure 4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1208,
+                    "end": 1217,
+                    "text": "Figure 4)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Associations between variants in MinION"
+        },
+        {
+            "text": "After applying AssociVar to the data, we were able to identify five out of the six mutations appearing at a frequency above 10% in the Illumina results in p15A, and all eight positions within the p15B sample (Figure 4 , Supplementary Table S2 ). Notably, AssociVar also often correctly identified mutations segregating at lower frequencies quency lower than 1% according to Illumina. All in all, the results indicate that our association approach has the power to resolve real variants from technical errors based on the MinION data alone.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 208,
+                    "end": 217,
+                    "text": "(Figure 4",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 234,
+                    "end": 242,
+                    "text": "Table S2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Associations between variants in MinION"
+        },
+        {
+            "text": "We began the analysis by classifying mutations into WT and non-WT, for computational tractability. Next, identifying the specific nucleotide variant in our samples after having identified the positions with real mutations is easy enough using a similar approach. Every position has four possible variants (the three nucleotides different that the reference and a deletion for that base), and we test these variations against each other, again--under the assumption that the most highly associated variant for each position is the real one (Materials and Methods). For the positions identified by our association analysis and verified as correct by the Illumina sequencing, all but one of the positions were matched with their correct variant with this method (position 3114 in p15B was identified as a deletion instead of nucleotide A).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Associations between variants in MinION"
+        },
+        {
+            "text": "The MinION RNA sequencing kit comes with a control sequence of the enolase II yeast gene. We ran our association analysis on the enolase results, originally to verify that we pick up no variation in this gene. However, we were surprised to see two positions with a very high and outstanding association ( Figure 5) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 305,
+                    "end": 314,
+                    "text": "Figure 5)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Identifying mutations in the absence of a control sample"
+        },
+        {
+            "text": "We thus sequenced the same sample with the Illumina MiSeq platform. Reassuringly, the results verified the findings of AssociVar and showed that these two variants do appear in the sample and are the only two variants that ap- . Notably, other high associations were ruled out as induced by proximity with the local maximum analysis (Materials and Methods). Since we do not have a control sample for this gene, we cannot use it to infer a cutoff. However, the association between these two positions is so prominent when compared to the rest of the data that we were able to conclude they are between positions with 'true' variation (as later verified by Illumina).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying mutations in the absence of a control sample"
+        },
+        {
+            "text": "pear there at a frequency higher than 10%. This suggests that our method can be used (a) as a general approach and not only for virus populations, and (b) in the absence of a control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identifying mutations in the absence of a control sample"
+        },
+        {
+            "text": "We next tested our method on a sample of Zika virus genomes (30) . In this study, two different strains that differed at several positions had been artificially mixed and sequenced using MinION. We ran AssociVar on one of the sequenced amplicons, in the absence of a control sequence. At least five of the six true mutations in this amplicon stood out as having highly prominent associations (Supplementary Figure S4 ).",
+            "cite_spans": [
+                {
+                    "start": 60,
+                    "end": 64,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 407,
+                    "end": 416,
+                    "text": "Figure S4",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Identifying mutations in the absence of a control sample"
+        },
+        {
+            "text": "Finally, we tested how our method fares in the absence of a control for our MS2 data, and compared the true positive rate versus false positive rate as a function of (a) thresholds set for the normalized chi-square statistic, and (b) a frequency threshold from the Illumina results that determine when we define a mutation as true or false. We further compared this to the use of a 'na\u00efve' approach where we use a varying frequency threshold for the MinION results (as described above). Our results show that AssociVar inference is consistently much more accurate that the na\u00efve approach, and moreover, can be used even to detect mutations at a frequency of 1%, at the risk of some false positives ( Figure 6 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 700,
+                    "end": 708,
+                    "text": "Figure 6",
+                    "ref_id": null
+                }
+            ],
+            "section": "Identifying mutations in the absence of a control sample"
+        },
+        {
+            "text": "One of the main goals of MinION sequencing, in particular in the context of RNA virus evolutionary experiments, is the detection of haplotypes and identification of distinct strains in the population. We thus set out to use the approach we devised to infer the composition of strains in our MS2 samples. Notably, this is challenging on two fronts: first, our association approach can tell us which mutations in the Min-ION data are real, and which pairs are associated, but it does not tell us what their frequency is (or rather, we do not trust the observed frequencies given the very high error rate). Second, we are interested in inferring haplotypes, i.e. which mutations reside together regularly on the same genomes and which do not. Once again, the high error rate makes this extremely tricky since we observe reads bearing almost all possible combinations of mutations. In fact, most reads bore so many variants, that \u223c15-20% of the bases called per read were different than the reference (Supplementary Figure S5 ). In this case, we used a two-pronged approach: we first focused only on variants inferred as true mutations using our method, AssociVar, as described above. Second, we used the inferred error threshold to infer the probability of two or more variants residing erroneously on the same genome, utilizing an iterative approach in which we compare a given haplotype to haplotypes already classified as reliable (Materials and Methods). In our case, because the MS2 populations bore many mutations at low frequencies, we also limited the analysis to variants that appeared at a frequency of at least 5% in the MinION sequencing results.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1012,
+                    "end": 1021,
+                    "text": "Figure S5",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Haplotype/strain identification"
+        },
+        {
+            "text": "The summary of inferred strains is shown in Table 2 and provides a few interesting insights into our populations. First, seventeen and ten different strains were identified in each of the A and B populations, respectively. Second, A1664G and T1764-, both of which rose to high frequencies in both replicates, were found to be mutually exclusive in both replicates. On the other hand, G3114-(which we know from the Illumina data to actually be G3114A) was found to be tightly linked to T1764-, in line with the very similar frequencies of these mutations in p15B. All of these results were unobtainable with the Illumina results alone and highlight the added value of using MinION for inferring viral genotypes.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 44,
+                    "end": 51,
+                    "text": "Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Haplotype/strain identification"
+        },
+        {
+            "text": "We have developed here a simple and intuitive approach, AssociVar, to (a) detect bona fide mutations from MinION population sequencing, and (b) infer the set of haplotypes (strains) present in a population. Our approach is based e148 Nucleic Acids Research, 2019, Vol. 47, No. 22 PAGE 10 OF 12 Figure 6 . Receiver operating characteristic (ROC) of AssociVar versus a na\u00efve method. Performance of prediction of mutations is assessed using ROC curves, where each curve is plotted as a function of the normalized chi-square statistic threshold for AssociVar (solid lines), or frequency threshold for the na\u00efve method (dashed lines). The Illumina results are used as the gold standard test to define a mutation as true or false, and the three different colors represent different thresholds for this definition. For example, for the blue line labeled as 10%, only mutations at a frequency higher than 10% according to Illumina are defined as true. on the notion that sequencing errors will be randomly dispersed along the reads, whereas real mutations tend to associate with specific genetic backgrounds. In the case where technical error rates are high (such as occurs with Min-ION), this allows one to focus on the real genetic diversity that is hidden in the vast array of technical errors generated by this method. Notably, our approach is general enough so that it can be used for any type of long read sequencing.",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 279,
+                    "text": "Research, 2019, Vol. 47, No. 22",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 294,
+                    "end": 302,
+                    "text": "Figure 6",
+                    "ref_id": null
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We applied AssociVar to sequencing data from an evolved population of phages where Illumina sequencing was available, allowing us to corroborate whether mutations we found based on analysis of the MinION data alone were indeed real. Strikingly, all but one of the high frequency mutations observed in the p15A and p15B data (>10%) were picked up using AssociVar, despite the fact that the 99th percentile for technical errors was as high as 43% (Table 1 ). In fact, despite the very high deletion rate, AssociVar accu-PAGE 11 OF 12 Nucleic Acids Research, 2019, Vol. 47, No. 22 e148 rately identified the one real deletion mutation present in our populations, suggesting a very high sensitivity of the method. Our approach also shows high specificity, with a false positive rate lower than 0.1%. Finally, we have shown that using a na\u00efve approach based on a frequency threshold as a cutoff to separate real mutations from errors results in extremely high false positive rates, demonstrating the value of our approach.",
+            "cite_spans": [
+                {
+                    "start": 526,
+                    "end": 582,
+                    "text": "OF 12 Nucleic Acids Research, 2019, Vol. 47, No. 22 e148",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 445,
+                    "end": 453,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Originally, when observing the data in Figure 1 , as a first approximation it seemed likely to assume that mutations with a similar frequency would be mutations shared on the same genomes. Accordingly, we had hypothesized that at least two clusters of mutations in line B (T1764-/G3114A/A1664G and A1611G/ A1744G/T1440C/G1906A/A535G) would be present on the same genomes. This turned out to be only partially true: mutations with similar frequency were sometimes indeed on the same genomes (e.g. T1764-/G3114A), but sometimes completely not (the former two and A1664G) ( Table 2) . These results illustrate the utility of MinION to resolve the relationships among mutations, and its advantage for differentiating variants with mutations displaying similar frequencies.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 39,
+                    "end": 47,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 571,
+                    "end": 579,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We further used our approach to perform the reverse analysis: when analyzing the mRNA of the yeast gene enolase, our analysis suggested that the mRNA population sequenced was not homogenous. This was then precisely verified by Illumina sequencing of the same population. Remarkably, this analysis shows that (a) AssociVar can be used to analyze different types of data, ranging from virus genomes to mRNA of any organism, and (b) AssociVar can be used without sequencing a control sequence. We note that this requires more caution, since our analysis of MS2 showed that spurious associations between mutations may be created artifactually by the sequencing process itself. Use of AssociVar without a control sequence requires the user to specify the threshold of the normalized chi square statistic. As with all methods, the specificity of AssociVar comes at the cost of sensitivity, and vice versa ( Figure 6 ). Nevertheless, it seems the best strategy we can suggest is to use a very high threshold, which is extremely effective for variants at a frequency higher than 5 or 10%.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 901,
+                    "end": 909,
+                    "text": "Figure 6",
+                    "ref_id": null
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "It is important to delineate the limitations of our approach. We note that we cannot distinguish haplotypes/strains that differ from each other at one position only, because our method relies on the association between two positions containing real mutations. Similarly, if two strains differ at very proximal loci, AssociVar will also fail, since we filter out associations between mutations that are <15 base pairs apart. We postulate that the presumably artifactual associations we observed between proximal loci are induced by the RNA (or DNA) passing through the pore of the sequencer. Finally, we also noted specific patterns of mutations that were reproduced between our control sequence and the two evolved populations of MS2. This suggests two possibilities: first, perhaps sequence context and/or RNA secondary structure induce specific errors in MinION, and second, it is possible that MS2 genomes undergo RNA modifications and these are the cause of these specific errors. MinION direct RNA sequencing records the raw electric signal produced by the RNA going through the pores, and this potentially offers the opportunity to identify RNA modifications using a newly developed tool called Tombo (version 1.5) by Oxford Nanopore (https://nanoporetech.github.io/tombo/). Unfortunately, we could not conclusively determine the presence or effect of RNA modifications and its relationship to associated mutations. Our results suggest that Tombo still suffers from a high false positive rate, while the true positive rate of the method has not yet been determined (38) . The former was demonstrated herein by a high number of presumably modified sites found in the enolase yeast gene, despite the fact this gene was created synthetically in vitro, where modifications would not likely occur. We nevertheless analyzed our MS2 samples and found a similar pattern of presumable modifications among the three MS2 samples, yet there was no correlation between sites with a high rate of modification and sites with high normalized chi scores by AssociVar (see supplementary text, Supplementary Figures S7-S10 ). While we cannot rule out that RNA modifications are responsible for the pattern of errors in MinION, we conclude that further research is required to determine which factors induce these errors.",
+            "cite_spans": [
+                {
+                    "start": 1571,
+                    "end": 1575,
+                    "text": "(38)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 2081,
+                    "end": 2109,
+                    "text": "Supplementary Figures S7-S10",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Although our method is ideal for direct RNA or direct DNA sequencing, we also used the method for cDNA that was amplified from RNA in the case of the Zika virus analysis (30) (Supplementary Figure S4) . When we tried to reconstruct the known haplotypes present in this sample, our method did not fully succeed to recapitulate the haplotypes (data not shown). One possible explanation for this is that during the amplification step, either chimeric sequences of both strains were created, or PCR recombination occurred, breaking down some of the linkage between sites. In such cases, the use of AssociVar is limited to the detection of mutations only, and this further suggests that direct RNA/DNA sequencing may be preferable.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 190,
+                    "end": 200,
+                    "text": "Figure S4)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "To summarize, we anticipate that due to its ease of use and advantages listed above, direct long read sequencing using MinION will be increasingly valuable in the field of virus genetics and in additional diverse fields such as transcriptome studies, cancer genetics, and microbiology. The AssociVar approach we suggest herein is simple and applicable to any organism, and as such we hope it will be a useful addition to the genomics toolbox in multiple fields.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Viral mutation rates",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanjuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Nebot",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chirico",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mansky",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Belshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "9733--9748",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The defective component of viral populations",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Rezelj",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Levi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vignuzzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Curr Opin Virol",
+            "volume": "33",
+            "issn": "",
+            "pages": "74--80",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Early minion\u2122 nanopore single-molecule sequencing technology enables the characterization of hepatitis B virus genetic complexity in clinical samples",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Sauvage",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Boizeau",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Candotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vandenbogaert",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Servant-Delmas",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Caro",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Laperche",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS One",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Viral phylodynamics",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Volz",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Koelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bedford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Comput. Biol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Minority HIV-1 drug resistance mutations are present in antiretroviral treatment-na\u00efve populations and associate with reduced treatment efficacy",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lipscomb",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Irlbeck",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Craig",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Monsour",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sandstrom",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "PLoS Med",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Evolutionary analysis of the dynamics of viral infectious disease",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Pybus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat. Rev. Genet",
+            "volume": "10",
+            "issn": "",
+            "pages": "540--550",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Highly accurate-single chromosomal complete genomes using IonTorrent and MinION sequencing of clinical pathogens",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Vasudevan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "K D"
+                    ],
+                    "last": "Ragupathi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jacob",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J G"
+                    ],
+                    "last": "Veeraraghavan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Genomics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ygeno.2019.04.006"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Antimicrobial resistance prediction and phylogenetic analysis of Neisseria gonorrhoeae isolates using the Oxford Nanopore MinION sequencer",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Golparian",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Dona",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sanchez-Buso",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Foerster",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Endimiani",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Low",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Unemo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Sci. Rep",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Field investigation with real-time virus genetic characterisation support of a cluster of Ebola virus disease cases in Dubreka",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pini",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zomahoun",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Duraffour",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Derrough",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Charles",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Quick",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Loman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cowley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Leno",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ouedraogo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Eurosurveillance",
+            "volume": "23",
+            "issn": "",
+            "pages": "20--26",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Distinguishing low frequency mutations from RT-PCR and sequence errors in viral deep sequencing data",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Orton",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Morelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Paton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Haydon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "BMC Genomics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Evolution of foot-and-mouth disease virus intra-sample sequence diversity during serial transmission in bovine hosts",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Morelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Knowles",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Juleff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Paton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Haydon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Vet. Res",
+            "volume": "44",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "MinION nanopore sequencing identifies the position and structure of bacterial antibiotic resistance determinants in a multidrug-resistant strain of enteroaggregative Escherichia coli",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Greig",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Dallman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hopkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jenkins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Microb Genom",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/mgen.0.000213"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Coming of age: ten years of next-generation sequencing technologies",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Mcpherson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mccombie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat. Rev. Genet",
+            "volume": "17",
+            "issn": "",
+            "pages": "333--351",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Evaluating the accuracy and sensitivity of detecting minority HIV-1 populations by Illumina next-generation sequencing",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Kireev",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lopatukhin",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Murzakova",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Pimkina",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Speranskaya",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Neverov",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Fedonin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Fantin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Shipulin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Virol. Methods",
+            "volume": "261",
+            "issn": "",
+            "pages": "40--45",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Genomics and outbreaks: foot and mouth disease",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Freimanis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Di Nardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Bankowska",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wadsworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Knowles",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Rev. Sci. Tech",
+            "volume": "35",
+            "issn": "",
+            "pages": "175--189",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Examining sources of error in PCR by single-molecule sequencing",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Potapov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS One",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "PCR amplification introduces errors into mononucleotide and dinucleotide repeat sequences",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Clarke",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rebelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Goncalves",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Boavida",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jordan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Clin. Pathol.-Mol. Pathol",
+            "volume": "54",
+            "issn": "",
+            "pages": "351--353",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Insight into biases and sequencing errors for amplicon sequencing with the Illumina MiSeq platform",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schirmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Ijaz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "D&apos;amore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Sloan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Quince",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nucleic Acids Res",
+            "volume": "43",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "A general method to eliminate laboratory induced recombinants during massive, parallel sequencing of cDNA library",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Waugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Cromer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Grimm",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chopra",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mallal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Davenport",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Virol. J",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Minimizing DNA recombination during long RT-PCR",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Burger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Keithly",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Weiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Virol. Methods",
+            "volume": "76",
+            "issn": "",
+            "pages": "139--148",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "DNA recombination during PCR",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Meyerhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Vartanian",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wain-Hobson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Nucleic Acids Res",
+            "volume": "18",
+            "issn": "",
+            "pages": "1687--1691",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Direct RNA sequencing of the coding complete influenza A virus genome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Keller",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rambo-Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ridenour",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Shepard",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Neuhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Dugan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wentworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Barnes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Scientific reports",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Highly parallel direct RNA sequencing on an array of nanopores",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Garalde",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Snell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Jachimowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sipos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lloyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bruce",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Pantic",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Admassu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Warland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nat. Methods",
+            "volume": "15",
+            "issn": "",
+            "pages": "201--206",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "The Oxford Nanopore MinION: delivery of nanopore sequencing to the genomics community",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Paten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Akeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Genome Biol",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Multiplex PCR method for MinION and Illumina sequencing of Zika and other virus genomes directly from clinical samples",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Quick",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Grubaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Pullan",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Claro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Gangavarapu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Oliveira",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Robles-Sikisaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Beutler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Nat. Protoc",
+            "volume": "12",
+            "issn": "",
+            "pages": "1261--1276",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "MinION nanopore sequencing of an influenza genome",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Eccles",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Front. Microbiol",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Long-read sequencing-a powerful tool in Viral transcriptome research",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Boldogk\u0151i",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Moldov\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Bal\u00e1zs",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Snyder",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tomb\u00e1cz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Trends Microbiol",
+            "volume": "27",
+            "issn": "",
+            "pages": "578--592",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Oxford Nanopore sequencing, hybrid error correction, and de novo assembly of a eukaryotic genome",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goodwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gurtowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ethe-Sayers",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Deshpande",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schatz",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mccombie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Genome Res",
+            "volume": "25",
+            "issn": "",
+            "pages": "1750--1756",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Assessing the performance of the Oxford Nanopore Technologies MinION",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Laver",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "O&apos;neill",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Farbos",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Paszkiewicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Studholme",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Biomol. Detect. Quantif",
+            "volume": "3",
+            "issn": "",
+            "pages": "1--8",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Grubaugh",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Gangavarapu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Quick",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Matteson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "De Jesus",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Main",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Paul",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Brackney",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Grewal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "From squiggle to basepair: computational approaches for improving nanopore sequencing read accuracy",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kloosterman",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "De Ridder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Genome Biol",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Genomewide patterns of substitution in adaptively evolving populations of the RNA bacteriophage MS2",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Betancourt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Genetics",
+            "volume": "181",
+            "issn": "",
+            "pages": "1535--1544",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Effect of deleterious mutation-accumulation on the fitness of RNA bacteriophage MS2",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Lapenta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Elena",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Evolution",
+            "volume": "54",
+            "issn": "",
+            "pages": "686--691",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Accurate in vivo population sequencing uncovers drivers of within-host genetic diversity in viruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gelbart",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harari",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kustin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mandelboim",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Mor",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stern",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/www.doi.org/10.1101/349498"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The ASQC basic references in quality control: statistical techniques",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Iglewicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hoaglin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Improved data analysis for the MinION nanopore sequencer",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Fiddes",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Miga",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Olsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Paten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Akeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat. Methods",
+            "volume": "12",
+            "issn": "",
+            "pages": "351--356",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Characterization of MinION nanopore data for resequencing analyses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Magi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Giusti",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tattini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Brief. Bioinform",
+            "volume": "18",
+            "issn": "",
+            "pages": "940--953",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Direct RNA nanopore sequencing of full-length coronavirus genomes provides novel insights into structural variants and enables modification analysis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Viehweger",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Krautwurst",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Lamkiewicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Madhugiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Holzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Marz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Genome Res",
+            "volume": "29",
+            "issn": "",
+            "pages": "1545--1554",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "(c) Normalization of the chi-square statistic. To make the different positions comparable, we normalized the chi square statistics per position by calculating a modified z-test score z for the chi-square statistic x of each pair of positions ( p 1 , p 2 ). This was done by dividing the difference between x and the median by the median absolute deviation (MAD) and multiplying the result by 0.6745, as follows: z = 0.6745 * (x \u2212 medi an)/MAD. Thus, for each position p 1 we calculated its median and its median absolute deviation across the chi-square statistics for position p 1 and any other position q. This essentially served to test whether some positions display strong outliers in their chi-square statistics (35), as can be seen visually for bona fide mutations displayed in Figures 4 and 5. (d) Local maximum analysis. Because positions proximal",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Variant distributions from the populations sequenced using Illumina (A, C, E) and MinION (B, D, F) for samples control (A, B), p15A (C, D) and p15B (E, F). Variants are broken down by the type of mutation they cause, substitutions or point deletions. 'X' indicates a single base deletion, '-X' indicates a single base insertion and 'XY' indicates X replaced by Y (where X and Y are any of the four bases).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Conditional probabilities P(column|row) of observing one variant (column) in the presence of a second variant (row) on the same read. Bottom row shows P(column), probability of variant in column. The analysis was performed on the set of reads spanning across the set of positions in each table, filtering out for reads that were either non-WT or did not contain the specific mutation in the table. Cells are color-coded using a gradient to highlight similar values across cells. (A) The highest frequency-presenting variants in MinION for line B (top three substitutions and top three deletions), all of which were not detected using Illumina and thus classified as technical errors. Values across a given column are more or less identical (with the exception of seeing a variant with itself), showing that P(X|Y) = P(X). (B) The mutations identified by Illumina in line B.Values across a given column are sometimes dramatically different. For example, looking at the A1744G column, A1744G tends to be highly associated with T1440C and A1611G, somewhat associated with A1664G and G1906A, and not at all associated with A535G, T1764-and G3114A. This pattern supports the fact that these are all bona fide mutations rather than technical errors.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "10%) according to Illumina. When focusing on the false positive rate of the method, AssociVar reported one out of 3467 positions as false positives for p15A and two out of 3475 for p15B, where false positives are defined as positions identified in the association analysis but segregating at a fre-",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Chi-square statistics plotted along the genome for the (A) p15A and (B) p15B MinION sequencing. Each dot represents the normalized chi-square statistic between a given variant and another variant at a position more than 15 bp apart. Associations marked in blue are classified as non-significant. Associations marked as green are true positives, where the position in the genome they identify is a real mutation as verified by Illumina sequencing. Associations marked as red identify positions that are false positives and do not have real mutations according to the Illumina results (one position for p15A and two positions for p15B). The red line illustrates the cutoff defined by the control sequence. Notably, the blue dots above the line are positions near real mutations, removed by AssociVar via the requirement for a local maximum (Materials and Methods).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Chi-square statistics plotted along the gene for the enolase yeast gene. Two positions stand out as having a high association with each other, 363 and 606, evident by the two high peaks in the figure (green)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": "Estimated error frequencies for MinION sequencing. Shown are mean frequency values, 95th and 99th percentile values for each type of error, based on the control sample (Materials and Methods) Figure 1. Mutation frequencies in two MS2 phage populations evolved over 15 passages, based on Illumina sequencing. Shown are the frequencies of mutations that were detected at a frequency >10% in passage 15 in either of the two replicate populations. Mutations are spread horizontally for visual clarity only.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Strains in the p15A and p15B populations inferred by AssociVar and their respective read counts and frequency in the populations. Very low frequency strains are not shown.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank David Burstein and Tzachi Hagai for critical reading. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "text": "Supplementary Data are available at NAR Online.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SUPPLEMENTARY DATA"
+        }
+    ]
+}

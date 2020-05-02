@@ -1,0 +1,1414 @@
+{
+    "paper_id": "e5b67b44363732e3c6c16a4948fdff40eeab3797",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Edward",
+                "middle": [],
+                "last": "De Brouwer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Daniele",
+                "middle": [],
+                "last": "Raimondi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yves",
+                "middle": [],
+                "last": "Moreau",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background. On March 11, 2020, the World Health Organization declared the COVID-19 outbreak, originally started in China, a global pandemic. Since then, the outbreak has indeed spread across all continents, threatening the public health of numerous countries. Although the Case Fatality Rate (CFR) of COVID-19 is relatively low when optimal level of healthcare is granted to the patients, the high percentage of cases developing severe pneumonia and thus requiring respiratory support is worryingly high, and could lead to a rapid saturation of Intensive Care Units (ICUs). To overcome this risk, most countries enacted COVID-19 containment measures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "In this study, we use a Bayesian SEIR epidemiological model to perform a parametric regression over the COVID-19 outbreaks data in China, Italy, Belgium, and Spain, and estimate the effect of the containment measures on the basic reproduction ratio R 0 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Findings. We find that the effect of these measures is detectable, but tends to be more gradual than expected, and that a progressive strengthening of these measures usually reduces the R 0 below 1, granting a decay of the outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Interpretation. We discuss the biases and inconsistencies present in the publicly available data on COVID-19 cases, providing an estimate for the actual number of cases in Italy on March 12, 2020, hypothesizing that the 20-29-yrs age group had a major role in spreading the virus. Lastly, we provide indications that the idea of \"flattening the curve\" is likely to be unfeasible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "De Brouwer et al. | medRxiv | March 30, 2020 | 1-8",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "More than 100 countries (1) in the world are currently affected by the coronavirus disease (COVID- 19) pandemic (2) . COVID-19 is a respiratory infectious disease caused by the SARS-CoV-2 virus (previously known as 2019-nCOV), and it originated in December 2019 in Wuhan (China), most probably following a zoonotic event (3, 4) . COVID-19 epidemics are now affecting many European countries, which are at different stages of contagion and containment measures (4) . The virus can be found in the respiratory tract of patients 1-2 days before the onset of symptoms, where it shows active replication (5), persisting 7-15 days (4) . Italy was the first to be seriously affected (6) , with Spain, France, Belgium, and other countries being 7-14 days behind. Although definitive data on the COVID-19 Case Fatality Rate (CFR) are still missing and the current ones are biased by the testing policies and the demographic structure of the population, the observed CFR may be as high as of 10.0% in Italy, 4.0% in China, 6.0% in Spain, and 4.3% worldwide. In Italy, it has been observed that 7-11% of the cases present Acute Respiratory Distress syndrome (ARDS) caused by SARS-CoV-2 pneumonia, and thus require respiratory support in Intensive Care Units (ICUs) (6, 7) . European Countries tend to have between 4.2 (Portugal) and 29.2 (Germany) ICU beds per 100,000 inhabitants (8) (EU average is 11.5). This indicates that an exponential-like growth of the COVID-19 cases can rapidly reach oversaturation of the available ICU beds, thereby decreasing the quality of the medical treatments provided to patients and worsening the case fatality rate (6, 9) . To avoid this scenario, almost every country affected by the COVID-19 pandemic has put in place measures to contain the epidemic, in an attempt to relieve the strain on the healthcare system. When it comes to epidemic modeling, these measures affect the basic reproduction ratio R 0 , which is the expected number of cases directly generated by an infected individual in a population susceptible to infection (10) . Current estimates of this value range from 2 and 6.5 in China (11) (12) (13) (14) and 3.1 in the first phase of the outbreak in Italy (15) . In SEIR (Susceptible, Exposed, Infected, Removed) (16) modeling of epidemics, R 0 = \u03b2/\u03b3, with \u03b2 representing the number of contacts from an infected individual per unit of time and \u03b3 \u22121 the period in which a patient is infectious. When R 0 > 1, the number of cases is growing, else, the epidemic is receding. Countries affected by the COVID-19 pandemic deployed containment measures that acted on these two parameters. China, for example acted on R 0 by quarantining or hospitalizing cases as soon as they were becoming symptomatic, with an average time elapsed between symptoms and hospitalization of 2.3 (12, 13) or 2.9 days (14) . Similar measures have been adopted by the European coun-tries in which COVID-19 started spreading (4) . Italy was the first country affected in Europe, and the first COVID-19 cluster prompted the lockdown of the town of Codogno and later of the Lodi province. The further spreading of the cases led to the lockdown of the most affected regions in northern Italy and eventually of the entire country. The growth of cases in Spain started with a delay with respect to Italy, but the growth trend prompted the government to lock down first Madrid and then the entire country. Similar incremental actions have been adopted in Belgium, on the March 13, 2020 and on March 18, 2020. In this study, we collected the publicly available data regarding cases, recovered and deaths related to the COVID-19 epidemics in China, Italy, Belgium and Spain and we trained a Bayesian SEIR model to perform a parametric regression on these time series. We modeled the outbreak progression in those countries inferring the change of basic reproduction ratio R 0 due to the introduction of government-issued containment measures aimed at slowing the outbreak. Approaches similar to ours could help governments nowcasting the behavior of the outbreaks and detecting flaws in the containment measures in place and thus act as rapidly as possible, ensuring a proper containment of the disease. We show that the parameters learned by the SEIR model suggest an gradual effectiveness of the containment, with the most drastic effect observed in China, with a 61% reduction of R 0 after the measures introduced on February 23, 2020. We also provide an estimation of the actual number of COVID-19 cases in Italy for March 12, 2020, suggesting that 1) this number could have been at that time around 3 times higher than the official count and 2) unreported people in the 20-29-yrs age group might have played a crucial role in the virus diffusion. Finally, we argue that the idea of \"flattening the curve\" (i.e., reducing the R 0 of the epidemic to a level that would allow the gradual build up of natural immunity in the population) is likely to be unfeasible, since reaching herd immunity at a manageable pace is probably not possible in a reasonable time scale.",
+            "cite_spans": [
+                {
+                    "start": 24,
+                    "end": 27,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 99,
+                    "end": 102,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 112,
+                    "end": 115,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 321,
+                    "end": 324,
+                    "text": "(3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 325,
+                    "end": 327,
+                    "text": "4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 460,
+                    "end": 463,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 625,
+                    "end": 628,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 676,
+                    "end": 679,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1254,
+                    "end": 1257,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1258,
+                    "end": 1260,
+                    "text": "7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1640,
+                    "end": 1643,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1644,
+                    "end": 1646,
+                    "text": "9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 2058,
+                    "end": 2062,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 2127,
+                    "end": 2131,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2132,
+                    "end": 2136,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 2137,
+                    "end": 2141,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2142,
+                    "end": 2146,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2199,
+                    "end": 2203,
+                    "text": "(15)",
+                    "ref_id": null
+                },
+                {
+                    "start": 2256,
+                    "end": 2260,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2833,
+                    "end": 2837,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2938,
+                    "end": 2941,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 3500,
+                    "end": 3515,
+                    "text": "March 18, 2020.",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "We performed a parametric Bayesian regression (see Methods) on the mainland China COVID-19 epidemic data by training a SEIR model on the cumulative cases time series, with the goal of inferring the change in R 0 = \u03b2/\u03b3 produced by the increasingly stringent containment measures introduced by the Chinese government, which mainly aim at reducing the frequency of the contacts \u03b2 \u22121 between individuals. We thus used the \u03b2 i before and after the introduction of each containment measures as sole trainable parameters in our SEIR model. We kept \u03b3 \u22121 fixed to 2.5, which is the mean between the current estimates for the mean time elapsed between insurgence of symptoms and hospitalization in China, which correspond to 2.3 (12, 13) and 2.9 days (14) . In this study we used an average incubation time \u03b4 \u22121 = 5.2 days, as reported in (12) . The implementation of the first containment measure in China happened on February 23, 2020, when all public transportation was suspended in Wuhan, corresponds to a 61% decrease in the inferred R 0 , bringing it down from 4.94 (CI 95% [4.80,4 .99]) to 1.90 (CI 95% [1.84,2.0]). The introduction of the more stringent measures on February 23, 2020, including closing all non-essential companies and manufacturing plants in Hubei province corresponded to a further reduction to the R 0 identified by our SEIR model, down to 0.055.",
+            "cite_spans": [
+                {
+                    "start": 741,
+                    "end": 745,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 829,
+                    "end": 833,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1070,
+                    "end": 1077,
+                    "text": "[4.80,4",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Containment measures in China."
+        },
+        {
+            "text": "Italy is the first European country that has been severely hit by the COVID-19 pandemic, and, at the time of writing, it is the second nation in the world in terms of cases, with 92,472. The Italian government reacted to the epidemic by closing all schools and universities on March 4, 2020, putting the north of Italy under lockdown on March 8, 2020, and extending this lockdown to the entire country few days later, on March 10, 2020. On March 20, 2020, the government introduced even stricter measures, banning open-air sports and closing parks and public green. We used the data of the Italian COVID-19 outbreak provided by the Protezione Civile to infer the R 0 before and after the containment measures were implemented. We fixed \u03b3 \u22121 to be equal to 4, which is the median time between insurgence of symptoms and hospitalization, as estimated by the Istituto Superiore di Sanit\u00e0 (ISS) (17) . The only free parameters in our Bayesian SEIR regression were thus the \u03b2 i associate to each date in which containment measures have been implemented as only free parameters, as shown in Fig. 2 . From this analysis, it appears that the initially inferred R 0 = 3.31 (CI 95% [3.13, 3.45] ) is in line with the 3.1 estimate provided in (15) . The R 0 = 2.53 (CI 95% [2.2, 2.9]) inferred after the nationwide lockdown in effect from March 10, 2020 suggests that these measure had a gradual effectiveness and that did not provide an immediate dramatic change in R 0 . For example, the effects these containment measures were initially less evident than the ones implemented in China, even though the data clearly departed from a situation without containment measures in place (see Suppl. Fig. 11 ). This suggests that the measures were effective but their actual implementation was more gradual. Allowing a change in \u03b2 also on March 20, 2020 nevertheless shows that R 0 decreased to 0.69 (CI 95% [0.15, 1.32]), initiating the decrease of the new cases. ",
+            "cite_spans": [
+                {
+                    "start": 891,
+                    "end": 895,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1172,
+                    "end": 1184,
+                    "text": "[3.13, 3.45]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1232,
+                    "end": 1236,
+                    "text": "(15)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1085,
+                    "end": 1091,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1683,
+                    "end": 1690,
+                    "text": "Fig. 11",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Containment measures in Italy."
+        },
+        {
+            "text": "Belgium is one of the European countries in which the COVID-19 pandemic arrived later, with the first confirmed case reported on February 4, 2020. The growth of the number of cases in Belgium started from March 1, 2020, and on March 12, 2020, the Belgian government issued containment measures involving the closure of schools, cafes and restaurants starting from March 14, 2020. The government then extended these measures, enforcing stricter \"physical distancing\", starting from March 18, 2020, at noon. We modeled the growth of the COVID-19 epidemic in Belgium using the Bayesian SEIR model to infer the effect of the containment measures through a change in the \u03b2 i parameters. We fixed \u03b3 \u22121 to be 4 days, since no official data on the mean time between symptoms onset and hospitalization is available from official sources and we assumed China to be an upper bound in terms of hospitalization efficiency. From Fig. 4 we can see that the SEIR model infers a change in R 0 that decreases from the original 3.38 (CI 95% [2.90,3.85]) to 2.00 (CI 95% [1.81,2.19]), suggesting a situation similar to Italy after the introduction of the first containment measures. The high initial value obtained for R 0 might be partly explained by under-reporting of cases (see Discussion). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 915,
+                    "end": 921,
+                    "text": "Fig. 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Containment measures in Belgium."
+        },
+        {
+            "text": "Although the first COVID-19 case in Spain dates to March 1, 2020, the epidemic there did not show worrying numbers until the end of February, with a rapid growth starting from the beginning of March. This crisis was answered first with containment measures in the Community of Madrid, enforced from March 11, 2020, followed by nationwide measures enforced from March 15, 2020. We used the SEIR model to infer the change in \u03b2 due to the implementation of the containment measures. Similarly to the Italian and Belgian case, we observe a clear decrease in the R 0 , but the model deems it not drastic enough to reverse the trend of the epidemic already. This might be because of under-reporting of the actual number of COVID-19 cases. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Containment measures in Spain."
+        },
+        {
+            "text": "testing. The official counts of COVID-19 cases are in manu cases severely under-estimated and affected by clear biases, due to 1) the limited number of tests that can be run and 2) their preferential usage on symptomatic cases or high-risk subjects. In an attempt to address this issue, we computed an estimate of the actual number of COVID-19 cases in Italy on March 12, 2020. To do so we relied on the fatality rate (CFR) of the disease and the age distribution of the cases in South Korea, which adopted an extensive testing strategy to face the COVID-19 crisis, administering one test every 142 citizens, with no evident biases. We thus considered this to be the most reliable data available: South Korea shows indeed a Pearson correlation coefficient between the number of cases detected among 10-yrs age bins and its demographic structure of r = 0.69 (p-value= 0.039), while Italy has an r = 0.21 (p-value= 0.591), suggesting a much more skewed testing. Our estimation is based on three other assumptions: 1) that the disease propagated similarly in South Korea and Italy over the different age bins; 2) that South Korean and Italian healthcare have similar standards, thus suggesting a comparable fatality rate once the testing bias is addressed; and 3) that the healthcare system in Italy (e.g., the availability of ICU beds) has not reached saturation, and to satisfy this condition we indeed chose to perform this estimation for March 12, 2020, as lockdown measures in Italy appear to be the result of the healthcare system rapidly approaching saturation. We first adjusted the South Korean number of cases by age group with respect to the demographic structure of the Italian population. As reported on Figure 5 (green bars), the age of confirmed patients is heavily skewed towards older individuals in Italy, while it is more consistent with the demographic structure in the South Korean data. We argue that the skewness of the Italian cases towards older age groups results from the fact that on the February 26, 2020 on the Italian testing strategy changed from blanket testing to focusing on symptomatic and high-risk individuals (15) , thus introducing a clear sampling bias. We then adjust the proportion of cases per age in Italy (see Suppl. Material) by computing the proportion ... (orange bars in Figure 5 ), and we computed the expected number of cases in Italy based on the number of deaths and use it to further adjust the age distribution. In our case, bins from 0 to 30 years old were undefined, but we addressed this issue by using the corrected age distribution of Italian cases ... . Using the data available on March 12, 2020 for Italy and South Korea, we find an estimated number of real cases of 45, 052, instead of the 15, 113 officially reported, indicating a three fold increase. Analysis of the healthcare system strain-level during the epidemic progression. The COVID-19 pandemic has been putting immense pressure on the healthcare systems of many countries because it spreads widely in the population in an asymptomatic or mild form (4), but a significant percentage of the symptomatic cases (6-11% in Italy (6, 7)) requires ICU treatment, which is a limited resource in any country, including European countries (8) . The availability of ICU beds is crucial (9) because so far there is no established curative treatment for COVID-19 and the clinical best practice is to put patients suffering from Acute Respiratory Distress Syndrome under respiratory support, for a period that may last up to two weeks (6) . Saturation of ICU capacity causes a dramatic decrease of the quality of the medical treatments provided to patients, thereby worsening the observed Case Fatality Rate (CFR) (6, 9) . To analyze the burden that the COVID-19 epidemic brings to the national healthcare systems of the affected countries, we plot the evolution over time of the log-CFR (the log-ratio of deaths per confirmed COVID-19 case). During the first days of the epidemics, we expect this rate to be noisy: due to the delay between infections and deaths, the number of deaths remains very low during the first days while the number of cases grows. After this transition period, first deaths occur and if ICU units do not reach saturation, we expect this rate to be stay constant. However, if this rate increases, this suggests that the healthcare system is under strain as it tries to cope with the growing number of patients requiring ARDS treatment. Towards the end of the epidemics, when the cumulative number of cases flattens out, the rate is expected to increase, again due to delay between the reporting of cases and the occurrence of deaths. Fig. 6 shows this log-ratio over time in China. After some expected initial oscillations (also possibly due to the change in the testing strategy), China showed a steep increase incidence of deaths with respect to the number of cases, indicating a significant strain over its healthcare system, and possibly the degradation of the quality of the care provided. Towards, the end of the epidemics, when the number of cases flattens, we observe a slower steady increase. The same plot is shown for Italy in Figure 7 . Shortly after the first days of the epidemics, the mortality rate started growing quickly, suggesting an increasing strain on ICUs and the Italian healthcare system, as reported also in (9). ",
+            "cite_spans": [
+                {
+                    "start": 2145,
+                    "end": 2149,
+                    "text": "(15)",
+                    "ref_id": null
+                },
+                {
+                    "start": 3251,
+                    "end": 3254,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 3543,
+                    "end": 3546,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 3722,
+                    "end": 3725,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 3726,
+                    "end": 3728,
+                    "text": "9)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1714,
+                    "end": 1722,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 2318,
+                    "end": 2326,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 4667,
+                    "end": 4673,
+                    "text": "Fig. 6",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 5171,
+                    "end": 5179,
+                    "text": "Figure 7",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "Analysis of reporting in official counts and biases in"
+        },
+        {
+            "text": "Effectiveness of containment measures. Containment measures in China significantly reduced COVID-19 spreading. The first lockdown resulted in a 61% decrease of the reproduction factor R 0 and the second, stricter wave of measures eventually managed to bring it to close to 0. We do however observe that while the model was able to fit the Italian, Belgian, and Spanish data relatively well, its fit of the data from China was rather mediocre. We are unsure about what could have caused this discrepancy. By contrast, containment measures in Italy appear to have had a more gradual effect. The reason for this is not entirely clear. Data from the Lombardy region, based on anonymous cell phone tracking (not showed here), suggests that almost 40% of the population of Lombardy were still commuting and moving around notwithstanding quarantine measures, although the trend from February 26, 2020 and March 16, 2020 clearly indicates a progressive reduction of displacements. Such large percentage of the population moving across Lombardy might in part be explained by the fact that factory closures were only partial until March 23, 2020, when the Italian government issued a decree mandating the immediate halt of all non-essential production, industries, and businesses across the country. Data from the Italian Interior Minister (18) also indicates that during the lockdown 1.7 million police controls were carried out with infractions to the containment registered in 4% of controls. The analysis of the data from Belgium suggested high values for R 0 , despite the introduction of strict quarantine measures, can possibly be explained by some under-reporting in the data. Because of limited testing of the population, the number of infectious patients is probably significantly underestimated. Because the SEIR model assumes that the reported infectious patients are the ones infecting new patients, the inferred R 0 may be over-estimated, although is in the same range of R 0 estimations from other sources (R 0 estimates range from 2 and 6.5 in China (11) (12) (13) (14) and has been estimate to be 3.1 in the first phase of the outbreak in Italy (15) ).",
+            "cite_spans": [
+                {
+                    "start": 2056,
+                    "end": 2060,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2061,
+                    "end": 2065,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 2066,
+                    "end": 2070,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 2071,
+                    "end": 2075,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 2152,
+                    "end": 2156,
+                    "text": "(15)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "limit the ability to draw clear conclusions. The models fits presented in the Results section are based on the officially available COVID-19 cases counts from China, Italy, Belgium, and Spain. Even from a superficial analysis of this data, several biases that hinder the modeling of these outbreaks become clear. First, the number of tests that can be run each day is finite, because of the limited availability of supplies and personnel, making blanket testing currently impossible to perform in many countries. This results in a large number of unreported cases with respect to the available data. Second, if tests are performed mainly on symptomatic patients for diagnostic purposes, because of the generally higher age of the hospitalized cases, the resulting official COVID-19 cases data will show a striking proportion of patients over 60 years old, regardless of the actual demographic structure of the population (see Suppl. Fig. 13 ). Another reason why the sheer number of tests performed is not a clear indication of the level of bias present in the data is that the number of test performed is just an upper bound for the actual number of individuals screened, because for example medical personnel with high risk of exposure may undergo periodic tests. Moreover, the directives of the Italian Ministry of Health indicates that a COVID-19 patient must be negative to two consecutive tests performed with a 24h delay (19) to be considered as having recovered from the disease. The cumulative number of cases we used to fit the SEIR model is therefore most probably both severely underestimated and skewed towards older age groups in the population. Both in Belgium and in Italy, for instance, patients who are diagnosed as suspect COVID-19 case over the phone by their GP, but who present no immediate risk of complication, are nor tested, nor reported as new cases. As the epidemic progresses and healthcare resources become mobilized, testing capacity increases and we observe a growing number of newly tested individuals. Interestingly, the estimation of the actual (vs. reported) number of cases on March 12, 2020 in Italy suggests that, although heavily under-represented in the official data because of testing bias, the 20-29 age group is the most affected by COVID-19. Given that age group is particularly socially active, one might speculate that infections via this age group may have played a key role in the spread of COVID-19 across Italy, even though these cases ended up almost completely unreported. There are however some limitations to this analysis. While South Korea's testing strategy has clearly been comprehensive, it is not clear that it has been completely unbiased. In particular, the low number of cases in the 10-19 years bin compared to the 20-29 years bin might be explained by a radical difference in the true proportion of cases between those two age groups, but also by lower testing among younger individuals because they might have been considered at very low risk of complications and/or unlikely to be infectious. The information available does not allow us to discriminate between those explanations.",
+            "cite_spans": [
+                {
+                    "start": 1428,
+                    "end": 1432,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 933,
+                    "end": 940,
+                    "text": "Fig. 13",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Data biases and heterogeneity in the testing strategies"
+        },
+        {
+            "text": "A key assumption of our model is that new infections are caused by contamination from currently reported infectious individuals, because our modeling is based on the observed cases, for which official data exists. However, in practice, many of the newly diagnosed patients have been infected by the majority of unreported infectious people. Our model will thus infer an higher R 0 to compensate for the underestimated pool of infectious patients. This might explain the seemingly high values of R 0 estimates in Spain for instance. Moreover, every country adopted its own specific strategy for testing and reporting of cases, resulting in heterogeneity of the COVID-19 data coming from different countries. For example, South Korea opted for blanket testing of its population and selective quarantine of the positive cases, while Italy focused on testing high-risk and symptomatic subjects and generalized lockdown of the country to reduce the R 0 by acting on the frequency of social contacts. Even within the same country, the reporting strategy changed over time in some cases, leaving a trace in the data. For example, the number of daily new cases in China presents an unlikely spike of 14,108 new cases in a single day (February 12, 2020) because of a change in the reporting strategy, since also clinically diagnosed COVID-19 cases started to be included in the cases count, alongside laboratory tests. This measure was probably necessary to overcome the saturation of the maximum number of tests that could be performed every day, but caused the sudden inclusion of previous \"suspect\" cases in the official count. Similarly, Italy opted for testing only high-risk individuals and symptomatic cases from February 26, 2020 on (15) . Limitations of the model. In Suppl. Material we discuss some minor limitations of our model. One aspect of COVID-19 which is still unclear is whether presymptomatic individuals (during at least 2-3 days of the incubation period) are likely to be contagious with a degree of infectivity that is not yet well characterized. The SEIR model does not account for these effects and the high value of \u03b2 obtained might in part be caused by the need to account for those missing contagion events. Moreover, the number of symptomatic individuals might also be underestimated because testing is in some cases being focused on most severe cases, which similarly will lead to the inflation of \u03b2 and R 0 . The parameter \u03b3 was set for each country based on prior knowledge obtained from the literature rather than estimated from the data. The rationale for this approach is that parameter estimation from a single time-series of the autonomous response of a time-varying system is inherently challenging. We thus chose to use the information to carry out Bayesian inference for a piecewise stationary model with a single parameter \u03b2 i . More sophisticated models (with more patient compartments) might better capture the different effects described before, but such models will have significantly more free parameters, which means that those parameters might simply be unidentifiable from the available data or that overfitting is likely.",
+            "cite_spans": [
+                {
+                    "start": 1732,
+                    "end": 1736,
+                    "text": "(15)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data biases and heterogeneity in the testing strategies"
+        },
+        {
+            "text": "About \"flattening the curve\". Despite their limitations, our models show that the idea of \"flattening the curve\" (i.e., reducing the R 0 of the epidemic to a level that would allow the gradual build up of natural immunity in the population) is likely to be unfeasible. Any significant reduction of R 0 that would not bring it extremely close to 1 would overwhelm the healthcare system because the ICU capacity and the height of the epidemic peak in a immunologically na\u00efve population are simply on different scales (in the SIR, the proportion of the population infectious at the epidemic peak is given by 1 \u2212 1/R 0 \u2212 ln(R 0 )/R 0 . For example, 30% of the population is infectious at the epidemic peak for R 0 = 3, while the ICU capacity in for example Belgium is 15.9 beds per 100,000 inhabitants (8) ). Even if the epidemic could be controlled at a fixed level corresponding to a heavy but non-overloading load of the ICU capacity, the time needed to build herd immunity would be measured in years. As an example, an estimation for Belgium based on a permanent ICU capacity of 1,000 beds for coronavirus patients (compared to the pre-existing capacity of 1,750 (8) beds, which would mean a major continuing strain on the hospital system and thus the need to maintain supplementary capacity for several years), assuming an average ICU stay of 10 days (6, 20) , and assuming that 2% of patients affected in the general population would eventually require ICU care, would mean that 100 patients would be ad-mitted at ICU care per day and that 5,000 individuals in the general population would be infected by the disease each day. Reaching a level where 50% of the population (of about 11 million people) has achieved natural immunity would require 1,100 days or 3 years. Given that the immunity to the disease might be relatively short-lived (around 2 years for SARS (21) ), it might simply be next to impossible to achieve herd immunity without overwhelming the healthcare system. Moreover, such a strategy would require maintaining the number of cases in the population at a tightly controlled level with R 0 being maintained on average at 1. Whenever R 0 would be above 1, the disease would flare up, which would quickly overload a healthcare system maintained at saturation. When R 0 would be below 1, the disease would start vanishing, which would extend the time needed to build herd immunity. Given that it is completely unclear what the precise impact of any containment measure is on R 0 , a strategy based on lifting and reimposing measures to switch between R 0 slightly below 1 and R 0 slightly above 1 does not appear realistic. If a treatment became available that would greatly diminish the risk of complications (for example, by a factor 10), or if it turns out that the proportion of the general population that develops severe complications when infected by SARS-CoV-2 is much lower than 2%, it might be possible to revisit strategies based on \"flattening the curve\". In the absence of such a silver bullet treatment, the only plausible option for the moment seems to be the immediate quashing of the epidemic together with the development of strategies to try to contain the disease at a minimal level driven by imported cases, while waiting for greatly improved treatments or a vaccine. In such strategies, as currently deployed by South Korea, Hong Kong, and Singapore for example, patients only arise from imported cases and small local clusters that are rapidly quashed. It is likely that such strategies will sometimes fail in insufficiently prepared populations leading to the reimposing of heavy quarantine measures during the time needed to quash the new epidemic flare. It seems advisable to reimpose strict quarantine measures as soon as uncontrolled local circulation of the disease is suspected.",
+            "cite_spans": [
+                {
+                    "start": 798,
+                    "end": 801,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1352,
+                    "end": 1355,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1356,
+                    "end": 1359,
+                    "text": "20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1866,
+                    "end": 1870,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data biases and heterogeneity in the testing strategies"
+        },
+        {
+            "text": "Data collection. We collected COVID-19 data from official sources and we list them in Supplementary Material. SEIR model. The SEIR (Susceptible, Exposed, Infected, Recovered) is a widely used mathematical model for the description of the behavior of infectious disease outbreaks. We provide the full details in Suppl. Material. The parameters of this model, which are responsible for tuning the dynamics of the epidemics are \u03b4, \u03b2 and \u03b3. \u03b4 \u22121 can be interpreted as the average incubation period (i.e., the average time spent in pool E before becoming infectious I). \u03b2 corresponds to the average number of infections an infectious individual will cause per unit of time and \u03b3 \u22121 corresponds to the average time necessary to recover from the disease (i.e., going from I to R). The average number of new infections arising from a single infectious person is then R 0 = \u03b2 \u03b3 . In this study we used \u03b4 \u22121 = 5.2 days (12) and we adapted \u03b3 to the estimated value for the country under scrutiny (see the corresponding country section in Results). We consider that those parameters are constant over time, before and during lockdowns. The effect of lockdown measures is then modelled by a change in \u03b2. In this work, we considered that a lockdown enforcement resulted in a discrete, instantaneous change in \u03b2. In practice, however, the \u03b2 might have changed only progressively after the adoption of confinement measures, but modeling this will require more parameters, and thus also more and higher quality data will be recommended for the inference. We inferred the \u03b2 parameters during each period by fitting the cumulative number of cases C(t) with MCMC (Metropolis-Hastings). We use a Poisson likelihood and uniform priors for \u03b2. The details of the model are available in Suppl. Material. . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20046375 doi: medRxiv preprint . CC-BY-NC 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Note 1: Supplementary Figures"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20046375 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Note 1: Supplementary Figures"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Time to use the p-word? coronavirus enter dangerous new phase",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Callaway",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Who director-general's opening remarks at the media briefing on covid-19 -11",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The proximal origin of sars-cov-2",
+            "authors": [
+                {
+                    "first": "Andrew",
+                    "middle": [],
+                    "last": "Kristian G Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ian",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lipkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Edward",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robert F",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Garry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "European Centre for Disease Prevention and Control",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical presentation and virological assessment of hospitalized cases of coronavirus disease",
+            "authors": [
+                {
+                    "first": "Roman",
+                    "middle": [],
+                    "last": "Woelfel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wolfgang",
+                    "middle": [],
+                    "last": "Victor Max Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Michael",
+                    "middle": [],
+                    "last": "Guggemos",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sabine",
+                    "middle": [],
+                    "last": "Seilmaier",
+                    "suffix": ""
+                },
+                {
+                    "first": "Marcel",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Zange",
+                    "suffix": ""
+                },
+                {
+                    "first": "Daniela",
+                    "middle": [],
+                    "last": "Mueller",
+                    "suffix": ""
+                },
+                {
+                    "first": "Patrick",
+                    "middle": [],
+                    "last": "Niemeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Camilla",
+                    "middle": [],
+                    "last": "Vollmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Michael",
+                    "middle": [],
+                    "last": "Rothe",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hoelscher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Covid-19 and italy: what next? The Lancet",
+            "authors": [
+                {
+                    "first": "Andrea",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Giuseppe",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Covid-19 in italy: momentous decisions and many uncertainties. The Lancet Global Health",
+            "authors": [
+                {
+                    "first": "Marzia",
+                    "middle": [],
+                    "last": "Lazzerini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Giovanni",
+                    "middle": [],
+                    "last": "Putoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The variability of critical care bed numbers in europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rhodes",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ferdinande",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Flaatten",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Guidet",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Pg Metnitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Moreno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Intensive care medicine",
+            "volume": "38",
+            "issn": "10",
+            "pages": "1647--1653",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "At the epicenter of the covid-19 pandemic and humanitarian crises in italy: Changing perspectives on preparation and mitigation",
+            "authors": [
+                {
+                    "first": "Mirco",
+                    "middle": [],
+                    "last": "Nacoti",
+                    "suffix": ""
+                },
+                {
+                    "first": "Andrea",
+                    "middle": [],
+                    "last": "Ciocca",
+                    "suffix": ""
+                },
+                {
+                    "first": "Angelo",
+                    "middle": [],
+                    "last": "Giupponi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pietro",
+                    "middle": [],
+                    "last": "Brambillasca",
+                    "suffix": ""
+                },
+                {
+                    "first": "Federico",
+                    "middle": [],
+                    "last": "Lussana",
+                    "suffix": ""
+                },
+                {
+                    "first": "Michele",
+                    "middle": [],
+                    "last": "Pisano",
+                    "suffix": ""
+                },
+                {
+                    "first": "Giuseppe",
+                    "middle": [],
+                    "last": "Goisis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Daniele",
+                    "middle": [],
+                    "last": "Bonacina",
+                    "suffix": ""
+                },
+                {
+                    "first": "Francesco",
+                    "middle": [],
+                    "last": "Fazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Richard",
+                    "middle": [],
+                    "last": "Naspro",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "NEJM Catalyst Innovations in Care Delivery",
+            "volume": "1",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Pandemic potential of a strain of influenza a (h1n1): early findings. science",
+            "authors": [
+                {
+                    "first": "Christophe",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Christl",
+                    "suffix": ""
+                },
+                {
+                    "first": "Simon",
+                    "middle": [],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "William",
+                    "suffix": ""
+                },
+                {
+                    "first": "Maria",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hanage",
+                    "suffix": ""
+                },
+                {
+                    "first": ", T D\u00e9irdre",
+                    "middle": [],
+                    "last": "Van Kerkhove",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jamie",
+                    "middle": [],
+                    "last": "Hollingsworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rebecca",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Helen",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Baggaley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Emily",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jenkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lyons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "324",
+            "issn": "",
+            "pages": "1557--1561",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Estimation of the transmission risk of the 2019-ncov and its implication for public health interventions",
+            "authors": [
+                {
+                    "first": "Biao",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xia",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Qian",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nicola",
+                    "middle": [
+                        "Luigi"
+                    ],
+                    "last": "Bragazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sanyi",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yanni",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jianhong",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Clinical Medicine",
+            "volume": "9",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Early transmission dynamics in wuhan, china, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Qun",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xuhua",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Peng",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiaoye",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lei",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yeqing",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ruiqi",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kathy",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Eric",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jessica",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "New England Journal of Medicine",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-ncov outbreak originating in wuhan, china: a modelling study",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Joseph",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kathy",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gabriel M",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "689--697",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Time-varying transmission dynamics of novel coronavirus pneumonia in china. bioRxiv",
+            "authors": [
+                {
+                    "first": "Tao",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jianxiong",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jianpeng",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Guanhao",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Min",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Zuhua",
+                    "middle": [],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lifeng",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Haojie",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Qiong",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Aiping",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "The mathematics of infectious diseases",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Herbert W Hethcote",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "SIAM review",
+            "volume": "42",
+            "issn": "4",
+            "pages": "599--653",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Report sulle caratteristiche dei pazienti deceduti positivi a covid-19 in italia",
+            "authors": [
+                {
+                    "first": "Istituto Superiore Di",
+                    "middle": [],
+                    "last": "Sanit\u00e0",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Parere del consiglio superiore di sanit\u00e0: definizione di paziente guarito da covid-19 e di paziente che ha eliminato il virus sars-cov-2",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ministero Della Salute",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "73458--73459",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with covid-19 in wuhan, china: a retrospective cohort study. The Lancet",
+            "authors": [
+                {
+                    "first": "Fei",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ting",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ronghui",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Guohui",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ying",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Zhibo",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jie",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yeming",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bin",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiaoying",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Duration of antibody responses after severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "Li-Ping",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Nai-Chang",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yi-Hua",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiang-Yi",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dan-Yu",
+                    "middle": [],
+                    "last": "Na",
+                    "suffix": ""
+                },
+                {
+                    "first": "Li-Yuan",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lei",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tao",
+                    "middle": [],
+                    "last": "Lan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lin-Fa",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Guo-Dong",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Emerging infectious diseases",
+            "volume": "13",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict lockdown measures in China.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict containment measures in Italy.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict lockdown measures in Belgium.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict lockdown measures in Spain.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Proportions of COVID-19 cases per age bins in South Korea (Blue) and Italy (Green). The orange bars give the estimated Italian distribution when adjusted for the age sampling bias with demographics only. The red bars additionally accounts for the number of deaths in Italy in each age bin. The data we used was the one available on the March 12, 2020 for Italy and South Korea.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Figure showing the strain that the COVID-19 pandemic put on the NHS of China.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Figure showing the strain on the Italian national health services from the COVID-19 epidemic.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict lockdown measures. Piecewise inference.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict lockdown measures. Piecewise inference. De Brouwer et al. | My Template Arxiv | 7",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF9": {
+            "text": "Figure showing the fit of the SEIR model with \u03b2 allowed to change after the introduction of the increasingly strict lockdown measures. Piecewise inference.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF10": {
+            "text": "Figure showing the fit of the SEIR model with no Quarantine (no changes in betas allowed) .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF11": {
+            "text": "In this plot we show, for illustrative purposes, a reproduction of the data showed by the Regione Lombardia regarding the movements of people during the lockdown, as evinced from anonymized cell-phone trackings. The data show a general decreasing trend of movements after the outbreak.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF12": {
+            "text": "Demographics age repartition of Italy along with the age distribution of reported cases. 8 | arXiv De Brouwer et al. | My Template",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

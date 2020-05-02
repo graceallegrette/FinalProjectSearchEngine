@@ -1,0 +1,674 @@
+{
+    "paper_id": "72f80b98d15a0f4fd1e27bbddd82df2de8297bfa",
+    "metadata": {
+        "title": "COVID19-Tracker: A shiny app to produce to produce comprehensive data visualization for SARS-CoV-2 epidemic in Spain",
+        "authors": [
+            {
+                "first": "Aurelio",
+                "middle": [],
+                "last": "Tob\u00edas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Spanish Council for Scientific Research (CSIC)",
+                    "location": {
+                        "settlement": "Barcelona",
+                        "country": "Spain"
+                    }
+                },
+                "email": "aurelio.tobias@idaea.csic.es"
+            },
+            {
+                "first": "Joan",
+                "middle": [],
+                "last": "Valls",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Pau",
+                "middle": [],
+                "last": "Satorra",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Biostatistics Unit, Institut d'Investigaci\u00f3 Biom\u00e8dica de Bellvitge (IDIBELL)",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Barcelona",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cristian",
+                "middle": [],
+                "last": "Teb\u00e9",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Biostatistics Unit, Institut d'Investigaci\u00f3 Biom\u00e8dica de Bellvitge (IDIBELL)",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Barcelona",
+                        "country": "Spain"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Data visualization is an important tool for exploring and communicating findings in medical research, and specially in epidemiological surveillance. The COVID19-Tracker app systematically produces daily updated data visualization and analysis of SARS-CoV-2 epidemic in Spain. It collects automatically daily data on COVID-19 diagnosed cases, intensive care unit admissions, and mortality, from February 24 th , 2020 onwards. Two applications have already been developed; 1) to analyze data trends and estimating short-term projections; and 2) To assess the effect of the lockdown on the trend of incident data. We are currently planning to improve the app by uploading shortly new applications for data visualization and analysis, which may help for a better understanding of the SARS-CoV-2 epidemic data in Spain.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The first confirmed cases of SARS-CoV-2 in Spain were identified in late February 2020 (1) . Since then, Spain became, by the end of March, the third most affected country worldwide after the United States and Italy and recorded the second number of deaths due to the SARS-CoV-2 pandemic after Italy (2) . Since March 16 th , lockdown measures oriented on flattening the epidemic curve were in place in Spain, restricting social contact, reducing public transport, and closing businesses, except for those essential to the country's supply chains (3) . However, this has not been enough to change the rising trend of the epidemic. For this reason, a more restrictive lockdown was suggested (4), and eventually undertaken by the Spanish Government on March 30 th (5) .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 90,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 300,
+                    "end": 303,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 547,
+                    "end": 550,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 762,
+                    "end": 765,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Data visualization is an important tool for exploring and communicating findings in medical research, and specially in epidemiological surveillance. It can help researchers and policy makers to identify and understand trends that could be overlooked if the data were reviewed in tabular form. We have developed a Shiny app allows users to evaluate daily time-series data from a statistical standpoint. The COVID19-Tracker app systematically produces daily updated data visualization and analysis of SARS-CoV-2 epidemic data in Spain. It is easy to use and fills a role in the tool space for visualization, analysis and exploration of epidemiological data during this particular scenario.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The COVID19-Track app has been developed in RStudio using the Shiny package (6) .",
+            "cite_spans": [
+                {
+                    "start": 76,
+                    "end": 79,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": "Shiny offers the ability to develop a graphical user interface (GUI) that can be run locally or deployed online. Last is particularly beneficial to show and communicate updated findings to a broad audience.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": "The app has a friendly structure based on menus to shown data visualization for each of the analyses currently implemetned: projections, intervention, and methodology sections ( Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 178,
+                    "end": 186,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint 3 -Projections displays a plot with trends for daily ICU admissions and mortality since the epidemic began and estimates a 3-day projection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": "-Intervention displayes and calculates the effect of the lockdown period on the trend of incident data on daily diagnosed cases, ICU admissions, and mortality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": "-Methodology shows the statistical details on the analyses implemented. The app has an automated process to update data and all analyses every time a user connects to the app. It is available online at the following link: https://ubidi.shinyapps.io/covid19/ and shortly free available on GitHub as an R package.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SOFTWARE AVAILABILITY AND REQUIREMENTS"
+        },
+        {
+            "text": "We collected daily data on COVID-19 diagnosed cases, intensive care unit (ICU) admissions, and mortality, from February 24th onwards. Data is collected automatically every day daily from Datadista github repository (7). This repository updates data according to the calendar and rate of publication of the Spanish Ministry of Health/Instituto de Salud Carlos III (8) .",
+            "cite_spans": [
+                {
+                    "start": 363,
+                    "end": 366,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DATA SOURCES"
+        },
+        {
+            "text": "Data corresponding to the available number of ICU beds in Spain (year 2017) are also obtained from the Datadista github repository (7).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA SOURCES"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA SOURCES"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "For the evaluation of the observed trends of the accumulated number of cases, we used a classical quasi-Poisson regression model (9), allowing for over-dispersion and with a logarithmic link function, evaluating the existence of a quadratic effect. The two models are described as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Projections"
+        },
+        {
+            "text": "Model 2: log(E(ct))=\u03b20+\u03b21t+\u03b22t 2 where t = 1, 2, \u2026, T represents the time unit (from the first observed day until the last, T consecutive days in total), and it assumes that ct, the observed cases, are distributed following a quasi-Poisson probability law. Estimated parameters and their standard error are used to obtain the predictions in the observed period of time but also the short-term projections, computing 95% confidence interval (95%CI)or the expected number of cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Projections"
+        },
+        {
+            "text": "The analyses have been carried out using R version 3.6.3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Projections"
+        },
+        {
+            "text": "This analysis is accessible on the Projections menu, displaying short-term projections up to 3 days for COVID19 diagnosed cases, ICUs, and mortality in a time-series plot ( Figure   2 ). Results are available nationwide by default, but also at the regional level, allowing a dropdown menu for this purpose. In addition, the produced graph is mouse-sensitive, showing the exact number of observed and predicted/projected cases for both models through the time-series. . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 173,
+                    "end": 183,
+                    "text": "Figure   2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Projections"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        },
+        {
+            "text": "To assess the effect of the lockdown on the trend of incident cases, admissions in ICU intensive care units, and mortality, we used an interrupted time-series design (10) . The data is analyzed with quasi-Poisson regression with an interaction model to estimate the change in trend:",
+            "cite_spans": [
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "log(E(ct))=\u03b20+\u03b21t+\u03b22lockdown+\u03b23t * lockdown where t =1, 2, \u2026, T represents the time unit (from the first observed day until the last, T consecutive days in total); and lockdown is a binary variable that identifies the periods before after the alarm status decree (0 = before Mar 15 th , 2020; 1 = after Mar 16 th , 2020).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "The analyses have been carried out using R, version 3.6.3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "We should acknowledge that this is a descriptive analysis without predictive purposes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "For an easy interpretation, and comparison of the effectiveness of lockdown measures between countries, a linear trend is assumed before and after the lockdown. The changes in the definition of diagnosed cases have not been taken into account, nor has the reduction in the susceptible population because of the lockdown. Therefore, the incident cases are modelled directly instead of the incidence rate, assuming that the entire population is at risk. Although not accounted for residual autocorrelation, the estimates are unbiased but possibly inefficient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "This analysis is accessible on the Intervention menu, displaying trends in a time-series plot before and after the lockdown for COVID19 diagnosed cases, ICUs, and mortality ( Figure 3 ). The daily percentage (%) mean increase and its 95%CI are also reported.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 175,
+                    "end": 183,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "Results are available nationwide.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Intervention analysis"
+        },
+        {
+            "text": "So far, the COVID19-Tracker app has been very well received online, with a large number of connections generating an outsized memory usage on our server ( Figure 4 ). We are currently planning to improve the app by uploading shortly new applications for data visualization and analysis, which may help for a better understanding of the SARS-CoV-2 epidemic data in Spain. Moreover, the COVID19-Tracker app could also be extensible to data visualizations across other countries and geographical regions.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 155,
+                    "end": 163,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Further developing"
+        },
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Further developing"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Further developing"
+        },
+        {
+            "text": "None . CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        },
+        {
+            "text": "(which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "COVID-19 in Europe: the Italian lesson",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Saglietto",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "&apos;ascenzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zoccai",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Ferrari",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "30690--30695",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Oxford Martin School, The University of Oxford, Global Change Data Lab",
+            "authors": [],
+            "year": 2020,
+            "venue": "Ourworld in Data. Coronavirus Disease (COVID-19) Statistics and Research",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gesti\u00f3n de la situaci\u00f3n de crisis sanitaria ocasionada por el COVID-19",
+            "authors": [
+                {
+                    "first": "Ministerio",
+                    "middle": [],
+                    "last": "De",
+                    "suffix": ""
+                },
+                {
+                    "first": "La",
+                    "middle": [],
+                    "last": "Presidencia",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Relaciones con las Cortes y Memoria Democr\u00e1tica",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Experts' request to the Spanish Government: move Spain towards complete lockdown. The Lancet",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Mitj\u00e0",
+                    "suffix": ""
+                },
+                {
+                    "first": "\u00c0",
+                    "middle": [],
+                    "last": "Arenas",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Rod\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tobias",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Brew",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Benlloch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30753-4"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Real Decreto-ley 10/2020, de 29 de marzo, por el que se regula un permiso retribuido recuperable para las personas trabajadoras por cuenta ajena que no presten servicios esenciales, con el fin de reducir la movilidad de la poblaci\u00f3n en el contexto de la lucha contra el COVID-19",
+            "authors": [
+                {
+                    "first": "Ministerio",
+                    "middle": [],
+                    "last": "De",
+                    "suffix": ""
+                },
+                {
+                    "first": "La",
+                    "middle": [],
+                    "last": "Presidencia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Relaciones con las Cortes y Memoria Democr\u00e1tica",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Integrated Development for R. RStudio, Inc",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Team",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Rstudio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "limpieza y normalizaci\u00f3n de las tablas de la situaci\u00f3n diaria acumulada de la enfermedad por el coronavirus SARS-CoV-2 (COVID-19) en Espa\u00f1a en un formato accesible y reutilizable 2020",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Datadista",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Extracci\u00f3n",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Situaci\u00f3n de COVID-19 en Espa\u00f1a 2020",
+            "authors": [
+                {
+                    "first": "Iii",
+                    "middle": [],
+                    "last": "Instituto De Salud Carlos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Comparison of different approaches to incidence prediction based on simple interpolation techniques",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Dyba",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hakulinen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Statistics in Medicine",
+            "volume": "19",
+            "issn": "13",
+            "pages": "1741--52",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/1097-0258"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Interrupted time series regression for the evaluation of public health interventions: a tutorial",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bernal",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cummins",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gasparrini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int J Epidemiol",
+            "volume": "46",
+            "issn": "1",
+            "pages": "348--55",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/ije/dyw098"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Menus currenlty available in the COVID19-Tracker app.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Standard output for the projections analysis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Standard output for the projections analysis.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Number of connections and memory usage since March 27 th , 2020.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": ". CC-BY-NC-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "The copyright holder for this preprint . https://doi.org/10.1101/2020.04.01.20049684 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not peer-reviewed)"
+        }
+    ]
+}

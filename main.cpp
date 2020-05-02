@@ -27,23 +27,20 @@ int main(int argc, char *argv[]) {
 //	AVLTree<string, long> wordCounts(&stringHashFunction);
 //	vector<vector<string> > document = processDocument("metadata-cs2341.csv");
 
-	set<string> set1 = { "brown", "quick", "the", "yay"};
-	set<string> set2 = {"fox","brown", "the"};
+	set<string> set1 = { "brown", "quick", "the", "yay" };
+	set<string> set2 = { "fox", "brown", "the" };
 	set<string> result = getDifference(set1, set2);
 	set<string> stopWords = processStopWords("stopWords.txt");
 //	AVLTree<string, long> words;
 
-
-	for(int i = 0; i < result.size(); i++) {
-//		cout << result[i] << " ";
+	set<string>::iterator it;
+	for (it = result.begin(); it != result.end(); it++) {
+	//	cout << *it << endl;
 	}
 
-
-	for(int i = 0; i < stopWords.size(); i++) {
-//		cout << stopWords[i] << " ";
+	for (it = stopWords.begin(); it != stopWords.end(); it++) {
+//		cout << *it << endl;
 	}
-
-
-
+	processDocument("metadata-cs2341.csv");
 }
 

@@ -1,0 +1,726 @@
+{
+    "paper_id": "79fe6bb36a69589bc0969cdb5d3682cff685811d",
+    "metadata": {
+        "title": "N95 Mask Decontamination using Standard Hospital Sterilization Technologies",
+        "authors": [
+            {
+                "first": "Anand",
+                "middle": [],
+                "last": "Kumar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Manitoba",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Samantha",
+                "middle": [
+                    "B"
+                ],
+                "last": "Kasloff",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "National Microbiology Laboratory",
+                    "institution": "Public Health Agency of Canada",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anders",
+                "middle": [],
+                "last": "Leung",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "National Microbiology Laboratory",
+                    "institution": "Public Health Agency of Canada",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Todd",
+                "middle": [],
+                "last": "Cutts",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "National Microbiology Laboratory",
+                    "institution": "Public Health Agency of Canada",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "James",
+                "middle": [
+                    "E"
+                ],
+                "last": "Strong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "National Microbiology Laboratory",
+                    "institution": "Public Health Agency of Canada",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kevin",
+                "middle": [],
+                "last": "Hills",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Canadian Food Inspection Agency",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gloria",
+                "middle": [],
+                "last": "Vazquez-Grande",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Manitoba",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Barret",
+                "middle": [],
+                "last": "Rush",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Manitoba",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sylvain",
+                "middle": [],
+                "last": "Lother",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Manitoba",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ryan",
+                "middle": [],
+                "last": "Zarychanski",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Manitoba",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jay",
+                "middle": [],
+                "last": "Krishnan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "National Microbiology Laboratory",
+                    "institution": "Public Health Agency of Canada",
+                    "location": {
+                        "settlement": "Winnipeg",
+                        "country": "Canada"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The response to the COVID19 epidemic is generating severe shortages of personal protective equipment around the world. In particular, the supply of N95 respirator masks has become severely depleted with supplies having to be rationed and health care workers having to use masks for prolonged periods in many countries. We sought to test the ability of 4 different decontamination methods including autoclave treatment, ethylene oxide gassing, ionized hydrogen peroxide fogging and vaporized hydrogen peroxide exposure to decontaminate 4 different N95 masks of experimental contamination with SARS-CoV-2 or vesicular stomatitis virus as a surrogate. In addition, we sought to determine whether masks would tolerate repeated cycles of decontamination while maintaining structural and functional integrity. We found that one cycle of treatment with all modalities was effective in decontamination and was associated with no structural or functional deterioration. Vaporized hydrogen peroxide treatment was tolerated to at least 5 cycles by masks. Most notably, standard autoclave treatment was associated with no loss of structural or functional integrity to a minimum of 10 cycles for the 3 pleated mask models. The molded N95 mask however tolerated only 1 cycle. This last finding may be of particular use to institutions globally due to the virtually universal accessibility of autoclaves in health care settings.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The COVID19 pandemic is proving to be an exceptional stress on hospital and health systems resources around the world. Many countries are experiencing or imminently expecting shortages for a variety of equipment and disposable supplies. A tightening supply of N95 masks that allow for protection from airborne pathogens and aerosolized viruses including SARS-CoV-2 is of particular and immediate concern. Without an adequate supply of N95 masks, health care providers are at extreme risk of acquisition of COVID19 disease. The occurrence of patient to health care workers spread of SARS-CoV-2 at sufficiently high rates would lead to demoralization of the workforce, depletion of health care workers for quarantine and turn hospitals into extreme hotspots for infection transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "N95 masks are normally single use products. However, according to news reports, re-use of N95 masks is ongoing in multiple institutions in the United States, Italy, Spain and India. Persistent shortages may drive increasing re-use of N95 masks globally as the pandemic progresses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We sought to determine whether a range of different N95 masks would retain structural and functional integrity after treatment with widely available standard hospital decontamination techniques. Concurrently, we also determined the ability of each decontamination technique to effectively inactivate virus on experimentally inoculated masks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Methods: Four different N95 respirator masks were assessed using standard autoclaving, ethylene oxide gassing, ionized hydrogen peroxide (iHP) fogging and vaporized hydrogen peroxide (VHP) treatment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The four masks utilized were 3M's 1860, 1870 and VFlex 1804 respirator models (3M Company, St. Paul, Minnesota) as well as AO Safety 1054S (Pleats Plus) Respirator (Aearo Company, Indianapolis).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Standard autoclaving was performed using a Amsco Lab 250 model (Steris Life Sciences, Mentor, OH) with a peak temperature of 121 o C for 15 min and 40 min total cycle time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Ethylene oxide (EtO) gas treatment was done using the model 5XLP Steri-Vac Sterilizer/Aerator (3M Company, St. Paul, Minnesota) with 1 hr exposure and 12 hr aeration time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "iHP decontamination g was performed with the STERRAD 100NX device (Advanced Sterilization Products, Irvine, California) using a standard 47 minute cycle.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "VHP treatment was performed with the VHP ARD System (Steris, Mentor, OH). The cycle consisted of 10 minutes dehumidification, 3 minutes conditioning (5 gram/minute), 30 minutes decontamination (2.2 gram/minute) and 30 minutes aeration. Peak concentration was >750 ppm.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The ability of each decontamination technology to inactivate infectious virus was assessed using experimentally inoculated masks. One of each of the 4 respirator models was surface contaminated on the exterior with vesicular stomatitis virus, Indiana serotype (VSV) or SARS-CoV-2 (contaminated group). SARS-CoV-2 was only utilized if the decontamination method was done within the CL-3 suite at Canada's National Microbiology Laboratory (NML). VSV was used if the decontamination method was only available at hospital. The inoculum was prepared by mixing the virus in a tripartite soil load (bovine serum albumin, tryptone, and mucin) to mimic body fluids. Ten \u00b5L of the resulting viral suspension containing 6.75 log TCID 50 (VSV) or 5.0 log TCID 50 (SARS-CoV-2) was spotted onto the outer surface of each respirator at 3 different positions. Following one hour of drying, respirators were individually packaged for decontamination. One of the four respirator masks were placed into each of the four decontamination devices (16 respirator masks in total) after the mixture had dried. Four additional inoculated masks (one of each type) were similarly packaged and left in the biosafety cabinet for the duration of each treatment cycle and transport time to account for the effect of drying on virus recovery.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effectiveness of decontamination"
+        },
+        {
+            "text": "Following decontamination, virus was eluted from the mask material by excising the spotted areas on each mask and transferring each into 1 mL of virus culture medium (DMEM with 2% fetal bovine serum and 1% penicillin-streptomycin). After 10 minutes of soaking and repeated washing of the excised . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effectiveness of decontamination"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . material, the elution media was serially diluted in virus culture medium for evaluation in a fifty-percent tissue culture infective dose (TCID 50 ) assay. One hundred \u00b5L of each dilution was transferred in triplicate to wells of Vero E6 cells (ATCC CRL-1586). At 48 hours post-infection, cells were examined for determination of viral titres via observation of cytopathic effect. Titres were expressed as TCID 50 /mL as per the method of Reed and Muench[1].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effectiveness of decontamination"
+        },
+        {
+            "text": "An identical group of the 4 types of N95 masks without viral contamination (clean group) underwent multiple decontamination treatments by all 4 decontamination methods. Afterwards, these respirator masks were visually and tactilely assessed for structural integrity and underwent quantitative fit testing using a TSI PortaCount 8038+ to assess functional integrity. Masks were considered to be functionally intact if quantitative fit testing resulted in a fit factor of more than 100 for normal and deep breathing exercises [2] . This is consistent with >95% filtration of ambient airborne microparticles, the same standard as for new N95 masks. For EtO gas treatment, we assessed integrity after 1 and 3 cycles; for autoclaving after 1, 3, 5 and 10 cycles; after treatment with IHP, 1, 5, 10 and 20 cycles and after VHP treatment, 1, 3, 5 and 10 cycles.",
+            "cite_spans": [
+                {
+                    "start": 524,
+                    "end": 527,
+                    "text": "[2]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Impact of decontamination on structural and functional integrity"
+        },
+        {
+            "text": "Following VHP, EtO or iHP decontamination treatments, no viable VSV was recovered from any of the four mask materials (Table 1) . Corresponding untreated controls showed full recovery of the initial viral inoculum (6.75 log TCID 50 ) following 2.5 hours of air drying. As a result, a demonstrable reduction of greater than six logs of infectious virus was recorded for all treated masks.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 118,
+                    "end": 127,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Effectiveness of Decontamination"
+        },
+        {
+            "text": "Mask materials inoculated with SARS-CoV-2 had no recoverable virus following standard autoclaving at 121 o C for 15 min compared to corresponding untreated controls (5.0 log TCID 50 ). VHP decontamination trials of SARS-CoV-2 inoculated masks are currently underway.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effectiveness of Decontamination"
+        },
+        {
+            "text": "In summary, all decontamination methods resulted in no growth of virus in decontaminated specimens. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effectiveness of Decontamination"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20049346 doi: medRxiv preprint ND = not done, 0 = no growth Positive Control: small coupons cut from the masks were inoculated with virus on their exterior and allowed to dry for 1-2 hours",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effectiveness of Decontamination"
+        },
+        {
+            "text": "All decontamination methods resulted in preserved structural and functional integrity of masks for at least one cycle of treatment ( Table 2 ). The 3M Vflex 1804 models exhibited some mild bleeding of the ink label but there was no impact on function. Autoclaving resulted in functional failure of the 3M 1860 model after the first cycle but the other masks (all pleated), retained integrity through 10 cycles, the highest number tested. All masks treated with EtO retained integrity though 3 cycles (maximum tested) for all masks. iHP fogged masks failed testing beyond the first cycle while VHP treatment maintained mask integrity throughout to 10 cycles (maximum tested). Autoclave and VHP testing beyond the currently assessed maximum cycle number is ongoing. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 133,
+                    "end": 140,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Impact of decontamination on structural and functional integrity"
+        },
+        {
+            "text": "The unprecedented nature of the COVID19 epidemic has revealed previously unrecognized deficiencies in pandemic preparations globally. In particular, the depletion of single-use disposable personal protective gear has resulted in considerable health care worker anxiety and prolonged use of gear far beyond standard recommendations. The international shortage of N95 masks that protect from aerosolized virus (which may occur during intubation and other invasive tracheobronchial procedures) is of particular concern given the respiratory nature of the SARS-CoV-2 infections. The shortage of these masks and their use for periods beyond recommended may be part of the reason for the reported high incidence of acquisition of infection by health care workers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "We sought to determine which standard decontamination techniques used in hospitals might be suitable for the task of sterilizing a variety of N95 masks without compromising their structural or functional integrity. We also sought to ensure that each technique was effective in eliminating any viable virus by potential penetration through the surface as might be seen with large contaminated droplet deposition. Efforts at ultraviolet light decontamination, for example, might only sterilize the mask surface without having an impact on virus particles that have been deposited deeper [3] .",
+            "cite_spans": [
+                {
+                    "start": 585,
+                    "end": 588,
+                    "text": "[3]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "Our tests of effectiveness of decontamination demonstrate that all decontamination methods assessed are highly effective in sterilizing all four N95 models (contaminated group). No viable virus (including, as a surrogate, VSV but also SARS-CoV-2) was found on any experimentally contaminated mask following any decontamination procedure (autoclave, EtO gas, iHP or VHP). This is an expected result but is useful in that previous studies have made the assumption that such techniques would necessarily be effective on N95 masks [3] [4] [5] [6] .",
+            "cite_spans": [
+                {
+                    "start": 527,
+                    "end": 530,
+                    "text": "[3]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 531,
+                    "end": 534,
+                    "text": "[4]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 535,
+                    "end": 538,
+                    "text": "[5]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 539,
+                    "end": 542,
+                    "text": "[6]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "Vesicular stomatitis virus, a bullet shaped enveloped, negative-sense RNA virus of the Rhabdoviridae family that commonly infects animals [7] , was used as a surrogate for SARS-CoV-2 for decontamination procedures (iHP and EtO) only available at our hospital. We could not validate SARS-CoV-2 against these two technologies because it is a Risk Group 3 virus, which can't be manipulated outside of CL3.",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 141,
+                    "text": "[7]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "More importantly, our results clearly show that the use of individual N95 masks can potentially be extended several-fold without degradation of functional integrity. VHP [8] appears to be most effective across all masks. There is recent preprint data that supports this possibility [4] . We demonstrated that the VHP method allows at least 10 cycles of decontamination without impairment of mask function. The disadvantage of VHP is its limited availability.",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 173,
+                    "text": "[8]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 282,
+                    "end": 285,
+                    "text": "[4]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "iHP is commonly used in most hospitals for decontamination of high value reusable equipment such as endoscopes [9] . However, we were able to demonstrate only that the N95 masks tolerated one cycle of treatment. With 5 or more cycles, quantitative fit testing was consistently impaired. We have not yet assessed whether a number of cycles between 1 and 5 might be viable.",
+            "cite_spans": [
+                {
+                    "start": 111,
+                    "end": 114,
+                    "text": "[9]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "EtO gas treatment is an older method of decontaminating materials [10] . The process is somewhat more complex than others and there can be safety concerns in that the gas is flammable, explosive and potentially carcinogenic [11] . A prolonged period of aeration following item exposure to the gas is required to eliminate chemical residua. This result in an extremely long cycle time of more than 20 hours compared to less than one hour for other decontamination methods. Despite these drawbacks, some institutions in poorly resourced setting may not have iHP or VHP. For that reason, our finding that all four mask models tolerate at least 3 cycles of EtO decontamination without significant structural or functional deterioration may be useful. However, we would recommend against the use of this approach unless and until there is advanced testing to ensure that all traces of ethylene oxide and its related breakdown products are entirely eliminated with sufficient aeration [12] .",
+            "cite_spans": [
+                {
+                    "start": 66,
+                    "end": 70,
+                    "text": "[10]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "[11]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 979,
+                    "end": 983,
+                    "text": "[12]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "Finally, as expected, standard autoclaving is effective in eliminating any viable virus. Surprisingly, however, 3 of the 4 respirator mask models tolerated up to 10 cycles while maintaining structural and functional integrity according to our testing. Although all masks maintained integrity after one autoclave cycle, only the more rigid, non-pleated 3M 1860 model demonstrated loss of function with more than a single autoclave cycle. The other layered fabric, pleated models all retained integrity with up to 10 autoclave cycles. This finding will be highly relevant to institutions in poorly resourced areas of the world in that one might reasonably hope that autoclaves would be available in any recognized hospital around the world. Unfortunately, we were unable to examine the differences in mask materials and construction that might contribute to the failure of the 3M 1860 model compared to the others due to the proprietary nature of the technology.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "Single use of N95 masks for each patient encounter is ideal and recommended; unfortunately, the resource stress due to the current COVID-19 crisis has breached this ideal. According to public reporting, extended use and re-use of N95 masks has become common in hospitals in areas where SARS-CoV-2 is high. This risks functional failure of N95 masks, spread of infection to wearers and increased risk of virus transmission from health care workers to others. Our data suggests that all decontamination methods are effective for at least one decontamination cycle without loss of structural integrity. However, neither iHP nor EtO gas are recommended at this time due to limited tolerance of N95 masked tested to repeat cycles, prolonged cycle times and/or potential toxicity. Both VHP and autoclaving can be used to decontaminate N95 masks through multiple cycles without loss of filtering function. Although VHP has more limited availability, autoclaves, which can be used on a subset of N95 mask types, may be easily accessed by any health care institution when N95 mask shortages occur.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "Although we tested the functional integrity of decontaminated masks via quantitative fit testing, our testing cannot take into account the respirator's ability to withstand the rough handling that extended wear by health care workers, with stress and perspiration can inflict. Another limitation of this study is that our findings may or may not apply to other types of N95 masks.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "Nonetheless, it is reassuring that the practice of use of appropriate decontamination and subsequent reuse of N95 mask should not pose a health risk to already taxed health care workers. . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion:"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.05.20049346 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion:"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Interplay between Rapid Diagnostic Tests and Antimicrobial Stewardship Programs among Patients with Bloodstream and Other Severe Infections",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Beganovic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "J Appl Lab Med",
+            "volume": "3",
+            "issn": "4",
+            "pages": "601--616",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "N95 filtering facemask respirator ultraviolet germicidal irridation (uvgi) process for decontamination and reuse",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lowe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Tech. Rep",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Decontamination and Reuse of N95 Respirators with Hydrogen Peroxide Vapor to Address Worldwide Personal Protective Equipment Shortages During the SARS-CoV-2 (COVID-19) Pandemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Applied Biosafety",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Evaluation of Multiple (3-Cycle) Decontamination Processing for Filtering Facepiece Respirators",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bergman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of Engineered Fibers and Fabrics",
+            "volume": "5",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Evaluation of Five Decontamination Methods for Filtering Facepiece Respirators. The Annals of Occupational Hygiene",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Viscusi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "53",
+            "issn": "",
+            "pages": "815--827",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Vesicular Stomatitis. The Veterinary Journal",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Letchworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rodriguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Del Cbarrera",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "",
+            "volume": "157",
+            "issn": "",
+            "pages": "239--260",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Evaluating the virucidal efficacy of hydrogen peroxide vapour",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Goyal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Hospital Infection",
+            "volume": "86",
+            "issn": "4",
+            "pages": "255--259",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A fast track to zero environmental pathogens using novel ionized hydrogen peroxide technology",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Webb",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Infection Control Today",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Ethylene oxide sterilization of medical devices: A review",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "C C"
+                    ],
+                    "last": "Mendes",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "R S"
+                    ],
+                    "last": "Brand\u00e3o",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L M"
+                    ],
+                    "last": "Silva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "American Journal of Infection Control",
+            "volume": "35",
+            "issn": "9",
+            "pages": "574--581",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Carcinogenicity of ethylene oxide: key findings and scientific issues",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jinot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Toxicology mechanisms and methods",
+            "volume": "28",
+            "issn": "5",
+            "pages": "386--396",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Analysis of residual chemicals on filtering facepiece respirators after decontamination",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Salter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Journal of occupational and environmental hygiene",
+            "volume": "7",
+            "issn": "8",
+            "pages": "437--445",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Reed, L.J. and H. Muench, A simple method of estimating fifty per cent endpoints. American journal of epidemiology, 1938. 27(3): p. 493-497.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Mean virus recovery post-decontamination (LogTCID 50 \u00b1 SD) compared to drying controls",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

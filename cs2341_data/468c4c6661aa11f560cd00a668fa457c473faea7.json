@@ -1,0 +1,2489 @@
+{
+    "paper_id": "468c4c6661aa11f560cd00a668fa457c473faea7",
+    "metadata": {
+        "title": "The effects of group size and subtherapeutic antibiotic alternatives on growth performance and morbidity of nursery pigs: a model for feed additive evaluation 1",
+        "authors": [
+            {
+                "first": "Kristin",
+                "middle": [
+                    "M"
+                ],
+                "last": "Olsen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nicholas",
+                "middle": [
+                    "K"
+                ],
+                "last": "Gabler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chris",
+                "middle": [
+                    "J"
+                ],
+                "last": "Rademacher",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kent",
+                "middle": [
+                    "J"
+                ],
+                "last": "Schwartz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wesley",
+                "middle": [
+                    "P"
+                ],
+                "last": "Schweer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gene",
+                "middle": [
+                    "G"
+                ],
+                "last": "Gourley",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Gourley Research Group",
+                    "institution": "",
+                    "location": {
+                        "addrLine": "Webster City",
+                        "postCode": "50595",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [
+                    "F"
+                ],
+                "last": "Patience",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iowa State University",
+                    "location": {
+                        "postCode": "50011",
+                        "settlement": "Ames",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The objectives of this experiment were to evaluate the effects of alternatives to antibiotic growth promoters (AGP), two group sizes, and their interaction on nursery pig performance to serve as a model for future AGP alternative studies. A 41-d experiment was conducted in a commercial weanto-finish barn; 1,300 piglets weaned at 21 d of age (weaned 2 or 4 d prior to experiment; 6.14 \u00b1 0.18 kg BW; PIC 1050 sows and multiple sire lines) were blocked by sire, sex, and weaning date, then assigned to eight treatments: four dietary treatments each evaluated across two group sizes. The four dietary treatments were: negative control (NC), positive control (PC; NC + in-feed antibiotics), zinc oxide plus a dietary acidifier (blend of fumaric, citric, lactic, and phosphoric acid) (ZA; NC + ZnO + acid), and a Bacillus-based direct-fed-microbial (DFM) plus resistant potato starch (RS) (DR; NC + DFM + RS). The two group sizes were 31 or 11 pigs/pen; floor space was modified so area/pig was equal between the group sizes (0.42 m 2 /pig). There were 7 pens/diet with 11 pigs/pen and 8 pens/diet with 31 pigs/pen. Data were analyzed as a randomized complete block design with pen as the experimental unit. Diagnostic assessment of oral fluids, serum, and tissue samples was used to characterize health status. Pigs experienced natural challenges of acute diarrhea and septicemia in week 1 and porcine reproductive and respiratory syndrome virus (PRRSV) in weeks 4-6. There was a significant interaction between diet and group size for ADG (P = 0.012). PC increased ADG in large and small groups (P < 0.05) and ZA increased ADG only in large groups (P < 0.05). Small groups had improved ADG compared to large groups when fed NC or DR diets (P < 0.05). Similarly, PC increased ADFI (P < 0.05). Compared to NC, ZA improved ADFI in large groups only (P < 0.05; diet \u00d7 group size: P = 0.015). Pigs fed PC had greater G:F than NC (P < 0.05), and small groups had greater G:F than large groups (P < 0.05). There was no effect of ZA or DR on G:F. Pigs fed PC required fewer individual medical treatments than NC and pigs fed ZA were intermediate (P = 0.024). More pigs were removed from large than small groups (P = 0.049), and there was no effect of diet on removals (P > 0.10). In conclusion, careful study design, protocol implementation, sample collection, and recording of important information allowed us to characterize the health status of this group of pigs and determine treatment effects on growth performance and morbidity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Consumer interest in pork raised without antibiotics or with limited antibiotics and the introduction of the Veterinary Feed Directive in the United States have encouraged producers to look for alternatives to antibiotic growth promoters (AGP) in feed. There are many products already available that may be considered alternatives to AGP. However, the efficacy of AGP alternatives in commercial pork production has not been clearly defined, and the results of AGP alternative studies are often inconsistent (Jacela et al., 2009 (Jacela et al., , 2010 Thacker, 2013; Liao and Nyachoti, 2017) . This may be due to inconsistent experiment methodology, including differences in health status, genetics, experimental conditions, and diet composition (Allen et al., 2013) . This leaves a significant gap in knowledge about the effectiveness of AGP alternatives and the ability to make comparisons or observe trends across studies. To most efficiently identify useful AGP alternatives and apply them in production, it is necessary first to increase the consistency with which studies evaluating AGP alternatives are conducted. Therefore, there is a need for an example protocol with guidelines for AGP alternative studies.",
+            "cite_spans": [
+                {
+                    "start": 507,
+                    "end": 527,
+                    "text": "(Jacela et al., 2009",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 528,
+                    "end": 550,
+                    "text": "(Jacela et al., , 2010",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 551,
+                    "end": 565,
+                    "text": "Thacker, 2013;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 566,
+                    "end": 590,
+                    "text": "Liao and Nyachoti, 2017)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 745,
+                    "end": 765,
+                    "text": "(Allen et al., 2013)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Most published studies evaluating AGP alternatives have been conducted in academic research settings, which typically house fewer pigs per pen than commercial production facilities. Because group size may impact pig performance, specifically in the nursery phase (Wolter et al., 2000) , one may question whether the results of such studies could be different in a commercial setting. Furthermore, inherent environmental differences between academic research facilities and commercial pork production facilities create the need for more commercial-scale data.",
+            "cite_spans": [
+                {
+                    "start": 263,
+                    "end": 284,
+                    "text": "(Wolter et al., 2000)",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The objective of this experiment was to test the effects of two different group sizes and AGP alternative diets on nursery pig growth performance, in order to serve as a framework for future AGP alternative studies. This objective was selected to encourage greater progress in assessing the scientific merit of said studies as rapidly as possible and to facilitate the comparison of experimental results across multiple studies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "All experimental procedures were reviewed and approved by the Iowa State University Institutional Animal Care and Use Committee (number 3-17-8465-S). The study was conducted in central Iowa in April and May 2017.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "One room of a commercial wean-to-finish research barn was populated with 1,300 barrows and gilts (6.14 \u00b1 0.18 kg BW) derived from PIC 1,050 females and four different sire lines (PIC Duroc, DNA Genetics Duroc, Genesus Duroc or PIC Pietrain) for a 42-d nursery study. The pigs were selected from a study evaluating sire lines, thus explaining the larger than normal number of sires represented in the experiment. All pigs used in the experiment came from the same sow source and were weaned at 21 d of age. On day 1 after birth, all pigs were given iron and gentamicin injections. Before weaning, pigs were treated on an individual basis with injectable antibiotics (gentamicin, ceftiofur, or enrofloxacin) as needed. At weaning, pigs were vaccinated for porcine circovirus type 2 and Mycoplasma hyopneumoniae (Circumvent PCV-MG2, Merck Animal Health, Madison, NJ), and ileitis (Porcilis Ileitis, Merck Animal Health). Due to the flow schedule at the sow source, approximately half of the pigs were weaned 4 d prior to the start of the experiment and held at the sow farm while the other half was weaned 2 d prior to the start of the experiment. For the duration of the experiment, pigs were housed in a tunnel-ventilated barn. Each pen was equipped with a 4-space automatic dry selffeeder and nipple water drinker, fully slatted concrete floors, and metal rod penning and gates. Pigs were given ad libitum access to feed and water for the duration of the experiment. An automatic feeding system (Big Dutchman, Holland, MI) was used to deliver a specified amount of feed to each pen. Air temperature in the room averaged 28.5 \u00b0C \u00b1 1.4, 28.7 \u00b0C \u00b1 1.2, 27.1 \u00b0C \u00b1 0.5, 24.5 \u00b0C \u00b1 1.1, 25.8 \u00b0C \u00b1 0.9, 26.5 \u00b0C \u00b1 2.2, in weeks 1-6, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals, Housing, and Management"
+        },
+        {
+            "text": "Experimental treatments were arranged in a split-plot design with four dietary treatments evaluated across two group sizes. The dietary treatments included a negative control (NC) with no AGP, a positive control (PC) consisting of the NC diet with either chlortetracycline hydrochloride (phase 1 and 3) or tiamulin hydrogen fumarate (phase 2) added at the expense of corn, alternative diet 1 (ZA) consisting of the NC diet with zinc oxide (ZnO) plus a dietary acidifier (blend of phosphoric, fumaric, citric, and lactic acids; Kem-Gest, Kemin, Des Moines, IA) added at the expense of corn, and alternative diet 2 (DR) consisting of the NC diet with a Bacillus-based directfed microbial (DFM; BioPlus 2B, Chr. Hansen, Hoersholm, Denmark) plus resistant potato starch (MSP[RS], MSP Starch Products Inc., Carberry, Manitoba, Canada) added at the expense of corn. Combinations of AGP alternatives were used, rather than single products, to first help satisfy the objective of testing a study design, rather than focusing on evaluating specific products. The specific combinations were chosen based on results from Schweer et al. (2017a) which indicated that AGP alternatives in the categories of zinc/copper, organic acids, and probiotics were most effective. Furthermore, ZnO with an acidifier and a probiotic with a prebiotic likely have modes of action which either compliment or do not antagonize each other. Diets were fed in three phases (Tables 1 and 2) based on a feed budgeting system. When a pen consumed its entire allowance for a phase, feed for the next phase was given to that pen. In this manner, all pens were allowed to consume their entire budget for each phase before moving to the next phase. In order to associate pig weights with phase changes, weigh days were scheduled as close as possible to the first pens finishing their feed budget from the previous phase. Phase 1 was fed from days 0 to 11, phase 2 from days 12 to 24, and phase 3 from days 25 to 41.The first two phases were delivered in pelleted form, and the third phase feed was delivered as a mash. Feed was manufactured at two different commercial feed mills (phases 1 and 2 at the same mill, and phase 3 at another mill). Prior to diet manufacturing, the acidifier, ZnO, DFM, and RS products were hand-weighed on an analytical scale to the proper inclusion level, packaged in individual bags, and delivered to the commercial mill. Mix sheets used during mixing from both feed mills were validated after mixing to ensure that these bags were added to the proper batches. In all phases, the diet containing the DFM was mixed last in order to avoid contamination of the other three diets.",
+            "cite_spans": [
+                {
+                    "start": 1110,
+                    "end": 1132,
+                    "text": "Schweer et al. (2017a)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1440,
+                    "end": 1456,
+                    "text": "(Tables 1 and 2)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Experimental Design"
+        },
+        {
+            "text": "Pigs were housed in groups of 31 (large groups; Fig. 1 ) or 11 pigs each (small groups; Fig. 2 ). In the small groups, a gate was installed to block off approximately two-thirds of the pen to reduce usable floor space; the two outer spaces of the feeders were blocked off to achieve approximately equal feeder space per pig. Not counting the space occupied by each feeder, large pens had 0.41 m 2 per pig, and small pens had 0.42 m 2 per pig. Sixty pens were utilized for a total of 15 replicates of each diet (eight large groups and seven small groups each), 32 replicates of large groups and 28 replicates of small groups. Pigs were assigned to blocks based on weaning date, sire line, and sex. Pigs held for 4 d or 2 d post-weaning were balanced within block to account for the potential influence of days post-weaning. Since four different sire lines were used, sire line was balanced within block. Mixedsex pens were used, and sex was balanced within block. A total of 8 blocks were used, and pens were assigned to experimental treatments so that each combination of diet and group size was represented in each block. However, since there were only 60 pens, one block had only four large groups and no small groups. 9 Diets with no value did not have high enough resistant starch content to be accurately measured by this assay. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 48,
+                    "end": 54,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 88,
+                    "end": 94,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Experimental Design"
+        },
+        {
+            "text": "The pigs originated from a sow source that was negative for porcine reproductive and respiratory syndrome virus (PRRSV; confirmed through negative oral fluid and serum PCR analysis). Oral fluids, serum samples, and necropsies of pigs that died were used to confirm or rule out exposure to specific pathogens (Table 3) . All diagnostic tests, including necropsies, were conducted at the Veterinary Diagnostics Laboratory at Iowa State University in Ames, Iowa. If a sample was positive for a specific pathogen, the whole barn was considered to have exposure to that pathogen.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 308,
+                    "end": 317,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Characterization of Health Status"
+        },
+        {
+            "text": "Under the direction of a veterinarian, pigs were individually treated throughout the study with injectable antibiotics (ceftiofur or enrofloxacin) for symptoms of lethargy, gauntness, severe diarrhea, coughing, or other signs of illness. Flunixamine was also given for a small number of cases of coughing and labored breathing. Individual medical treatments were recorded daily by pen to determine if diet and group size influenced the number of treatments required. Pigs were removed from the study and housed in a hospital pen if they were injured, extremely ill, or did not improve after treatment. The daily number of pigs removed was recorded by pen. Pigs found dead were also recorded and included in the daily removal records.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Characterization of Health Status"
+        },
+        {
+            "text": "Oral fluid samples were collected via rope sampling from two pens per dietary treatment (eight pens total) on days 0, 21, and 40. Pens were chosen for oral fluid collection based on fixed special sampling, so that each area of the barn was equally represented (Rotolo et al., 2017) . A cotton rope was hung in the pen for approximately 1 h, and fluid was extracted from the rope by placing the saturated end into a plastic bag and squeezing out the fluid (Prickett et al., 2008) . The resulting fluid samples 3 Samples were collected at necropsy from pigs that died as determined necessary by the diagnostic veterinarian. On day 26, oral fluid samples from four symptomatic pens were collected and tested. On day 40, oral fluid and serum samples from eight pens, equidistantly spaced throughout the barn, were collected and tested. If a sample was positive for a specific pathogen, the whole barn was considered to have exposure to that pathogen. 4 PCR = polymerase chain reaction.",
+            "cite_spans": [
+                {
+                    "start": 260,
+                    "end": 281,
+                    "text": "(Rotolo et al., 2017)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 455,
+                    "end": 478,
+                    "text": "(Prickett et al., 2008)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Characterization of Health Status"
+        },
+        {
+            "text": "were transferred to a plastic tube and stored at \u221220 \u00b0C until analysis. Oral fluid samples were analyzed using polymerase chain reaction (PCR) for PRRSV, Influenza type-A virus of swine (IAV-S), porcine epidemic diarrhea virus (PEDV), porcine deltacoronovirus (PDCoV), and M. hyopneumoniae. Oral fluid samples were also collected from four pens exhibiting clinical symptoms (coughing, sneezing, lethargy) and tested for PRRSV and IAV-S on day 26. Blood samples were collected from one pig per pen in two pens per dietary treatment (using the same pens as oral fluid collections) for a total of eight blood samples on days 1 and 28. At the end of the trial (day 41), eight pigs per dietary treatment (one pig from each of the large pens) were euthanized for a separate experiment and blood was collected from each. Ten milliliters of blood were collected by jugular venipuncture and centrifuged at 2,000 \u00d7 g for 10 min at 4 \u00b0C, and the resulting serum was stored at \u221280 \u00b0C for later analysis. Serum samples from day 41 were tested for PEDV and M. hyopneumoniae using PCR. The goal of this diagnostic testing was to establish a general knowledge of disease exposure and health status of the pigs used in the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Characterization of Health Status"
+        },
+        {
+            "text": "Feed samples were taken directly from the feeders of eight pens per dietary treatment during the middle of each feeding phase. To obtain each sample, the feed in each feeder was stirred to assist in homogeneity, and an approximately 200 g sample was taken by hand. All eight samples for each dietary treatment were then pooled and homogenized, and subsamples were taken from this composite sample and stored at \u221220 \u00b0C prior to analysis. Diet samples were analyzed for DM (method 930.15), CP (method 990.03), ether extract (method 945.16), and Zn, Ca, P, and Na (method 985.01) at a commercial laboratory (Midwest Laboratories, Omaha, Nebraska, AOAC, 2007) . Bacillus-spore enumeration in diet samples was performed at Midwest Laboratories using the Bacillus heat shock method (Jackson, 2015) . Diets were analyzed for resistant starch (RS) content using a commercially available kit (Megazyme, Wicklow, Ireland; method 2002 method .02, AOAC 2007 . The goal of analyzing diet samples for Bacillus, Zn, and RS was to confirm the presence of the additives in the final mixed diets. Diets were not analyzed for the inclusion of the acid blend due to the current unavailability of an assay to quantify the specific acids included in the blend.",
+            "cite_spans": [
+                {
+                    "start": 604,
+                    "end": 655,
+                    "text": "(Midwest Laboratories, Omaha, Nebraska, AOAC, 2007)",
+                    "ref_id": null
+                },
+                {
+                    "start": 776,
+                    "end": 791,
+                    "text": "(Jackson, 2015)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 883,
+                    "end": 911,
+                    "text": "(Megazyme, Wicklow, Ireland;",
+                    "ref_id": null
+                },
+                {
+                    "start": 912,
+                    "end": 923,
+                    "text": "method 2002",
+                    "ref_id": null
+                },
+                {
+                    "start": 924,
+                    "end": 945,
+                    "text": "method .02, AOAC 2007",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Diet Sample Analysis"
+        },
+        {
+            "text": "Pigs were weighed by pen on a floor scale (validated with a standard check weight at each use) at the beginning and end of the experiment, and at the end of each feed phase (days 11 and 24) to determine ADG. Feed offered was weighed by the automatic feed delivery system, and remaining feed was weighed at the end of each phase to determine ADFI and G:F, measured as total BW gain:total feed intake. Pen, removal date, BW at removal, and reason for removal were recorded for each pig found dead or removed from the study. This information was used to calculate pig days for each phase and the overall experimental period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Growth Performance Data Collection"
+        },
+        {
+            "text": "The total number of medical treatments per pen was calculated as a proportion by dividing the total number of treatments given for the whole experimental period by the number of pigs placed in the pen (either 31 or 11). The proportion of total removals per pen was calculated by dividing the total number of pigs removed for the whole period in each pen by the number of pigs placed in the pen (either 31 or 11). Pig days were used to calculate ADG, ADFI, and G:F.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calculations and Statistical Analysis"
+        },
+        {
+            "text": "The UNIVARIATE procedure of SAS (SAS Inst. Inc. Cary, NC) was used to determine homogeneity of variances and to identify outliers. Observations were considered outliers if greater than three SD from the mean. Residual plots were also used to verify equality of variances and normality of the residuals. It was determined that all variables analyzed met the assumptions for parametric tests, so the same model was used to analyze all the data. The MIXED procedure of SAS was used to analyze the data with pen as the experimental unit and initial BW as a covariate. The fixed effects were diet, group size, and diet \u00d7 group size interaction. Block was considered a random effect. Differences were considered significant if P < 0.05 and tendencies if 0.05 \u2265 P < 0.10.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Calculations and Statistical Analysis"
+        },
+        {
+            "text": "Results of Zn and RS analysis confirmed their presence in the complete feed in their respective dietary treatments (Tables 1 and 2) . With respect to the DFM product, after the experiment was completed, it was discovered that a separate Bacillus-based DFM was included in the vitamin-mineral premix used at the commercial feed mill that manufactured the phase 1 and 2 diets; thus, a DFM product had been added to all phase 1 and 2 diets. Consequently, Bacillus spore counts were much higher than expected, although they were also quite variable (data not shown). In the phase 1 and 2 diets, Bacillus counts in the DR diet were not as high as expected; recovery varied from 20 to 60% of expected when taking into account both the DFM in the premix and the added DFM in the DR diet. Additionally, there was a low recovery of Bacillus in the DR diet from phase 3, but spore counts were elevated in this diet compared to the NC, PC, and ZA diets. The Bacillus product was tested and confirmed to contain viable spores very close to the level specified on the product label (91% recovery). All test products were preweighed and the correct amounts per batch were delivered to the feed mills to ensure they were added at the correct quantity. Evaluation of the mix sheets confirmed that these preweighed bags were indeed added. We cannot explain why the assayed spore counts fell short of expected, other than perhaps the difficulty of assaying low concentrations in complete feed, as compared to a premix.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 115,
+                    "end": 131,
+                    "text": "(Tables 1 and 2)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Diet Analysis"
+        },
+        {
+            "text": "Due to naturally occurring health challenges reported below, overall pig performance was below that expected for this facility (Table 4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 127,
+                    "end": 136,
+                    "text": "(Table 4)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Growth Performance"
+        },
+        {
+            "text": "For the overall period (days 0-41), there were impacts of both dietary treatment and group size, and their interaction, on piglet growth performance. There was an interaction between diet and group size for ADG (P = 0.012) and ADFI (P =0.015). Pigs fed the PC had higher ADG and ADFI than the NC for both group sizes (P < 0.05), and pigs fed the ZA diet only had a higher ADG and ADFI than the NC in the large groups (P < 0.05). Small groups fed the NC and DR diets had higher ADG compared to large groups fed these diets (P < 0.05). However, small and large groups had similar ADG for the PC and ZA diets (P > 0.05). The mean ADG for large groups was 0.280 kg and was 0.293 kg for small groups (main effect P = 0.006). Small groups had similar ADFI to large groups except for the NC control diet where small groups had higher ADFI (P < 0.05). There was no interaction between diet and group size for G:F; pigs fed the PC diet were more efficient than pigs fed the NC, ZA, and DR diets (diet P < 0.001), and small groups were more feed efficient than large groups (group size P = 0.004). There was no impact of the DR diet on growth performance (P > 0.05).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Growth Performance"
+        },
+        {
+            "text": "Within the individual feeding phases, performance responses for diet and group size treatments showed similar patterns to the overall treatment data (data not shown). In phases 1 and 3, no interactions between diet and group size were observed (P > 0.05). The main effect of group size was not significant for ADG, ADFI, or G:F in phases 1 and 2 (P > 0.10) but was significant in phase 3 where small groups had greater ADG and G:F than large groups (P < 0.01). The main effect of diet was present in all phases in a similar pattern to the overall results. In phase 3, ADG and G:F were similar to phase 2, which likely reflects depressions in growth performance due to PRRSV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Growth Performance"
+        },
+        {
+            "text": "The pigs experienced acute diarrhea and septicemia in the first week of the experiment and a PRRSV challenge in the fourth week of the experiment (confirmed by PCR analysis of oral fluids on day 26; Table 3 ). Mortality was 1.8%, and morbidity (pigs removed from the study for illness or injury) was 6.1%. Mortality was not statistically analyzed due to the low numbers in each treatment. The number of mortalities per treatment was as follows: NC diet, 8; PC diet, 3; ZA diet, 7; DR diet, 6; large groups: 18; small groups: 6.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 199,
+                    "end": 206,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Animal Health and Morbidity"
+        },
+        {
+            "text": "On day 5, all pigs were given gentamicin through the drinking water for 6 d to treat the diarrhea. Culture of liver and lung tissue from pigs that died during this time confirmed exposure to Salmonella (S. infantitis), Actinobacillus suis, and Streptococcus suis. Several deaths due to mulberry heart disease prompted water treatment with vitamin E and selenium for 5 d (days 15 to 19) . A PRRSV challenge was confirmed on day 26 of the study after observations of lethargy, heavy breathing, coughing, sneezing, and decreased feed intake. Pigs were individually treated as described in the materials and methods section for symptoms for the remainder of the study. A timeline and result of all necropsies are listed in Table 5 ; results of all diagnostic testing are listed in Table 3 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 370,
+                    "end": 385,
+                    "text": "(days 15 to 19)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 719,
+                    "end": 726,
+                    "text": "Table 5",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 777,
+                    "end": 784,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Animal Health and Morbidity"
+        },
+        {
+            "text": "There were no interactions between diet and group size for medical treatments or removals, so only main effects are presented (Table 6 ). Pigs fed the PC diet required fewer medical treatments than pigs fed the NC or DR diet, and the ZA diet was intermediate between NC and PC (P = 0.024). There was no effect of group size on number of medical treatments (P = 0.706). The number of pigs removed from the study, including mortality and morbidity, was not influenced by dietary treatment. However, the number of removals was lower in small groups than in large groups (P = 0.049).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 126,
+                    "end": 134,
+                    "text": "(Table 6",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Animal Health and Morbidity"
+        },
+        {
+            "text": "The swine industry is seeking effective alternatives to AGP, and inconsistent results from AGP alternative studies has led to the need for evaluating AGP alternative testing protocols and study designs. The objective of this experiment was to evaluate the effects of AGP alternative diets and test group size on nursery pig performance. These data can then 4 Removals calculated as total number of pigs removed from study (found dead or removed for illness or injury) divided by number of pigs allotted to pen (31 or 11). 5 Means within a row without a common superscript differ significantly (P < 0.05). Interaction P value for medical treatments and removals not significant. (P > 0.10). be used to provide a better framework of standards that can be used as a model for future studies testing the efficacy of AGP alternatives that will aid in comparing and interpreting results across those studies. The majority of published studies evaluating alternatives to AGP have been conducted in academic research settings, and consequently, most studies have used relatively small groups of pigs (Schweer et al., 2017a) . The literature review conducted by Schweer et al. (2017a) showed that experiments with a positive response to an AGP alternative had, on average, more pigs per pen than studies that did not show a positive response. The observed interactions between diet and group size indicate that consideration of group size may be necessary in studies evaluating AGP alternatives. Improvements in performance due to the ZA diet were only detected when pigs were housed in large groups. Higher removal rates were observed when pigs were housed in large groups, possibly indicating a higher-stress environment. These results may suggest a greater potential for this combination of additives to be effective under higher-stress situations, which may occur in larger group sizes. Furthermore, the benefit of AGP seemed smaller when pigs were housed in small groups. Small groups fed the NC and DR diets had increased ADG compared to large groups. The PC and ZA diets seemed to somewhat compensate for slower gain in large groups as small and large groups had similar ADG when fed these diets. Improved growth performance when pigs are housed in smaller groups is in agreement with previous reports of this trend in nursery pigs (Wolter et al., 2000 (Wolter et al., , 2001 . McGlone and Newby (1994) also reported higher morbidity rates in pens of 40 pigs compared to pens of 10 or 20. These results indicate that group size may impact the outcomes of AGP alternative studies, and perhaps positive responses to specific AGP alternatives are less pronounced in studies where pigs are housed in smaller groups. The growth-promoting effects of subtherapeutic levels of antibiotics in swine diets are well documented (Cromwell, 2002) . Improvements in ADG, ADFI, and G:F observed in this study due to AGP inclusion are similar in magnitude to previous reports (Cromwell, 2002) . The current improvements are higher than the values reported by Dritz et al. (2002) which could be due to the poor performance of the NC treatment, perhaps due to health status. It should also be noted that the chlortetracycline inclusion level in the present diets is higher than some previous studies have used, but the levels of antibiotics used in this study were compliant with the 2017 VFD for this particular farm. Separately, ZnO and acidifiers have shown beneficial effects, yet results have been inconsistent; few studies have looked at these in combination. Pharmacological levels of Zn have also proven effective in improving growth performance of nursery pigs, in addition to decreasing diarrhea (Pettigrew, 2006; Heo et al., 2010; P\u00e9rez et al., 2011; Pluske, 2012) . Walsh et al. (2007) and Li et al. (2008) both reported improvements in growth performance of nursery pigs due to acidifiers, though Boas et al. (2016) reported no improvements. Schweer et al. (2017a) reported that acidifiers resulted in ADG improvements in 33.8% of studies.",
+            "cite_spans": [
+                {
+                    "start": 1092,
+                    "end": 1115,
+                    "text": "(Schweer et al., 2017a)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1153,
+                    "end": 1175,
+                    "text": "Schweer et al. (2017a)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 2330,
+                    "end": 2350,
+                    "text": "(Wolter et al., 2000",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 2351,
+                    "end": 2373,
+                    "text": "(Wolter et al., , 2001",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 2376,
+                    "end": 2400,
+                    "text": "McGlone and Newby (1994)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 2814,
+                    "end": 2830,
+                    "text": "(Cromwell, 2002)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 2957,
+                    "end": 2973,
+                    "text": "(Cromwell, 2002)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 3040,
+                    "end": 3059,
+                    "text": "Dritz et al. (2002)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 3685,
+                    "end": 3702,
+                    "text": "(Pettigrew, 2006;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 3703,
+                    "end": 3720,
+                    "text": "Heo et al., 2010;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 3721,
+                    "end": 3740,
+                    "text": "P\u00e9rez et al., 2011;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 3741,
+                    "end": 3754,
+                    "text": "Pluske, 2012)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 3757,
+                    "end": 3776,
+                    "text": "Walsh et al. (2007)",
+                    "ref_id": null
+                },
+                {
+                    "start": 3781,
+                    "end": 3797,
+                    "text": "Li et al. (2008)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 3889,
+                    "end": 3907,
+                    "text": "Boas et al. (2016)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 3934,
+                    "end": 3956,
+                    "text": "Schweer et al. (2017a)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Inclusion of DFM's has also given inconsistent responses. Kyriakis et al., (1999) , Papatsiros et al. (2011), and Hu et al., (2014) reported improved growth performance, but many studies have also reported no improvements (Bhandari et al., 2008; Liao and Nyachoti, 2017) . Resistant potato starch as a prebiotic has been shown to reduce diarrhea (Bhandari et al., 2009) , and in combination with a DFM has also improved ADG (Krause et al., 2010) . However, studies evaluating resistant potato starch are uncommon.",
+            "cite_spans": [
+                {
+                    "start": 58,
+                    "end": 81,
+                    "text": "Kyriakis et al., (1999)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 84,
+                    "end": 113,
+                    "text": "Papatsiros et al. (2011), and",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 114,
+                    "end": 131,
+                    "text": "Hu et al., (2014)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 222,
+                    "end": 245,
+                    "text": "(Bhandari et al., 2008;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 246,
+                    "end": 270,
+                    "text": "Liao and Nyachoti, 2017)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 346,
+                    "end": 369,
+                    "text": "(Bhandari et al., 2009)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 424,
+                    "end": 445,
+                    "text": "(Krause et al., 2010)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "It is clear that the PRRSV challenge impacted the performance of this group of pigs. Based on the standard feed budget used at this farm, expected feed intake during phase 3 would be 1.0-1.2 kg/ pig/day. Pigs consumed, on average, only 0.52 kg/ pig/day during this period. Compared to estimates from NRC (2012) for 11-25 kg pigs, the pigs gained 46% less and ate 45% less per day. However, in phases 1 and 2, prior to the PRRSV outbreak, pigs performed as expected (0.212 kg/day compared to the 0.21 kg/day estimate for 5-7 kg pigs, and 0.31 kg/day compared to the 0.34 kg/day estimate for 7-11 kg pigs; NRC, 2012). Severely reduced feed intake and low growth rate demonstrates the impact of the PRRSV challenge on growth performance, which is typical for pigs challenged with this virus (Schweer et al., 2017b) . The present results were likely influenced by this health challenge, especially in phase 3 when pigs were consuming far less feed than expected and therefore were not receiving the desired amount of the AGP alternatives, potentially decreasing their effect.",
+            "cite_spans": [
+                {
+                    "start": 788,
+                    "end": 811,
+                    "text": "(Schweer et al., 2017b)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Pigs fed the PC diet required almost 40% fewer medical treatments, suggesting that AGP were beneficial to pig health and welfare during a disease challenge. The number of medical treatments required when pigs were fed the ZA diet was intermediate between the NC and PC diets, indicating that this diet may have also benefited pig health. Few studies report medical treatments, but P\u00e9rez et al. (2011) , as an example, reported a decrease in the number of required medical treatments for pigs fed ZnO during a pathogenic E. coli challenge.",
+            "cite_spans": [
+                {
+                    "start": 381,
+                    "end": 400,
+                    "text": "P\u00e9rez et al. (2011)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "There are likely many factors responsible for the inconsistent responses observed in studies evaluating AGP alternatives (Allen et al., 2013; Thacker, 2013) . To increase the value of future studies, it will be highly beneficial to provide more information on study conditions than has previously been the case. When such information is provided, the context of the study will be more apparent, and it will be much easier to compare studies conducted in different locations and in different environments. Figure 3 outlines proposed necessary components that should be included and reported in AGP alternative studies. The remainder of this discussion will elaborate on a few specific components.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 141,
+                    "text": "(Allen et al., 2013;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 142,
+                    "end": 156,
+                    "text": "Thacker, 2013)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 505,
+                    "end": 513,
+                    "text": "Figure 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Considerations for Future Studies"
+        },
+        {
+            "text": "Health status is an important consideration when alternatives are being evaluated, as products may have greater or less efficacy under certain health conditions. Some evidence exists to suggest that AGP are more effective on commercial farms than in academic-type research settings (Cromwell, 2002; Dritz et al., 2002) , and this has been hypothesized to be partially due to lower pathogen load and incidences of \"subclinical\" disease (Zimmerman, 1986) . If health status can affect the response to AGP, then it is logical to propose that it could also influence the effects of AGP alternatives as well.",
+            "cite_spans": [
+                {
+                    "start": 282,
+                    "end": 298,
+                    "text": "(Cromwell, 2002;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 299,
+                    "end": 318,
+                    "text": "Dritz et al., 2002)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 435,
+                    "end": 452,
+                    "text": "(Zimmerman, 1986)",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Considerations for Future Studies"
+        },
+        {
+            "text": "Indeed, health status has been discussed repeatedly as a potential reason for inconsistencies in response to AGP alternatives (Allen et al., 2013; Boas et al., 2016) . Some studies have shown the potential for AGP alternatives to mitigate a health challenge (Bhandari et al., 2008; Gebru et al., 2010; Heo et al., 2010) ; benefits of AGP alternatives to animal health during a disease challenge would be of great interest to the swine industry. Thus far, the impact of specific AGP alternatives in the presence of particular pathogens is not well understood, and information about health status is mostly absent in published AGP alternative studies (Schweer et al., 2017a) . Documentation of the pathogens present in a group of pigs that may influence the outcome of a study will help to build an understanding of how AGP alternatives may perform under varying health conditions. In this study, the collection of oral fluid and serum samples as well as necropsies of pigs that died allowed for the identification or exclusion of critical pathogens, including PRRSV, as influential factors in this group of pigs. Collection and testing of diagnostic samples, especially at the beginning and end of a study, can be used to assess and document pathogen exposure. If clinical signs of illness are observed, additional samples should be collected, based on the symptoms, to characterize the illness. Major changes in health status throughout a trial should be reported. Table 7 outlines examples of potential pathogens of interest and methods of testing for them.",
+            "cite_spans": [
+                {
+                    "start": 126,
+                    "end": 146,
+                    "text": "(Allen et al., 2013;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 147,
+                    "end": 165,
+                    "text": "Boas et al., 2016)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 258,
+                    "end": 281,
+                    "text": "(Bhandari et al., 2008;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 282,
+                    "end": 301,
+                    "text": "Gebru et al., 2010;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 302,
+                    "end": 319,
+                    "text": "Heo et al., 2010)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 649,
+                    "end": 672,
+                    "text": "(Schweer et al., 2017a)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1465,
+                    "end": 1472,
+                    "text": "Table 7",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "Considerations for Future Studies"
+        },
+        {
+            "text": "Determining pathogen presence, or the presence of agents/active infections, will involve identifying genetic material of a pathogen (generally through PCR), detecting an antigen (through ELISA or immunohistochemistry), or detecting a viable pathogen Figure 3 . Proposed necessary study components to be included and reported in studies evaluating alternatives to antibiotic growth promoters (AGP) for pigs. When critical information is included in reports of AGP alternative studies, the context of the study is better understood. This will aid in making comparisons across multiple studies and will lead to faster and more valuable conclusions about the effectiveness of AGP alternative products. through isolation (Christopher-Hennings et al., 2012) . Pathogen exposure is determined by measuring seroconversion, which confirms a prior infection or presence of a maternal antibody and is done by detecting antibody in the serum (Christopher-Hennings et al., 2012) . The specific procedure for defining health status via pathogen presence or exposure will likely depend on the nature of a study and the pathogens involved, and a strategy may need to be adapted for each study and pathogen of interest. It is also important to report the medical treatment regimen used if pigs need to be treated for illness.",
+            "cite_spans": [
+                {
+                    "start": 716,
+                    "end": 751,
+                    "text": "(Christopher-Hennings et al., 2012)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 930,
+                    "end": 965,
+                    "text": "(Christopher-Hennings et al., 2012)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 250,
+                    "end": 258,
+                    "text": "Figure 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Considerations for Future Studies"
+        },
+        {
+            "text": "While it is important to confirm the presence of feed additives through diet analysis, it may not be possible to be fully quantitative in this respect, due perhaps to limitations of the assay, or due to transformation of the additive during the feed manufacturing process. In this study, analysis of feed samples for Bacillus spore counts revealed that a Bacillus product was included in the vitaminmineral premix that was used in the phase 1 and 2 diets. Thus, the phase 1 and 2 diets all had greater spore counts than expected. Additionally, the spore counts in all the phase 1 and 2 diets were unexpectedly variable, and overall recovery was low (ranging from 20% to 50% in phase 1 and 2 diets; DR diets had an average recovery of 23% in phases 1 and 2). This made it difficult to determine if the DFM product was correctly added to the DR diets. It was clearer that the DFM product was added correctly in the phase 3 diets, although recovery of the product was not as high as expected (roughly 30%) and may also point to variability or low recovery of the Bacillus assay in general.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Considerations for Future Studies"
+        },
+        {
+            "text": "To the authors' knowledge, there is currently no assay readily available to analyze for the specific acids contained in the acid blend that was used in this experiment. Zinc levels in the ZA diets were slightly lower than expected but were much higher in the ZA as intended (Table 1) . When considering the RS content of the potato starch product (approximately 78%, DM basis), the DR diet in phases 1 and 2 showed only 62% recovery of expected values of RS. Since these were pelleted, the low recovery could be due to heat and water application during the pelleting process, which can cause starch to gelatinize and increase its susceptibility to degradation by alpha-amylase (Svihus and Zimonja, 2011) . When possible, it is crucial to analyze diets for the AGP alternatives being tested to confirm their presence as intended, as these outcomes can influence the interpretation of study results.",
+            "cite_spans": [
+                {
+                    "start": 677,
+                    "end": 703,
+                    "text": "(Svihus and Zimonja, 2011)",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 274,
+                    "end": 283,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Considerations for Future Studies"
+        },
+        {
+            "text": "With future study design in mind, sample size calculations were conducted (Table 8 ) using the SD generated in the overall data to predict the sample size that would be needed to detect differences of practical significance and to determine if required sample size would differ according to pig group size. Though group size may be an important consideration in AGP alternative studies as previously discussed, it does not appear that a larger sample size would necessarily be needed for one pig group size over the other. In conclusion, the methodology used in this study resulted in the ability to compare the impact of dietary treatments on growth performance, morbidity, and medical treatments to establish a description of population health status. This was facilitated by careful planning and execution of the experimental protocol as well as strict record keeping and observation. The results suggest that group size is an important factor to consider when designing and interpreting AGP alternative studies. As research on AGP alternatives continues, the credibility and impact of future studies will be improved with proper design, protocol implementation, and consistent reporting of pertinent study information and results. Careful consideration of group size, sample size, the study components mentioned above, and how these factors may influence study outcomes will be advantageous to the swine industry's rate of progress in identifying effective alternatives to growth-promoting antibiotics.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 74,
+                    "end": 82,
+                    "text": "(Table 8",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Considerations for Future Studies"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Treatment, promotion, commotion: antibiotic alternatives in food-producing animals",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Levine",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Looft",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bandrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Casey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Trends Microbiol",
+            "volume": "21",
+            "issn": "",
+            "pages": "114--119",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Official methods of analysis of AOAC International",
+            "authors": [
+                {
+                    "first": "Aoac",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Raw potato starch in weaned pig diets and its influence on postweaning scours and the molecular microbial ecology of the digestive tract",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bhandari",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nyachoti",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Krause",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Anim. Sci",
+            "volume": "87",
+            "issn": "",
+            "pages": "984--993",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Evaluation of alternatives to antibiotics using an Escherichia coli K88+ model of piglet diarrhea: effects on gut microbial ecology",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bhandari",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nyachoti",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Giesting",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Krause",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J. Anim. Sci",
+            "volume": "86",
+            "issn": "",
+            "pages": "836--847",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2006-822"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Organic acids in diets of weaned piglets: performance, digestibility and economical viability",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "D C V"
+                    ],
+                    "last": "Boas",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "E L"
+                    ],
+                    "last": "Budi\u00f1o",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A T"
+                    ],
+                    "last": "Neto",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dadalt",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Monferdini",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Sitanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Moraes",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Pizzolante",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Arq. Bras. Med. Vet. e Zootec",
+            "volume": "68",
+            "issn": "",
+            "pages": "1015--1022",
+            "other_ids": {
+                "DOI": [
+                    "10.1590/1678-4162-8501"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Diagnostic tests, test performance, and considerations for interpretation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Christopher-Hennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Erickson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hesse",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Nelson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Oliveira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Diseases of Swine",
+            "volume": "",
+            "issn": "",
+            "pages": "77--93",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Why and how antibiotics are used in swine production",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Cromwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Anim. Biotechnol",
+            "volume": "13",
+            "issn": "",
+            "pages": "7--27",
+            "other_ids": {
+                "DOI": [
+                    "10.1081/ABIO-120005767"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Effects of administration of antimicrobials in feed on growth rate and feed efficiency of pigs in multisite production systems",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goodband",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nelssen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "220",
+            "issn": "",
+            "pages": "1690--1695",
+            "other_ids": {
+                "DOI": [
+                    "10.2460/javma.2002.220.1690"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Effect of probiotic-, bacteriophage-, or organic acid-supplemented feeds or fermented soybean meal on the growth performance, acute-phase response, and bacterial shedding of grower pigs challenged with Salmonella enterica serotype typhimurium",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gebru",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Son",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Shin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Anim. Sci",
+            "volume": "88",
+            "issn": "",
+            "pages": "3880--3886",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Effects of dietary protein level and zinc oxide supplementation on the incidence of post-weaning diarrhoea in weaner pigs challenged with an enterotoxigenic strain of Escherichia coli",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Heo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Mullan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hampson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Maribo",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kjeldsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Pluske",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Livest. Sci",
+            "volume": "133",
+            "issn": "",
+            "pages": "210--213",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Effects of Bacillus subtilis KN-42 on growth performance, diarrhea and faecal bacterial flora of weaned piglets",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dun",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Asian-Australas. J. Anim. Sci",
+            "volume": "27",
+            "issn": "",
+            "pages": "1131--1140",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Feed additives for swine: fact sheets -acidifiers and antibiotics",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Jacela",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Derouchey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goodband",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nelssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Renter",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J. Swine Heal. Prod",
+            "volume": "17",
+            "issn": "",
+            "pages": "270--275",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Feed additives for swine: fact sheets -prebiotics and probiotics, and phytogenics",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Jacela",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Derouchey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tokach",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goodband",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Nelssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Renter",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dritz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Swine Heal. Prod",
+            "volume": "18",
+            "issn": "",
+            "pages": "132--136",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Thermoduric microorganisms and heat-resistance measurements",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Compendium of methods for the microbiological examination of foods",
+            "authors": [
+                {
+                    "first": "Lou",
+                    "middle": [],
+                    "last": "Tortorello",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "191--199",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Response of nursery pigs to a synbiotic preparation of starch and an anti-Escherichia coli K88 probiotic",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Krause",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bhandari",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "House",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nyachoti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Appl. Environ. Microbiol",
+            "volume": "76",
+            "issn": "",
+            "pages": "8192--8200",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The effect of probiotic LSP 122 on the control of post-weaning diarrhoea syndrome of piglets",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kyriakis",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tsiloyiannis",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vlemmas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sarris",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tsinas",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Alexopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jansegers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Res. Vet. Sci",
+            "volume": "67",
+            "issn": "",
+            "pages": "223--228",
+            "other_ids": {
+                "DOI": [
+                    "10.1053/rvsc.1999.0308"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Effects of organic acids on growth performance, gastrointestinal pH, intestinal microbial populations and immune responses of weaned pigs",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Knight",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Asian-Australasian J. Anim. Sci",
+            "volume": "21",
+            "issn": "",
+            "pages": "252--261",
+            "other_ids": {
+                "DOI": [
+                    "10.5713/ajas.2008.70089"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Using probiotics to improve swine gut health and nutrient utilization",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nyachoti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Anim. Nutr",
+            "volume": "3",
+            "issn": "",
+            "pages": "331--343",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.aninu.2017.06.007"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Space requirements for finishing pigs in confinement: behavior and performance while group size and space vary",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcglone",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Newby",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Appl. Anim. Behav. Sci",
+            "volume": "39",
+            "issn": "",
+            "pages": "331--338",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0168-1591(94)90166-XNRC.2012"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Effect of benzoic acid and combination of benzoic acid with a probiotic containing Bacillus cereus var. Toyoi in weaned pig nutrition",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Papatsiros",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tassis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tzika",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Papaioannou",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Petridou",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Alexopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Kyriakis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Pol. J. Vet. Sci",
+            "volume": "14",
+            "issn": "",
+            "pages": "117--125",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Translate basic science to industry innovation",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2478/v10181-011-0017-8"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Additivity of effects from dietary copper and zinc on growth performance and fecal microbiota of pigs after weaning",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "P\u00e9rez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Waguespack",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bidner",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Southern",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fakler",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Steidinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pettigrew",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Anim. Sci",
+            "volume": "89",
+            "issn": "",
+            "pages": "414--425",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Reduced use of antibiotic growth promoters in diets fed to weanling pigs: dietary tools, part 1",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pettigrew",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Anim. Biotechnol",
+            "volume": "17",
+            "issn": "",
+            "pages": "207--215",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/10495390600956946"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Physiology of feed efficiency in the pig: emphasis on the gastrointestinal tract and specific dietary examples",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Pluske",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "239--257",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Oral-fluid samples for surveillance of commercial growing pigs for porcine reproductive and respiratory syndrome virus and Porcine circovirus type 2 infections",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Prickett",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Simer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Swine Heal. Prod",
+            "volume": "16",
+            "issn": "",
+            "pages": "86--91",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Sampling guidelines for oral fluid-based surveys of group-housed animals",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rotolo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gim\u00e9nez-Lirola",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Baum",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gauger",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Harmon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hoogland",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Main",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vet. Microbiol",
+            "volume": "209",
+            "issn": "",
+            "pages": "20--29",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2017.02.004"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "A review and evaluation of antibiotic alternatives in the literature",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Schweer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Patience",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Linhares",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rademacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Loving",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ramirez",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Gabler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Anim. Sci",
+            "volume": "95",
+            "issn": "",
+            "pages": "147--148",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/asasmw.2017.303"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Porcine reproductive and respiratory syndrome virus reduces feed efficiency, digestibility, and lean tissue accretion in grow-finish pigs",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Schweer",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Patience",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Karriker",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sparks",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Weaver",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Fitzsimmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Burkey",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Gabler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Transl. Anim. Sci",
+            "volume": "1",
+            "issn": "",
+            "pages": "480--488",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/tas2017.0054"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Chemical alterations with nutritional consequences due to pelleting animal feeds: a review",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Svihus",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Zimonja",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Anim. Prod. Sci",
+            "volume": "51",
+            "issn": "",
+            "pages": "590--596",
+            "other_ids": {
+                "DOI": [
+                    "10.1071/AN11004"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Alternatives to antibiotics as growth promoters for use in swine production: a review",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Thacker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Anim. Sci. Biotechnol",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/2049-1891-4-35"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Effects of water and diet acidification with and without antibiotics on weanling pig growth and microbial shedding",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Richert",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Anim. Sci",
+            "volume": "85",
+            "issn": "",
+            "pages": "1799--1808",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Effect of group size on pig performance in a wean-to-finish production system",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wolter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Curtis",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Augspurger",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Hamilton",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Parr",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Webel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Anim. Sci",
+            "volume": "79",
+            "issn": "",
+            "pages": "1067--1073",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2001.7951067x"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Group size and floor-space allowance can affect weanling-pig performance",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wolter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Curtis",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Parr",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Webel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J. Anim. Sci",
+            "volume": "78",
+            "issn": "",
+            "pages": "2062--2067",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2000.7882062"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Role of subtherapeutic levels of antimicrobials in pig production",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Anim. Sci",
+            "volume": "62",
+            "issn": "",
+            "pages": "6--16",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Large pen configuration. Pens were stocked with 31 pigs (0.41 m 2 per pig).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Small pen configuration. Pens were stocked with 31 pigs (0.42 m 2 per pig).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Ingredient and nutrient composition of experimental diets (as fed basis): phase 1 and 2 1 VTM premix provided per kg of complete diet: 0.21 ppm Cr as Cr 2 O 3 , 10 ppm Cu as CuSO 4 , and Cu-MHA chelate, 0.31 ppm I as calcium iodate, 82 ppm Fe as FeSO 4 , 21 ppm Mn as MnO and Mn-MHA chelate, 0.31 ppm Se as selenium yeast, 170 ppm Zn as ZnO and Zn-MHA chelate, 1,701 IU vitamin D3, 11,337 IU vitamin A, 45.3 IU vitamin E, 4.53 mg menadione, 0.23 mg biotin, 1.7 mg folic acid, 51 mg niacin, 15.6 mg pyridoxine, 28.3 mg pantothenic acid, 8.5 mg riboflavin, 39.7 mg vitamin B12, 514.4 FTU phytase (AxtraPhy, Danisco Animal Nutrition, Marlborough, UK). Premix also contained per kg of complete diet 0.06 g of Bacillus-based direct-fed-microbial (1.6 \u00d7 10 3 CFU/g).CTC = chlortetracycline hydrochloride (Auromycin-100, Zoetis, Parsippany, NJ); Tiamulin hydrogen fumarate (Denagard 10, Elanco, Greenfield, IN). Blend of phosphoric, fumaric, citric, and lactic acids (Kem-Gest, Kemin, Des Moines, IA). Bacillus spp. based direct-fed-microbial, provided 1.1 \u00d7 10 6 CFU/g of complete diet (BioPlus 2B, Chr. Hansen, Hoersholm, Denmark). Resistant potato starch (MSP[RS], MSP Starch Products Inc., Carberry, Manitoba, Canada).Diets with no value did not have high enough resistant starch content to be accurately measured by this assay.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Ingredient NC = negative control, PC = positive control: NC + dietary antibiotics, ZA = NC+ ZnO + dietary acidifier, DR = NC + Bacillus-based direct-fed microbial + 5% resistant starch. 3 Vitamin-trace mineral premix provided per kg of complete diet: 11,013 IU of vitamin A, 1,651 IU of vitamin D, 33 IU of vitamin E (dl-alpha tocopheryl acetate), 11 IU of vitamin E (d-alpha tocopheryl acetate), 4.4 mg of vitamin K, 0.029 mg of vitamin B 12 , 5.51 mg of riboflavin, 38.55 mg of niacin, 22.03 mg of pantothenic acid, 0.22 mg of biotin, 1.10 mg of folic acid, 0.88 mg of pyridoxine, 0.396 mg of Co as CoCO 3 , 0.015 g of Cu as CuO or CuSO 4 , 0.22 mg of I as ethylenediamine dihydroiodide (EDDI) or CaI 2 , 0.15 g of Fe as FeSO 4 , 0.031 g of Mn as MnO or MnSO 4 , 0.31 mg of organic Se as selenium yeast, and 0.15 g of Zn as ZnO or ZnSO 4 .",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Results of diagnostic testing throughout experiment (days 0 to 41) PRRSV = porcine reproductive and respiratory syndrome virus, IAV = influenza A virus, PEDV = porcine epidemic diarrhea virus, PDCoV = porcine deltacoronovirus.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Effects of dietary treatment and group size, and their interaction, on nursery pig growth performance, day 0-41 NC = negative control; PC = positive control: NC + dietary antibiotics; ZA = NC + ZnO + dietary acidifier; DR = NC + Bacillus-based directfed microbial + 5% resistant starch. Group size treatments: pigs were housed in groups of either 31 (large group) or 11 (small group) pigs per pen.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Effects of dietary treatment and group size on medical treatments and removals, day 0-41 Medical treatments calculated as total number of medical treatments administered per pen divided by number of pigs allotted to pen (31 or 11).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Timeline of necropsies and diagnostic results",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Examples of methods for determining pathogen exposure in studies PRRSV = porcine reproductive and respiratory syndrome virus, PEDV = porcine epidemic diarrhea virus, PDCoV = porcine deltacoronovirus, IAV = influenza A virus, TGEV/PRCV = transmissible gastroenteritis virus/porcine respiratory coronavirus.2 PCR = polymerase chain reaction, abELISA = ELISA for antibody detection.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "Sample size calculations 1",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

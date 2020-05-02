@@ -1,0 +1,2847 @@
+{
+    "paper_id": "699071766da4f82ab66f8c132275b021c46cac72",
+    "metadata": {
+        "title": "Epidemiological characteristics and transmissibility of shigellosis in Hubei",
+        "authors": [
+            {
+                "first": "Qi",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "\u2020",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jia",
+                "middle": [],
+                "last": "Rui",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qingqing",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ying",
+                "middle": [],
+                "last": "Peng",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hao",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zeyu",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yeqing",
+                "middle": [],
+                "last": "Tong",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yang",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yanhua",
+                "middle": [],
+                "last": "Su",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Benhua",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xuhua",
+                "middle": [],
+                "last": "Guan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tianmu",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Shigellosis is one of the main diarrhea diseases in developing countries. However, the transmissibility of shigellosis remains unclear. Methods: We used the dataset of shigellosis cases reported between January 2005 and December 2017, from Hubei Province, China. A mathematical model was developed based on the natural history and the transmission mechanism of the disease. By fitting the data using the model, transmission relative rate from person to person (b) and from reservoir to person (b w ), and the effective reproduction number (R eff ) were estimated. To simulate the contribution of b and b w during the transmission, we performed a \"knock-out\" simulation in four scenarios:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results: A total of 130,770 shigellosis cases were reported in Hubei province, among which 13 cases were dead. The median annual incidence was 19.96 per 100,000 persons (range: 5.99 per 100,000 persons -29.47 per 100,000 persons) with a decreased trend (trend \u03c7 2 = 25,470.27, P < 0.001). The mean values of b and b w were 0.0898 (95% confidence interval [CI]: 0.0851-0.0946) and 1.1264 \u00d7 10 \u2212 9 (95% CI: 4.1123 \u00d7 10 \u2212 10 -1.8416 \u00d7 10 \u2212 9 ), respectively. The \"knock-out\" simulation showed that the number of cases simulated by scenario A was almost the same as scenario B, and scenario C was almost the same as scenario D. The mean value of R eff of shigellosis was 1.19 (95% CI: 1.13-1.25) and decreased slightly with a Linear model until it decreased to an epidemic threshold of 0.99 (95% CI: 0.65-1.34) in 2029.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The incidence of shigellosis is still in high level. The transmissibility of the disease is low in Hubei Province. The transmission would be interrupted in the year of 2029.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Shigellosis, caused by Shigella spp which are Gramnegative bacteria, is a fecal-oral transmission disease with a symptom of severe colitis and induced by a very low infectious dose [1, 2] . In developing countries, Shigella spp are one of the top four attributable causes of moderate-severe diarrhea in children younger than 5 years. Shigellosis is an illness that kills roughly 750,000 people per year [3] [4] [5] . Although the incidence of shigellosis has declined remarkably due to the rapid improvements in water supply and sanitation in China [6] , a considerable disease burden still exists and is unevenly distributed across the country [7] [8] [9] . Because of the different transmission conditions resulted from socialeconomic factors such as water supply and hygiene practices in different areas, the transmission of shigellosis is heterogeneous and is still a major public health problem in many areas in China [7, 10, 11] . The transmission interruption has a public importance in China as well as many developing countries. Generally, whether an infectious disease spreads or not depends on the size of transmissibility or \"transmission force\" behind the transmission. However, to our knowledge, there is no study investigating the transmissibility of shigellosis. Therefore, an understanding the transmissibility of shigellosis is of great significance to ensure a better disease prevention and control.",
+            "cite_spans": [
+                {
+                    "start": 181,
+                    "end": 184,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 185,
+                    "end": 187,
+                    "text": "2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 403,
+                    "end": 406,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 407,
+                    "end": 410,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 411,
+                    "end": 414,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 549,
+                    "end": 552,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 649,
+                    "end": 652,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 653,
+                    "end": 656,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 923,
+                    "end": 926,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 927,
+                    "end": 930,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 931,
+                    "end": 934,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "The transmissibility of an infectious disease is commonly quantified by basic reproduction number (R 0 ), which is defined as the expected number of secondary infections that result from introducing a single infected individual into an otherwise susceptible population [12] [13] [14] [15] . However, because of the disease intervention or the decreasing proportion of susceptible individuals due to the spread of the pathogen, it is hard to estimate R 0 . Therefore, effective reproduction number (R eff ) is commonly employed instead, with the definition of the number of new cases which was produced by a typical case during the period of infection [16, 17] . From the definition, it is clear that when R eff > 1, the disease is able to spread in the population. If R eff < 1, the infection will be cleared from the population. Therefore, R eff = 1 is considered as the \"epidemic threshold\".",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 273,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 274,
+                    "end": 278,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 279,
+                    "end": 283,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 284,
+                    "end": 288,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 651,
+                    "end": 655,
+                    "text": "[16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 656,
+                    "end": 659,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Although statistical model, like Bayesian model, was employed to explore the epidemiological characteristics [18] , there is few research to simulate and forecast the population-based transmission [19] . To explore the transmissibility, we have performed a study to estimate the relative transmissibility of shigellosis among male and female individuals in Hubei Province, China [20] . And we found that the transmissibility of shigellosis was different in females was higher than that of males [20] . However, we still do not know the values of R eff and their trends. In this study, we used the dataset of reported shigellosis cases collected in Hubei Province, China, developed a mathematical model to fit the data, estimated the values and trends of R eff , and forecasted the transmission interruption year of the disease.",
+            "cite_spans": [
+                {
+                    "start": 109,
+                    "end": 113,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 197,
+                    "end": 201,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 379,
+                    "end": 383,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 495,
+                    "end": 499,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Hubei Province, located in the center of China and north of the Dongting Lake, has a population of more than 58 million. Hubei is known as the \"province of thousands of lakes\". Except the main stream of the Yangtze River and Han River, there are 4228 rivers and 755 lakes in the province. The large water areas provide an easy spread of Shigella spp. Therefore, it is of great value to study shigellosis transmissibility in Hubei Province, China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data collection"
+        },
+        {
+            "text": "In this study, we used the dataset of reported shigellosis cases that was built from January 2005 to December 2017 in the province. The sex, age, illness onset date, and diagnosis date of each case was included in the data. Incidences of 12 urban areas (including 7 central districts in Wuhan City and 5 districts in Yichang City) and 14 rural areas (including 5 outer suburbs districts in Wuhan City, and 8 counties or county-level cities in Yichang City) from 2005 to 2017 were collected to compare the difference between urban and rural areas. All the cases were collected from the China Information System for Disease Control and Prevention. All the cases were identified following the case definitions from \"Diagnostic criteria for bacterial and amoebic dysentery (WS287-2008)\" announced by the National Health Commission of the People's Republic of China: In this study, we only included clinically diagnosed cases and confirmed cases for the analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data collection"
+        },
+        {
+            "text": "In this study, two models were developed according to the transmission routes of the disease. According to our previous research [14, 19] , we firstly built a susceptible-exposed-symptomatic-asymptomatic-recovered-water/food (SEIARW) model (denoted as Model 1) in which two routes (person-to-person and reservoir-to-person) were considered. For the route of person-to-person, two routes (symptomatic-to-susceptible and asymptomatic-to-susceptible) were both considered. In the model, people were divided into susceptible (S), exposed (E), symptomatic (I), asymptomatic (A), and recovered (R) individuals. The reservoir, including water or food, was denoted as W. In order to normalize the dimensions of people and Shigella spp population, we set s = S/N, e = E/N, i = I/N, a = I/A, r = R/N, w = \u03b5W/\u03bcN, b = \u03b2N, and b w = \u03bc\u03b2 W N/\u03b5.",
+            "cite_spans": [
+                {
+                    "start": 129,
+                    "end": 133,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 134,
+                    "end": 137,
+                    "text": "19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The transmission models"
+        },
+        {
+            "text": "In the model, N is assumed to denote the total population. The parameter \u03b2 is the transmission relative rate from person to person, \u03b2 W is the transmission relative rate from reservoir to person, k is the relative transmissibility of asymptomatic to symptomatic individuals, \u03c9 is the incubation relative rate, p is the proportion of asymptomatic individuals, \u03b3 is the infectious period relative rate of symptomatic individuals, \u03b3' is the infectious period relative rate of asymptomatic individuals, \u03b5 is the relative rate of the pathogen's lifetime, c is the shedding rate of the asymptomatic comparing to the infectious, and \u03bc is the pathogen shedding coefficient of infectious individuals. The equations of the model are as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The transmission models"
+        },
+        {
+            "text": "We also developed a susceptible-exposed-symptomaticasymptomatic-recovered (SEIAR) model (denoted as Model 2) which only includes the transmission route of personto-person [21] [22] [23] . The equations of the model are as follows:",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 175,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 181,
+                    "end": 185,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The transmission models"
+        },
+        {
+            "text": "In the model, the effective reproduction number (R eff ) was calculated by the equation as follows:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The transmission models"
+        },
+        {
+            "text": "There are eight parameters (b, b w , k, \u03c9, p, \u03b3, \u03b3', c, and \u03b5) in the above models. According to our previous research [19] , k, \u03c9, p, \u03b3, \u03b3', c, and \u03b5 are disease-specific parameters which could be estimated from literatures. The incubation period of shigellosis is 1-4 days [24, 25] , and most commonly 1 day, therefore, \u03c9 = 1.0. The proportion of asymptomatic infection ranges from 0.0037 to 0.27 [26] [27] [28] , and it can be set p = 0.1. The infectious period of symptomatic infection is 13.5 days [19] , therefore, \u03b3 = 0.0741. According to our previous research [19] , the infectious period of asymptomatic infection could be simulated 5 weeks in our model, thus \u03b3' = 0.0286. Because of that the die-off rate of Shigella spp is about 24.5 h [29] , \u03b5 = 0.6931 was consequently simulated [19] . In our previous research [19] , a typical case has diarrhea about 3.2 times (range 3-12 times) per day but an asymptomatic individual only sheds stool once per day, thus c = 0.3125. Due to reduction of shedding frequency, the relative transmissibility of asymptomatic individual (k) was modeled to be a reduced quantity as 0.3125 [19] . However, b and b w are scenario-or area-specific parameters which depend on different outbreaks and periods. Therefore, these two parameters are confirmed by curve fitting by Models 1 and 2 to the collected data. To simulate the contribution of b and b w during the transmission, we performed a \"knock-out\" simulation which was based on the following four scenarios: A) b = 0 and b w = 0; B) b = 0; C) b w = 0; D) control (no intervention). was employed for model simulation and least root mean square was adopted to assess the goodness of fit. The simulation methods were the same as the previously publications [12, 14, 19, 30, 31] . The chi-square and trend chi-square tests and t test were performed by SPSS 13.0 (IBM Corp., Armonk, NY, USA).",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 123,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 275,
+                    "end": 279,
+                    "text": "[24,",
+                    "ref_id": null
+                },
+                {
+                    "start": 280,
+                    "end": 283,
+                    "text": "25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 399,
+                    "end": 403,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 404,
+                    "end": 408,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 409,
+                    "end": 413,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 503,
+                    "end": 507,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 568,
+                    "end": 572,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 747,
+                    "end": 751,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 792,
+                    "end": 796,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 824,
+                    "end": 828,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1129,
+                    "end": 1133,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1749,
+                    "end": 1753,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1754,
+                    "end": 1757,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1758,
+                    "end": 1761,
+                    "text": "19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1762,
+                    "end": 1765,
+                    "text": "30,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1766,
+                    "end": 1769,
+                    "text": "31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Parameter estimation"
+        },
+        {
+            "text": "Eleven equations (Linear, Logarithmic, Inverse, Quadratic, Cubic, Compound, Power, S, Growth, Exponential, Logistic) were employed to fit the data of R eff which was calculated by the reported data. The equations of the 11 models were shown as follows: Fig. 1 Epidemiological characteristics of Shigellosis cases from 2005 to 2017 in Hubei Province, China. a, reported cases and incidence of Shigellosis cases; b, sex distribution; c, age distribution",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 253,
+                    "end": 259,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Simulation method and statistical analysis"
+        },
+        {
+            "text": "In the equations, x and f(x) refer to time (year) and dependent variables (R eff ), respectively; b 0 , b 1 , b 2 , b 3 , and u refer to the coefficients of the models which were estimated by curve fitting with the data. Determination coefficient (R 2 ) was employed to evaluate the curve fitting.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Simulation method and statistical analysis"
+        },
+        {
+            "text": "From January 1, 2005 to December 31, 2017, 130,770 Shigellosis cases were reported in the province. Among them 13 cases were dead with a case fatality rate of 0.01%. The median yearly reported incidence was 19.96 per 100,000 persons (range: 5.99 per 100, 000 persons -29.47 per 100,000 persons). Figure 1a showed that the number of reported cases and reported incidence yearly were both decreased significantly (trend \u03c7 2 = 25,470.27, P < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 296,
+                    "end": 305,
+                    "text": "Figure 1a",
+                    "ref_id": null
+                }
+            ],
+            "section": "Reported shigellosis cases in Hubei Province"
+        },
+        {
+            "text": "Of all the cases, male cases were account for 56.57% (73,981/130770) which was significantly higher than that of female cases (\u03c7 2 = 2255.19, P < 0.001). This incidence difference between male and female was observed in each year (Fig. 1b) . Children cases with an age of 10 years and younger had the highest case proportion of 39.30%, with the \"0 -1\" years old children or new-born cases were account for 61.33% (Table 1 ). The second age group with highest case proportion was \"11 -20\" years (15.20%) followed by \"61 -\" years (14.51%). The distribution of incidence of age group was similar in different years (Fig. 1c) . The median duration from illness onset date to diagnosed date (D ID ) of all the cases was 1.7 days (inter-quartile range [IQR]: 2.3 days). Each year had a similar distribution of D ID (Fig. 2) . The D ID of 71.24% cases were lower than 4 days, especially lower 1 days (24.43%) and 2 days (30.87%).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 230,
+                    "end": 239,
+                    "text": "(Fig. 1b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 413,
+                    "end": 421,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 612,
+                    "end": 621,
+                    "text": "(Fig. 1c)",
+                    "ref_id": null
+                },
+                {
+                    "start": 809,
+                    "end": 817,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Reported shigellosis cases in Hubei Province"
+        },
+        {
+            "text": "Among the 17 sub-regions of Hubei Province, Wuhan City had the most reported cases (39.88%) and the highest cumulative incidence during the past 13 years. The second highest number of cases was reported in Yichang City (8.66%) and Jingzhou City (8.24%). However, the rank of reported incidence was very different. Xiantao City and Yichang City had the second and third highest incidence, respectively. Shennongjia, which is a forest region, had the least reported cases (0.05%) and the lowest reported incidence ( Table 2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 514,
+                    "end": 522,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Reported shigellosis cases in Hubei Province"
+        },
+        {
+            "text": "The mean reported incidence of shigellosis was 58.53 per 100,000 in urban areas (95%CI: 51.91 per 100,000-65.15 per 100,000) and 14.10 per 100,000 in rural areas (95% CI: 11.34 per 100,000-16.86 per 100,000) (Fig. 3) . The difference of the incidences was statistically significant between urban and rural areas (t = 12.1345, P < 0.001).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 208,
+                    "end": 216,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Reported shigellosis cases in Hubei Province"
+        },
+        {
+            "text": "The results of curve fitting (Fig. 4) showed that Model 1 fitted well to the data (\u03c7 2 = 0.00015, P > 0.999). Calculated by the model, the mean value of b was 0.0898 (95% CI: 0.0851-0.0946) and b w was 1.1264 \u00d7 10 \u2212 9 (95% CI: 4.1123 \u00d7 10 \u2212 10 -1.8416 \u00d7 10 \u2212 9 ) from 2005 to 2017 in the province. The difference between the two parameters was as much as more than seven orders of magnitude in each year ( Table 3) . Results of the \"knock-out\" simulation (Fig. 5) showed that the number of cases simulated by scenario A (b = 0 and b w = 0) was almost the same as that simulated by scenario B (b = 0), and that the number of cases simulated by scenario C (b w = 0) was the almost same as that simulated by scenario D (control), (Fig. 6) . The mean value of R eff was 1.08 (95% CI: 0.83-1.34) in the year of 2005. It reached a peak value of 1.39 (95% CI: 1.14-1.65) in 2006. Although it had a lowest value in 2010, it decreased slightly yearly (Table 4 ). By fitting the 11 equations with R eff calculated by the SEIAR model with the reported data, the three most fitting models were Cubic, Linear, and Quadratic ( Table 5 ). The fitted results were shown in Fig. 7 . The Linear and Quadratic models forecasted that the mean value of R eff would decrease yearly. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 29,
+                    "end": 37,
+                    "text": "(Fig. 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 406,
+                    "end": 414,
+                    "text": "Table 3)",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 455,
+                    "end": 463,
+                    "text": "(Fig. 5)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 727,
+                    "end": 735,
+                    "text": "(Fig. 6)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 942,
+                    "end": 950,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF6"
+                },
+                {
+                    "start": 1113,
+                    "end": 1120,
+                    "text": "Table 5",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 1157,
+                    "end": 1163,
+                    "text": "Fig. 7",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "Curve fitting and the transmissibility of the disease"
+        },
+        {
+            "text": "To our knowledge, this is the first study to estimate the long-term transmissibility and forecast the R eff trend of Shigellosis in China. Located in the lake region, Hubei Province has a high burden of shigellosis and provides a large data for the modelling study. Our model developed in Hubei Province could also be used to study the transmission of the shigellosis in other places. Therefore, our study has an important significance to provide a reference for deeply understanding the transmission characteristics of the disease. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In our study, the SEIARW model was employed to fit the epidemic curves of the reported data, the results of Chi-square test showed a high good-of-fitness of our model to the reported data, suggesting that the model is suitable for this study and can be used to estimate the transmissibility of the disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Validity of the model"
+        },
+        {
+            "text": "In this study, we found that the incidence of the disease was still in a high level although with a decreasing trend. This finding is similar to the epidemiological characteristic in many areas in China [9] [10] [11] 18] . Our findings of sex and age distribution showed that: 1) male individuals were more likely to be infected by Shigella spp than females; 2) individuals who were infants or old were more likely to be infected by the pathogen. These findings are similar to the epidemiological characteristics of shigellosis [24, 32, 33] . The intervention focusing on male, children, newborns and elders might be more effective to prevent and control the disease. It is also important to monitor the disease among those populations.",
+            "cite_spans": [
+                {
+                    "start": 203,
+                    "end": 206,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 207,
+                    "end": 211,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 212,
+                    "end": 216,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 217,
+                    "end": 220,
+                    "text": "18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 528,
+                    "end": 532,
+                    "text": "[24,",
+                    "ref_id": null
+                },
+                {
+                    "start": 533,
+                    "end": 536,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 537,
+                    "end": 540,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The epidemiological characteristics of the disease"
+        },
+        {
+            "text": "Our findings of area distribution showed that the incidence of the disease had a high heterogeneity in different sub-regions of Hubei Province. Shigellosis had a high transmission in large cities such as Wuhan City (the capital city of the province) and Yichang City (which has a population more than 400 million) or cities near Wuhan City such as Xiantao City. We also found that the incidence of shigellosis in urban areas was higher than that in rural areas. It might due to the higher population density in urban areas. However, the transmissibility remains unclear in urban and rural areas and further research is needed to explore the force of the transmission in different areas. About a half of the cases were diagnosed in 1.7 days from their illness onset date. However, this also meant that about 50% of the cases were diagnosed after 1.7 days from their illness onset date. There is a room to improve the surveillance system's ability of diagnosing the disease immediately and to shorten the D ID of Shigellosis cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The epidemiological characteristics of the disease"
+        },
+        {
+            "text": "The \"knock-out\" simulation showed that parameter b w had almost no contribution during the transmission which meant that the transmission route of reservoir to person was interrupted in the area. This is mainly attributed to the government's progress of improving sanitation drinking water and lavatories, food safety, and people's health behaviors like drinking boiled water. Therefore, the remained major transmission route is person to person which will be the main public health focus to control the disease. This result also provided a mathematical evidence of the epidemiological characteristics of shigellosis that the pathogen was transmitted primarily through person-to-person [24] . Therefore, a combined strategy of case management would be strongly recommended including case isolation and treatment, environment disinfection, surveillance system improvement, and individuals' health behaviors improvement like hand hygiene.",
+            "cite_spans": [
+                {
+                    "start": 686,
+                    "end": 690,
+                    "text": "[24]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "The transmissibility of shigellosis"
+        },
+        {
+            "text": "Our results showed that the mean value of R eff of Shigellosis was 1.19, meaning that the expected number of secondary infections that resulted from introducing a single infected individual into an otherwise susceptible population was only 1.19 on average. This revealed that the transmissibility of shigellosis is lower than many other infectious diseases such as influenza, Ebola virus disease, and Norovirus infection [12, 14, 15, 34] .",
+            "cite_spans": [
+                {
+                    "start": 421,
+                    "end": 425,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 426,
+                    "end": 429,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 434,
+                    "end": 437,
+                    "text": "34]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The transmissibility of shigellosis"
+        },
+        {
+            "text": "In addition, the transmissibility of Shigellosis decreased slightly from 2005 to 2017. Although the Linear, Quadratic, and Cubic models had the best goodness of fit, the 95%CIs of Quadratic model and Cubic model were not stable after the year 2019 (Fig. 7) . Therefore, the Linear model was recommended to predict the trends of the transmissibility. The Linear model predicted that the R eff would down to an epidemic threshold (R eff = 1.00) in 2029. This was an interesting result which meant that the disease would probably be eliminated after the year of 2029. But this result was based on the assumption that the transmission condition would remain stable in the future years. Therefore, this trend might be different in other provinces. Hubei Province is located in a lake region with many cities suffered from floods frequently. The transmissibility of Shigellosis would be increased after the flood and provides a potential transmission route of water to person. On the other hand, the year of the transmission interrupted might be ahead of ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 248,
+                    "end": 256,
+                    "text": "(Fig. 7)",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "The transmissibility of shigellosis"
+        },
+        {
+            "text": "Limited by the availability of data, there are several limitations in this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "Firstly, some environment factors (temperature, humidity, and rainfall) which might affect the spread of the disease were not considered in the model.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "Secondly, due to the transmission heterogeneity, the features and trends of the transmissibility of the disease might be different in different areas in Hubei Province.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "Thirdly, our study only focused in Hubei Province, the characteristics and the trends of transmissibility of shigellosis might be different in other provinces. The applicability of the mathematical models remains unclear to different datasets of reported shigellosis. However, Hubei Province has a high burden of shigellosis and provides us a large data for the modelling. The ordinary differential equation model has a strong applicability. It could be used in different populations including school or community with small-scale outbreaks [14, 19] , and in different diseases such as shigellosis, norovirus infection, Ebola virus disease, and influenza [12, 14, 19, 31] .",
+            "cite_spans": [
+                {
+                    "start": 541,
+                    "end": 545,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 546,
+                    "end": 549,
+                    "text": "19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 655,
+                    "end": 659,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 660,
+                    "end": 663,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 664,
+                    "end": 667,
+                    "text": "19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 668,
+                    "end": 671,
+                    "text": "31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "In addition, we did not simulate the sensitivity and specificity improvement of the surveillance system by the model. More researches are needed to perform the simulation of shorten D ID in different scenarios.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "The disease burden of Shigellosis is still in a high level in Hubei Province, China. Individuals who were Abbreviations CI: Confidence interval; D ID : Duration from illness onset date to diagnosed date; IQR: Inter-quartile range; SEIAR: Susceptible-exposed-symptomaticasymptomatic-recovered; SEIARW: Susceptible-exposed-symptomaticasymptomatic-recovered-water/food",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Intercontinental dissemination of azithromycin-resistant shigellosis through sexual transmission: a crosssectional study",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Dallman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ashton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crook",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gilbart",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zittermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Howden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Lancet Infect Dis",
+            "volume": "15",
+            "issn": "8",
+            "pages": "913--934",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Global, regional, and national causes of child mortality: an updated systematic analysis for 2010 with time trends since",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cousens",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Perin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Lawn",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Rudan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Cibulskis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Lancet",
+            "volume": "379",
+            "issn": "9832",
+            "pages": "2151--61",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Burden and aetiology of diarrhoeal disease in infants and young children in developing countries (the global enteric multicenter study, GEMS): a prospective, case-control study",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Kotloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Nataro",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Blackwelder",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nasrin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Panchalingam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Sow",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sur",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Breiman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet",
+            "volume": "382",
+            "issn": "9888",
+            "pages": "209--231",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Shigellosis: epidemiology in India",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Taneja",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mewara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Indian J Med Res",
+            "volume": "143",
+            "issn": "5",
+            "pages": "565--76",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Regional disparities in the burden of disease attributable to unsafe water and poor sanitation in China",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Carlton",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Mcdowell",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Remais",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Bull World Health Organ",
+            "volume": "90",
+            "issn": "8",
+            "pages": "578--87",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Spatiotemporal pattern of bacillary dysentery in China from 1990 to 2009: what is the driver behind?",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS One",
+            "volume": "9",
+            "issn": "8",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Trend and disease burden of bacillary dysentery in China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiao",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Deen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Bull World Health Organ",
+            "volume": "84",
+            "issn": "7",
+            "pages": "561--569",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Patterns of bacillary dysentery in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Si",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Int J Environ Res Public Health",
+            "volume": "13",
+            "issn": "2",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "An 11-year study of shigellosis and Shigella species in Taiyuan, China: active surveillance, epidemic characteristics, and molecular serotyping",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Infect Public Health",
+            "volume": "10",
+            "issn": "6",
+            "pages": "794--802",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Spatiotemporal Characteristics of Bacillary Dysentery from",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Miao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Int J Environ Res Public Health",
+            "volume": "15",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/ijerph15091826"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Risk of imported Ebola virus disease in China",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ka-Kit",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Travel Med Infect Dis",
+            "volume": "12",
+            "issn": "6",
+            "pages": "650--658",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Perspectives on the basic reproductive ratio",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Heffernan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wahl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J R Soc Interface R Soc",
+            "volume": "2",
+            "issn": "4",
+            "pages": "281--93",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Evidence-based interventions of Norovirus outbreaks in China",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "BMC Public Health",
+            "volume": "16",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The transmissibility estimation of influenza with early stage data of smallscale outbreaks in Changsha, China",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Szot",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Epidemiol Infect",
+            "volume": "145",
+            "issn": "3",
+            "pages": "424--457",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Hand, foot, and mouth disease in China: patterns of spread and transmissibility",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Self",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Longini",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wakefield",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Epidemiology",
+            "volume": "22",
+            "issn": "6",
+            "pages": "781--92",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Seasonality of the transmissibility of hand, foot and mouth disease: a modelling study in Xiamen City",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Hannah",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "China. Epidemiol Infect",
+            "volume": "147",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Spatiotemporal Risk of Bacillary Dysentery and Sensitivity to Meteorological Factors in Hunan Province, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int J Environ Res Public Health",
+            "volume": "15",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/ijerph15010047"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Investigation of key interventions for shigellosis outbreak control in China",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "PLoS One",
+            "volume": "9",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "The relative transmissibility of shigellosis among male and female individuals in Hubei Province, China: a modelling study. bioRxiv",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Hannah",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Transmissibility of the influenza virus during influenza outbreaks and related asymptomatic infection in mainland China",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "PLoS One",
+            "volume": "11",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Evaluating the effects of common control measures for influenza a (H1N1) outbreak at school in China: a modeling study",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS One",
+            "volume": "12",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Outbreak detection and evaluation of a school-based influenza-like-illness syndromic surveillance in Tianjin, China. PloS one",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "A school outbreak of Shigella sonnei infection in China: clinical features, antibiotic susceptibility and molecular epidemiology",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Qiao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Indian Pediatr",
+            "volume": "49",
+            "issn": "4",
+            "pages": "287--90",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Risk factors for secondary transmission of Shigella infection within households: implications for current prevention policy",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bovee",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Whelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sonder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Van Dam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Den Hoek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "BMC Infect Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Asymptomatic salmonella, Shigella and intestinal parasites among primary school children in the eastern province",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Qadri",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ai-Gamdi",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Harfi",
+                    "middle": [],
+                    "last": "Ra",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Fam Community Med",
+            "volume": "2",
+            "issn": "2",
+            "pages": "36--40",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Detection of intra-familial transmission of shigella infection using conventional serotyping and pulsed-field gel electrophoresis",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Talukder",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Huq",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mondal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Malek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Dutta",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Nair",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Faruque",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Epidemiol Infect",
+            "volume": "134",
+            "issn": "3",
+            "pages": "605--616",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Comparative survival of indicator bacteria and enteric pathogens in well water",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mcfeters",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bissonnette",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jezeski",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Thomson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Stuart",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Appl Microbiol",
+            "volume": "27",
+            "issn": "5",
+            "pages": "823--832",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Simulation of key interventions for seasonal influenza outbreak control at school in Changsha",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "China. J Int Med Res",
+            "volume": "48",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "The effectiveness of age-specific isolation policies on epidemics of influenza a (H1N1) in a large City in central South China",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS One",
+            "volume": "10",
+            "issn": "7",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Identification and management of Shigella infection in children with diarrhoea: a systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Tickell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brander",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Atlas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pernica",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Walson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Pavlinac",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Lancet Glob Health",
+            "volume": "5",
+            "issn": "12",
+            "pages": "1235--1283",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Changing patient population in Dhaka Hospital and Matlab Hospital of icddr,b",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Das",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rahman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chisti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Malek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Salam",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bardhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Faruque",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Trop Med Int Health",
+            "volume": "19",
+            "issn": "2",
+            "pages": "240--243",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "The transmissibility and control of pandemic influenza a (H1N1) virus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Sugimoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Halloran",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Basta",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Matrajt",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Potter",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kenah",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Longini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Science",
+            "volume": "326",
+            "issn": "5953",
+            "pages": "729--762",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Based on the Linear model, R eff would reach a low value of 1.00 (95% CI: 0.67-1.34) in the year of 2028 and be down to an epidemic threshold of 0.99 (95% CI: 0.65-1.34) in 2029. Based on the Quadratic model, R eff would reach a low value of 1.00 (95% CI: 0.00-2.93) in the year of 2031 and be down to an epidemic threshold of 0.999 (95% CI: 0.00-3.12) in 2032. However, the Cubic model predicted an increasing trend after the year 2018.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Distribution of duration from illness onset date to diagnosed date of 130,770 Shigellosis cases in Hubei Province, China. IQR, interquartile range",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Reported incidences in 12 urban areas and 14 rural areas from 2005 to 2017 in Hubei Province, China",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Curve fitting of Model 1 to reported data from 2005 to 2017 in Hubei Province, China",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Four scenarios to simulate the contribution of b and b w during the transmission (b = 0 and b w = 0; b = 0; b w = 0; and control denoted as \"None\")",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Distribution of R eff estimated by Model 2 in Hubei Province, China schedule since the disease control strategy would be strengthened in the future years, especially with the progress of \"Health China\" action launched by the Chinese government. More researches are needed to simulate the trend of transmissibility of the shigellosis with the interventions considered.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Simulated trend of R eff in Hubei Province, China. a, Linear model; b, Quadratic model; c, Cubic model children, new-born, elders, and living in urban areas were more likely to be infected by Shigella spp. Most of the cases were diagnosed in 3 days from their illness onset date. The transmission route of reservoir to person had no contribution to the disease transmission in this area. The transmission of the disease would probably be interrupted in the year of 2029.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ") Suspected cases: Diarrhea, with purulent or mucous stool or watery stool or sparse stool, accompanied",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Berkeley Madonna 8.3.18 (developed by Robert Macey and George Oster of the University of California at Berkeley. Copyright\u00a91993-2001 Robert I. Macey & George F. Oster)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Epidemiological characteristics of 130,770 reported Shigellosis cases in Hubei Province, China",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Regional distribution of reported Shigellosis cases in Hubei Province, China, 2005-2017",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Estimated values of b and b w from 2005 to 2017 in Hubei Province, China",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank the staff members at the hospitals, local health departments, and municipal-and county-level CDCs for their valuable assistance in coordinating data collection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "Authors' contributions TC, QC, and JR designed the study. QC, YP, HZ, YT, YW, and XG collected data. TC, JR, QC, ZZ, YS, and BZ and performed the analysis. TC, QC, and QH wrote the first draft of this paper. All authors contributed to the writing of the manuscript. The author(s) read and approved the final manuscript. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "The datasets used and analyzed during the current study are available from Dr. Qi Chen (chenqi8700@qq.com) on reasonable request.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Availability of data and materials"
+        },
+        {
+            "text": "This effort of outbreak control and investigation was part of CDC's routine responsibility in Hubei Province; therefore, institutional review and informed consent were waived by Medical Ethics Committee of Hubei Center for Disease Control and Prevention on the following grounds: (1) all data analyzed were anonymized; (2) neither medical intervention nor biological samples were involved; (3) study procedures and results would not affect clinical management of patients in any form.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics approval and consent to participate"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

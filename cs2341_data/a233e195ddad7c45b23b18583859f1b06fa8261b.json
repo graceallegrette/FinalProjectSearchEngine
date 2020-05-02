@@ -1,0 +1,1573 @@
+{
+    "paper_id": "a233e195ddad7c45b23b18583859f1b06fa8261b",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "J",
+                "middle": [
+                    "D"
+                ],
+                "last": "Crenshaw",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "APC Inc",
+                    "location": {
+                        "postCode": "50021; \u2020APC",
+                        "settlement": "Ankeny, Europe",
+                        "region": "IA"
+                    }
+                },
+                "email": "joe.crenshaw@functionalproteins.com"
+            },
+            {
+                "first": "J",
+                "middle": [
+                    "M"
+                ],
+                "last": "Campbell",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "APC Inc",
+                    "location": {
+                        "postCode": "50021; \u2020APC",
+                        "settlement": "Ankeny, Europe",
+                        "region": "IA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [],
+                "last": "Polo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "H",
+                "middle": [
+                    "H"
+                ],
+                "last": "Stein",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Two experiments were done to compare growth performance of pigs weaned at 21 \u00b1 2 d of age that were housed in unsanitary pens and fed non-medicated diets containing alternative proteins versus spray-dried porcine (SDPP; Exp. 1) or bovine (SDBP; Exp. 2) plasma. Experiment 1 used 360 pigs fed 1 of 6 experimental diets from d 0 to 15, followed by a common diet fed to all pigs from d 15 to 28 post-weaning with 11 pens of 5 or 6 pigs/pen allotted per treatment. Experimental diets were based on 8.04% soy protein concentrate (SPC) as the control protein or a similar diet with either 2.50 or 5.00% SDPP or 0.17, 0.33, or 1.00% activated porcine plasma (APP) replacing SPC on an equal Lys basis. Experiment 2 used 300 pigs that were fed 1 of 6 experimental diets from d 0 to 14 post-weaning with 10 pens of 4 to 6 pigs/ pen allotted per diet. Experiment 2 diets were based on 8.04% SPC as the control protein source or similar diets with the following specialty proteins replacing SPC on an equal Lys basis: 0.40% APP; 10.66% enzymatically hydrolyzed soy and yeast protein (EHSY); a combination (CB) of 6.36% EHSY, 0.40% APP, and 2.50% fish meal; 0.44% spray-dried whole egg from hyper-immunized hens (IEGG); or 5.00% SDBP. Results of Exp.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "1 indicated pigs fed SDPP diets had greater (P < 0.05) ADG and ADFI at d 7 and 15 compared with pigs fed SPC or APP diets. Gain:feed at d 7 was higher (P < 0.05) for pigs fed diets with SDPP compared with other diets. Average BW at d 7 was greater (P < 0.05) for pigs fed diets with SDPP compared to other diets and pigs fed the 5.00% SDPP diet had greater BW at d 15 compared to diets without SDPP. At d 28 BW was greater (P < 0.05) for pigs fed the 2.50% SDPP diet compared with pigs fed diets with SPC, 0.33% APP, or 1.00% APP. Performance of pigs fed the SPC diet did not differ from APP diets at any period of the study. In Exp. 2, pigs fed the SDBP diet had greater (P < 0.05) BW, ADG, and ADFI at d 7 and 14 compared with pigs fed the other diets. Gain:feed did not differ significantly among diets.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Spray-dried animal plasma (SDP) is a highly digestible protein (Almeida et al., 2013) obtained from industrial fractionation of abattoir blood collected from healthy swine or cattle and spray-dried to preserve most of its biological activity (P\u00e9rez-Bosque et al., 2016) . Both porcine (SDPP) and bovine (SDBP) origin SDP used in diets for pigs has demonstrated beneficial effects on post-weaning growth, feed intake and feed efficiency compared to other protein sources, even if diets did or did not contain growth-promoting antimicrobials (Torrallardona, 2010) . Limited information has been published about alternatives to SDP including: activated porcine plasma (APP), which is subjected to proprietary processing conditions to reduce",
+            "cite_spans": [
+                {
+                    "start": 63,
+                    "end": 85,
+                    "text": "(Almeida et al., 2013)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 242,
+                    "end": 269,
+                    "text": "(P\u00e9rez-Bosque et al., 2016)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 540,
+                    "end": 561,
+                    "text": "(Torrallardona, 2010)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Translate basic science to industry innovation inherent anti-nutritional factors and enhance bioactivity of the proteins; spray-dried whole egg product (IEGG) derived from hens strategically vaccinated against various strains of Escherichia coli, Lawsonia intracellularis, rotavirus, coronavirus, Clostridia sp., and Salmonella sp., to produce specific immunoglobulin Y (IgY) antibodies against these pathogens; and soy and yeast protein subjected to enzyme hydrolysis (EHSY) to reduce inherent anti-nutritional factors and improve digestibility. The percentage improvement in growth response of weaned pigs fed diets with SDP compared to diets without SDP is greater if pigs are housed in unsanitary versus sanitary conditions (Coffey and Cromwell, 1995; Zhao et al., 2007) . Housing weaned pigs in unsanitary conditions can be used in feeding studies to differentiate the potential growth-enhancing effects of various specialty proteins used in diets. Two experiments were designed with the objective to compare growth of pigs housed in unsanitary conditions and fed non-medicated diets with different levels of APP or SDPP in Exp. 1 and diets with APP, EHSY, IEGG, or a combination of APP, EHSY, and fish meal compared to SDBP in Exp. 2. The hypothesis for both experiments was that growth of weaned pigs housed in unsanitary conditions and fed non-medicated diets containing these specialty proteins is equivalent to that of pigs fed diets containing either SDPP or SDBP.",
+            "cite_spans": [
+                {
+                    "start": 728,
+                    "end": 755,
+                    "text": "(Coffey and Cromwell, 1995;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 756,
+                    "end": 774,
+                    "text": "Zhao et al., 2007)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effects of specialty proteins as alternatives to bovine or porcine spray-dried plasma in non-medicated diets fed to weaned pigs housed in an unsanitary environment"
+        },
+        {
+            "text": "Animal care and use protocols for both experiments were reviewed and approved by the Institutional Animal Care and Use Committee at the University of Illinois.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Reduced growth performance of pigs housed in an unsanitary environment compared to a sanitary environment has been reported (Zhao et al., 2007; Berrocoso et al., 2015; Montagne et al., 2015) . For both experiments, pens were not cleaned and sanitized after the most recent housing of pigs. Unsanitary pens were used as an attempt to increase post-weaning stress on pigs so that potential bioactivity of the studied specialty proteins on pig growth could be better differentiated when compared to soy protein concentrate (SPC) as a negative control specialty protein and SDPP or SDBP as the respective positive control specialty protein used in Exp. 1 and 2. Also, during both experiments, antimicrobials in feed, medications and electrolytes in drinking water, and individual pig medications were not used to exclude potential confounding effects of these factors on animal performance response to dietary treatments.",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 143,
+                    "text": "(Zhao et al., 2007;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 144,
+                    "end": 167,
+                    "text": "Berrocoso et al., 2015;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 168,
+                    "end": 190,
+                    "text": "Montagne et al., 2015)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animals and Housing"
+        },
+        {
+            "text": "The 2 experiments were conducted using 21 \u00b1 2 d old pigs that were the offspring of Line 359 males mated to C-46 females (PIC, Hendersonville, TN). In each experiment, pigs were weaned in 2 groups at 2-wk intervals and placed in 2 environmentally controlled and ventilated nursery rooms; 1 with 32 pens and the other with 40 pens. Each pen in both rooms was 1.2 \u00d7 1.4 m with slatted floors, and each pen was equipped with a single sided feeder and a nipple drinker. Pigs in both experiments were identified by ear tags, and within each weaning group, pigs were allotted to pens by initial BW groups. Sex within pens was balanced within each replicate. Dietary treatments were randomly assigned to pens within weaning group and initial BW groups. Pigs were provided ad libitum access to feed and water throughout both experiments.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals and Housing"
+        },
+        {
+            "text": "In Exp. 1, pigs were fed 1 of 6 experimental phase 1 diets from d 0 to 15 post-weaning, followed by a common phase 2 diet fed to all pigs from d 15 to 28. The initial weaning group used 30 pens with 5 pens per treatment and 6 pigs per pen. The second weaning group used 36 pens with 6 pens per treatment and 5 pigs per pen. There were 11 pens with 60 pigs per experimental diet for the 2 weaning groups (360 pigs total). Pigs were weighed individually and average pig weight and feed intake per pen were recorded on d 0, 7, 15, 21, and 28 post-weaning and the experiment ended on d 28.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals and Housing"
+        },
+        {
+            "text": "In Exp. 2, pigs were fed 1 of 6 experimental phase 1 diets from d 0 to 14 post-weaning. The initial weaning group used 30 pens with 5 pens/treatment and 6 pigs/pen. The second weaning group used 30 pens with 5 pens of 4 pigs/pen per treatment. There were 10 pens with 50 pigs per experimental diet for the 2 weaning groups (300 pigs total). Pigs were weighed individually and average pig weight and feed intake per pen were recorded on d 0, 7, and 14 and the experiment ended on d 14.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animals and Housing"
+        },
+        {
+            "text": "Experimental diets for Exp.1 were based on corn, a fixed amount of soybean meal and dried whey powder, and 8.04% SPC as a control protein source (Table 1) . Two diets in which 2.50 or 5.00% SDPP replaced SPC on an equal Lys basis and 3 diets in which 0.17, 0.33, or 1.00% APP replaced SPC on an equal Lys basis were also formulated. Inclusion of 0.17 or 0.33% APP represented a 1/15th replacement of 2.50 and 5.00% SDPP in the formula, respectively, and 1.00% APP represented a 1/5th replacement of 5.00% SDPP in the formula. These levels of APP were evaluated based on information provided in the supplier brochure at the time of the study (May, 2013) , which suggested that APP should be used at 1/5th to 1/15th of the dietary inclusion level of SDPP based on results of unpublished feeding studies. All experimental phase 1 diets used in Exp. 1 were formulated to an equal Lys (1.60%) and ME (3,410 kcal/kg) content, were non-Translate basic science to industry innovation medicated, and fed during the initial 15 d post-weaning. All pigs were fed a common diet from d 15 to 28 postweaning and all diets were in a mash form.",
+            "cite_spans": [
+                {
+                    "start": 641,
+                    "end": 652,
+                    "text": "(May, 2013)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 145,
+                    "end": 154,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Experimental Diets"
+        },
+        {
+            "text": "Experimental diets for Exp. 2 were based on corn, a fixed amount of soybean meal and dried whey powder, and either SPC as a negative control protein source, or diets in which 8.04% SPC was fully or partially replaced on an equal Lys basis by 0.4% APP; 10.66% EHSY; a combination (CB) of 6.36% EHSY, 0.4% APP, and 2.50% fish meal; 0.44% IEGG, or 5.00% SDBP (Table 2) . Porcine or bovine origin SDP are available for use in swine feed in some countries. Spray-dried bovine plasma was used as a positive control diet in Exp. 2, because to the authors' knowledge no past studies have been published specifically comparing SDBP to APP or the other specialty proteins used in this experiment. Dietary inclusion levels of 0.4% APP and 0.44% IEGG were used based on supplier recommendations at the time of the study (March, 2015) . All experimental diets used in Exp. 2 were formulated to an equal Lys (1.60%) and ME (3,410 kcal/kg) content, (2012) or from the supplier product information for nutrient composition. Phase 1 diets were fed d 0 to 15 post-weaning. The phase 2 diet was fed to all pigs from d 15 to 28 post-weaning. SPC = soy protein concentrate (Soycomil P, ADM Alliance Nutrition, Quincy, IL); SDPP = spray-dried porcine plasma (AP920, APC Inc., Ankeny, IA); APP = activated porcine plasma (betaGRO, NutriQuest, Mason City, IA).",
+            "cite_spans": [
+                {
+                    "start": 808,
+                    "end": 821,
+                    "text": "(March, 2015)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 356,
+                    "end": 365,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Experimental Diets"
+        },
+        {
+            "text": "2 The vitamin-trace mineral premix provided the following per kg of diet: Vitamin A as retinyl acetate, 11,136 IU; vitamin D 3 as cholecalciferol, 2,208 IU; vitamin E as DL-alpha tocopheryl acetate, 66 IU; vitamin K as menadione dimethylprimidinol bisulfite, 1.42 mg; thiamin as thiamine mononitrate, 0.24 mg; riboflavin, 6.59 mg; pyridoxine as pyridoxine hydrochloride, 0.24 mg; vitamin B 12 , 0.03 mg; D-pantothenic acid as D-calcium pantothenate, 23.5 mg; niacin, 44.1 mg; folic acid, 1.59 mg; biotin, 0.44 mg; Cu, 20 mg as copper sulfate and copper chloride; Fe, 126 mg as ferrous sulfate; I, 1.26 mg as ethylenediamine dihydriodide; Mn, 60.2 mg as manganese sulfate; Se, 0.3 mg as sodium selenite and selenium yeast; and Zn, 125.1 mg as zinc sulfate.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experimental Diets"
+        },
+        {
+            "text": "3 Diet samples were analyzed by APC Inc., Boone, IA.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experimental Diets"
+        },
+        {
+            "text": "Translate basic science to industry innovation were non-medicated, provided in mash form and fed for the initial 14 d after weaning. The nutrient composition values for the ingredients used for formulation of the diets for both experiments were derived from NRC (2012) or from the supplier of the specialty proteins (Table 3) . Supplier information about the composition of SDP in Table 3 does not distinguish between porcine or bovine origin plasma. Differences in amino acid composition of SDPP or SDBP have been reported that indicate higher Lys, Met, Thr, and Trp in bovine compared to porcine plasma (Torrallardona, 2010 ). In the current experiments, 5% dietary SDPP was (2012) or from the supplier product information for nutrient composition. SPC = soy protein concentrate (Soycomil P, ADM Alliance Nutrition, Quincy, IL); APP = activated porcine plasma (betaGRO, NutriQuest, Mason City, IA); EHSY = enzymatically hydrolyzed soy and yeast protein (Hamlet 800 Booster, Hamlet Protein Inc., Findlay, OH); CB = combination of fish meal, APP, and EHSY; IEGG = spray-dried whole egg from hyper-immunized hens (ProtiMax for Swine, Trouw Nutrition, Highland, IL); SDBP = spraydried bovine plasma (AP920, APC Inc., Ankeny, IA ",
+            "cite_spans": [
+                {
+                    "start": 605,
+                    "end": 625,
+                    "text": "(Torrallardona, 2010",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 316,
+                    "end": 325,
+                    "text": "(Table 3)",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 381,
+                    "end": 388,
+                    "text": "Table 3",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Experimental Diets"
+        },
+        {
+            "text": "Both experiments were analyzed as a randomized complete block design with weaning group being the block and the pen being the experimental unit. Data were analyzed using a mixed model (PROC MIXED, SAS Inst. Inc., Cary, NC) for repeated measures of treatment, day of experiment, and treatment \u00d7 d interaction as fixed effects, block and replicate as random effects, and replicate within block as subtype for repeated measures (Littell et al., 1998) . Least squares treatment means were calculated and are reported for each independent variable and differences among treatments were separated using the PDIFF option of SAS. Significance was set at P < 0.05. Trends or tendencies are discussed at P \u2265 0.05 to P < 0.10.",
+            "cite_spans": [
+                {
+                    "start": 425,
+                    "end": 447,
+                    "text": "(Littell et al., 1998)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analyses"
+        },
+        {
+            "text": "Only 1 pig fed the 0.17% APP diet was removed from the pen and euthanized on d 15 of the experiment. No other pigs died or were removed from the experiment. The effect of dietary treatment, day of study, and interaction of treatment and day of study were significant (P < 0.05) for average BW, ADG, ADFI, and G:F (Table 4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 313,
+                    "end": 322,
+                    "text": "(Table 4)",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Experiment 1"
+        },
+        {
+            "text": "During phase 1 while pigs were fed experimental diets, average BW at d 7 and 15 of pigs fed the 5.00% SDPP diet was higher (P < 0.05) compared with the SPC diet and all APP diets. Pigs fed the 2.50% SDPP diet had higher (P < 0.05) BW at d 7 compared with the SPC or 0.17% APP diet, and at d 15 pigs fed the 2.50% SDPP diet had greater (P < 0.05) BW compared with the SPC, 0.17% APP, or 0.33% APP diets. Pigs fed diets with 2.50 or 5.00% SDPP had higher (P < 0.05) ADG, ADFI, and G:F at d 7, and higher (P < 0.05) ADG and ADFI at d 15 compared with the SPC or APP diets. At d 7, ADG was greater (P < 0.05) for pigs fed the 5.00% SDPP diet than the 2.50% SDPP diet and at d 15 G:F was greater (P < 0.05) for pigs fed the 5.00% SDPP diet than the 0.17% APP diet.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experiment 1"
+        },
+        {
+            "text": "Performance variables of pigs fed any of the APP diets or the SPC diet did not differ at any day of the experiment, with the exception that pigs fed the 0.17% APP diet had lower G:F at d 7 than pigs fed 0.33 or 1.00% APP.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experiment 1"
+        },
+        {
+            "text": "After all pigs were provided the common phase 2 diet starting on d 15 of the study, pigs previously fed the 2.50% SDPP diet in phase 1 had greater (P < 0.05) BW at d 21 than the SPC or the APP diets. At d 28, average BW was greater (P < 0.05) for pigs previously fed the 2.50% SDPP diet than the SPC, 0.33 or 1.00% APP diets. The cumulative ADG of pigs at d 21 was higher (P < 0.05) for the previously fed 2.50% SDPP diet compared with SPC or 0.33% APP diets. Also, ADFI of pigs at d 21 was higher (P < 0.05) for the 2.50% SDPP diet compared with SPC or APP diets. From d 0 to 28, ADFI was higher (P < 0.05) for pigs fed the 2.50% SDPP diet compared with SPC, 0.33 or 1.00% APP diets.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experiment 1"
+        },
+        {
+            "text": "The average daily gain at d 7 post-weaning for each pen per dietary treatment is presented in Fig. 1 as an ob- Translate basic science to industry innovation servation of the impact of the experimental conditions of unsanitary pens and non-use of medications on pig growth. None of the pens fed SDPP diets had a negative ADG at d 7 and the minimum ADG for SDPP diets was 58 g. Three of 11 pens provided SPC and 2 of 11 pens provided each of the APP diets had negative ADG results at d 7. However, for all non-SDPP diets, there were some pens that had ADG results within the minimum range of the SDPP diets. The conditions of unsanitary pens and non-use of medications apparently affected variation in pen ADG results; however, the results by dietary treatment were not likely strictly influenced by pen environment because dietary treatments were randomly allotted to pens within weaning group and by BW group.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 94,
+                    "end": 100,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Experiment 1"
+        },
+        {
+            "text": "No pigs died or were removed from Exp. 2 during the study. Effects of treatment were significant (P < 0.0001) for BW, ADG, and ADFI (Table 5 ). The effect of day of study was significant (P < 0.005) for all variables and the interaction of treatment by day of study was significant (P < 0.0001) for BW.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 132,
+                    "end": 140,
+                    "text": "(Table 5",
+                    "ref_id": "TABREF5"
+                }
+            ],
+            "section": "Experiment 2"
+        },
+        {
+            "text": "Pigs fed SDBP had increased (P < 0.05) BW, ADG, and ADFI at d 7 and 14 compared with pigs fed all other diets. Average BW, ADG, and ADFI at d 7 and 14 did not differ among diets that did not contain SDBP. Some dietary treatments had G:F means at d 7 that were negative, therefore G:F results for d 7 are not reported. Gain:feed did not differ significantly among diets at d 14. 1 Values are least squares cumulative performance data means for 11 pens per dietary treatment (T) analyzed using a mixed model for repeated measures of treatment (T), day of experiment (D), and treatment \u00d7 day of experiment (T \u00d7 D) as fixed effects, block and replication as random effects, and replication within block as sub-type for repeated measures. Experimental diets were: SPC = soy protein concentrate at 8.04% of diet (Soycomil P, ADM Alliance Nutrition, Quincy, IL); SDPP = spraydried porcine plasma at 2.50 or 5.00% of diet (AP920, APC Inc., Ankeny, IA); APP = activated porcine plasma at 0.17, 0.33, or 1.00% of diet (betaGRO, NutriQuest, Mason City, IA). Experimental diets were non-medicated and fed the initial 15 d of the experiment, followed by a common phase 2 diet for all pigs fed d 15 to 28.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Experiment 2"
+        },
+        {
+            "text": "Translate basic science to industry innovation As done for Exp. 1, the ADG at d 7 for each pen by dietary treatment for Exp. 2 is presented in Fig. 2 . Pens provided the SDBP diet had a minimum and maximum ADG result of 39 and 144 g, respectively. However, all pens fed non-SDBP diets had at least 1 negative ADG result. Maximum ADG results ranged from 69 to 122 g for non-SDBP treatments. As in Exp. 1, the experimental conditions of unsanitary pens and non-medication likely affected variation in pen results in Exp. 2, but response to dietary treatments was probably not strictly related to chance of pen location because dietary treatments were randomly allotted to pens within weaning group and by BW group.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 143,
+                    "end": 149,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Experiment 2"
+        },
+        {
+            "text": "In Exp. 1, the improved performance of pigs fed diets with SDPP compared to SPC during the initial 2 wk post-weaning are consistent with results of multiple experiments reviewed by others (Torrallardona, 2010; Pujols et al., 2016) . Only ADG of pigs fed the diet with 5.00% SDPP compared to 2.50% SDPP was increased at d 7 and thereafter no significant differences in any performance variables were noted for diets with 2.50 or 5.00% SDPP. The observation that none of the pens provided SDPP diets had negative ADG at d 7 postweaning, while 18 to 27% of pens provided non-SDPP diets had negative ADG results suggest that pigs fed SDPP diets were more resilient to the non-medication use and unsanitary pen conditions during the initial week post-weaning. Spray-dried porcine plasma contains a diverse mixture of proteins with biological activity including globulin, albumen, transferrin, glycopro-teins, apolipoproteins, enzyme inhibitors, and proteins associated with blood clotting mechanisms (Kar et al., 2016) . Improved growth of animals fed diets with SDPP has been attributed to actions of plasma globulins against luminal pathogens and toxins and reduced pro- Average daily gain at d 7 post-weaning for each pen (n = 10) by dietary treatment for Exp. 2. Experimental diets contained the following specialty proteins as % of the diet: SPC = 8.04% soy protein concentrate (Soycomil P, ADM Alliance Nutrition, Quincy, IL); APP = 0.40% activated porcine plasma (betaGRO, NutriQuest, Mason City, IA); EHSY = 10.66% enzymatically hydrolyzed soy and yeast protein (Hamlet 800 Booster, Hamlet Protein Inc., Findlay, OH); CB = combination of 0.40% APP, 6.36% EHSY, and 2.50% fish meal; IEGG = 0.44% hyper-immunized spray-dried egg (ProtiMax for Swine, Trouw Nutrition, Highland, IL); SDBP = 5.00% spray-dried bovine plasma (AP920, APC Inc., Ankeny, IA). 1 Values are least squares cumulative performance data means for 10 pens per dietary treatment (T) analyzed using a mixed model for repeated measures of treatment (T), day of experiment (D), and treatment \u00d7 day (T \u00d7 D) as fixed effects, block and replication as random effects, and replication within block as sub-type for repeated measures. Experimental diets contained the following specialty proteins as % of the diet: SPC = 8.04% soy protein concentrate (Soycomil P, ADM Alliance Nutrition, Quincy, IL); APP = 0.40% activated porcine plasma (betaGRO, NutriQuest, Mason City, IA); EHSY = 10.66% enzymatically hydrolyzed soy and yeast protein (Hamlet 800 Booster, Hamlet Protein Inc., Findlay, OH); CB = combination of 0.40% APP, 6.36% EHSY, and 2.50% fish meal; IEGG = 0.44% hyper-immunized spray-dried egg (ProtiMax for Swine, Trouw Nutrition, Highland, IL); SDBP = 5.00% spray-dried bovine plasma (AP920, APC Inc., Ankeny, IA). Experimental diets were non-medicated and fed during the entire 14 d experiment.",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 209,
+                    "text": "(Torrallardona, 2010;",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 210,
+                    "end": 230,
+                    "text": "Pujols et al., 2016)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 995,
+                    "end": 1013,
+                    "text": "(Kar et al., 2016)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "2 Dietary treatment means for G:F at d 7 are not reported because some treatments had negative means.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Translate basic science to industry innovation inflammatory cytokine disruption of intestinal, respiratory, and reproductive mucosal barrier function (P\u00e9rez-Bosque et al., 2016) . Other plasma proteins, such as growth factors and bioactive peptides, may also contribute to actions of plasma that beneficially influence mucosal barrier surfaces (P\u00e9rez-Bosque et al., 2016) . In Exp. 1, after all pigs were fed a common diet absent of the specialty proteins starting at d 15, only pigs previously fed the 2.5% SDPP diet had significantly higher average BW and ADFI at d 28 than pigs previously fed diets with SPC, 0.33 or 1.00% APP. By d 28 ADG did not differ significantly for pigs previously fed any of the specialty proteins. Other research has observed similar results for ADG of pigs fed diets with SDPP compared to SPC as observed in Exp. 1 (Torrallardona, 2010) . Recently, Pujols et al. (2016) reported that ADG and BW were increased during the initial 2 wk post-weaning when 6% SDPP was included in the diet compared to SPC, however no differences for ADG or average BW among starter diets was observed at d 48, although mortality was reduced at d 48 and 145 and carcass weight was increased for pigs previously fed SDPP in the starter diet. The increased ADG and BW of pigs fed diets with SDPP during the initial 2 wk after weaning may or may not be maintained to the end of the nursery phase depending on the severity of post-weaning stress, ability of pigs to recover, and the incidence and degree of subsequent stress later in the nursery. The stress associated with weaning may have consequences on intestinal barrier function resulting in compromised performance in later life stages. Use of SDP in starter diets has been demonstrated to attenuate some of the effects of barrier dysfunctions associated with weaning stress (Peace et al., 2011; Boyer et al., 2015) .",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 177,
+                    "text": "(P\u00e9rez-Bosque et al., 2016)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 344,
+                    "end": 371,
+                    "text": "(P\u00e9rez-Bosque et al., 2016)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 845,
+                    "end": 866,
+                    "text": "(Torrallardona, 2010)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 879,
+                    "end": 899,
+                    "text": "Pujols et al. (2016)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1836,
+                    "end": 1856,
+                    "text": "(Peace et al., 2011;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1857,
+                    "end": 1876,
+                    "text": "Boyer et al., 2015)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Performance variables in Exp. 1 did not differ significantly for pigs fed SPC and APP diets. Based on supplier information, the APP product used in Exp. 1 and 2 was produced using a proprietary process to reduce or eliminate anti-nutritional factors and activate components in porcine plasma thus requiring less mass of product to be used in formulations compared with commercial SDP. Published research with APP is limited. The provision of 0.2% APP in feed for mature gilts challenged with porcine reproductive and respiratory syndrome virus (PRRSV) reduced rectal temperature, PRRSV load (RNA copies/ml) and serum IL-1 and increased serum IL-18, suggesting that APP had immunomodulatory effects that benefit gilts with PRRSV . Improvements in productivity have also been reported for PRRSV positive sows provided 0.5% SDPP in gestation and lactation feed (Campbell et al., 2006) . Another study reported that 0.1% APP in gestation and lactation diets reduced percentage of small pigs at birth and wean to estrus interval of sows, increased weaning weight of pigs, and increased postweaning growth of pigs to the end of the nursery period, while addition of 0.3% APP to nursery diets improved ADG of pigs only during the early post-weaning period . Similar productivity improvements were reported for sows fed lactation diets containing 0.5% SDP (Crenshaw et al., 2007) .",
+            "cite_spans": [
+                {
+                    "start": 858,
+                    "end": 881,
+                    "text": "(Campbell et al., 2006)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1348,
+                    "end": 1371,
+                    "text": "(Crenshaw et al., 2007)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Spray-dried bovine plasma was selected as a positive control protein source used in Exp. 2 because to the authors knowledge no publications have reported performance comparisons of pigs fed diets with SDBP versus APP. Bovine plasma may vary slightly in amino acid composition from porcine plasma, however each source contains similar profiles of globulin, albumen, and other proteins with biological activity and both sources of plasma have demonstrated increased performance of pigs when compared to other non-plasma protein sources (Torrallardona, 2010) . Growth of pigs fed SDBP vs. SDPP was not different when each source was included at 6% of the diet, and pigs fed SDPP had higher ADFI, but lower G:F than pigs fed SDBP . In a review of other studies where SDBP and SDPP were compared at the same dietary levels within the study (Torrallardona, 2010) , performance results favoring either SDPP or SDBP were variable across studies, but most reported higher feed intake for pigs fed SDPP.",
+            "cite_spans": [
+                {
+                    "start": 534,
+                    "end": 555,
+                    "text": "(Torrallardona, 2010)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 835,
+                    "end": 856,
+                    "text": "(Torrallardona, 2010)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In Exp. 2, pigs provided a diet with 5.00% SDBP had higher BW, ADG and ADFI at d 7 and 14 postweaning compared to diets containing either 8.04% SPC; 0.4% APP; 10.66% EHSY; a combination of 0.4% APP, 6.36% EHSY, and 2.5% fish meal; or 0.44% IEGG. As observed in Exp. 1 with SDPP diets, pens in Exp. 2 provided the SDBP diet did not have any pens with a negative ADG at d 7, while all other specialty protein diets had 10 to 50% of the pens with negative ADG. However, across all non-SDBP diets, some pens fed the different specialty protein diets had a maximum ADG above the minimum ADG for SDBP, suggesting that local pen environment may have influenced growth response to diets, but that the other specialty proteins did not consistently enhance growth performance compared to the SDBP diet under the experimental conditions of unsanitary pens and non-use of medication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "As in Exp. 1, performance differences were not detected between non-SDBP diets in Exp. 2. The level of 0.4% APP used in the APP and CB diets were based on supplier recommendations at the time of the experiment. Both diets containing APP resulted in lower performance than the SDBP diet and no performance differences compared to SPC, EHSY, or IEGG. One publication has indicated improved growth of pigs provided 0.30% APP in nursery diets but only in the early post-weaning period . The diet with a combination Translate basic science to industry innovation of EHSY, APP, and fish meal was designed to provide a complex mixture of plant and animal proteins with 0.40% APP to compare against 0.40% APP and 7.49% SPC. However, performance of pigs fed the CB diet did not differ from any of the non-SDBP diets and resulted in inferior performance compared to the SDBP diet. This observation is consistent with data indicating that PRRSV positive pigs fed a nursery diet regimen containing combinations of SPC, egg/fish pepton, highly processed poultry protein, yeast culture, and other feed additives had lower ADG and BW and higher mortality at the end of the nursery period (d 49 post-weaning) compared with pigs fed a less complex nursery diet regimen containing SDBP (Crenshaw et al., 2017) .",
+            "cite_spans": [
+                {
+                    "start": 1268,
+                    "end": 1291,
+                    "text": "(Crenshaw et al., 2017)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Pig performance results for the diets with EHSY alone or in combination with fish meal and APP were inferior to the SDBP diet and did not differ from the SPC diet. One study has reported that pigs fed either simple or complex diets containing EHSY had similar or slightly better ADG and G:F compared with pigs fed diets containing SDP (Tsai et al., 2013) .",
+            "cite_spans": [
+                {
+                    "start": 335,
+                    "end": 354,
+                    "text": "(Tsai et al., 2013)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In Exp. 2, performance of pigs fed the IEGG product was inferior to SDBP and did not differ from the other protein sources. The IEGG product used in Exp. 2 was spray-dried whole egg product (IEGG) derived from hens strategically vaccinated against various strains of Escherichia coli, Lawsonia intracellularis, rotavirus, coronavirus, Clostridia sp., and Salmonella sp., to produce specific IgY antibodies against these pathogens. Reasons for lack of a growth response to feeding the IEGG product are unknown but may have been related to either absence or overabundance of specific pathogens in the environment for which the specific IgY antibodies from the IEGG product could potentially impact. Pathogen-specific challenge studies have indicated similar improvements in performance for pigs fed hyperimmunized egg yolk products compared with pigs fed SDPP when pigs were challenged with pathogens common to the specific IgY antibodies contained in the egg product (Owusu-Asiedu et al., 2002) . However, like Exp. 2 with SDBP, under non-specific pathogen challenge with unsanitary pens, pigs fed diets containing SDPP had improved growth performance compared with that of pigs fed a control diet, and a hyper-immunized egg yolk product did not increase performance over the control group .",
+            "cite_spans": [
+                {
+                    "start": 966,
+                    "end": 993,
+                    "text": "(Owusu-Asiedu et al., 2002)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In conclusion, under the conditions of non-use of medication in feed or by other routes and unsanitary pens, diets with different levels of activated porcine plasma did not improve performance of pigs compared to diets with soy protein concentrate and neither soy protein concentrate or activated porcine plasma in diets provided equivalent performance to diets with spray-dried porcine plasma in Exp. 1. In Exp. 2, activated porcine plasma, enzymatically hydrolyzed soy and yeast protein, spray dried whole eggs from hyper-immunized hens, or a combination of fish meal, activated porcine plasma, and enzymatically hydrolyzed soy and yeast protein did not improve performance of pigs compared to diets with soy protein concentrate and none of the specialty proteins used in Exp. 2 provided equivalent performance to a diet containing spray-dried bovine plasma. Therefore, we were not able to confirm the hypothesis that growth performance of weaned pigs housed in unsanitary conditions and fed non-medicated diets containing the tested specialty proteins were equivalent to that of pigs fed diets containing either spray-dried porcine or bovine plasma.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Comparative amino acid digestibility in U.S. blood products fed to weanling pigs",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Almeida",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Htoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Thomson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Stein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Anim. Feed Sci. Technol",
+            "volume": "181",
+            "issn": "",
+            "pages": "80--86",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.anifeedsci.2013.03.002"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Official methods of analysis of AOAC International",
+            "authors": [
+                {
+                    "first": "Aoac",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "AOAC Int",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Effects of fiber inclusion on growth performance and nutrient digestibility of piglets reared under optimal or poor hygienic conditions",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Berrocoso",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Menogo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Guzm\u00e1n",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sala\u00f1a",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "C\u00e1mara",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mateos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "3919--3931",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2015-9137"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Early-life dietary spray-dried plasma influences immunological and intestinal injury response to later-life Salmonella typhimurium challenge",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Boyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Costa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Milloway",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Susick",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Borst",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Thakur",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moeser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Br. J. Nutr",
+            "volume": "113",
+            "issn": "",
+            "pages": "783--793",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S00071145140422X"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Use of statistical process control analysis to evaluate the effects of spray-dried plasma in gestation and lactation feed on sow productivity in a PRRS-unstable farm",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Donavan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Boyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc. Amer. Assoc. Swine Vet",
+            "volume": "",
+            "issn": "",
+            "pages": "139--142",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Lactation feed disappearance and wean to estrus interval for sows fed spray-dried plasma",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Boyd",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Moser",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Anim. Sci",
+            "volume": "85",
+            "issn": "",
+            "pages": "3442--3453",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2007-0220"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Comparison of spray dried bovine plasma and spray dried porcine plasma in diets for weaned pigs",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "138--139",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Effect of a nursery feed regimen with spray-dried bovine plasma on performance and mortality of weaned pigs positive for porcine reproductive and respiratory syndrome virus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bussi\u00e9res",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Swine Health Prod",
+            "volume": "25",
+            "issn": "",
+            "pages": "10--18",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The impact of the environment and antimicrobial agents on the growth response of early-weaned pigs to spray-dried porcine plasma",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Coffey",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Cromwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J. Anim. Sci",
+            "volume": "73",
+            "issn": "",
+            "pages": "2532--2539",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/1995.7392532x"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Protein, peptide, amino acid composition and potential functional properties of existing and novel dietary protein sources for monogastrics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J M"
+                    ],
+                    "last": "Jansman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boeren",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kruijt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Anim. Sci",
+            "volume": "94",
+            "issn": "",
+            "pages": "30--39",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2015-9677"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Translate basic science to industry innovation",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Statistical analysis of repeated measures data using SAS procedures",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Littell",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Henry",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Ammerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J. Anim. Sci",
+            "volume": "76",
+            "issn": "",
+            "pages": "1216--1231",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/1998.7641216x"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Comparative effects of level of dietary fiber and sanitary conditions on the growth and health of weanling pigs",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Montagne",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "Le"
+                    ],
+                    "last": "Floc&apos;h",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Arturo-Schaan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Foret",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Urdaci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Le"
+                    ],
+                    "last": "Gall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "2012",
+            "issn": "90",
+            "pages": "2556--2569",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas2011-4160"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Feeding an activated animal protein improves sow and offspring performance",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Musser",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Purser",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hagen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J. Anim. Sci",
+            "volume": "93",
+            "issn": "",
+            "pages": "65--66",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Nutrient requirements of swine, 11th rev",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Nrc",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Response of early-weaned pigs to spraydried porcine or animal plasma-based diets supplemented with egg-yolk antibodies against enterotoxigenic Escherichia coli",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Owusu-Asiedu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Baidoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nyachoti",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Marquardt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J. Anim. Sci",
+            "volume": "80",
+            "issn": "",
+            "pages": "2895--2903",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/2002.80112895x"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Spray-dried porcine plasma influences intestinal barrier function, inflammation and diarrhea in weaned pigs",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Peace",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moeser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Nutr",
+            "volume": "141",
+            "issn": "",
+            "pages": "1312--1317",
+            "other_ids": {
+                "DOI": [
+                    "10.3945/jn.110.136796"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Spraydried plasma as an alternative to antibiotics in piglet feeds, mode of action and biosafety",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "P\u00e9rez-Bosque",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Torrallardona",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Porcine Health Manag",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40813-016-0034-1"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Influence of spray-dried porcine plasma in starter diets associated with a conventional vaccination program on wean to finish performance",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pujols",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Segal\u00e9s",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rodr\u00edguez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Campbell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crenshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Porcine Health Manag",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s40813-016-0021-6"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Feeding a proprietary animal protein mitigates PRRSV-induced effects in mature gilts",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Musser",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Purser",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hagen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proc. Amer. Assoc. Swine Vet",
+            "volume": "",
+            "issn": "",
+            "pages": "251--256",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Spray-dried animal plasma as an alternative to antibiotics in weanling pigs-A review. Asian-Aust",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Torrallardona",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J. Anim. Sci",
+            "volume": "23",
+            "issn": "",
+            "pages": "131--148",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Effect of spray-dried porcine plasma protein and egg antibodies in diets for weaned pigs under environmental challenge conditions",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Torrallardona",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Polo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Swine Health Prod",
+            "volume": "24",
+            "issn": "",
+            "pages": "21--28",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Effect of diet complexity and an enzyme-treated soy protein plus yeast on performance in weanling pigs",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tsai",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fitzner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Apple",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chewning",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Maxwell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Anim. Sci",
+            "volume": "91",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Growth performance and intestinal morphology responses in early weaned pigs to supplementation of antibiotic free diets with an organic copper complex and spray-dried plasma protein in sanitary and nonsanitary environments",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Harper",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Estienne",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Webb",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Mcelroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Denbow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Anim. Sci",
+            "volume": "85",
+            "issn": "",
+            "pages": "1302--1310",
+            "other_ids": {
+                "DOI": [
+                    "10.2527/jas.2006-434"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Average daily gain at d 7 post-weaning for each pen (n = 11) by dietary treatment for Exp. 1. Experimental diets were: SPC = soy protein concentrate at 8.04% of diet (Soycomil P, ADM Alliance Nutrition, Quincy, IL); SDPP2.5 and SDPP5 = spray-dried porcine plasma at 2.50 or 5.00% of diet (AP920, APC Inc., Ankeny, IA); APP.17, APP.33 and APP1 = activated porcine plasma at 0.17, 0.33, or 1.00% of diet (betaGRO, NutriQuest, Mason City, IA).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Figure 2. Average daily gain at d 7 post-weaning for each pen (n = 10) by dietary treatment for Exp. 2. Experimental diets contained the following specialty proteins as % of the diet: SPC = 8.04% soy protein concentrate (Soycomil P, ADM Alliance Nutrition, Quincy, IL); APP = 0.40% activated porcine plasma (betaGRO, NutriQuest, Mason City, IA); EHSY = 10.66% enzymatically hydrolyzed soy and yeast protein (Hamlet 800 Booster, Hamlet Protein Inc., Findlay, OH); CB = combination of 0.40% APP, 6.36% EHSY, and 2.50% fish meal; IEGG = 0.44% hyper-immunized spray-dried egg (ProtiMax for Swine, Trouw Nutrition, Highland, IL); SDBP = 5.00% spray-dried bovine plasma (AP920, APC Inc., Ankeny, IA).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Ingredient and calculated nutrient composition of experimental diets used in Exp. 1 (as-fed basis) Nutrient values of ingredients used for diet formulation were derived from NRC",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Ingredient and calculated nutrient composition of experimental diets used in Exp. 2 (as-fed basis) Nutrient values of ingredients used for diet formulation were derived from NRC",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "). 2 The vitamin-trace mineral premix provided the following per kg of diet: Vitamin A as retinyl acetate, 11,136 IU; vitamin D 3 as cholecalciferol, 2,208 IU; vitamin E as DL-alpha tocopheryl acetate, 66 IU; vitamin K as menadione dimethylprimidinol bisulfite, 1.42 mg; thiamin as thiamine mononitrate, 0.24 mg; riboflavin, 6.59 mg; pyridoxine as pyridoxine hydrochloride, 0.24 mg; vitamin B 12 , 0.03 mg; D-pantothenic acid as D-calcium pantothenate, 23.5 mg; niacin, 44.1 mg; folic acid, 1.59 mg; biotin, 0.44 mg; Cu, 20 mg as copper sulfate and copper chloride; Fe, 126 mg as ferrous sulfate; I, 1.26 mg as ethylenediamine dihydriodide; Mn, 60.2 mg as manganese sulfate; Se, 0.3 mg as sodium selenite and selenium yeast; and Zn, 125.1 mg as zinc sulfate. 3 Diets were analyzed by APC Inc., Boone, IA.Translate basic science to industry innovation used in Exp. 1 and 5% dietary SDBP was used in Exp. 2. Variance in amino acid composition between different origins of SDP used at 5% of the diet are not likely to contribute substantial differences in amino acid composition of the complete diet any more so than the variation of amino acid profile among other ingredients reported by NRC (2012) for corn, soybean meal, whey or the other specialty ingredients provided by suppliers. All diets used in the experiments were prepared at the University of Illinois Feed Mill (Champaign, IL). Diets were analyzed at APC Inc. (Boone, IA) using AOAC methods of",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Supplier reported composition of specialty protein products used in Exp. 1 and 2 (as-fed basis) 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Results for Exp. 1 comparing performance of weaned pigs housed in unsanitary pens and fed nonmedicated diets with different levels of activated porcine plasma or spray-dried porcine plasma 1",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Results for Exp. 2 comparing performance of weaned pigs housed in unsanitary pens and fed nonmedicated diets with different specialty proteins versus spray-dried bovine plasma 1",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

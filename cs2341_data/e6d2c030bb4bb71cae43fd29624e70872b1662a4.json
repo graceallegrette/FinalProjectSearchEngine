@@ -1,0 +1,2029 @@
+{
+    "paper_id": "e6d2c030bb4bb71cae43fd29624e70872b1662a4",
+    "metadata": {
+        "title": "Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms",
+        "authors": [
+            {
+                "first": "Xi",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jiang-Shan",
+                "middle": [],
+                "last": "Lian",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jian-Hua",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jianguo",
+                "middle": [],
+                "last": "Gao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lin",
+                "middle": [],
+                "last": "Zheng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yi-Min",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shao-Rui",
+                "middle": [],
+                "last": "Hao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hong-Yu",
+                "middle": [],
+                "last": "Jia",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Li",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Guo-Dong",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kai-Jin",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Yan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jue-Qing",
+                "middle": [],
+                "last": "Gu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shan-Yan",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chan-Yuan",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Jin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ying-Feng",
+                "middle": [],
+                "last": "Lu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xia",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Peng",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jian-Rong",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kang-Li",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Qin",
+                "middle": [],
+                "last": "Ni",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bo",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Biao",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yong-Tao",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jun",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hong",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xuan",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Liang",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yong-Zheng",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jun-Wei",
+                "middle": [],
+                "last": "Su",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jing-Jing",
+                "middle": [],
+                "last": "Tao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Lang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Xin",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wen-Rui",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ting-Ting",
+                "middle": [],
+                "last": "Qv",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dai-Rong",
+                "middle": [],
+                "last": "Xiang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ping",
+                "middle": [],
+                "last": "Yi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ding",
+                "middle": [],
+                "last": "Shi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yanfei",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yue",
+                "middle": [],
+                "last": "Ren",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yun-Qing",
+                "middle": [],
+                "last": "Qiu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lan-Juan",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Jifang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yida",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhejiang University",
+                    "location": {
+                        "postCode": "310003",
+                        "settlement": "hangzhou",
+                        "country": "china"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "To cite: Jin X, lian J-s, hu Jh, et al. Gut epub ahead of print: [please include Day Month Year].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The outbreak of novel coronavirus (SARS-CoV-2)-infected disease began in Wuhan, Hubei province in December 2019 1 and spread throughout China, 2 increasing the risk of global dissemination. 3 Although the Chinese government provided a quick response and took drastic measures, including quarantining Wuhan City on January 23, COVID-19 has become a major public health threat and economic burden on China. On 9 February 2020, the date we finished data collection and started analysis, there were a total of 37 251 confirmed, 28 942 suspected and 6188 severe/ critical cases, with 812 deaths and 2731 hospital significance of this study What is already known on this subject? \u25ba The national spread and global sporadic appearance of the novel coronavirus (SARS-CoV-2)-infected disease (COVID- 19) have become an enormous threat to human beings. \u25ba Our understanding of COVID-19 has been greatly increased after efforts to study its gene homology with bat coronavirus, varied transmission capacity, potential effective drugs such as Remdesivir and other transmission routes such as faeces. \u25ba Most of the current data are focused on Wuhan, which may have selection bias, since more severely affected patients were admitted to hospitals due to the region's insufficient healthcare resources. \u25ba In addition, respiratory symptoms and fevers have been overemphasised at times, while some non-classical symptoms have been overlooked, posing a threat to the public.",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 191,
+                    "text": "3",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 790,
+                    "end": 793,
+                    "text": "19)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "InTrODuCTIOn"
+        },
+        {
+            "text": "What are the new findings? \u25ba In this study, we report for the first time on the largest cohort of patients with COVID-19 outside Wuhan with GI symptoms. \u25ba We found that the percentage of patients with COVID- 19 with GI symptoms was also higher than that in Wuhan. \u25ba We uncovered novel characteristics of COVID- 19, including increased family clustering and liver injury, severe/critical type tendency and higher rate of body temperature >38.5\u00b0C. \u25ba The findings of novel m 6 A methylation loci in the S protein of SARS-CoV-2 may provide underlining mechanisms for its change of virulence and transmission capacity during the spread.",
+            "cite_spans": [
+                {
+                    "start": 208,
+                    "end": 210,
+                    "text": "19",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 264,
+                    "end": 265,
+                    "text": "\u25ba",
+                    "ref_id": null
+                },
+                {
+                    "start": 311,
+                    "end": 324,
+                    "text": "19, including",
+                    "ref_id": null
+                },
+                {
+                    "start": 472,
+                    "end": 473,
+                    "text": "6",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal significance of this study"
+        },
+        {
+            "text": "How might it impact on clinical practice in the foreseeable future? \u25ba Our results indicated that global authorities should pay more attention to patients with COVID-19 with GI symptoms and its novel features, as those presentations may change the treatment strategy. \u25ba GI doctors and other health professionals treating suspected patients with COVID-19 without respiratory symptoms and fever should take precautions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Gastroduodenal significance of this study"
+        },
+        {
+            "text": "discharges, according to official reports from the National Health Commission. The epidemiological and clinical characteristics of COVID- 19 in Wuhan have been reported elsewhere, 4 5 with estimated early transmission dynamics presented as the varied basic reproductive numbers (R 0 ) of 2.2 6 and 2.68, 7 indicating a high virus transmission capacity. SARS-CoV-2 was the seventh coronavirus identified with human infection capacity by the Chinese authorities. Its genomic features were revealed in a Wuhan patient, showing 89% and 82% nuclear acid sequence similarity with Bat SARS-CoVZXC21 and human SARS-CoV, 8 respectively. Further functional studies indicated that the spike (S) protein of 2019-nCoV had a high affinity to ACE2, which is responsible for the virus invasion. 9 It is well-known that viral mutations occur during transmission and spreading. Therefore, we would like to know the mutation and transmission ability, virulence change and associated clinical features of SARS-CoV-2 during its spread.",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 140,
+                    "text": "19",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 180,
+                    "end": 183,
+                    "text": "4 5",
+                    "ref_id": null
+                },
+                {
+                    "start": 304,
+                    "end": 305,
+                    "text": "7",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 612,
+                    "end": 613,
+                    "text": "8",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 779,
+                    "end": 780,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal significance of this study"
+        },
+        {
+            "text": "Currently, most published data focus on Wuhan, reporting an approximately 11% fatality rate caused by various complications such as acute respiratory distress syndrome (ARDS) and acute respiratory failure. 4 However, since Wuhan is the original location of the SARS-CoV-2 outbreak, the disease outburst caused a shortage of healthcare resources; hence, the hospitals only admitted patients with severe/critical disease. In addition, 'spring festival travel', especially train transportation, greatly increased the risk of spreading the virus. 10 Therefore, it is necessary to explore specific features of COVID-19 in areas outside Wuhan. Starting from January 17, SARS-CoV-2 was first identified in Zhejiang province, eventually reaching 1117 cases by February 11, with 10.54% of cases having a lower severe/critical type of COVID-19 and zero death cases.",
+            "cite_spans": [
+                {
+                    "start": 206,
+                    "end": 207,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal significance of this study"
+        },
+        {
+            "text": "Since the latest study reported the finding of SARS-CoV-2 nucleic acid in patient faeces 11 and single cell analysis revealed the digestive system as a potential route for the virus infection, 12 it is theoretically plausible that a portion of patients may present with GI tract symptoms. We should be very cautious about this speculation since the outpatient centres of GI endoscopy may become high-risk places. More formidably, doctors serving in these centres may behave less vigilantly, with lower levels of protective personal equipment compared with those doctors working in clinics serving those with fevers, unknowingly putting the GI practitioners under high exposure risk. Therefore, in this study, we provide the first report on the epidemiological, clinical and virological characteristics of patients with COVID-19 with GI symptoms outside Wuhan, which is helpful for disease control and medical staff protection.",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 91,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 193,
+                    "end": 195,
+                    "text": "12",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal significance of this study"
+        },
+        {
+            "text": "A retrospective study investigating the epidemiological, clinical and virological characteristics of COVID-19 between 17 January 2020 and 8 February 2020 was performed. The data were uniformly collected by the Health Commission of Zhejiang province in designated hospitals, with all successfully enrolled patients diagnosed as having COVID-19 according to WHO interim guidance. 13 Our preliminary data were reported to the authority of Zhejiang province and open for sharing with WHO. Written informed consent was waived by the ethics commission of the designated hospital, as this study was carried out for emerging infectious disease purposes and is part of a continuing public health outbreak investigation under national authorisation.",
+            "cite_spans": [
+                {
+                    "start": 378,
+                    "end": 380,
+                    "text": "13",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data sources and ethics"
+        },
+        {
+            "text": "The definition of positive GI symptoms required that the patients have at least one of the following symptoms: nausea, vomiting and diarrhoea. GI symptoms were recorded on admission, precluding the influence of other medical therapy and external factors. The definition of diarrhoea was the passing of loose stools >3 times per day. A stool culture was performed with negative results for all patients with COVID-19 with GI symptoms. Since the diarrhoea was diagnosed on admission, those patients had no history of recent antibiotic use. Therefore, Clostridium difficile was not detected in the stools. Patients with COVID-19 were divided into four subtypes according to the degree of disease severity, based on the diagnosis and treatment scheme for SARS-CoV-2 of Chinese (sixth edition). The mild type is defined as having slight clinical symptoms without pneumonia on radiography. The common type is defined as presenting with fever and/or respiratory symptoms plus pneumonia on radiography. The severe type was diagnosed according to dyspnoea (respiratory rate (RR) \u226530 times/min), resting finger oxygen saturation \u226493%, artery PaO 2 /FiO 2 \u2264300 mm Hg (1 mm Hg=0.133 kPa). The critical type is defined as respiratory failure with shock and multiorgan failure requiring mechanical ventilation and intensive care unit (ICU) admission. The definition of liver damage was alanine aminotransferase (ALT) >50 U/L or aspartate aminotransferase (AST) >40 U/L. The incubation period was calculated from the specific date of contact of the confirmed patient with COVID-19 to the time of onset of illness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data sources and ethics"
+        },
+        {
+            "text": "Epidemiological, clinical, laboratory, therapeutic and outcome data were collected from patients' medical records, with verification by independent doctors. Clinical outcomes were followed up to 8 February 2020, when specimens were obtained from throat swabs and sputum. For missing or vague data, direct communications with attending doctors and other healthcare providers were performed. Laboratory confirmation of SARS-CoV-2 was performed in our hospital and the Centre for Disease Control and Prevention of Zhejiang province/city level under authorisation by previously reported real-time RT-PCR. 5 All patients Data are presented as medians (IQR), n (%) and n/N (%). COPD, chronic obstructive pulmonary disease.",
+            "cite_spans": [
+                {
+                    "start": 601,
+                    "end": 602,
+                    "text": "5",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "received chest radiography or CT at admission, while other respiratory viruses were excluded, such as influenza A (H1N1, H3N2 and H7N9), influenza B, respiratory syncytial virus, parainfluenza virus, adenovirus, SARS-CoV and MERS-CoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedures"
+        },
+        {
+            "text": "In this study, we collected and calculated epidemiological data (exposure to infected area, contact with confirmed/suspected patients with COVID-19, cluster situation and median incubation period) and other anthropometrics, demographics, symptoms and signs on admission. Laboratory and chest X-ray/CT results, comorbidities, treatments (including drugs, intensive care and mechanical ventilation) and clinical outcomes were also summarised.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Gene sequences of SARS (AAS00003.1 and AY278489.2) and Wuhan-Hu-1 (MN908947.3) were obtained from the NCBI viral genome database (https://www. ncbi. nlm. nih. gov/). ZJ01 was separated and named from a Zhejiang patient (online supplementary material-ZJ01 sequence). SRAMP (http://www. cuilab. cn/ sramp) was used to analyse gene sequences and predict post-transcriptional methylation (N6-methyladenosine) modification sites. According to the results, the relevant predicted m 6 A sites can be divided into four levels: very high, high, medium and low confidence. Multalin (http:// multalin. toulouse. inra. fr/ multalin/ multalin. html) was used to compare the differences among these sequences. The SWISS-MODEL online server (https:// swissmodel. expasy. org/) was used to reconstruct the three-dimensional structure of proteins according to gene or amino sequence. The Poisson-Boltzmann equation can be used to calculate the electrostatic behaviour of S protein in aqueous solution through the vacuum electrostatics function of PyMol. Further analysis of the power of the protein model showed a difference in the electrostatic power distribution on the protein surface of the three virus strains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "sequence alignment, transcriptional methylation site prediction and protein model electrostatic analysis"
+        },
+        {
+            "text": "For continuous variables, mean (SD) and median (IQR) were used for normally and abnormally distributed data, followed by unpaired t-test and non-parametric test when appropriate. Categorical variables were expressed as number (%) and compared using the \u03c7 2 test. Univariate logistic regression analysis was used to identify the risk factors of severe/critical type patients. All significant variables achieved from univariate analysis were included in a multivariate logistic regression model with the forward method to identify independent predictors of the severe/ critical type. No adjustment for multiple testing was performed. A two-sided \u03b1 of <0.05 was considered statistically significant and SPSS (V.26.0) was used for all analyses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "statistical analysis"
+        },
+        {
+            "text": "This study enrolled 651 patients with confirmed COVID-19 from 17 January 2020 to 8 February 2020 in Zhejiang province, among which 74 (11.4%) patients presented with at least one GI tract symptom (nausea, vomiting and diarrhoea), which was higher than previous Wuhan data (table 1) . In detail, of 74 patients with COVID-19 with GI symptoms, 53 patients had only the symptom of diarrhoea, 11 patients had only the symptom of vomiting and 10 patients had only the symptom of nausea. In addition, only three patients had all the GI symptoms of diarrhoea, vomiting and nausea, while four patients had the symptoms of both nausea and vomiting. Diarrhoea was the most common GI symptom in this study and accounted for 8.14% of the total enrolled 651 patients with COVID-19, which was higher than the rate of 3.8% reported previously. 14 Of 53 patients with COVID-19 with diarrhoea, the median duration period was 4 days (IQR: 3-6 days), with the shortest duration of 1 day and longest of 9 days. Most diarrhoea was self-limiting. The average age of the patients with GI symptoms was 46.14\u00b114.19 years and the male:female ratio was 1:1. There were no coexisting conditions of cancer, chronic renal disease, pregnancy, chronic obstructive pulmonary disease or immunosuppression. Thirty-eight (51.35%) patients had a Wuhan exposure history and 32 (43.24%) patients had a history of contact with patients with COVID-19. Intriguingly, the rate of chronic liver disease was 10.81% in patients with COVID-19 with GI symptoms, which was significantly higher than that of 2.95% in those without GI symptoms (p=0.004). More importantly, the rate of the severe/critical type was also markedly increased in patients with COVID-19 with GI symptoms than in those without GI symptoms (22.97% vs 8.14%, p<0.001). Family clustering is another pivotal phenomenon of COVID-19. We identified that 23 (31.08%) patients with GI symptoms had family clustering, which was prominently higher than that in patients without GI symptoms (20.45%, p=0.037). Twenty-one patients with COVID-19 with GI symptoms and 195 without them had definite exposure times, with the median calculated incubation period as 4 days (IQR 3-7 days) and 5 days (IQR 3-8 days), respectively.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 272,
+                    "end": 281,
+                    "text": "(table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Demographic and epidemiological characteristics"
+        },
+        {
+            "text": "The clinical characteristics of patients with GI symptoms are shown in table 2. Fever, cough and sputum production were the most common symptoms. Of the aforementioned symptoms, 29 ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Clinical features and laboratory abnormalities"
+        },
+        {
+            "text": "As shown in table 3, 5 (6.76%), 13 (17.57%) and 1 (1.35%) patient with COVID-19 with GI symptoms had complications of ARDS, liver injury and shock, respectively, where the former two were significantly higher than their counterparts of 2.08% and 8.84% in patients with COVID-19 without GI symptoms, respectively (p=0.034; p=0.035). All 74 patients with COVID-19 with GI symptoms were treated in isolation with supportive and empiric medication, while 66 (89.19%) patients received antiviral treatment, including interferon-\u03b1 sprays, arbidol hydrochloride capsules (two tablets three times daily), lopinavir and ritonavir two tablets (500 mg) twice daily, via the oral route. Furthermore, the average time from illness onset to antiviral therapy was 5.56\u00b14.09 days. Compared with Wuhan data, we had lower rates of glucocorticoid and antibiotic use, 14.86% and 41.89%, respectively. No patients received continuous blood purification due to renal failure, and no patients were treated with extracorporeal membrane oxygenation. Until now, only one patient has died. Five (6.76%) patients with COVID-19 with GI symptoms were treated with mechanical ventilation and transferred to the ICU, which was a significantly higher rate than that of 2.08% in the patients with COVID-19 without GI symptoms (p=0.034).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Complications and treatment"
+        },
+        {
+            "text": "Of severe/critical patients with COVID-19, 22.97% presented with GI symptoms in this study. When compared with mild and common COVID-19, initial univariate analysis of epidemiological, clinical and laboratory variables identified 11 significantly changed risk factors for severe/critical COVID-19, including increased ORs of age, age \u226550 years, period between illness onset and hospital visit, sputum production, any existing medical condition, multiple lung infection, ALT, lactate dehydrogenase (LDH), glucose and CRP, as well as decreased OR of the infected area (online supplementary table 1 ). Based on these variables, further multivariate analysis using the forward method was performed, and we found that sputum production of patients from infected areas such as Wuhan and increased LDH/glucose levels were the independent risk factors for severe/ critical COVID-19 in patients with GI symptoms (table 4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 566,
+                    "end": 595,
+                    "text": "(online supplementary table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 903,
+                    "end": 912,
+                    "text": "(table 4)",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Prediction of risk factors for severe/critical COVID-19 in patients with GI symptoms"
+        },
+        {
+            "text": "ZJ01 is a strain of SARS-CoV-2 with 29 381 bases. The results of the potential methylation sites of S protein sequences of SARS, Wuhan-Hu-1 and ZJ01 indicated that there were significant differences between SARS-CoV-2 and SARS. These coronaviruses can infect host cells through using the S protein to bind to the host cell surface receptor ACE2. During virus maturation, S proteins are glycosylated and divided into the parts S1 and S2. S1 is spherical and mainly involved in the recognition and binding of viruses to host cells. S2 is stalked and able to promote the fusion of the virus into host cells. The comparison results of three virus strains showed that ZJ01 and Wuhan-Hu-1 had one high-confidence site, two moderate-confidence sites and four low-confidence sites. SARS has three high-confidence sites, three moderate-confidence sites and five low-confidence sites. From the perspective of high-confidence sites (figure 1A, red arrow), the potential methylation points of SARS-CoV-2 (n=1) and SARS (n=3) are predominantly concentrated in the S1 and S2 segments of the S protein. The positions of two low-confidence sites and one medium-confidence site on S2 are relatively fixed among the three virus strains (blue arrow). These results suggest that the S proteins of the two viruses may have structural and functional differences due to m 6 A methylation during transcription and translation. Additionally, the results of gene sequence alignment ( figure 1B) showed that the variation in S protein sequences between ZJ01 and Wuhan-Hu-1 was subtle, and these variations were highly concentrated in the S2 segment. These variations resulted in five amino acid substitutions and two amino acid deletions. However, from the perspective of the simulated threedimensional protein structure, the effect of these variations on the overall S protein structure is relatively limited. The difference between SARS-CoV-2 and SARS is significant, especially at the specific recognition point position in segment S1 (figure 1C, red circle). On the one hand, this change may affect the viral binding force on host cells. On the other hand, the electrostatic changes between ZJ01 and Wuhan-Hu-1 are largely concentrated in the mutation zone of S2 (figure 1C, green ellipse), where the detailed mechanisms need further exploration.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1458,
+                    "end": 1468,
+                    "text": "figure 1B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "sequence alignment and protein model structure analysis"
+        },
+        {
+            "text": "The national spread and global sporadic appearance of SARS-CoV-2 have become an enormous threat to human beings, and the threat is not restricted to China. An endeavour has been made by scientists to reveal the epidemiological, clinical and virological characteristics of SARS-CoV-2 with over 30 publications published in PubMed by 5 February 2020. 2 4-7 Nevertheless, most of these studies focused on the situation in Wuhan, China. In addition, the initiative for SARS-CoV-2 screening started from fever clinics, while fever, cough and shortness of breath were the most emphasised symptoms, which increases the risk of omitting those patients with other symptoms and normal body temperature. It is theoretically plausible that one characteristic of a viral spread is an increased transmission capacity at the cost of decreased virulence, which is also true for SARS-CoV-2. 15 Therefore, caution should be exercised for suspected patients with COVID-19 who had normal body temperatures and visited various outpatient clinics for non-respiratory symptoms. The suspected patients with COVID-19 with GI symptoms, such as nausea, vomiting and diarrhoea, should be seriously considered, since accumulated evidence supports SARS-CoV-2 transmission through faeces 11 and tears 16 and its ability to bind to ACE2 of the GI tract has been identified. 9 12 In this study, we reported the epidemiological, clinical and virological features of 74 patients with COVID-19 with GI symptoms from Zhejiang province. To our knowledge, this is the first report that describes the situation of patients with COVID-19 GI symptoms and is the largest group of cases outside Wuhan. Our novel findings are valuable for disease prevention by emphasising suspected patients with COVID-19 with GI symptoms and their specific clinical characteristics.",
+            "cite_spans": [
+                {
+                    "start": 349,
+                    "end": 354,
+                    "text": "2 4-7",
+                    "ref_id": null
+                },
+                {
+                    "start": 874,
+                    "end": 876,
+                    "text": "15",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1257,
+                    "end": 1259,
+                    "text": "11",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1270,
+                    "end": 1272,
+                    "text": "16",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1342,
+                    "end": 1346,
+                    "text": "9 12",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "DIsCussIOn"
+        },
+        {
+            "text": "Among the 651 total patients with COVID-19 we investigated, the rate of patients with GI symptoms was 11.4%, which is higher than in the previously reported data of 3% from Wuhan. 4 However, a recent report from Wuhan revealed that 10.1% experienced nausea/diarrhoea and 3.6% vomiting. 17 Additionally, the latest data from Wuhan revealed that 79.1% of patients with COVID-19 presented GI symptoms, but such data were collected during 1-10 days after illness onset and reported in a Chinese domestic journal, 18 differing from our strategy of collecting GI symptom data on admission that may be less biassed by various influencing factors, including drugs. More importantly, nationwide data showed GI symptoms in 8.7% of 1099 confirmed patients with SARS-CoV-2, 14 reinforcing our data. All these data indicated that there were symptom changes in patients with COVID-19. We suspect that SARS-CoV-2 may cause acute gastritis and enteritis, as evidenced by the vomiting, nausea and diarrhoea. Since previous studies indicated high ACE2 expression in the GI tract, we envision that such a change indicates the potential of virus mutation towards increased transmissibility, decreased virulence and multiorgan infection, as reflected in the clinics of increased R0 and infection routes. Taken together, the patients with COVID-19 showed an increased tendency to present with GI symptoms in dissemination, increasing infection risk in healthcare providers who were treating suspected patients with COVID-19 without respiratory symptoms and fever.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 181,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 286,
+                    "end": 288,
+                    "text": "17",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal"
+        },
+        {
+            "text": "We further analysed the epidemiological and clinical characteristics of patients with COVID-19 with GI symptoms. We identified a significantly higher rate of >38.5\u00b0C fever and family clustering, increased complications of ARDS and a high severity tendency (rate of severe/critical type, mechanical ventilation and ICU admission) in patients with COVID-19 with GI symptoms, when compared with those without GI symptoms. We suspect that GI symptoms may cause patients with COVID-19 to be more prone to electrolyte disturbance, such as significantly decreased serum sodium levels (p=0.016), and hence they trend towards the severe/critical type of the disease. Other reasons should be considered and explored based on future data. In addition, the higher rates of familial clustering may be related to faecal shedding in shared toilets in households. Further multivariate analysis revealed sputum production from infected areas and increased LDH/glucose levels as independent risk factors for the disease. In addition, symptoms of fatigue, shortness of breath and headache were also significantly higher in patients with COVID-19 with GI symptoms, which may be caused by their higher fevers and increased electrolyte imbalance. Liver damage should be carefully monitored, as we found significantly increased AST levels and coexisting conditions of liver disease in patients with COVID-19 with GI symptoms. Since the ratio of chronic liver disease was higher in patients with COVID-19 with GI symptoms, it could lead to increased levels of ALT and AST. Although there were no significant differences in glucocorticoid and antibiotic therapy between patients with COVID-19 with and without GI symptoms, they were both lower than their counterparts in Wuhan, 4 showing our own experience in effective therapy.",
+            "cite_spans": [
+                {
+                    "start": 1753,
+                    "end": 1754,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal"
+        },
+        {
+            "text": "The change and mutation of SARS-CoV-2 are the basis of its variation in epidemiological and clinical features. Using in-depth bioinformatics analysis of the novel identified SARS-CoV-2 sequence from Zhejiang province, we identified many m 6 A methylation sites in the S1 segment of ZJ01 and S2 segment of SARS, indicating that the S proteins of the two viruses may have structural and functional differences due to m 6 A methylation. The addition of chemical modifications is critical to many steps of mRNA processing and fate regulation, while the most abundant internal modification is N 6 -methyladenosin. 19 20 Given the wide prevalence of m 6 A modification on cellular mRNA, it is not surprising that a number of viruses contain m 6 A in their RNA. 21 22 The function of m 6 A methylation on viruses may be diverse with both proviral and antiviral roles. 23 24 Coronaviruses are enveloped RNA viruses containing the largest single-stranded, positive-sense RNA genome with a length between 25.5 and 32 kb. 25 In contrast to previously reported m 6 A modification in viruses, methylation at the N7 position of the 5'-cap structure of coronavirus RNA is commonly identified, which facilitates viral RNA escape recognition by the host innate immune system. 26 Therefore, our findings on the novel m 6 A methylation situation in SARS-CoV-2 may provide a novel mechanism for further study.",
+            "cite_spans": [
+                {
+                    "start": 609,
+                    "end": 614,
+                    "text": "19 20",
+                    "ref_id": null
+                },
+                {
+                    "start": 755,
+                    "end": 760,
+                    "text": "21 22",
+                    "ref_id": null
+                },
+                {
+                    "start": 861,
+                    "end": 866,
+                    "text": "23 24",
+                    "ref_id": null
+                },
+                {
+                    "start": 1011,
+                    "end": 1013,
+                    "text": "25",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1259,
+                    "end": 1261,
+                    "text": "26",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal"
+        },
+        {
+            "text": "A large reservoir of SARS-like bat coronavirus has the capacity to efficiently use the human ACE2 receptor for docking, replication and entry. 27 ACE2 is predominantly expressed in human alveolar cells and intestinal epithelial cells. The binding force change is caused by the sequence mutation of SARS-CoV-2, which merits further investigation. We found that the electrostatic changes between ZJ01 and Wuhan-Hu-1 were highly concentrated in the mutation zone of S2 (the portion of S protein which promotes the fusion of the virus into host cells). Therefore, further studies exploring the underlining mechanisms for these conformations and binding force changes are urgently needed. These may help explain the increased GI symptoms in the later phase of this virus outbreak and their novel epidemiological/clinical features.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Gastroduodenal"
+        },
+        {
+            "text": "This study has several limitations . First, it is better to obtain the outcomes and more detailed therapeutic responses in a cohort study of patients with COVID-19 with GI symptoms. Second, although the risk factors for the severe/critical type of COVID-19 were identified according to patient data on admission, there is still a lack of a predictive model for disease progression. Third, cytokine storm is common in coronavirus 28 and reported in a previous SARS-CoV-2 study 5 ; thus, it would be better if we could also detect cytokine changes in this study. Fourth, it will have more clinical relevance to propose an effective strategy for identifying patients with COVID-19 with GI symptoms who lack the typical symptoms such as fever and cough in the early stage. According to our experience, we should pay more attention to exposure history and family clustering during the screening process. Fifth, it would be meaningful to investigate the correlation between the viral genome and GI symptoms. Finally, since over 50% of SARS-CoV-2 was detected in the faeces according to one study, 29 the prevalence of viral RNA from faeces samples in patients with GI symptoms should be compared with those in patients without GI symptoms in the future. Moreover, because of the relatively low detection rate for virus in the stool (three of nine patients with COVID-19 positive in our hospital) and rare stool samples were re-tested for the virus in patients after their recovery in this study, it is difficult to evaluate the implications of faecal-oral transmission, so this needs further investigation.",
+            "cite_spans": [
+                {
+                    "start": 1091,
+                    "end": 1093,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Gastroduodenal"
+        },
+        {
+            "text": "In summary, we reported, for the first time, the largest cases of patients with COVID-19 with GI symptoms outside Wuhan and showed its novel characteristics of increased family clustering and liver injury, severe/critical tendency and higher rate of body temperature >38.5\u00b0C. Global authorities should pay more attention to patients with COVID-19 with GI and other non-classic symptoms and remain cautious in health provider protection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Gastroduodenal"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Gastroduodenal Funding national Major science and Technology research Projects for the control and Prevention of Major infectious Diseases in china (2017Z\u00d710202202). national science Funding of china",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Outbreak of pneumonia of unknown etiology in Wuhan, china: the mystery and the miracle",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lu H, Stratton Cw",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y-W",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "",
+            "pages": "401--403",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25678"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Preliminary estimation of the basic reproduction number of novel coronavirus (2019-ncoV) in china, from 2019 to 2020: a data-driven analysis in the early phase of the outbreak",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhao S, Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "92",
+            "issn": "",
+            "pages": "214--221",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2020.01.050"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Potential for global spread of a novel coronavirus from china",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bogoch Ii",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Watts A",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Thomas-Bachli A",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "27",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/jtm/taaa011"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, china: a descriptive study",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chen N",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--520",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30211-7"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "clinical features of patients infected with 2019 novel coronavirus in Wuhan, china",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Huang C",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "early transmission dynamics in Wuhan, china, of novel coronavirus-infected pneumonia",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001316"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "nowcasting and forecasting the potential domestic and international spread of the 2019-ncoV outbreak originating in Wuhan, china: a modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Gm",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "689--97",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30260-9"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lu R",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "565--74",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30251-8"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "receptor recognition by the novel coronavirus from Wuhan: an analysis based on decade-long structural studies of sars coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Graham R",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00127-20"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The association between domestic train transportation and novel coronavirus (2019-ncoV) outbreak in china from 2019 to 2020: a data-driven correlational report",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Zhao S",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Travel Med Infect Dis",
+            "volume": "33",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tmaid.2020.101568"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "First case of 2019 novel coronavirus in the United states",
+            "authors": [
+                {
+                    "first": "Debolt",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holshue Ml",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lindquist S",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "929--965",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001191"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The digestive system is a potentila route of 2019-ncov infection: a bioinformatics analysis based on single-cell transcriptomes",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Zhang H",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "internal-publications-detail/ clinical-management-of-severe-acute-respiratoryinfection-when-novel-coronavirus-( ncov)-infection-is-suspected",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "clinical characteristics of coronavirus disease 2019 in china",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "coronavirus infections and immune responses",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li G, Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "",
+            "pages": "424--456",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25685"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "evaluation of coronavirus in tears and conjunctival secretions of patients with sars-coV-2 infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25725"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, china",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Hu C",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "2020",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1585"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Manifestations of digestive system in hospitalized patients with novel coronavirus pneumonia in Wuhan, china: a singlecenter, descriptive study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Fang Dan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chin J Dig",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Dynamic rna modifications in gene expression regulation",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Roundtree Ia",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Evans Me",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Cell",
+            "volume": "169",
+            "issn": "",
+            "pages": "1187--200",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cell.2017.05.045"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "n6-methyladenosine-dependent regulation of messenger rna stability",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gomez A",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Nature",
+            "volume": "505",
+            "issn": "",
+            "pages": "117--137",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12730"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Posttranscriptional m(6)a editing of hiV-1 mrnas enhances Viral gene expression",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Kennedy Em",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bogerd Hp",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Kornepati Avr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell Host Microbe",
+            "volume": "19",
+            "issn": "",
+            "pages": "675--85",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2016.04.002"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "n6-Methyladenosine in Flaviviridae viral rna genomes regulates infection",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcfadden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell Host Microbe",
+            "volume": "20",
+            "issn": "",
+            "pages": "654--65",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2016.09.015"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "suppression of rna recognition by Toll-like receptors: the impact of nucleoside modification and the evolutionary origin of rna",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Karik\u00f3",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Buckstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ni H",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Immunity",
+            "volume": "23",
+            "issn": "",
+            "pages": "165--75",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.immuni.2005.06.008"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Dumm re, et al. epitranscriptomic enhancement of influenza a virus gene expression and replication",
+            "authors": [
+                {
+                    "first": "Kennedy",
+                    "middle": [],
+                    "last": "Courtney Dg",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Em",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Cell Host Microbe",
+            "volume": "22",
+            "issn": "",
+            "pages": "377--86",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2017.08.004"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Baric rs. epigenetic landscape during coronavirus infection",
+            "authors": [],
+            "year": 2017,
+            "venue": "Pathogens",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/pathogens6010008"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Molecular mechanisms of coronavirus rna capping and methylation",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Virol Sin",
+            "volume": "31",
+            "issn": "",
+            "pages": "3--11",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12250-016-3726-4"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "28 channappanavar r, Perlman s. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yount",
+                    "middle": [],
+                    "last": "Bl",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Debbink",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Semin Immunopathol",
+            "volume": "21",
+            "issn": "",
+            "pages": "529--568",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00281-017-0629-x"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Viral load of sars-coV-2 in clinical samples",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30113-4"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Sequence and protein model structure analysis of three virus strains. (A) The potential methylation sites of S protein gene sequences of SARS, Wuhan-Hu-1 and ZJ01 were analysed. The red arrows represent the positions of high-confidence methylation sites in the S protein gene sequences. Blue arrows represent conserved methylation sites in the three strains. (B) The amino acid sequences of Wuhan-Hu-1 and ZJ01 S protein are aligned. The black box marks the mutation sites. (C) The red circle marks the difference of electrostatic power distribution in receptor binding domain (RBD) region between SARS and Wuhan-Hu-1. The green ellipse indicates the change in the electrostatic distribution of the S proteins due to the mutation of the ZJ01 S protein.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Demographic and epidemiological characteristics of patients with COVID-19 with and without GI symptoms",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Clinical characteristics and selected laboratory abnormalities of patients with COVID-19 with and without GI symptoms",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank the health commission of Zhejiang province, china for coordinating the data collection. The authors would also like to thank the frontline medical staff of Zhejiang province for their bravery and efforts in sars-coV-2 prevention and control.Contributors XJ, J-sl, J-hh, J-gg, lZ, Y-MZ, s-rh, h-YJ designed the study, analysed the data and wrote the paper. hc, X-lZ, g-DY, K-JX, X-YW, J-Qg, s-YZ, c-YY, c-lJ, Y-Fl, XY, X-PY, J-rh, K-lX, Qn, c-BY, BZ, Y-Tl, Jl, hZ, XZ, lY, Y-Zg, J-Ws, J-JT, g-Jl, X-XW, W-rW, T-TQ, D-rX, PY, Ds, Y-Fc and Yr collected data and performed study. Y-QQ, l-Jl, J-Fs and Y-DY designed the study, supervised the whole study process and critically revised the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Patient and public involvement Patients and/or the public were not involved in the design, conduct, reporting or dissemination plans of this research.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests none declared."
+        },
+        {
+            "text": "ethics approval The study was approved by the clinical research ethics committee of the First affiliated hospital, college of Medicine, Zhejiang University (no. iiT20200005c).Provenance and peer review not commissioned; externally peer reviewed.Data availability statement all data relevant to the study are included in the article or uploaded as supplementary information. all data were included in the article and its associated supplementary materials and open to public.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient consent for publication not required."
+        },
+        {
+            "text": "This is an open access article distributed in accordance with the creative commons attribution non commercial (cc BY-nc 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. see: http:// creativecommons. org/ licenses/ by-nc/ 4. 0/.OrCID iDs lan-Juan li http:// orcid. org/ 0000-0001-6945-0593 Yida Yang http:// orcid. org/ 0000-0001-6261-0953",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Open access"
+        }
+    ]
+}

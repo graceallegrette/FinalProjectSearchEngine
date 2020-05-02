@@ -1,0 +1,2176 @@
+{
+    "paper_id": "aac65c7f71a49d05c3cdbdcf0811cd0ff98d2d23",
+    "metadata": {
+        "title": "Relationship between microbiology of throat swab and clinical course among primary care patients with acute cough: a prospective cohort study",
+        "authors": [
+            {
+                "first": "Jos\u00e9",
+                "middle": [
+                    "M"
+                ],
+                "last": "Ord\u00f3\u00f1ez-Mena",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": "jose.ordonezmena@phc.ox.ac.uk"
+            },
+            {
+                "first": "Thomas",
+                "middle": [
+                    "R"
+                ],
+                "last": "Fanshawe",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chris",
+                "middle": [
+                    "C"
+                ],
+                "last": "Butler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [],
+                "last": "Mant",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Denise",
+                "middle": [],
+                "last": "Longhurst",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "South West Regional Laboratory",
+                    "institution": "Public Health England",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Muir",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "South West Regional Laboratory",
+                    "institution": "Public Health England",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Barry",
+                "middle": [],
+                "last": "Vipond",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "South West Regional Laboratory",
+                    "institution": "Public Health England",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Paul",
+                "middle": [],
+                "last": "Little",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Aldermoor Health Centre",
+                    "location": {
+                        "settlement": "Southampton",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Michael",
+                "middle": [],
+                "last": "Moore",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Aldermoor Health Centre",
+                    "location": {
+                        "settlement": "Southampton",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Beth",
+                "middle": [],
+                "last": "Stuart",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Aldermoor Health Centre",
+                    "location": {
+                        "settlement": "Southampton",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alastair",
+                "middle": [
+                    "D"
+                ],
+                "last": "Hay",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for Academic Primary Care",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hannah",
+                "middle": [
+                    "V"
+                ],
+                "last": "Thornton",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Centre for Academic Primary Care",
+                    "institution": "University of Bristol",
+                    "location": {
+                        "settlement": "Bristol",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Matthew",
+                "middle": [
+                    "J"
+                ],
+                "last": "Thompson",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Washington",
+                    "location": {
+                        "settlement": "Seattle",
+                        "region": "WA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sue",
+                "middle": [],
+                "last": "Smith",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ann",
+                "middle": [],
+                "last": "Van Den Bruel",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "KU Leuven",
+                    "location": {
+                        "country": "Belgium"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Victoria",
+                "middle": [],
+                "last": "Hardy",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Cambridge",
+                    "location": {
+                        "settlement": "Cambridge",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Laikin",
+                "middle": [],
+                "last": "Cheah",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Derrick",
+                "middle": [],
+                "last": "Crook",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kyle",
+                "middle": [],
+                "last": "Knox",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Oxford",
+                    "location": {
+                        "settlement": "Oxford",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Acute lower respiratory tract infections (ALRTIs) account for most antibiotics prescribed in primary care despite lack of efficacy, partly due to clinician uncertainty about aetiology and patient concerns about illness course. Nucleic acid amplification tests could assist antibiotic targeting. Methods: In this prospective cohort study, 645 patients presenting to primary care with acute cough and suspected ALRTI, provided throat swabs at baseline. These were tested for respiratory pathogens by real-time polymerase chain reaction and classified as having a respiratory virus, bacteria, both or neither. Three hundred fifty-four participants scored the symptoms severity daily for 1 week in a diary (0 = absent to 4 = severe problem). Results: Organisms were identified in 346/645 (53.6%) participants. There were differences in the prevalence of seven symptoms between the organism groups at baseline. Those with a virus alone, and those with both virus and bacteria, had higher average severity scores of all symptoms combined during the week of follow-up than those in whom no organisms were detected [adjusted mean differences 0.204 (95% confidence interval 0.010 to 0.398) and 0.348 (0.098 to 0.598), respectively]. There were no differences in the duration of symptoms rated as moderate or severe between organism groups. Conclusions: Differences in presenting symptoms and symptoms severity can be identified between patients with viruses and bacteria identified on throat swabs. The magnitude of these differences is unlikely to influence management. Most patients had mild symptoms at 7 days regardless of aetiology, which could inform patients about likely symptom duration.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Acute respiratory tract infections are the most common infection presenting to primary care (1) with between 40% and 70% of adults suffering at least one episode annually (2) . They are the most common reason for antibiotic prescriptions in primary care (3) despite the majority having a viral aetiology (4) . Up to 70% presenting with cough and bronchitis, will receive an antibiotic prescription (5, 6 ). Yet, the Cochrane meta-analysis of 17 randomized controlled trials, suggest little benefit from antibiotics in these conditions (7) .",
+            "cite_spans": [
+                {
+                    "start": 92,
+                    "end": 95,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 171,
+                    "end": 174,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 304,
+                    "end": 307,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 398,
+                    "end": 401,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 402,
+                    "end": 403,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 535,
+                    "end": 538,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The factors influencing the prescription of an antibiotic are complex (8, 9) . Among the factors clinicians cite is the uncertainty in distinguishing bacterial from viral infections (10, 11) , particularly in 'middle cases' (12) , while the perceived severity of illness and the impact on social roles, influence patients' decisions to consult (13, 14) .",
+            "cite_spans": [
+                {
+                    "start": 70,
+                    "end": 73,
+                    "text": "(8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 74,
+                    "end": 76,
+                    "text": "9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 182,
+                    "end": 186,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 344,
+                    "end": 348,
+                    "text": "(13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 349,
+                    "end": 352,
+                    "text": "14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Clinical findings traditionally used to guide antibiotic prescribing in primary care correlate poorly with outcome (15) (16) (17) , although more complex clinical scores can identify those at risk of adverse outcome (18) . The use of point of care tests (POCTs), such as C-Reactive Protein, can distinguish more patients as low risk and reduces antibiotic prescriptions (19) . Nucleic acid amplification tests (NAATs) that identify infecting organisms have the potential to increase the diagnostic accuracy, inform prognosis and guide antimicrobial therapy. Therefore, the development of NAATs as POCTs could influence management decisions (20) .",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 119,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 120,
+                    "end": 124,
+                    "text": "(16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "(17)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 216,
+                    "end": 220,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 370,
+                    "end": 374,
+                    "text": "(19)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 640,
+                    "end": 644,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Our aims were to describe differences in clinical presentation and clinical course between patients with viruses or bacteria detected using real-time polymerase chain reaction (PCR) on throat swabs. Identifying features that make viral infections more likely could help support GPs to avoid antibiotic prescriptions and provide an evidence base for the use of POCTs to improve therapeutic decision making and provide prognostic information to inform patients of the likely duration of their symptoms.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The participants included in this investigation are a subcohort (3C Plus) of the prospective Cough Complication Cohort (3C) study. Thirteen practices in the south of England, which were already participating in the 3C study, agreed to take part in 3C Plus. The methods for recruitment and data collection are similar to those in the parent cohort (21, 22) . Briefly, the participants were patients aged 16 years and older who presented to UK general practices with a first episode of acute cough of less than 28 days duration between April and December 2013.",
+            "cite_spans": [
+                {
+                    "start": 347,
+                    "end": 351,
+                    "text": "(21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 352,
+                    "end": 355,
+                    "text": "22)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study population"
+        },
+        {
+            "text": "At baseline, participants answered questionnaires and provided data on their sociodemographic and medical history. Participants underwent a clinical assessment including severity (mild, moderate, or severe) of their symptoms and had vital signs measured.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study population"
+        },
+        {
+            "text": "At baseline, the participants were provided with a symptom diary in which they were asked to record the severity of their symptoms from Day 0 (baseline) until Day 7. Symptom severity was rated as 0 (not present), 1 (present, no problem), 2 (present, mild problem), 3 (present, moderate problem), and 4 (present, severe problem). The participants also recorded their temperature at the same time each day, but at least 2 hours after taking any antipyretic for the 7 days after clinical examination using disposable thermometers (TempaDot TM ) provided to them.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Using the participants' reported symptom severity, we created two outcomes as defined elsewhere (23) to allow comparability with previous studies: (i) average symptom score severity between Days 2 to 4 inclusive, and (ii) longest duration of any symptom rated by the participants as moderate or severe during the 7 days after consultation. For (i), we took the average severity for each symptom in Days 2 to 4, and then took the average of these scores across all symptoms. Severity scores that were missing on a particular day were ignored in the calculations. For (ii), we censored participants who reported moderate or severe symptoms on their last day of follow-up. The number of patients with missing outcome data was greater for outcome 1 than for outcome 2, due to some patients having reported their symptoms only on Day 1.",
+            "cite_spans": [
+                {
+                    "start": 96,
+                    "end": 100,
+                    "text": "(23)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Outcomes"
+        },
+        {
+            "text": "Clinicians were instructed on taking oropharyngeal swabs using a nylon-flocked swab by gently swabbing between the tonsullar pillars and the tonsules on both sides of the throat. Swabs were transported to the Nuffield Department of Medicine Laboratory at the Oxford University Hospitals NHS Foundation Trust Hospital in 2 ml eNAT Transport and Preservation medium (COPAN Italia), where they were stored at \u221280\u00b0C until transport to the South West Regional Laboratory, PHE, Bristol. The study was approved by Oxford Research Ethics Committee A (09/H0604/67).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Microbiological sampling"
+        },
+        {
+            "text": "Identification of 10 viruses and 11 bacteria (Supplementary Material 1) from throat swabs was done by real-time PCR using Taqman Low Density Array cards as described elsewhere (24) . We divided the participants into 4 groups depending on the detection of organisms: (i) no organisms detected, (ii) \u22651 virus, but no bacteria (iii) \u22651 bacteria, but no viruses, or (iv) \u22651 virus and \u22651 bacteria. In the primary analysis, we used the same classification for bacterial pathogens as the GRACE study (4) . In brief, this means six of the bacteria detected were not considered as pathogenic, and therefore not used to guide categorization of patients into groups (iii and iv). In a sensitivity analysis, we made no assumptions on whether bacteria were likely to have a role in pathogenicity or asymptomatic carriage and included all bacteria identified.",
+            "cite_spans": [
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 493,
+                    "end": 496,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Microbe identification and grouping"
+        },
+        {
+            "text": "Details on sample size calculation are provided in Supplementary Material 2.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "We described the baseline characteristics across the four groups using means and SDs for continuous variables, and number and percentages for categorical variables. We used analysis of variance and",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analyses"
+        },
+        {
+            "text": "\u2022 At baseline, the prevalence of seven symptoms differed between organisms groups \u2022 Those with a virus detected had higher severity of symptoms during follow-up \u2022 Most patients had mild symptoms after 1 week regardless of aetiology chi-squared tests to assess dependence between the groups and continuous and categorical baseline variables, respectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Key Messages"
+        },
+        {
+            "text": "We used linear regression models to estimate mean differences (MD) and 95% confidence intervals (CI) in outcomes 1 and 2 among the four groups, with the group with no organisms as reference. We used both unadjusted models and models adjusting for age, reported duration of illness before presentation, and antibiotic prescription.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Key Messages"
+        },
+        {
+            "text": "We also analysed differences in the medians for outcome 2 between groups with Kaplan-Meier curves and the log-rank test using the R packages 'survival' and 'survminer' (25, 26) . Cox proportional hazards regression was used to adjust for the same covariates as above. The proportional hazards assumption was tested and there was no evidence this assumption was violated.",
+            "cite_spans": [
+                {
+                    "start": 168,
+                    "end": 172,
+                    "text": "(25,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 173,
+                    "end": 176,
+                    "text": "26)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Key Messages"
+        },
+        {
+            "text": "We performed similar analyses to compare those with and without the most common organisms, that is, those present in more than 10% of the sample, adjusting additionally for co-infection with other viruses and/or bacteria.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Key Messages"
+        },
+        {
+            "text": "We plotted means and 95% CIs of symptom severity score from Day 1 to Day 7 by group, for all symptoms combined. Although the outcome measure averaged across all symptoms, to show the possible effect on specific symptoms we also showed these graphically without performing additional hypothesis tests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Key Messages"
+        },
+        {
+            "text": "All statistical tests were two-sided using a significance level of 5% and we reported all outcome results with 95% CIs. Analyses were carried out using R (version 3.6.0) (27) .",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 174,
+                    "text": "(27)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Key Messages"
+        },
+        {
+            "text": "Overall, 645 participants completed the baseline assessment and provided throat swab samples. Of these, 354 filled in the symptom diary over the 7 days after baseline inclusion (Supplementary Material 3). Those who completed the symptom diary were older and more likely to have received antibiotics, to have higher systolic blood pressure at presentation, lower pulse rate, lower oxygen saturation, less likely to smoke, and to report muscle aches. There were no differences in the distribution of completers and no completers across organism groups (Supplementary Material 4). Table 1 shows the number of study participants in each of the four groups and the organisms identified in the throat swab. The largest group comprised those with no organisms detected (n = 299, 46.4%), followed by those with viruses detected but no bacteria (n = 151, 23.4%), those with bacteria detected but no virus (n = 120, 18.6%), and those with both viruses and bacteria (n = 75, 11.6%). Haemophilus influenzae was the commonest organism (n = 166, 25.7%), followed by Picornavirus group (n = 165, 25.6%). The frequencies for the bacteria included in the sensitivity analyses across groups are shown in Supplementary Material 5.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 578,
+                    "end": 585,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The baseline characteristics of participants in the four groups are summarized in Table 2 . Patients with no organisms detected were older and patients with both bacteria and viruses detected were younger. The reported duration of illness before clinical presentation was shorter for those with a viral infection alone, although the illness was not perceived as having worsened differently between groups. Antibiotics were prescribed to 232 patients with no organism detected (77.6%), and to 117 patients with virus alone (77.5%), and to 83 patients with bacteria alone (69.2%). Smoking status did not vary across groups, but among past smokers, there were significant differences in years since cessation between organism groups. Seven symptoms were reported more commonly in those with virus alone, than among those with bacteria alone or no infection. The same symptoms, except muscle aches, were also reported more commonly in those with both virus and bacteria combined, than among those with a bacteria or virus alone. There were no significant differences in vital signs across the four groups.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 82,
+                    "end": 89,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Compared to those without an organism, those with a viral infection alone (MD, 95% CI: 0.204, 0.010 to 0.398) and those with a combined viral and bacterial infection (MD, 95% CI: 0.348, 0.098 to 0.598) had higher symptom severity scores, while there was no difference in those with bacterial infection alone (MD, 95% CI: 0.192, -0.008 to 0.391) ( Table 3 ). In the sensitivity analysis, we observed similar findings (Supplementary Material 6). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 347,
+                    "end": 354,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Symptom severity during follow-up"
+        },
+        {
+            "text": "Picornavirus group combines organisms identified as either in Enterovirus genus or Rhinovirus species. For organisms with a prevalence >10%, those with H. influenzae isolated (n = 88), compared to those without (n = 257), had higher severity scores (MD, 95% CI: 0.272, 0.103 to 0.442) but there was no difference in those with and without Picornavirus infections. Figure 1 shows mean and 95% CI for the combined symptom severity score between Day 1 and Day 7 for all groups. Symptom severity appeared highest for those with both viral and bacterial infection combined, followed by those with a viral or bacterial infection alone. Severity of symptoms appeared lowest for those with no infection. In the sensitivity analysis, the differences in symptom severity between groups were similar, but the difference between the viral and the no infection group was more evident (Supplementary  Material 7) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 364,
+                    "end": 372,
+                    "text": "Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 871,
+                    "end": 898,
+                    "text": "(Supplementary  Material 7)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Symptom severity during follow-up"
+        },
+        {
+            "text": "Severity scores of selected symptoms are shown in Supplementary Material 8. Those with a viral infection alone, and combined viral and bacterial infection, appeared to have higher severity scores for wheeze and blocked nose throughout the 7 days and this difference declined progressively. The severity scores for the groups were similar for the symptoms of dry cough, chills, muscle aches, and temperature. In the sensitivity analysis, similar patterns were observed, but the difference between the two groups with viral organisms and the group with no infection were more evident (Supplementary Material 9).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Symptom severity during follow-up"
+        },
+        {
+            "text": "After adjustment for age, antibiotic prescription, duration of illness, and co-infection, there were no differences detectable between groups (Table 4 ). In the sensitivity analysis, there were also no significant differences in duration of symptoms between organism groups (Supplementary Material 10). There were no differences in duration of symptoms rated as moderate or severe between those with and without H. influenzae or Picornavirus organisms.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 142,
+                    "end": 150,
+                    "text": "(Table 4",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "Duration of symptoms"
+        },
+        {
+            "text": "In analyses including censoring participants whose rating of symptoms was missing on the following day, there were no differences (P-value for comparing four groups = 0.70) in the median (5-6 days) duration of symptoms rated by participants as moderate or severe (Supplementary Material 11), even after adjusting for confounders (Supplementary Material 12).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Duration of symptoms"
+        },
+        {
+            "text": "In primary care patients with acute cough, a potential pathogen could be detected in 53.6% of throat swabs and the prevalence of seven symptoms at presentation differed between organism groups. Symptom severity scores during follow-up were higher in those with a virus regardless of bacterial co-detection. However, there was no difference in the duration of symptoms rated as moderate or severe between organism groups. Adjusting for antibiotic prescription did not change these results. There were no differences in symptom severity or duration between those with and without the commonest virus and bacteria. By Day 7, most patients rated their symptoms as mild or less, including those symptoms rated as most severe initially.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary of principal findings"
+        },
+        {
+            "text": "The recruitment of patients presenting with acute cough from routine consultations, using the same criteria as the 3C Study of more than 28,000 patients, was designed to make the study population widely generalizable. The diary response rate of only 54.8% was lower than for other studies of respiratory infection outcomes (14, 16, 28) . However, although those returning diaries were older and less likely to be current smokers, returning the symptoms diary was unrelated to the results of the microbiology of swabs (Supplementary Material 4). As diary data were available for a maximum of 7 days after initial presentation, around one-third of participants still had at least one moderate of severe symptom at the end of follow-up, and for these participants the time until all symptoms resolved was unknown.",
+            "cite_spans": [
+                {
+                    "start": 323,
+                    "end": 327,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 328,
+                    "end": 331,
+                    "text": "16,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 332,
+                    "end": 335,
+                    "text": "28)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "The optimal site for sampling different organisms varies and increasing the number of sampling sites increases the detection rate (29) . We took a pragmatic decision to use oropharyngeal swabs, which are associated with disease prognosis and antimicrobial use (30) . Oropharyngeal swabs have also been used in studies on respiratory infections in children (24) , have the advantage of being available in nearly all patients, and improve uptake with busy clinicians and patients (24) . Therefore, they are of practical value as a future site for simple point of care testing. The study had sufficient power for comparison to patients where no bacteria or viruses were found but limited power for comparisons between groups where bacteria or viruses were found. For the primary analysis of diary data, we used a similar classification of bacteria as pathogens as the GRACE study (4) but including the full panel of bacteria in sensitivity analyses did not alter our conclusions. We had intended to investigate recovery for individual organisms with a prevalence >10%, but due to our limited sample size, we could only investigate Picornavirus and H. influenzae. Thus, our grouping of individual organisms into broader groups may have obscured potentially important relationships that only much larger studies would be powered to detect. In past smokers, we observed significant differences in time since smoking cessation between organism groups, but as this variable was not associated with outcomes, we did not adjust for it in multivariable models.",
+            "cite_spans": [
+                {
+                    "start": 130,
+                    "end": 134,
+                    "text": "(29)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 260,
+                    "end": 264,
+                    "text": "(30)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 356,
+                    "end": 360,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 478,
+                    "end": 482,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Strengths and weaknesses of the study"
+        },
+        {
+            "text": "Clinicians place great weight on clinical signs in their decision to prescribe antibiotics (31) and some signs, such as abnormal chest findings or discoloured sputum, are associated with antibiotic prescriptions (32) . However, clinical signs and clinician assessments are only modestly helpful for predicting pneumonia and the need for antibiotics (15, 33, 34) . Our study is consistent with these findings: differences that were detectable between groups for seven symptoms were small and unlikely to be helpful to clinicians in differentiating viral from bacterial infections.",
+            "cite_spans": [
+                {
+                    "start": 91,
+                    "end": 95,
+                    "text": "(31)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 212,
+                    "end": 216,
+                    "text": "(32)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 349,
+                    "end": 353,
+                    "text": "(15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 354,
+                    "end": 357,
+                    "text": "33,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 358,
+                    "end": 361,
+                    "text": "34)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results in the context of other studies"
+        },
+        {
+            "text": "In the placebo arms of RCTs of antibiotics in acute bronchitis, the mean number of days feeling ill ranges from 3 to 18 days (7) . and in a study of patients with more severe illness (most had chest signs and 13% pneumonia) who completed diaries, around 50% of patients describe themselves as being symptomatic 1 month after ALRTI (35) . In our study, the mean score for all symptoms declined over the 7 days and less than half described their symptoms as more than moderate. We used the mean symptom severity score on Days 2 to 4 after presentation since this is the period when symptoms are rated as worse by patients (23) but, although there were differences between groups, these were small and unlikely to be meaningful to patients. Nucleic acid amplification tests cannot distinguish between colonizing and causative organisms. In the GRACE study, viruses were found significantly more commonly in symptomatic illness and when these patients recovered (35) , the same viruses were found at a similar prevalence to those in controls again (4) . There have been similar findings in children (24) . Although we did not include controls or follow-up samples, seven symptoms were more common in patients with viral infections, regardless of whether they also had a bacterial infection, than in patients with a bacterial or no infection. Since neither the clinicians nor the patients were aware of the throat swab result at the time, it is unlikely bias accounted for these differences.",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 128,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 331,
+                    "end": 335,
+                    "text": "(35)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 958,
+                    "end": 962,
+                    "text": "(35)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1044,
+                    "end": 1047,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1095,
+                    "end": 1099,
+                    "text": "(24)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results in the context of other studies"
+        },
+        {
+            "text": "In our study, viruses alone were detected in 35.6% of patients, compared to 48.1% in GRACE. However, we did not include the peak period of influenza circulation (36) , which would explain most of this difference. In 299 participants (46.4%), we could not detect any respiratory viruses or pathogenic bacteria that we were investigating, which is similar to 41% of patients with ALRTI in the GRACE study in which no organism could be detected. Possible explanations include presentation of non-infective illnesses, such as cardiac conditions or malignancy (21) , or false-negative results: although the Taqman\u00a9 assay is widely used and has high accuracy (37) , it is estimated that the organisms responsible for between 12 and 39% of lower respiratory infections are still to be identified (38) .",
+            "cite_spans": [
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "(36)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 555,
+                    "end": 559,
+                    "text": "(21)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 653,
+                    "end": 657,
+                    "text": "(37)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 789,
+                    "end": 793,
+                    "text": "(38)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results in the context of other studies"
+        },
+        {
+            "text": "Antibiotics confer little benefit in non-pneumonic ALRTI (23), but there is preliminary evidence from the GRACE study that patients with combined viral and bacterial infections could potentially benefit from antibiotics. This study provides further evidence that clinicians cannot easily differentiate on clinical grounds those who might be more likely to benefit and this is likely to contribute to the difficulty of reducing antibiotic prescribing. Larger data sets, including samples collected in different seasons, could establish whether grouping all viruses and bacteria together masks important relationships.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Implications"
+        },
+        {
+            "text": "In primary care patients with ALRTI, differences in symptom prevalence at presentation and symptom severity score after consultation can be identified between patients with viruses and bacteria identified on throat swabs using real-time PCR. However, these differences are small, highlighting the difficulty facing clinicians, and unlikely to influence prescribing decisions for individual patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Supplementary material is available at Family Practice online.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary material"
+        },
+        {
+            "text": "Funding: This article presents independent research funded by the National Institute for Health Research School for Primary Care Research (NIHR SPCR). The work of JMOM is partly supported by the NIHR Biomedical Research Centre, Oxford. The work of JMOM and TRF is funded by the National In-stitute for Health Research (NIHR) Community Healthcare MedTech and In Vitro Diagnostics Co-operative at Oxford Health NHS Foundation Trust. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care. Conflict of interest: none.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Reducing uncertainty in managing respiratory tract infections in primary care",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stanton",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Francis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Br J Gen Pract",
+            "volume": "60",
+            "issn": "",
+            "pages": "466--75",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Frequency of acute respiratory illnesses and circulation of respiratory viruses in households with children over 3 surveillance seasons",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Monto",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Malosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Petrie",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ohmit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Infect Dis",
+            "volume": "210",
+            "issn": "",
+            "pages": "1792--1801",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Antimicrobial resistance potential",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Levy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Lancet",
+            "volume": "358",
+            "issn": "",
+            "pages": "1100--1101",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Aetiology of lower respiratory tract infection in adults in primary care: a prospective study in 11 European countries",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ieven",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Coenen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Loens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Clin Microbiol Infect",
+            "volume": "24",
+            "issn": "",
+            "pages": "1158--63",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Trends in antibiotic prescribing in primary care for clinical syndromes subject to national recommendations to reduce antibiotic resistance",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Hawker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J Antimicrob Chemother",
+            "volume": "69",
+            "issn": "",
+            "pages": "3423--3453",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Continued high rates of antibiotic prescribing to adults with respiratory tract infection: survey of 568 UK general practices",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gulliford",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Dregan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "BMJ Open",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Antibiotics for acute bronchitis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fahey",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Smucny",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Managing expectations of antibiotics for upper respiratory tract infections: a qualitative study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mustafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wood",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Elwyn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Ann Fam Med",
+            "volume": "12",
+            "issn": "",
+            "pages": "29--36",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Are patient views about antibiotics related to clinician perceptions, management and outcome? A multi-country study in outpatients with acute cough",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Coenen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Francis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kelly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS One",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Understanding the culture of prescribing: qualitative study of general practitioners' and patients' perceptions of antibiotics for sore throats",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rollnick",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pill",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Maggs-Rapport",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stott",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "BMJ",
+            "volume": "317",
+            "issn": "",
+            "pages": "637--679",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Why do general practitioners prescribe antibiotics for sore throat? Grounded theory interview study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Britten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMJ",
+            "volume": "326",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Qualitative study of primary care clinicians' views on point-of-care testing for C-reactive protein for acute respiratory tract infections in family medicine",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hardy",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Thompson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Keppel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ Open",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Reducing antibiotics for respiratory tract symptoms in primary care: consolidating 'why' and considering 'how'",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rollnick",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kinnersley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Stott",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Br J Gen Pract",
+            "volume": "48",
+            "issn": "",
+            "pages": "1865--70",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Illness perception and related behaviour in lower respiratory tract infections-a European study",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hordijk",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Broekhuizen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Fam Pract",
+            "volume": "32",
+            "issn": "",
+            "pages": "152--160",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Do clinical findings in lower respiratory tract infection help general practitioners prescribe antibiotics appropriately? An observational cohort study in general practice",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hopstaken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Muris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Fam Pract",
+            "volume": "23",
+            "issn": "",
+            "pages": "180--187",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Antibiotic prescribing for discoloured sputum in acute cough/lower respiratory tract infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hood",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Eur Respir J",
+            "volume": "38",
+            "issn": "",
+            "pages": "119--144",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Development of a prediction tool for patients presenting with acute cough in primary care: a prognostic study spanning six European countries",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bruyndonckx",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hens",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Verheij",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Br J Gen Pract",
+            "volume": "68",
+            "issn": "",
+            "pages": "342--50",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Predictors of adverse outcomes in uncomplicated lower respiratory tract infections",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Ann Fam Med",
+            "volume": "17",
+            "issn": "",
+            "pages": "231--239",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "The added value of C-reactive protein measurement in diagnosing pneumonia in primary care: a meta-analysis of individual patient data",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Minnaard",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jah",
+                    "middle": [],
+                    "last": "De Groot",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hopstaken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "CMAJ",
+            "volume": "189",
+            "issn": "",
+            "pages": "56--63",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Rapid point of care diagnostic tests for viral and bacterial respiratory tract infections-needs, advances, and future prospects",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Enne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "1123--1158",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Antibiotic prescription strategies and adverse outcome for uncomplicated lower respiratory tract infections: prospective cough complication cohort (3C) study",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "BMJ",
+            "volume": "357",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Predictors of pneumonia in lower respiratory tract infections: 3C prospective cough complication cohort study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Eur Respir J",
+            "volume": "50",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Amoxicillin for acute lower-respiratory-tract infection in primary care when pneumonia is not suspected: a 12-country, randomised, placebo-controlled trial",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Stuart",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "123--132",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Throat swabs in children with respiratory tract infection: associations with clinical presentation and potential targets for point-of-care testing",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Thornton",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hay",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Redmond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Fam Pract",
+            "volume": "34",
+            "issn": "",
+            "pages": "407--422",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "A Package for Survival Analysis in S. R Package Version 2.38",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Therneau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "survminer\": Drawing Survival Curves using \"ggplot2",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kassambara",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kosinski",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "R: A Language and Environment for Statistical Computing",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Development Core",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Team",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "R Foundation for Statistical Computing",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Optimising the validity and completion of adherence diaries: a multiple case study and randomised crossover trial",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Frost",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Mcclurg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brady",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Trials",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Identification of respiratory viruses in adults: nasopharyngeal versus oropharyngeal sampling",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lieberman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lieberman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shimoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Keren-Naus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Steinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shemer-Avni",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Clin Microbiol",
+            "volume": "47",
+            "issn": "",
+            "pages": "3439--3482",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Assessing the potential of upper respiratory tract point-of-care testing: a systematic review of the prognostic significance of upper respiratory tract microbes",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Thornton",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kme",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hammond",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hawcroft",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Microbiol Infect",
+            "volume": "25",
+            "issn": "",
+            "pages": "1339--1385",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Clinical influences on antibiotic prescribing decisions for lower respiratory tract infection: a nine country qualitative study of variation in care",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Brookes-Howell",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hood",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "BMJ Open",
+            "volume": "2",
+            "issn": "3",
+            "pages": "1--7",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Symptoms, signs, and prescribing for acute lower respiratory tract illness",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Macfarlane",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Macfarlane",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hubbard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Br J Gen Pract",
+            "volume": "51",
+            "issn": "",
+            "pages": "177--81",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Use of serum C reactive protein and procalcitonin concentrations in addition to symptoms and signs to predict pneumonia in patients presenting to primary care with acute cough: diagnostic study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Van Vugt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Broekhuizen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lammens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "BMJ",
+            "volume": "346",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Aetiology and prediction of pneumonia in lower respiratory tract infection in primary care",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Holm",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nexoe",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bistrup",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Br J Gen Pract",
+            "volume": "57",
+            "issn": "",
+            "pages": "547--54",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Prognostic factors and clinical outcome in acute lower respiratory tract infections: a prospective study in general practice",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hopstaken",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Coenen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Fam Pract",
+            "volume": "23",
+            "issn": "",
+            "pages": "512--521",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Surveillance of Influenza and Other Respiratory Viruses in the United Kingdom: Winter",
+            "authors": [
+                {
+                    "first": "Public",
+                    "middle": [],
+                    "last": "Health England",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Field evaluation of TaqMan Array Card (TAC) for the simultaneous detection of multiple respiratory viruses in children with acute respiratory infection",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Weinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schnabel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Erdman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Clin Virol",
+            "volume": "57",
+            "issn": "",
+            "pages": "254--60",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Identification of new respiratory viruses in the new millennium",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Berry",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gamieldien",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Fielding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Viruses",
+            "volume": "7",
+            "issn": "",
+            "pages": "996--1019",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Frequencies of organisms identified by PCR in the prospective Cough Complication Cohort (3C) Plus study 2013",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Baseline characteristics by pathogenic group in the prospective Cough Complication Cohort (3C) Plus study 2013",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Symptom severity measured as the mean diary score for all symptoms during Days 2 to 4 after the baseline consultation in the prospective Cough Complication Cohort (3C) Plus study 2013 and for bacterial co-infection for those with Picornavirus.Picornavirus group combines organisms identified as either in Enterovirus genus or Rhinovirus species.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Duration of symptoms rated by participants as moderate or severe after initial presentation (i.e. the last day on which a rating of moderate or severe was recorded in the diary for any symptom) in the prospective Cough Complication Cohort (3C) Plus study 2013 Adjusted for age, antibiotic prescription, and duration of illness. Analysis for specific organisms was also adjusted for viral co-infection for those with Haemophilus influenzae, and for bacterial co-infection for those with Picornavirus.b Picornavirus group combines organisms identified as either in Enterovirus genus or Rhinovirus species. 1. Mean and 95% CI severity scores for all symptoms combined from Day 1 to Day 7 across groups in the prospective Cough Complication Cohort (3C) Plus study 2013.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,409 @@
+{
+    "paper_id": "156924aed112fb313bc811b2b31eb9b0779f681a",
+    "metadata": {
+        "title": "The novel coronavirus outbreak: what can be learned from China in public reporting?",
+        "authors": [
+            {
+                "first": "Hao",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xinguang",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hao",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The new coronavirus outbreak gets everyone's attention. China's national actions against the outbreak have contributed great contributions to the world. China has been learning from practice for better reporting and is fast to adapt itself. In this article we discuss China's practice in public reporting and its implications to global health. Confirmed cases, dynamic suspected cases, recovered cases, and deaths have been reported both in accumulative numbers and their daily updates. Some ratio indictors reporting (fatality rate, recovery rate, etc.), trend reporting, and global surveillance have been applied as well. Some improvements can still be made. It is necessary to further explore the influential factors behind the indicators for interventions. Recommendations are made to the World Health Organization and other countries for better public reporting and surveillance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The storm-like outbreak of the novel coronavirus epidemic, named as COVID-19, or 2019-nCoV, or SARS-CoV-2, gets everyone's attention [1] . Since the first case was reported in Wuhan (China) on December 8, 2019 [2] , until February 27, 2020, a total of 78,497 cases have been confirmed, 32,495 cases recovered and 2744 cases died in China [3] . Up to date, the outbreak has already been spread to 37 countries worldwide and a total of 2918 cases have been confirmed, 287 recovered, and 43 cases died [4, 5] . Had it not for the whole society effort led by the Chinese government, the situation would be much worse in China and around the world. For better global actions, there is a urgent need for public reporting among Nations and further global surveillance.",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 136,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 210,
+                    "end": 213,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 338,
+                    "end": 341,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 499,
+                    "end": 502,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 503,
+                    "end": 505,
+                    "text": "5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Moreover, as there lacks effective drugs and people are easy to be infected via contact, droplets, etc., worries and panic have been aroused in the public in China and other countries. Scientifically framed epidemic information about the outbreak can help people understand the developing situation, encourage the whole society to work together against the epidemic, and help prevent data from deliberate misinterpretation. In theory, all relevant information can be reported to support decision making, while such approach takes a lot of time and make it impossible to do so. Therefore, for timely public reporting, selecting the most representive indicators are of most importance. China is the first country to fight the outbreak and have accumulated lots of exprience. Its experience to report the indictors information to the public on daily basis is very useful not only for the World Health Organization (WHO) to strengthen global surveillance, but also for other countries to improve their public reporting.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Since the outbreak, reporting to the public has been developing from exploration all the time. From one side, governments of all levels announce new updates each day and reflect all indicators information via the Chinese Center for Disease Control and Prevention (CDC) [3] ; on the other side, many domestic search engines, portal websites, etc. have developed their own surveillance systems respectively and update information each day based on the newest data officially from governments of all levels, which include case number indicators, trend monitoring, news from various sources (such as webpages, TV, newspapers, blogs, broadcasts, ect.) [6, 7] . Each of them have their own features and have attracted huge number of visits each day for concerns. Moreover, the reporting not only include information updates about China, but also the world.",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 272,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 647,
+                    "end": 650,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 651,
+                    "end": 653,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Current reporting progress in China"
+        },
+        {
+            "text": "Further analysis of the government reports indicate that indicators such as confirmed cases, suspected cases, recovered cases, and total number of deaths are all reported in total numbers along with their daily updates respectively based on provincial and city levels. These data together with the updates from the WHO have provided good basis for visual reporting at city, provincial, national, and international levels. Ratio analyses such as case fatality rate, recovery rate, etc. are applied to reflect the whole progress of various effort and interventions. These rates are further classified as Hubei, outside Hubei, whole China, etc. for comparison in curves. It should be noted that there are lots of influential factors affecting the fatality and recovery rates [8] , for example, the fatility rate in Hubei is much higher than other provinces (4.03% vs 0.80%, by Feburuary 27, 2020), which can be partly explained that, even though Hubei is abundant of health resources, but still lacks enough medical resources to provide timely and effective treatments to the hug number of patients compared with much less patients in other Chinese provinces.",
+            "cite_spans": [
+                {
+                    "start": 772,
+                    "end": 775,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Current reporting progress in China"
+        },
+        {
+            "text": "Incidence and case mortality rate can both be meaningful to be reported. Incidence indicates the infectivity of the virus over a time period, and case mortality rate can reflect the virulence of the new coronavirus. Both are yet to be reflected in reporting. It will be much helpful to report up to date incidence and case mortality rate for daily surveillance, and a trend curve can be depicted, which can indicate the cumulative risks and remind people to end the outbreak as soon as possible.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Current reporting progress in China"
+        },
+        {
+            "text": "Based on China's advantage in information communications technology (ICT), the entreprenurship of technology enterprises, etc., China has developed a relatively complete online reporting system to the public in a very short time. However, with the outbreak developing into a global pandemic, many countries are still underestimating the impact of the outbreak. The following aspects can be highlited for public reporting, surveillance and actions:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Implications for global health"
+        },
+        {
+            "text": "(1). The number of deaths can further be classified by gender and age. In this way the information will be much helpful to further identify susceptible populations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Implications for global health"
+        },
+        {
+            "text": "(2). According to China's practice, the number of confirmed cases is better to include only laboratory confirmed cases, and all clinically diagnostic cases should all be included into suspected cases before they are confirmed by laboratory tests. However, this creates the difficulty for countries lacking test capabilities and they will need assistance from the international community. (3). Including up to date incidence and case mortality rate of the coronavirus infections based on the total population will help the general public better assess the impact and reduce overreacted social panic. (4) . For public reporting, countries especially those with suspected and confirmed cases of the COVID-19 should actively report to the WHO for further collaborations. Further relevant technical supports are required to construct a visual reporting system, with data and information coming from government daily updates and social media. (5) . It is important for other countries to timely share the indicators information with the WHO, and a global visual surveillance system is increasingly required, together with current modules in daily situation report, travel advice, technical guidance, and global research [9] .",
+            "cite_spans": [
+                {
+                    "start": 599,
+                    "end": 602,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 937,
+                    "end": 940,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1214,
+                    "end": 1217,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Implications for global health"
+        },
+        {
+            "text": "Due to the sudden outbreak of the COVID-19, China's health system is being verified for its effectiveness in responses. Although the outbreak has brought huge socioeconomic loss, the public health system for emergency events in China will be undoubtedly much improved in the near future. Moreover, public reporting has become an accumulative advantage for China to collaborate with the WHO and other countries. More research is needed to explore the influential factors behind the indicators for more efficient and more effective policy decisions and interventions. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Epidemiologic and clinical characteristics of novel coronavirus infections involving 13 patients outside Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.1623"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "First case of 2019 novel coronavirus in the United States",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Holshue",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debolt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindquist",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001191"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The Center for Disease Control and Prevention. Outbreak distribution of 2019-nCoV",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "World Health Organization. Coronavirus disease (COVID-19) Situation Report-37",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Instant map of novel conovirus outbreak",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Dingxiangyuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chinese",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Instant big data report of the novel coronavirus outbreak",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Baidu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Chinese",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Instant updates: novel coronavirus outbreak dynamics",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "2019-novel coronavirus (2019-nCoV): estimating the case fatality rate -a word of caution",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Battegay",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "K\u00fchl",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tschudin",
+                    "middle": [],
+                    "last": "Sutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Swiss Med Wkly",
+            "volume": "150",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.4414/smw.2020.20203"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "World Health Organization. Coronavirus disease",
+            "authors": [],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "2019-nCoV, or COVID-19, or SARS-CoV-2: Novel coronavirus; CDC: Center for Disease Control and Prevention; ICT: Information communications technology; WHO: World Health Organization",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank Prof. Dan Cui from Global Health Institute, Wuhan University for her valuable comments. Special thanks to the invited reviewers as well for their insightful comments.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions LI H wrote the draft of the manuscript with the advice and after discussion with Chen XG. Huang H supported in data and literature collection, and language editing. The authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "This work is supported by the journal development fund from Wuhan University.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "(2020) 5:9Availability of data and materials Not applicable.Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Li et al. Global Health Research and Policy"
+        },
+        {
+            "text": "The authors all agreed the publication of this manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

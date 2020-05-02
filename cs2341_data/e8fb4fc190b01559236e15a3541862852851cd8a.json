@@ -1,0 +1,472 @@
+{
+    "paper_id": "e8fb4fc190b01559236e15a3541862852851cd8a",
+    "metadata": {
+        "title": "Coronavirus disease-2019: is fever an adequate screening for the returning travelers?",
+        "authors": [
+            {
+                "first": "George",
+                "middle": [
+                    "M"
+                ],
+                "last": "Bwire",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Muhimbili University of Health and Allied Sciences",
+                    "location": {
+                        "postBox": "P.O. Box 65001",
+                        "settlement": "Dar es Salaam",
+                        "country": "Tanzania"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Linda",
+                "middle": [
+                    "S"
+                ],
+                "last": "Paulo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Muhimbili University of Health and Allied Sciences",
+                    "location": {
+                        "postBox": "P.O. Box 65001",
+                        "settlement": "Dar es Salaam",
+                        "country": "Tanzania"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "On Thursday, 30 January 2020, World Health Organization declared Coronavirus disease-2019 (COVID-2019) a Public Health Emergency of International Concern. Since its identification in late December 2019 in Wuhan, Hubei Province, People's Republic of China, the number of cases imported into other countries is increasing, and the epidemiological map is changing rapidly. On the other hand, body temperature screening (fever) is the major test performed at points of entry, i.e., airports, in the returning travelers in most of the countries with limited resources. However, the recent report on asymptomatic contact transmission of COVID-19 and travelers who passed the symptoms-based screening and tested positive for COVID-19 using reverse transcription polymerase chain reaction (RT-PCR) challenges this approach as body temperature screening may miss travelers incubating the disease or travelers concealing fever during travel. On this note, travel restrictions to and from high risk areas and/or 14 days quarantine of travelers coming from high risk areas are recommended to prevent possible importation of COVID-19. Currently, RT-PCR is a reliable test in detecting both symptomatic and asymptomatic COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Since the outbreak of Coronavirus on December 31, 2019 in Wuhan, Hubei Province, People's Republic of China, the number of cases from China that have been imported into other countries is increasing, and the epidemiological map is changing rapidly [1] . In this regard, World Health Organization (WHO) on Thursday, 30 January 2020, announced a Coronavirus disease-2019 (COVID-19) a Public Health Emergency of International Concern (PHEIC).",
+            "cite_spans": [
+                {
+                    "start": 248,
+                    "end": 251,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        },
+        {
+            "text": "To curb the spread of COVID-19, WHO has implemented several public health measures including rapid identification, diagnosis and management of the cases, identification and follow-up of contacts, infection prevention and control in health care settings, implementation of health measures for travelers, awareness rising in the population, and risk communication [2] .",
+            "cite_spans": [
+                {
+                    "start": 362,
+                    "end": 365,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        },
+        {
+            "text": "Additionally, countries are taking measures to prevent the importation of COVID-19, i.e., on January 31, 2020, the President of the USA signed a presidential \"Proclamation on Suspension of Entry as Immigrants and Nonimmigrants of Persons who Pose a Risk of Transmitting COVID-19\" [3] . Other measures implemented elsewhere include quarantine of travelers coming from risk countries and symptoms-based screening at points of entry [4] , which were also employed during Ebola outbreaks. In support of this approach, WHO reported that temperature screening at entry detected the majority of exported cases during the current outbreak with the COVID-19 [5].",
+            "cite_spans": [
+                {
+                    "start": 280,
+                    "end": 283,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "[4]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        },
+        {
+            "text": "However, 4 people in Germany were infected with Coronavirus-2019 through contact with an asymptomatic patient [6] , although there is a claim that the patient from China who transmitted the virus when she/he was attending the business meeting in Germany was symptomatic [7] . But, evidence is still clear that the other 2 patients who never came into contact with the Chinese patient contracted the virus from an asymptomatic German patient who attended the meeting with a Chinese patient. This added to the ongoing debates about virus transmission, where some of the scientists believe that asymptomatic patients are transmitting the infection. WHO says \"People who cough or sneeze are more likely to spread the virus,\u2026 But even if they do, asymptomatic transmission likely plays a minor role in the epidemic overall.\" Additionally, evidence from Germany reported that 2 out of 114 travelers (1.8%) from Wuhan, China, who had passed the symptoms-based screening tested positive for COVID-19 by reverse transcription polymerase chain reaction (RT-PCR) [8] .",
+            "cite_spans": [
+                {
+                    "start": 110,
+                    "end": 113,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 270,
+                    "end": 273,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1052,
+                    "end": 1055,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        },
+        {
+            "text": "More interestingly, Japanese citizens evacuated from the source of a COVID-19 outbreak that have been diagnosed with the infection after initially testing negative, a man in his 50s who returned from the Chinese city of Wuhan on the first Japanese evacuation flight on January 29, 2020, previously twice tested negative for the virus. However, a third test 12 days later found the man-who has been isolated in his hotel room since his return was infected. In addition to that, the number of people in Diamond Princess testing positive for COVID-19 keep on increasing, since it arrived off Japan [9].",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        },
+        {
+            "text": "A case from the UK reports on the British businessman who is linked to 11 coronavirus cases that a suspect was advised to attend an isolated room at hospital, despite showing no symptoms and later tested positive for COVID-19 [10] . National Health Service has advised any individual experiencing symptoms, even if mild, after traveling from mainland China, Thailand, Japan, Republic of Korea, Hong Kong, Taiwan, Singapore, Malaysia, or Macau, to stay indoors. In Africa, Egypt is the first country to confirm COVID-19 infection and the country's health ministry says the affected person is a non-Egypt citizen (foreigner) who presented with no serious symptoms [11] . The second COVID-19 case in Africa has been reported to occur in Algeria from a foreigner coming from the northern part of Italy who arrived in the country on Feb 17, 2020. Northern Italy, home to many Algerians, has been the center of an outbreak of the coronavirus with more than 280 cases and 11 deaths [12] . From Latin America, Brazil is the first country to confirm the case of COVID-19 in a 61-year-old who had visited Italy [13] .",
+            "cite_spans": [
+                {
+                    "start": 226,
+                    "end": 230,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 662,
+                    "end": 666,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 975,
+                    "end": 979,
+                    "text": "[12]",
+                    "ref_id": null
+                },
+                {
+                    "start": 1101,
+                    "end": 1105,
+                    "text": "[13]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        },
+        {
+            "text": "Lastly, a published study on clinical characteristics of 138 hospitalized patients with COVID-19 in Wuhan, China, documented that fever was present in 98.6% (136/138) of hospitalized patients, whereas 2 nonintensive care unit patients (1.4%) did not present with fever [14] . In this regard, body temperature might not be an adequate screening as it can potentially miss travelers incubating the disease or travelers concealing fever during travel and contribute to the importation of the virus to the countries of destination. Therefore, travel restrictions to and from high risk areas [1] and/or 14-day quarantine [15] of people coming from high risk areas are recommended to prevent possible importation of COVID-19. Currently, RT-PCR is a reliable test in detecting both symptomatic and asymptomatic COVID-19 [6, 8] . Lastly, in previous experience from other viral outbreaks, i.e., dengue virus [16] and Ebola [17] , fever screening especially at airport had a positive effect on partially blocking importation of cases. Kuan et al. [16] reported that airport fever screening was successful in identifying 45% (244/542; 95% confidence interval 33.1-57.8%) of imported dengue cases with fever. ",
+            "cite_spans": [
+                {
+                    "start": 269,
+                    "end": 273,
+                    "text": "[14]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 587,
+                    "end": 590,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 813,
+                    "end": 816,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 817,
+                    "end": 819,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 900,
+                    "end": 904,
+                    "text": "[16]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 915,
+                    "end": 919,
+                    "text": "[17]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1038,
+                    "end": 1042,
+                    "text": "[16]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "To the Editor,"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization",
+            "authors": [],
+            "year": 2020,
+            "venue": "Coronavirus disease 2019 (COVID-19). Situational Report-37",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Novel Coronavirus",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Proclamation on suspension of entry as immigrants and nonimmigrants of persons who pose a risk of transmitting 2019 novel coronavirus",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "How airports are screening travelers for deadly new coronavirus-type disease",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Transmission of 2019-nCoV infection from an asymptomatic contact in Germany",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rothe",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N Engl J Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "2019--2039",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Study claiming new coronavirus can be transmitted by people without symptoms was flawed",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Evidence of SARS-CoV-2 infection in returning travelers from Wuhan , China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Modular",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "N Engl J Med",
+            "volume": "2020",
+            "issn": "",
+            "pages": "1--3",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "coronavirus found in Japan evacuees who initially tested negative",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Coronavirus: UK businessman linked to virus cases speaks out",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Egypt confirms coronavirus case, the first in Africa",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel coronavirus-infected pneumonia in Wuhan",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China JAMA",
+            "volume": "",
+            "issn": "",
+            "pages": "1--9",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "WHO sticks to 14-day quarantine against coronavirus",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Epidemiological trends and the effect of airport fever screening on prevention of domestic dengue fever outbreaks in Taiwan",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Int J Infect Dis",
+            "volume": "14",
+            "issn": "8",
+            "pages": "693--700",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Approach to fever in the returning traveler",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Thwaites",
+                    "suffix": ""
+                },
+                {
+                    "first": "Npj",
+                    "middle": [],
+                    "last": "Day",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "N Engl J Med",
+            "volume": "376",
+            "issn": "",
+            "pages": "548--60",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Abbreviations COVID-19: Corona virus disease-2019; PHEIC: Public Health Emergency of International Concern; RT-PCR: Reverse transcription polymerase chain reaction; WHO: World Health Organization",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank Pharms, Alphonce Ignace, Manase Kilonzi, Wigilya Mikomangwa, Hamu Mlyuka, and Fatuma Felix for their time and comments during conceptualization. Thanks to the editor(s) for accepting this letter and comments on the manuscript. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Authors' contributions GMB conceived the idea of the letter, reviewed the literature, and prepared the first draft. LSP reviewed the manuscript. Both authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "No external funding was used in the preparation of this letter.Availability of data and materials Data used to draw the conclusion are provided in this letter. Conclusions drawn in this letter reflect authors' views and not the Institution of Affiliation.Ethics approval and consent to participate Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Not applicable.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Consent for publication"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

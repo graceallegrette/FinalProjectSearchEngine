@@ -1,0 +1,1823 @@
+{
+    "paper_id": "b465e0f32b19ffb9def3921db0f63f2d62a2fbe5",
+    "metadata": {
+        "title": "Variable Macro X Domain of SARS-CoV-2 Retains the Ability to Bind ADP-ribose",
+        "authors": [
+            {
+                "first": "David",
+                "middle": [
+                    "N"
+                ],
+                "last": "Frick",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Rajdeep",
+                "middle": [
+                    "S"
+                ],
+                "last": "Virdi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Nemanja",
+                "middle": [],
+                "last": "Vuksanovic",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Narayan",
+                "middle": [],
+                "last": "Dahal",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "The University of Wisconsin-Milwaukee",
+                    "location": {
+                        "postCode": "53217",
+                        "settlement": "Milwaukee",
+                        "region": "WI"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nicholas",
+                "middle": [
+                    "R"
+                ],
+                "last": "Silvaggi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The virus that causes COVID-19, SARS-CoV-2, has a large RNA genome that encodes numerous proteins that might be targets for antiviral drugs. Some of these proteins, such as the RNA-dependent RNA polymers, helicase and main protease, are well conserved between SARS-CoV-2 and the original SARS virus, but several others are not. This study examines one of the most novel proteins encoded by SARS-CoV-2, a macrodomain of nonstructural protein 3 (nsp3). Although 26% of the amino acids in this SARS-CoV-2 macrodomain differ from those seen in other coronaviruses, the protein retains the ability to bind ADPribose, which is an important characteristic of beta coronaviruses, and potential therapeutic target. author/funder. All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The development of antivirals targeting Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), the causative agent of the present COVID-19 pandemic, 1 will most likely focus on viral proteins and enzymes needed for replication. 2 Like other coronaviruses, SARS-CoV-2 has a large positive sense (+)RNA genome over 30,000 nucleotides long with several open reading frames. Most of the proteins that form the viral replicase are encoded by the \"rep 1ab\" reading frame, which codes for a 7,096 amino acid-long polyprotein that is ultimately processed into at least 15 functional peptides, five of which are only produced by a translational frameshift event occurring after nsp10 (Fig. 1) . Parts of the SARS-CoV-2 rep 1ab polyprotein are very similar to the rep 1ab protein of the coronavirus that caused the SARS epidemic in 2003 (which will be referred to here as SARS-CoV-1), suggesting the that drugs targeting the SARS-CoV-1 nsp5-14 might be effective against SARS-CoV-2. However, some portions of the SARS rep 1ab polyproteins are quite different.",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 157,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 235,
+                    "end": 236,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 682,
+                    "end": 690,
+                    "text": "(Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "In contrast to the well-conserved SARS nsp5 protease, nsp12 polymerase and nsp13 helicase enzymes, significantly more differences exist between the nsp3 proteins encoded by SARS-CoV-1 and SARS-CoV-2. The most variation occurs in a domain of Nsp3 domain suspected to bind ADP-ribose, that will be referred to here as the \"macro X\" domain, to differentiate it from the two downstream \"SARS unique macrodomains (SUDs),\" which do not bind ADP-ribose. 3 The macro X domain of SARS-CoV-1 is also able to catalyze the hydrolysis of ADP-ribose 1'' phosphate, albeit at a slow rate. 4 All the above differences preclude the use of the SARS-CoV-1 macro X domain structures as scaffolds to design compounds that might target this nsp3 region in SARS CoV-2, especially in light of the observation that the same nsp3 domain from gamma coronaviruses folds with a closed binding site and does not bind ADP-ribose in vitro. 5 Because ADP-ribose binding is a property that could be used to identify possible antiviral agents, the ability of the SARS-CoV-2 macro X domain to bind ADP-ribose was examined using a recombinant purified protein and isothermal titration calorimetry (ITC).",
+            "cite_spans": [
+                {
+                    "start": 447,
+                    "end": 448,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 574,
+                    "end": 575,
+                    "text": "4",
+                    "ref_id": null
+                },
+                {
+                    "start": 908,
+                    "end": 909,
+                    "text": "5",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Hypervariability in the nsp3 Macro X domain-The structures of most of the soluble portions of the SARS-CoV-1 nsp proteins have been examined at atomic resolution to help understand coronavirus replication and facilitate antiviral drug discovery. The amino acid sequences of each of these proteins were compared with the homologous regions of the rep 1ab protein encoded by SARS-CoV-2 (GenPept Accession YP_009724389). The most similar proteins were the RNA helicases (nsp13) which are identical in all but one of their 603 amino acids: a conservative Val to Ile substitution near their C-termini. The RNA-dependent RNA polymerases (nsp12) are also well-conserved, sharing all but 34 of 955 amino acids. The primary protease that cleaves the polyprotein (nsp5) is also similar in SARS-CoV-1 and SARS-CoV-2, with only 13 amino acids that differ among 306 (4.2% different) ( Fig. 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 872,
+                    "end": 879,
+                    "text": "Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "At the other end of the spectrum are the nsp3 proteins, which are notably more different in the two SARS viruses. Nsp3 is a large multidomain membrane-bound protein, 6 and its clearest role in viral replication is cleaving the rep polyprotein. Over 17% of the amino acids in the nsp3 protease domain differ between SARS-CoV-1 and SARS-CoV-2. Other parts of nsp3 are even more variable, like the macrodomains that lie N-terminal to the nsp3 protease domain. Macrodomains consist of four helices that surround a mixed beta sheet. A ligandbinding pocket that typically binds ADP-ribose or related compounds lies between the helices and the sheet. 7 SARS-CoV-1 has three macrodomains in tandem, but only the first binds ADP ribose. The amino acid sequences of this macro X domain differ by 26% between SARS-CoV-1 and SARS-CoV-2 ( Fig. 1) .",
+            "cite_spans": [
+                {
+                    "start": 166,
+                    "end": 167,
+                    "text": "6",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 826,
+                    "end": 833,
+                    "text": "Fig. 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Many of the 47 variant residues in the 180 amino acid long SARS macro X domain are clustered near its Nterminus in a region that is particularly variable in the three Coronaviridae genera ( Fig. 2A) . Macro X domains from coronaviruses that cause the common cold (alpha coronaviruses) 5 and the beta coronaviruses like SARS-CoV-1 and Middle East respiratory syndrome coronavirus (MERS-CoV) 8 all bind ADP ribose. However, the same domain in gamma coronaviruses does not bind ADP-ribose. 5 When atomic models of the SARS-CoV-2 macro X domain were generated with the MODELLER 24 plugin for UCSF Chimera (v. 1.14) 23 using the structure of the SARS-CoV-1 macro X domain (PDB file 2fav) 9 as a template, most of the two protein backbones superimposed, but the N-termini did not (Fig. 2B , C). In fact, the SARS-CoV-2 model with the lowest zDOPE score (-0.61) folds with the N-terminus blocking the ADP ribose binding site (Fig. 2C) , which is reminiscent of what is seen in in the gamma coronaviruses (PDB file 3eke). 5 However, in other models, the protein folds in a more open conformation with a free ADP-ribose-binding cleft (Fig. 2B) .",
+            "cite_spans": [
+                {
+                    "start": 390,
+                    "end": 391,
+                    "text": "8",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 487,
+                    "end": 488,
+                    "text": "5",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1014,
+                    "end": 1015,
+                    "text": "5",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 190,
+                    "end": 198,
+                    "text": "Fig. 2A)",
+                    "ref_id": null
+                },
+                {
+                    "start": 774,
+                    "end": 782,
+                    "text": "(Fig. 2B",
+                    "ref_id": null
+                },
+                {
+                    "start": 918,
+                    "end": 927,
+                    "text": "(Fig. 2C)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1125,
+                    "end": 1134,
+                    "text": "(Fig. 2B)",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Expression and Purification of the SARS-CoV-2 Macro X domain-An E. coli expression vector for the macro X domain was built to express and N-terminally Histagged protein similar to a SARS-CoV-1 protein studied by Egloff et al. 9 Upon induction, a one liter culture of BL21(DE3) cells harboring the vector expresses 50-100 mg of the macro X domain protein that can be purified in one step to apparent homogeneity using immobilized metal affinity chromatography (Fig. 3A) .",
+            "cite_spans": [
+                {
+                    "start": 226,
+                    "end": 227,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 459,
+                    "end": 468,
+                    "text": "(Fig. 3A)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Nucleotide Binding by the SARS-CoV-2 Macro X domain-Repeated ITC experiments revealed that the purified recombinant protein bound ADP-ribose (Fig. 3C ) with a dissociation constant of 10 \u00b1 4 \u00b5M (uncertainty is the standard deviation of K d 's from independent titrations). To examine binding specificity, similar titrations were repeated with related nucleotides. The SARS-CoV-2 protein bound ADP, cAMP, ATP and ADP-glucose (Fig. 3D ). All nucleotides lacking the ribose moiety bound with similar high affinities, but none bound with an enthalpy change like that seen with ADP-ribose, suggesting specific contacts form between ADP ribose the SARS-CoV-2 protein. Based on what is seen in the SARS-CoV-1 structure (PDB 2fav), these contacts likely occur with the two conserved aspartates (residues 40 and 43 in Fig. 2A) . None of the other nucleotides bind with an entropic penalty as seen with ADP-ribose, either, suggesting that the ribose moiety becomes structured when bound to the macrodomain.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 141,
+                    "end": 149,
+                    "text": "(Fig. 3C",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 424,
+                    "end": 432,
+                    "text": "(Fig. 3D",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 809,
+                    "end": 817,
+                    "text": "Fig. 2A)",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "The energetics of ADP-ribose binding to the SARS-CoV protein are similar to those seen with the same protein from SARS-CoV-1, 9 MERS-CoV. 8 Enthalpy and entropy of binding were also very similar for all three protein (Fig. 3D) . Unlike what is seen with the macro X protein from an alpha coronavirus, 5 enthalpy appears to drive ADP-ribose binding to the macro X domains of the three beta coronaviruses.",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 139,
+                    "text": "8",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 217,
+                    "end": 226,
+                    "text": "(Fig. 3D)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "To address the molecular basis for ADP-ribose binding, crystallization experiments were performed using the purified SARS-CoV-2 protein and the conditions used to crystallize the homologous protein from SARS-CoV-1. 9 Unfortunately, no crystals formed, nor did crystals form in any of the sparse matrix crystallization screens that were tested. Although both proteins possess the same N-terminal tag, it is possible that it prevents crystallization of the CoV-2 protein, and this idea is presently being tested by subcloning the protein into other expression vectors.",
+            "cite_spans": [
+                {
+                    "start": 215,
+                    "end": 216,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Conclusion-The significance of the study stems mainly from the demonstration that the SARS-CoV-2 macro X domain binds ADP ribose. This is the first step needed to justify screens for potential antivirals that bind in place of ADP ribose. More work needs to be done, however, to understand the antiviral potential of such compounds because the biological role for ADP-ribose binding is still not fully understood. Some work with alpha coronaviruses suggest that ADP-ribose binding by the macro X domain is not needed for viral replication. 10 However, studies with other (+)RNA viruses suggest that macrodomains are essential for virulence. 11 This work is also noteworthy because the synthetic codonoptimized plasmid reported here produces up to 100 mg of soluble macro X domain protein per liter of E. coli culture, and this protein retains a high affinity for ADP ribose. The protein could be used for structural studies and screening campaigns. Screening assays with the SARS-CoV-2 protein might actually be more efficient, since the SARS-CoV-2 protein binds ADP-ribose somewhat more tightly (K d = 10 \u00b5M) than the SARS-CoV-1 protein (K d = 24 \u00b5M). The recombinant protein reported here protein might also be useful to others developing SARS-CoV-2 diagnostics.",
+            "cite_spans": [
+                {
+                    "start": 539,
+                    "end": 541,
+                    "text": "10",
+                    "ref_id": null
+                },
+                {
+                    "start": 640,
+                    "end": 642,
+                    "text": "11",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RESULTS AND DISCUSSION"
+        },
+        {
+            "text": "Gene Synthesis-To facilitate comparison between SARS-CoV-1 and SARS-CoV-2, a protein expression vector was generated similar to the one used by Eglott et al. 9 To this end, a codon optimized open reading frame was synthesized by GenSript (Piscataway, NJ) that en-author/funder. All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 159,
+                    "text": "9",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.03.31.014639 doi: bioRxiv preprint codes the Macro X domain flanked by NheI and BamH1 restriction sites. This open reading frame was cloned into pET21b to give plasmid pET21-COVID-MacroX. The pET11-COVID-MacroX plasmid was used to transform BL21(DE3) cells.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Protein Purification-Colonies of BL21(DE3) cells harboring the pET21-COVID-MacroX plasmid were used to inoculate 3 ml of LB medium containing 100 mg/ml ampicillin. The starter culture was incubated at 37 \u00b0C with shaking at 225 rpm. After the cells grew to an OD 600 of 1.0, they were transferred to 1 liter of fresh medium containing ampicillin. After the cells reached an OD 600 of 1.0 again, protein production was induced with 1 mM isopropyl-\u03b2-D-thiogalactoside. After growing 16 h at 23 \u00b0C, the cells were harvested by centrifugation at 4,000 rpm, 4\u00b0C. The resulting cell pellet was suspended in 25 mL of IMAC buffer (20 mM Tris pH 8, 0.5 M NaCl), sonicated on ice for five 1 min bursts, with 2 min rests between, and clarified by centrifugation at 10,000g for 30 min. The supernatant was loaded onto a 5 ml Ni-NTA column and the fractions were eluted with a step gradient from 5 to 500 mM imidazole. Fractions containing the macro X domain protein (5 ml total) were loaded on a 250 ml Sephacryl S300 gel filtration column and eluted with 10 mM MOPS, 150 mM NaCl. Concentration of the purified protein was determined by measuring absorbance at 260 nm using a molar extinction coefficient of 10,555 M -1 cm -1 , which was calculated with the ProtParam tool (https://web.expasy.org/protparam/).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Isothermal Titration Calorimetry (ITC)-Binding of ADP-ribose to the SARS-CoV-2 macro X domain was measured using a Nano ITC (TA Instruments). Before starting the measurement, samples of both ligand and protein were diluted in 10 mM MOPS, 150 mM NaCl (pH 7) and were degassed at 400 mmHg for 30 minutes. Measurements were taken at 20 \u00b0C by injecting 2.0 \u00b5 l aliquots of 500 \u00b5M ADP-Ribose (Sigma) to 50 \u00b5M protein (175 \u00b5l initial volume) with 250 rpm stirring rate. Using NanoAnalyze Software (v. 3.11.0), data were fitted by non-linear regression to an independent binding model. Briefly, after baseline correction, background heats from ligand-to-buffer titrations were subtracted, and the corrected heats from the binding reaction were used to find best fit parameters for the stoichiometry of the binding (n), free energy of binding (\u0394G), apparent enthalpy of binding (\u0394H), and entropy change (\u0394S). Dissociation constants (K d ) were calculated from the \u0394G. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "No competing financial interests have been declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding Sources"
+        },
+        {
+            "text": "The SARS-Co rep 1ab peptide sequence was aligned with each of the PDB files listed, which describe an atomic structure of a homolog region of the SARS-CoV-1 rep 1ab polyprotein. Nsp's are shown in sequence as black arrows (note: there is no \"nsp11\" the translational frameshift occurs after nsp10). The percent of amino that differ in each protein is plotted. For details Fig. S1 (supporting information). Nsp1 is and interferon antagonist. 12 The Nsp3 X domain is studied here, the Nsp3 S consists of tandem macrodomains that bind G-quadruplex structures, 3 Nsp dC is the C-terminus of the SUD, 13 Nsp3pro papain-like protease, 14 and Nsp3 RBD is another possible RNA binding domain. 15 Nsp5 is the main viral protease. 16 N and Nsp8 are polymerase cofactors. 17 Nsp9 is an RNA binding protein. 18 Nsp10 is a zinc-binding cofactor for Nsp14 Nsp16. 19 Nsp12 is the RNA polymerase. 17 Nsp13 is a helicase. 20 Nsp14 is a 3'-5' exonuclease and a 7-methyltransfera Nsp15 is an RNA endonuclease. 21 Nsp16 is an RNA cap 2'-O-Methyltransferase. 22 5 CoV-2 logous \", and ils see 3 SUD ro is a Nsp7 14 and erase. 19 author/funder. All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [
+                {
+                    "start": 441,
+                    "end": 443,
+                    "text": "12",
+                    "ref_id": null
+                },
+                {
+                    "start": 557,
+                    "end": 558,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 721,
+                    "end": 723,
+                    "text": "16",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 796,
+                    "end": 798,
+                    "text": "18",
+                    "ref_id": null
+                },
+                {
+                    "start": 849,
+                    "end": 851,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1038,
+                    "end": 1040,
+                    "text": "22",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1104,
+                    "end": 1106,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 372,
+                    "end": 379,
+                    "text": "Fig. S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIGURE 1. Sequence divergence between potential drug targets in SARS-CoV-1 and SARS-CoV-2."
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.03.31.014639 doi: bioRxiv preprint FIGURE 2. Variation in the macro X domains of coronaviruses. (A) Macro X domain structures were aligned using \"MatchMaker\" function of UCSF Chimera (v. 1.14) 23 along with a hypothetical structure of the SARS CoV-2 macro X main generated using and the MODELLER 24 plugin for UCSF Chimera. PDB file 2av was used to guide modeling. Al ment is shown above a conservation graph generated by CLC Sequence Viewer (7.7.1) with amino acid colored in a grad from blue (identical) to red (poorly conserved). (B) SARS-CoV-1 macro X domain (PDB file 2fav, blue) aligned with m eled SARS-CoV-2 macro X domain (red), in which the variable N-terminus folds so that ADP-ribose might bind (zDO score -0.44). (B) Model of the SARS-CoV-2 macro domain in which the N-terminus blocks ADP-ribose binding (zDO score -0.61). In (B) and (C) the ADP-ribose bound to SARS-CoV-1 is shown as sticks. 6 ing the X do-Alignradient h mod-DOPE DOPE author/funder. All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [
+                {
+                    "start": 1013,
+                    "end": 1014,
+                    "text": "6",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "FIGURE 1. Sequence divergence between potential drug targets in SARS-CoV-1 and SARS-CoV-2."
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.03.31.014639 doi: bioRxiv preprint The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.03.31.014639 doi: bioRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIGURE 1. Sequence divergence between potential drug targets in SARS-CoV-1 and SARS-CoV-2."
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Pei",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "",
+            "pages": "265--269",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "SARS-CoV ORF1b-encoded nonstructural proteins 12-16: replicative enzymes as antiviral targets",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Subissi",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Collet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Antiviral Res",
+            "volume": "101",
+            "issn": "",
+            "pages": "122--130",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "A G-quadruplex-binding macrodomain within the \"SARS-unique domain\" is essential for the activity of the SARS-coronavirus replication-transcription complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kusov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Enjuanes",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Virology",
+            "volume": "484",
+            "issn": "",
+            "pages": "313--322",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Structural basis of severe acute respiratory syndrome coronavirus ADP-ribose-1''-phosphate dephosphorylation by a conserved domain of nsP3",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Griffith",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Moy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Velasquez",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Neuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Buchmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Structure",
+            "volume": "13",
+            "issn": "",
+            "pages": "1665--1675",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Crystal structures of the Xdomains of a Group-1 and a Group-3 coronavirus reveal that ADPribose-binding may not be a conserved property",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Piotrowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Boomaars-Van Der Zanden",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Protein Sci",
+            "volume": "18",
+            "issn": "",
+            "pages": "6--16",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Nsp3 of coronaviruses: Structures and functions of a large multi-domain protein",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kusov",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hilgenfeld",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Antiviral Res",
+            "volume": "149",
+            "issn": "",
+            "pages": "58--74",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Macrodomain ADP-ribosylhydrolase and the pathogenesis of infectious diseases",
+            "authors": [
+                {
+                    "first": "Akl",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mcpherson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "PLoS Pathog",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Macro Domain from Middle East Respiratory Syndrome Coronavirus (MERS-CoV) Is an Efficient ADP-ribose Binding Module: CRYSTAL STRUCTURE AND BIOCHEMICAL STUDIES",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Biol Chem",
+            "volume": "291",
+            "issn": "",
+            "pages": "4894--4902",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Structural and functional basis for ADP-ribose and poly(ADP-ribose) binding by viral macro domains",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Egloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Malet",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Putics",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Heinonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dutartre",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Frangeul",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gruez",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Campanacci",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cambillau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ahola",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "8493--8502",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Both ADP-Ribosyl-Binding and Hydrolase Activities of the Alphavirus nsP3 Macrodomain Affect Neurovirulence in Mice",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Abraham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mcpherson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Dasovich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Badiee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Akl",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "mBio",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Novel beta-barrel fold in the nuclear magnetic resonance structure of the replicase nonstructural protein 1 from the severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Almeida",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Herrmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Geralt",
+                    "suffix": ""
+                },
+                {
+                    "first": "K ;",
+                    "middle": [],
+                    "last": "W\u00fcthrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Neuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "W\u00fcthrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "3151--3161",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "X-ray structural and biological evaluation of a series of potent and highly selective inhibitors of human coronavirus papain-like proteases",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "B\u00e1ez-Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Barraza",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Agius",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mielech",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Larsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Mesecar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "SARS coronavirus unique domain: three-domain molecular architecture in solution and RNA binding",
+            "volume": "400",
+            "issn": "",
+            "pages": "2393--2412",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "No reuse allowed without permission. The copyright holder for this preprint (which was not peer-reviewed) is the",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.31.014639"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Nuclear magnetic resonance structure of the nucleic acid-binding domain of severe acute respiratory syndrome coronavirus nonstructural protein 3",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Serrano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chatterjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Neuman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Joseph",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Buchmeier",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kuhn",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "W\u00fcthrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Virol",
+            "volume": "83",
+            "issn": "",
+            "pages": "12998--13008",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "The severe acute respiratory syndrome-coronavirus replicative protein nsp9 is a single-stranded RNA-binding subunit unique in the RNA virus world",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Akaji",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Konno",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mitsui",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Teruya",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shimamoto",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hattori",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ozaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kusunoki",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sanjoh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Kirchdoerfer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Ward",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Egloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Campanacci",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Longhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rancurel",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dutartre",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cambillau",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "54",
+            "issn": "",
+            "pages": "3792--3796",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Structural basis and functional analysis of the SARS coronavirus nsp14-nsp10 complex",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "112",
+            "issn": "",
+            "pages": "9436--9441",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Crystal structure and mechanistic determinants of SARS coronavirus nonstructural protein 15 define an endoribonuclease family",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Ming",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ricagno",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Egloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ulferts",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nurizzo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Campanacci",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cambillau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ziebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "47",
+            "issn": "",
+            "pages": "11892--11897",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Crystal structure and functional analysis of the SARS-coronavirus RNA cap 2'-O-methyltransferase nsp10/nsp16 complex",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Decroly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Debarnot",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ferron",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bouvet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Imbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gluais",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Papageorgiou",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sharff",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bricogne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ortiz-Lombardia",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lescar",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Canard",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Pettersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Goddard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Couch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Greenblatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Meng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ferrin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Comput Chem",
+            "volume": "7",
+            "issn": "",
+            "pages": "1605--1612",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Comparative Protein Structure Modeling Using MODELLER",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Webb",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Curr Protoc Protein Sci",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "No reuse allowed without permission. The copyright holder for this preprint (which was not peer-reviewed) is the",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.31.014639"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "(D.N.F.) Phone: (414) 229-6670. Fax: (414) 229-5530. Email: frickd@uwm.edu.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "The SARS-CoV-2 macro X domain binds ADP ribose. (A) 15% SDS PAGE showing 10 \u00b5L samples of: a soluble crude lysate of induced BL21(DE3) cells harboring the plasmid p21-COVID-MacroX (lane C), proteins the do not bind a Ni-NTA column (F), and fractions eluted from a NiNTA column during an imidazole step gradient from 0 mM (lanes 1-3), 5 mM (lanes 4-6), 40 mM (lanes 7-9), and 500 mM (lanes 10-12). Protein markers (lane M) are 116, 66.2, 45, 35, and 25 kDa. (B) Example ITC experiment in which purified SARS-CoV-2 was titrated with ADP ribose. (C) ITC experiments like those shown in panel B were repeated tree times with each of the compounds listed. Means are plotted and error bars are standard deviations. Average (\u00b1SD) dissociation constants were 10 \u00b1 4 \u00b5M for ADP-ribose, 8 \u00b1 9 \u00b5M for ADP, 3 \u00b1 3 \u00b5M for ATP, 6\u00b1 4 \u00b5M for ADP-glucose, 2 \u00b1 1 \u00b5M for cAMP, and 2 \u00b1 1 \u00b5M for adenosine. (D) Comparison of the thermodynamics of ADP-ribose binding by macro X domains from SARS-CoV-2 (data from panel C), SARS-CoV-1, MERS-CoV, and an alpha coronavirus. a Data from Egloff et al. 18 b Data Cho et al. 8 c Data from Piotrowski et al.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors are grateful to Matt McCarty, Garrett Breit, Hayden Aristizabal, Trevor R. Melkonian, Dante A. Serrano and Prof. Ionel Popa for valuable technical assistance and helpful discussions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        }
+    ]
+}

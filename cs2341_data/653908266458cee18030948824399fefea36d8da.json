@@ -1,0 +1,763 @@
+{
+    "paper_id": "653908266458cee18030948824399fefea36d8da",
+    "metadata": {
+        "title": "COVID-19 epidemic: Power law spread and flattening of the curve",
+        "authors": [
+            {
+                "first": "Mahendra",
+                "middle": [
+                    "K"
+                ],
+                "last": "Verma",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Indian Institute of Technology Kanpur",
+                    "location": {
+                        "postCode": "208016",
+                        "settlement": "Kanpur",
+                        "country": "India"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ali",
+                "middle": [],
+                "last": "Asad",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Indian Institute of Technology Kanpur",
+                    "location": {
+                        "postCode": "208016",
+                        "settlement": "Kanpur",
+                        "country": "India"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Soumyadeep",
+                "middle": [],
+                "last": "Chatterjee",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Indian Institute of Technology Kanpur",
+                    "location": {
+                        "postCode": "208016",
+                        "settlement": "Kanpur",
+                        "country": "India"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "In this letter we analyze the real-time infection data of COVID-19 epidemic for nine nations. We observe that till 27 March 2020, the number of infected individuals (I(t)) in USA, Spain, Germany, Iran, France, and India are growing exponentially. On the contrary, I(t) curves for China and South Korea exhibits power law behavior before flattening of the curve. The derivative\u0130(t), which is also the daily infection count, is proportional to I(t) for the exponential regime, but not for the power law regime. These valuable indicators could be used for epidemic forecast. We also argue that long-term community transmission and/or the transmission by asymptomatic carriers traveling long distances may be inducing the power law growth of the epidemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "COVID-19 epidemic has caused major disruptions in the world. As of 1 April 2020, it has infected nearly a million humans, killed around 41000 individuals, and has brought most of the world to a standstill in lockdowns [1, 2] . A major economic recession is underway. Hence, modeling and forecast of this epidemic is of critical importance. In this letter we analyze the publicly available data set of the epidemic. The data show that countries that have achieved flattening of the epidemic curve exhibit power law growth before saturation. This feature can be used as an important diagnostic for flattening of the curve.",
+            "cite_spans": [
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "[1,",
+                    "ref_id": null
+                },
+                {
+                    "start": 222,
+                    "end": 224,
+                    "text": "2]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "SARS-CoV-2 is an extremely contagious virus. In addition, many infected individuals show mild or no symptoms of infection. The epidemic has spread unwittingly via these individuals, who are called asymptomatic carriers. In a study, Li et al. [3] segregated the documented (reported) cases and undocumented cases (asymptomatic carriers) of 375 cities of China, and showed that \"undocumented infections often experience mild, limited or no symptoms and hence go unrecognized, and, depending on their contagiousness and numbers, can expose a far greater portion of the population to virus than would otherwise occur.\"",
+            "cite_spans": [
+                {
+                    "start": 242,
+                    "end": 245,
+                    "text": "[3]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Epidemiologists have made various models for understanding and forecast of epidemic. Kermack and McKendrick [4] constructed one of the first models, called SIR model. Here, the variables S and I describe respectively the numbers of susceptible and infected individuals. The variable R represents the removed individuals who have either recovered or died. The SIR model has been generalized to SEIR model that includes exposed individuals, E, who are infected but not yet infectious [5, 6] .",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 111,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 482,
+                    "end": 485,
+                    "text": "[5,",
+                    "ref_id": null
+                },
+                {
+                    "start": 486,
+                    "end": 488,
+                    "text": "6]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "More complex models of epidemiology include features of quarantine, lockdowns, stochasticity, interactions among population pockets, etc. Note that quarantines and lockdowns help in suppressing the maximum number of the infected individuals; such steps are critical for the epidemic management with limited public health resources. The saturation or flattening of the curve in China is attributed to strong lockdowns.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "For COVID-19 epidemic, some of the new models have managed to provide good forecasts that appears to match with the data. Peng et al. [7] constructed a seven-variable model (including quarantined and death variables) for epidemic spread in China and predicted that the daily count of exposed and infectious individuals will be negligible by 30 March 2020. Their predictions are in good agreement with the present data. Wang et al. [8] employed another model and studied the effects of epidemic on variour age groups. Using different models, Labadin and Hong [9] and Shim et al. [10] studied the COVID-19 epidemic in Malaysia and South Korea respectively.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 137,
+                    "text": "[7]",
+                    "ref_id": null
+                },
+                {
+                    "start": 431,
+                    "end": 434,
+                    "text": "[8]",
+                    "ref_id": null
+                },
+                {
+                    "start": 558,
+                    "end": 561,
+                    "text": "[9]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 578,
+                    "end": 582,
+                    "text": "[10]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Kucharski et al. [11] and Roosa et al. [12] employed epidemic models for making short-term predictions in China. Chinazzi et al. [13] studied the effects of travel restrictions on the spread of COVID-19 in China and in the world. Hellewell et al. [14] performed feasibility studies of controlling COVID-19 epidemic by isolation. Mandal et al. [15] constructed a India-specific model for devising intervention strategies; they focussed on four metros-Delhi, Mumbai, Kolkata, and Bengaluru-along with intercity connectivity. To account for spatio-temporal behavour, Min et al. [16] simulated how a disease could spread within a network with different mixing styles, and showed that the average epidemic size and speed depend critically on network parameters. Meyer and Held [17] studied the effect of power-law movements of humans on the disease spread. In addition, there are many epidemic models that are inspired by population growth models [6] . For example, refer to Wu et al. [18] .",
+            "cite_spans": [
+                {
+                    "start": 17,
+                    "end": 21,
+                    "text": "[11]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 39,
+                    "end": 43,
+                    "text": "[12]",
+                    "ref_id": null
+                },
+                {
+                    "start": 129,
+                    "end": 133,
+                    "text": "[13]",
+                    "ref_id": null
+                },
+                {
+                    "start": 247,
+                    "end": 251,
+                    "text": "[14]",
+                    "ref_id": null
+                },
+                {
+                    "start": 343,
+                    "end": 347,
+                    "text": "[15]",
+                    "ref_id": null
+                },
+                {
+                    "start": 575,
+                    "end": 579,
+                    "text": "[16]",
+                    "ref_id": null
+                },
+                {
+                    "start": 772,
+                    "end": 776,
+                    "text": "[17]",
+                    "ref_id": null
+                },
+                {
+                    "start": 942,
+                    "end": 945,
+                    "text": "[6]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 980,
+                    "end": 984,
+                    "text": "[18]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In this letter we report our results based on a comprehensive data analysis of nine major countries-China, USA, Italy, France, Spain, Germany, Iran, South Korea, India-and the world. We chose the above nations because of large numbers of positive cases here. Note however that count for India is on a lower side. For our analysis, we employed the real-time data available at worldOmeter [1] . Similar data set is available at the Corona Resource Center of John Hopkins University [2].",
+            "cite_spans": [
+                {
+                    "start": 387,
+                    "end": 390,
+                    "text": "[1]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We digitized the data up to 27 March 2020 and stud-. CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051680 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "For the COVID-19 epidemic, the semi-logy plots of total infected individuals (I(t)) vs. time (t) (red curves) for USA, Spain, Germany, Iran, France, and India. We also plot\u0130(t) vs. t (blue curves). The black dotted curves represent the best fits using the exponential functions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "ied the temporal evolution of the cumulative count of infected individuals, which is denoted by I(t). We observed that till March 27, I(t) for USA, France, Spain, Germany, Iran, and India exhibit exponential growth, with some nations having two different growth rates. However, China, South Korea, and Italy exhibit two different scaling regimes: power-law growth after an exponential growth. We present the former data in Figure 1 using semi-logy plots with thin red curves, while the latter in Figure 2 using log-log plots with same color convention. In these plots we represent time using dates with month/date; the starting date for each plot is chosen as t = 0. In Table I we present the best fit curves for I(t), along with errors. We have computed the best fit curves using Python's polyfit function, and the error as the relative error between the original data and the fitted data. Figure 2 also contains I(t) for the world, in which the red-colored part is dominated by I(t) from China, and the unfilled region by the new cases from rest of the world. Note that the apparent spike in I(t) for China and the world on 12 February 2020 was due to the change in the procedure adopted for counting the infections (from laboratory to clinically confirmed cases).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 423,
+                    "end": 431,
+                    "text": "Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 496,
+                    "end": 504,
+                    "text": "Figure 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 670,
+                    "end": 677,
+                    "text": "Table I",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 891,
+                    "end": 899,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "For all the I(t) curves, we compute the derivatives\u0130(t)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": ". CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051680 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "FIG. 2. (color online) For the COVID-19 epidemic, the log-log plots of total infected individuals (I(t)) vs. time (t) (red curves) for the world, China, Italy, and South Korea. We also plot\u0130(t) vs. t (blue curves). The x-axis represents days in month/day format. The black dotted curves are the best fit curves using the exponential functions and power laws. In the plot for the world, the red region is dominated by I(t) from China, and the unfilled region by rest of the world. using Python's gradient function and present them in Figs. 1 and 2 using thick blue curves. These derivatives represent the daily count of infected individuals. Our analysis shows that I(t)'s for countries other than China, South Korea, and Italy are going through an exponential growth. That is, I(t) \u223c exp(\u03b2t). In Fig. 1 we illustrate the plots for some of the nations. Interestingly, the I(t) plots for USA, Spain, Germany, Iran, and France require two exponential functions for the fit. For example, Germany's data requires two functions, exp(0.34t) and exp(0.25t), for the fit. Note that the constant \u03b2 varies for different countries, which is because \u03b2 depends on various factors such as immunity level of the population, climate, local policy decisions (lockdown, social distancing), etc.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 796,
+                    "end": 802,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "Larger the \u03b2, larger the growth rate for the infection. Also, the inverse of the constant \u03b2 yields the growth time scale. In fact, in the exponential phase, the number of cases double in time T = (log 2)/\u03b2. For South Korea, \u03b2 = 0.67, hence, T \u2248 0.91 \u2248 1; that is, I(t) for South Korea doubled every day in the early phase (18 February to 23 February). Also, note that for the exponential regime,\u0130 \u2248 \u03b2I.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "As illustrated in Fig. 2 , the plot for China exhibits a transition from initial exponential growth to power law growth (t 2 ), after with it moves towards saturation. In between we encounter a narrow band of linear growth (I(t) \u221d t). China has achieved flattening of the curve, that is, very few new cases of infections have been de-. CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 18,
+                    "end": 24,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051680 doi: medRxiv preprint tected recently. South Korea exhibits all the aforementioned stages, except the last one. For these plots, the linear regime (I(t) \u221d t), though narrow in log scale yet containing significant range of t, is very useful for the forecast because it represents constant number of new daily cases. For example, for South Korea, the linear regime corresponds approximately to 1st March to 10th March that agrees with the data at worldOmeter. Note however that daily new cases show strong fluctuations compared to I(t), which is more reliable for the forecast. In addition, the plot for Italy exhibits a steep power law (\u223c t 4 ), but no linear regime or saturation. Clearly, the power law regime and the subsequent linear regime provide valuable indicators for an approach to the plateau.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "For the power law function I(t) = At n , we derive tha\u1e6b I \u223c I 1\u22121/n . Clearly, this slope is suppressed compared to the exponential regime by a factor of I \u22121/n . Hence, the growth rate for power law regime is relatively slower than that for the exponential regime. From time t 0 , I(t) doubles at t = 2 1/n t 0 . For South Korea, n = 3, hence for t 0 = 10, the count doubles at t = 10 \u00d7 2 1/3 \u2248 12.6 day, or in the interval of 2.6 days. This is a slower doubling rate than that in the exponential phase, which was one day. Note however that the epidemic growth in the power law regime is still very significant because I(t) is large. For large n (e.g., 4 or 5),\u0130 \u223c I, which is same as the formula for the exponential growth. This is the reason why Italy is still some distance away from flattening of the curve. Also note that in the linear regime,\u0130 \u223c constant, implying a constant number new cases every day.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "In Figs. 1 and 2 we plot\u0130(t) using thick blue curves. In the exponential regimes, I(t) and\u0130(t) curves run almost parallel to each other because\u0130 \u2248 \u03b2I. In contrast, in the power law regimes of China and South Korea,\u0130(t) are far from being parallel to I(t), confirming the suppression i\u1e45 I(t) mentioned in the previous paragraph. For Italy,\u0130 exhibits a marginal deviation from the form\u0130 \u223c \u03b2I(t); this is due to the fact that n = 4, which is large.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "We can combine the above ingredients into a comprehensive picture for the epidemic forecast, specially for flattening or saturating the I(t) curve that is prime objective for most affected nations. As illustrated in the schematic diagram of Fig. 3(a) , the I(t) curve follows four stages: exp(\u03b2t), t n , t, and constant. The correspondin\u0121 I(I) vs. I curve is shown in Fig. 3(b) . It is an elementary observation that the I(t) curve transitions from convex (first stage) to concave form (next three stages). Such simple observations of the data reveal insights into the temporal evolution of the epidemic. For example, before flattening of I(t), we look for flattening of the growth rate\u0130(t), which is the third stage. We also remark that some epidemic models generate I(t) profile of Fig. 3(a) by several adjustable parameters. For example, Wu et al. [18] consider a model with\u0130 = rI p (1 \u2212 (I/\u03ba) \u03b1 ), where r, p, \u03ba, \u03b1 are free parameters. Thus, both models and data analysis are useful for the epidemic forecast.",
+            "cite_spans": [
+                {
+                    "start": 851,
+                    "end": 855,
+                    "text": "[18]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 241,
+                    "end": 250,
+                    "text": "Fig. 3(a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 368,
+                    "end": 377,
+                    "text": "Fig. 3(b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 784,
+                    "end": 793,
+                    "text": "Fig. 3(a)",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "In epidemic study, it is customary to present I(t) in I. S1, S2, S3, S4 represent four stages of the epidemic: exponential growth in count (exp(\u03b2t)), power law growth (t n ), linear growth (t), and flat. In stages S2, S3, S4, A(t) < I(t) due to recovery or death. a semi-logy plot. Since At n = A exp(n log t), the power law regime translates to a logarithmic curve in a semilogy plot. Therefore, in a semi-logy plot, I(t) curve of Fig. 3 would exhibit a linear curve and then successive logarithmic curves with different prefactors (n). In Fig. 1 , the semi-logy plots for Germany and France may exhibit such logarithmic region, but it is somewhat early to detect. Thus, the evolution of such logarithmic curves can valuable forecast.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 432,
+                    "end": 438,
+                    "text": "Fig. 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 541,
+                    "end": 547,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "FIG. 1. (color online)"
+        },
+        {
+            "text": "Most of the COVID-19 infected individuals recover, while some unfortunate ones die. Hence, the number of active cases, A(t), is less than I(t) as illustrated by the black curve in Fig. 3(a) . We also remark that the above features of Fig. 3 appear in all epidemic models, though the power law regime is typically shrunk.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 180,
+                    "end": 189,
+                    "text": "Fig. 3(a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 234,
+                    "end": 240,
+                    "text": "Fig. 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "I(t),"
+        },
+        {
+            "text": "Simple analysis shows that the spread of earlier epidemics, such as SARS and EBOLA, did not exhibit power-law growth phase [19, 20] . COVID-19 appears to be a unique epidemic to exhibit a power law regime. We believe that this feature is related to the super spreading of this extremely infectious disease by asymptomatic carriers. As is evident from the data, such carriers have unwittingly traveled far and wide, and formed clusters of infections in the new areas. Modeling such cases is difficult, but it may be reasonable to assume that\u0130 \u223c I \u03b6 with \u03b6 < 1, rather than\u0130 \u223c \u03b2I (see next paragraph). Considering strong similarities between the rumor spreading . CC-BY 4.0 International license It is made available under a author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 123,
+                    "end": 127,
+                    "text": "[19,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 128,
+                    "end": 131,
+                    "text": "20]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "I(t),"
+        },
+        {
+            "text": "is the (which was not peer-reviewed) The copyright holder for this preprint . https://doi.org/10.1101/2020.04.02.20051680 doi: medRxiv preprint and epidemics [6] , the aforementioned long-distance travels and power-law regimes may also play a major role in rumor spreading. Note that the social media and internet provide means for fast transmission of rumor.",
+            "cite_spans": [
+                {
+                    "start": 158,
+                    "end": 161,
+                    "text": "[6]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I(t),"
+        },
+        {
+            "text": "The aforementioned power-law growth of epidemic appears to have similarities with turbulent diffusion or Taylor diffusion, which is faster than molecular diffusion [21] [22] [23] [24] [25] . In turbulent diffusion, the separation between two particles, D(t), increases as t 3/2 , and\u1e0a \u223c D 1/3 . The relative velocity between the particles,\u1e0a, increases with time because larger eddies have larger speeds. This feature has a qualitative resemblance with aforementioned long-distance travels by asymptotic carriers.",
+            "cite_spans": [
+                {
+                    "start": 164,
+                    "end": 168,
+                    "text": "[21]",
+                    "ref_id": null
+                },
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "[22]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 174,
+                    "end": 178,
+                    "text": "[23]",
+                    "ref_id": null
+                },
+                {
+                    "start": 179,
+                    "end": 183,
+                    "text": "[24]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 184,
+                    "end": 188,
+                    "text": "[25]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I(t),"
+        },
+        {
+            "text": "There is possibly another connection of COVID-19 epidemic with turbulence and critical phenomena. In early stages, the epidemic spreads via contacts between infected and susceptible individuals. However, once the epidemic has spread widely, then indirect transmissions-contacts with infected surfaces, public transport, air-begin to play an important role in the epidemic growth. Such transmissions are referred to as community spread or transmission. This is analogous to interactions among clusters of molecules in phase transition, and those among large fluid vortices in turbulence.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "I(t),"
+        },
+        {
+            "text": "Such interactions are responsible for dynamic scaling in phase transition, and for the aforementioned turbulence diffusion [21] [22] [23] [24] [25] [26] [27] . Super spreading of COVID-19 and the power-law regime of I(t) may be connected to the above phenomena. Note however that community spread could also contribute in the exponential growth phase; the two exponential regimes in Fig. 1 may be due to this reason. These issues needs further exploration. Now we summarize our findings. Using the COVID-19 real-time data we report that the count of infected individuals, I(t), in China and South Korea exhibit powerlaw growth before flattening of the curve. We conjecture that the power law growth of I(t) may be due to the epidemic transmission by asymptomatic carriers traveling long distances, and due to community spread. In addition,\u0130(t) \u221d I(t) in the exponential growth regime, but not in the power law regime. Thus, the COVID-19 epidemic data contains valuable insights that may help in forecasting the epidemic spread.",
+            "cite_spans": [
+                {
+                    "start": 123,
+                    "end": 127,
+                    "text": "[21]",
+                    "ref_id": null
+                },
+                {
+                    "start": 128,
+                    "end": 132,
+                    "text": "[22]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 133,
+                    "end": 137,
+                    "text": "[23]",
+                    "ref_id": null
+                },
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "[24]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 143,
+                    "end": 147,
+                    "text": "[25]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 148,
+                    "end": 152,
+                    "text": "[26]",
+                    "ref_id": null
+                },
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[27]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 383,
+                    "end": 389,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "I(t),"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Epidemic Modelling: An Introduction",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Daley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Gani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "medrxiv.org",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Labadin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "doi.org/10.1101/2020.02.07.20021188"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kucharski",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Edmunds",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Funk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Eggo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Infectious Disease Modelling",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Developments in the theory of turbulence",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Leslie",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Physics of Buoyant Flows: From Instabilities to Turbulence",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Verma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Energy trasnfers in Fluid Flows: Multiscale and Spectral Perspectives",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Verma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "online) For COVID-19 epidemic: (a) Schematic plots for the count of infected individuals, I(t), and the count of active cases, A(t), vs. time. (b) Schematic plot of the derivative\u0130 vs.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "The best fit curves along with their relative errors for the COVID-19 data for various countries. The best fit curves are shown inFigs. 1 and 2.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

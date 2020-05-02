@@ -1,0 +1,1443 @@
+{
+    "paper_id": "f16c920736841eabbd63861480e12d70a832f7d8",
+    "metadata": {
+        "title": "Detection and Isolation of Exotic Newcastle Disease Virus from Field-Collected Flies",
+        "authors": [
+            {
+                "first": "Seemanti",
+                "middle": [],
+                "last": "Chakrabarti",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of California",
+                    "location": {
+                        "postCode": "92521",
+                        "settlement": "Riverside",
+                        "region": "CA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Daniel",
+                "middle": [
+                    "J"
+                ],
+                "last": "King",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "USDA\u00d0ARS\u00d0SEPRL",
+                    "location": {
+                        "postCode": "30605",
+                        "settlement": "Athens",
+                        "region": "GA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Claudio",
+                "middle": [],
+                "last": "Afonso",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "USDA\u00d0ARS\u00d0SEPRL",
+                    "location": {
+                        "postCode": "30605",
+                        "settlement": "Athens",
+                        "region": "GA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [],
+                "last": "Swayne",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "USDA\u00d0ARS\u00d0SEPRL",
+                    "location": {
+                        "postCode": "30605",
+                        "settlement": "Athens",
+                        "region": "GA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Carol",
+                "middle": [
+                    "J"
+                ],
+                "last": "Cardona",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of California",
+                    "location": {
+                        "postCode": "95616",
+                        "settlement": "Davis",
+                        "region": "CA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Douglas",
+                "middle": [
+                    "R"
+                ],
+                "last": "Kuney",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of California Cooperative Extension",
+                    "location": {
+                        "postCode": "92521",
+                        "settlement": "Riverside",
+                        "region": "CA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Alec",
+                "middle": [
+                    "C"
+                ],
+                "last": "Gerry",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of California",
+                    "location": {
+                        "postCode": "92521",
+                        "settlement": "Riverside",
+                        "region": "CA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [],
+                "last": "Med",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Entomol",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Flies were collected by sweep net from the vicinity of two small groups of \"backyard\" poultry (10 \u00d020 chickens per group) that had been identi\u00deed as infected with exotic Newcastle disease virus (family Paramyxoviridae, genus avulavirus, ENDV) in Los Angeles County, CA, during the 2002\u00d02003 END outbreak. Collected \u00dfies were subdivided into pools and homogenized in brain-heart infusion broth with antibiotics. The separated supernatant was tested for the presence of ENDV by inoculation into embryonated chicken eggs. Exotic Newcastle disease virus was isolated from pools of Phaenicia cuprina (Wiedemann), Fannia canicularis (L.), and Musca domestica L., and it was identi\u00deed by hemagglutination inhibition with Newcastle disease virus antiserum. Viral concentration in positive pools was low (\u03fd1 egg infectious dose 50 per \u00dfy). Isolated virus demonstrated identical monoclonal antibody binding pro\u00deles as well as 99% sequence homology in the 635-bp fusion gene sequence compared with ENDV recovered from infected commercial egg layer poultry during the 2002 outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "KEY WORDS \u00dfies, Newcastle disease virus, poultry, chickens, mechanical vector Exotic Newcastle disease (END) is a contagious and fatal viral disease affecting the respiratory, nervous, and digestive systems, of poultry and other birds. END is so virulent that many birds may die without ever showing clinical signs of illness. There is a near 100% mortality in unvaccinated poultry, and even poultry vaccinated against the endemic low-virulence Newcastle disease virus strains are not adequately protected against END virus (family Paramyxoviridae, genus avulavirus, ENDV) (USDA\u00d0APHIS 2006) .",
+            "cite_spans": [
+                {
+                    "start": 573,
+                    "end": 590,
+                    "text": "(USDA\u00d0APHIS 2006)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Newcastle disease control in poultry has been ongoing in the United States since the \u00derst infections were identi\u00deed in the early 1940s. Introductions of the more virulent strains of Newcastle disease virus, the cause of END, have occurred, and in most cases, the virus has been quickly eradicated (Utterback and Schwartz 1973) . During two END outbreaks, virus was not quickly eradicated. The \u00derst occurred during 1971\u00d01973, and this outbreak resulted in the quarantine of eight California counties, the destruction of 11.9 million birds, and eradication costs of $56 million (USDA\u00d0APHIS 1978) . The second occurred during 2002\u00d02003, and it resulted in the quarantine of 18,345 premises, the destruction of 3.2 million birds, and eradication efforts cost of $170 million (Breitmeyer et al. 2003) .",
+            "cite_spans": [
+                {
+                    "start": 297,
+                    "end": 326,
+                    "text": "(Utterback and Schwartz 1973)",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 576,
+                    "end": 593,
+                    "text": "(USDA\u00d0APHIS 1978)",
+                    "ref_id": null
+                },
+                {
+                    "start": 771,
+                    "end": 795,
+                    "text": "(Breitmeyer et al. 2003)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "ENDV is primarily spread by direct contact between infected and healthy birds. However, it also can be transmitted indirectly via contaminated equipment and persons Schwartz 1973, Burridge et al. 1975) . During the 1971\u00d01973 California END outbreak, Rogoff et al. (1975) isolated virus from pools of Fannia spp. collected at commercial poultry operations with ENDV infected birds, implicating this species as a possible vector of ENDV.",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 201,
+                    "text": "Schwartz 1973, Burridge et al. 1975)",
+                    "ref_id": null
+                },
+                {
+                    "start": 250,
+                    "end": 270,
+                    "text": "Rogoff et al. (1975)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Many insects, especially \u00dfies, are commonly associated with poultry operations, and they are known to disperse into surrounding areas (Lysyk and Axtell 1986 , Axtell 1999 , Sawabe et al. 2006 . Wet manure is an excellent breeding environment for several \u00dfy species, and it also likely to support the survival of ENDV . Flies are capable of harboring a diverse range of animal and human pathogens (Calibeo-Hayes et al. 2003 , Graczyk et al. 2005 , Sawabe et al. 2006 , and they may be involved in transmission of these pathogens to otherwise healthy hosts (Shane et al. 1985 , Calibeo-Hayes et al. 2003 , Ahmad et al. 2007 ). However, the extent to which insects may be involved in the dispersal and transmission of ENDV to uninfected birds remains unknown.",
+            "cite_spans": [
+                {
+                    "start": 134,
+                    "end": 156,
+                    "text": "(Lysyk and Axtell 1986",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 157,
+                    "end": 170,
+                    "text": ", Axtell 1999",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 171,
+                    "end": 191,
+                    "text": ", Sawabe et al. 2006",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 396,
+                    "end": 422,
+                    "text": "(Calibeo-Hayes et al. 2003",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 423,
+                    "end": 444,
+                    "text": ", Graczyk et al. 2005",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 445,
+                    "end": 465,
+                    "text": ", Sawabe et al. 2006",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 555,
+                    "end": 573,
+                    "text": "(Shane et al. 1985",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 574,
+                    "end": 601,
+                    "text": ", Calibeo-Hayes et al. 2003",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 602,
+                    "end": 621,
+                    "text": ", Ahmad et al. 2007",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In this study, \u00dfy species collected at two private homes with ENDV-infected poultry in Los Angeles County, CA, were examined for the presence of ENDV. Isolated ENDV was characterized by monoclonal antibody binding pro\u00dele and sequence analysis of the fusion gene.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Flies were captured by sweep net from the immediate vicinity of two private homes in Los Angeles Co., southern California. Both locations, one location in the city of Compton (home A), and the other location in Inglewood (home B), contained chicken \u00dfocks (\u03fd20 birds) that had been identi\u00deed by the California Department of Food and Agriculture (CDFA) as having one or more ENDV-infected birds within the preceding 5 d. Flies were collected before poultry were euthanized and removed from the private homes by the END Task Force (a joint United States Department of Agriculture and CDFA organization) responsible for efforts to eradicate END in California. Fly collectors followed all biosecurity precautions recommended by the CDFA while sampling at these homes. Multiple 5-min sweep collections were made at each home, taking care not to touch poultry cages or the ground with the net while sweeping. Sweep net collections continued at each home until \u00dfies were no longer readily captured. Captured insects were killed on dry ice, placed into labeled vials by using sterilized forceps, and held on dry ice until they could be returned to the laboratory to be identi\u00deed and counted. Sweep nets and forceps were sterilized between each 5-min collection by submergence in 10% Lysol (Reckitt Benckiser Inc., Wayne, NJ) after which nets were allowed to dry before reuse.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Flies were kept frozen on dry ice during identi\u00decation in a biological safety cabinet, and then they were pooled into groups of \u00deve or fewer \u00dfies of the same species from the same home. Fly pools were stored at \u03ea80\u040aC until shipment on dry ice to the USDA Southeast Poultry Research Laboratory (SEPRL), in Athens, GA, where they were again placed at \u03ea80\u040aC until tested for the presence of ENDV. Pools were homogenized in 1.5 ml of brain-heart infusion (BHI) broth with antibiotics (200 g of gentamicin/ml, 2000 U of penicillin/ml, and 4 g of amphotericin B/ml, Sigma-Aldrich, St. Louis, MO) by using a tissue grinder with sterile plastic pestles in microfuge tubes and centrifuged at 16,000 \u03eb g for 10 min. Virus isolation was performed by inoculating 100 l of the supernatant into the allantois of each of three 9-or 10-d-old embryonated chicken eggs (ECE). Eggs were incubated at 37\u040aC in a standard humidi\u00deed incubator. The embryonated chicken eggs were obtained from the SEPRL speci\u00dec-pathogen-free White Leghorn \u00dfock. Eggs were candled to determine embryo death each 24 h through 7 d postinoculation. Embryos that died within the \u00derst 24 h were discarded. Embryos that died between 24 h and 7 d as well as all survivors at 7 d were chilled at 4\u040aC. Amnio-allantoic \u00dfuid (AAF) harvested from chilled eggs was tested for hemagglutination (HA) activity to detect ENDV. Virus presence in HApositive samples was con\u00dermed by hemagglutinationinhibition (HI) with Newcastle disease virus (family Paramyxoviridae, genus Avulavirus, NDV)-speci\u00dec antiserum (King 1996a) . Amnio-allantoic \u00dfuids from HA negative dead embryos and embryos alive at 7 d postinoculation were subjected to a second serial pas-sage by inoculation of 100 l of the AAF into each of three additional embryonated chicken eggs. Eggs were candled, and killed embryos were handled as before. If by day 7 postinoculation there was no HA activity in the AAF of the second passage dead or surviving embryos, the specimen was regarded as negative for ENDV.",
+            "cite_spans": [
+                {
+                    "start": 1548,
+                    "end": 1560,
+                    "text": "(King 1996a)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "A monoclonal antibody pro\u00dele was determined for each isolated ENDV using nine monoclonal antibodies (mAbs) with different Newcastle disease virus HI speci\u00decities by using previously described methods (King 1996a , Kommers et al. 2001 . The mAbs included 15C4, AVS, B79, 161/167, P11C9, P3A11, 10D11, P15D7, and P10B8 (Kommers et al. 2003) .",
+            "cite_spans": [
+                {
+                    "start": 200,
+                    "end": 211,
+                    "text": "(King 1996a",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 212,
+                    "end": 233,
+                    "text": ", Kommers et al. 2001",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 317,
+                    "end": 338,
+                    "text": "(Kommers et al. 2003)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "RNA was extracted from AAF by using TRIzol LS according to manufacturer\u00d5s instructions (Invitrogen, Carlsbad, CA); 750 l of TRIzol LS reagent was added to 250 l of allantoic \u00dfuid. The \u00dfuid was vortexed and incubated at room temperature for 7 min. RNA was separated into the aqueous phase with the addition of 200 l of chloroform, followed by precipitation with isopropanol. After one wash with 70% ethanol, RNA was dried and resuspended in RNase-free water. The 5\u0408 end of the ENDV fusion gene was ampli\u00deed by polymerase chain reaction (PCR) and sequenced using primers targeting a 635-bp fragment that included the fusion protein cleavage site (forward primer, 5\u0408-GAG GTT ACC TCY ACY AAG CTR GAG A-3\u0408; reverse primer, 5\u0408-TCA TTA ACA AAY TGC TGC ATC TTC CCW AC-3\u0408). These primers amplify the NDV genomic region between positions 4317 and 5084. Standard 50 l reverse transcription (RT)-PCR reactions were carried out using a kit (SuperScript III One Step RT-PCR, Invitrogen) with annealing temperature at 56\u040aC. PCR-ampli\u00deed samples were separated on a 1% agarose gel, and the bands were excised and eluted using the QuickClean 5M gel extraction kit (GenScript Corp., Piscataway, NJ). Once the PCR products were cleaned, samples were quanti\u00deed using a standard spectrophotomer and sequenced. All double-stranded nucleotide-sequencing reactions were performed with \u00dfuorescent dideoxynucleotide terminators in an automated sequencer (ABI 3700 automated sequencer, Applied Biosystems, Foster City, CA). Nucleotide sequence editing and analysis were conducted with the LaserGene sequence analysis software package (LaserGene, version 5.07, DNAStar, Inc., Madison, WI). The virus was sequenced and compared by Blast analysis (Altschul et al. 1990 ) to an END viral sequence [chicken/U.S.(AZ)/236498/03] obtained from commercial poultry infected with ENDV during the 2002 outbreak. It also was compared with other available GenBank ENDV sequences. Genomic sequences from viruses recovered from \u00dfies at each collection site were deposited in GenBank (accession nos. EF424375 and EF424376).",
+            "cite_spans": [
+                {
+                    "start": 1717,
+                    "end": 1738,
+                    "text": "(Altschul et al. 1990",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Materials and Methods"
+        },
+        {
+            "text": "Overall, 87 \u00dfies composing nine species were collected from the area surrounding the two private homes housing ENDV-infected birds ( ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Although all \u00dfy species were collected in small numbers, ENDV was isolated from the three most abundant species collected during this study. This is the \u00derst report of ENDV isolated from \u00deeld-collected P. cuprina and M. domestica; ENDV had previously been isolated from F. canicularis and Fannia femoralis (Stein) from a commercial poultry operation during the 1971 END outbreak (Rogoff et al. 1975) . Given the small numbers of \u00dfies collected, the prevalence of ENDV-infected \u00dfies was high with \u03f730% of the pools containing the three species mentioned above having one or more \u00dfies per pool infected with virus. The virus prevalence in Fannia spp. collected from commercial poultry operations during the 1971 END outbreak was far lower with only two of 78 pools of Fannia spp. (3,926 total \u00dfies) collected before or within 2 d of poultry removal containing ENDV, and no virus was recovered from other common \u00dfy species (Rogoff et al. 1975) . It is unclear to what extent Rogoff et al. (1975) may have collected \u00dfies from poultry facilities where poultry or even manure had already been removed from the site, perhaps resulting in the much lower ENDV infection prevalence in \u00dfies relative to this study. The higher ENDV prevalence in this study also may be due to differences between commercial poultry and backyard poultry in animal housing, manure handling, or vaccination status of the poultry against Newcastle disease virus. Backyard poultry are often housed together on the ground or in wooden boxes, giving them greater access to an infected bird and its manure relative to commercial egg-layer poultry that are separated into cages suspended above the ground where the manure is allowed to accumulate. Additionally, backyard poultry are usually not vaccinated against Newcastle disease virus and infected ",
+            "cite_spans": [
+                {
+                    "start": 379,
+                    "end": 399,
+                    "text": "(Rogoff et al. 1975)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 920,
+                    "end": 940,
+                    "text": "(Rogoff et al. 1975)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 972,
+                    "end": 992,
+                    "text": "Rogoff et al. (1975)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Antibody-inhibited HA (\u03e9); no HA inhibition (\u03ea). 15C4 inhibits all NDV but pigeon PMV-1. AVS inhibits lentogenic strains like the B1 and LaSota ND vaccine virus. B79 inhibits most NDV including most pigeon PMV-1. 161/617 inhibits only pigeon PMV-1. P11C9, P3A11, P15D7, and P10B8 inhibit various NDV strains. 10D11 inhibits neurotropic NDV mesogens and velogens such as virulent Texas GB. CK/CA/12430/02 is an ENDV strain recovered from commercial poultry during the 2002\u00d02003 outbreak in California. CK/US/B1/48 is a strain widely used as a Newcastle disease vaccine in the United States. The antibody inhibition pro\u00dele of the viruses tested indicates the ENDV isolates from three \u00dfy species at premises A and B are antigenically similar as well as being similar to the CK/CA/12430/02 ENDV isolate from chickens but are different than the vaccine strain B1. birds would be expected to shed a greater concentration of ENDV in their manure relative to vaccinated commercial poultry (Kapczynski and King 2005) .",
+            "cite_spans": [
+                {
+                    "start": 981,
+                    "end": 1007,
+                    "text": "(Kapczynski and King 2005)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The mAb pro\u00dele and sequence analysis of the virus recovered from each of the \u00dfy pools indicated that these viruses were the same ENDV strain circulating in commercial and backyard poultry during this same period. Viruses recovered during 2002\u00d02003 were genotypically different from viruses recovered during the earlier 1971\u00d01973 ENDV outbreak (genotypes V and VI, respectively) (Czegledi et al. 2006 ) with virus isolates from the 2002\u00d02003 ENDV outbreak being most similar to ENDV isolated from chickens in Mexico during 1998 \u00d02000 (Pedersen et al. 2004) .",
+            "cite_spans": [
+                {
+                    "start": 378,
+                    "end": 399,
+                    "text": "(Czegledi et al. 2006",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 533,
+                    "end": 555,
+                    "text": "(Pedersen et al. 2004)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Flies are thus contacting infectious ENDV in the environment and are capable of harboring at least low levels of this virus. The ENDV infective dose for a chicken is reported to range from \u03f710 3.0 (King 1996b) to 10 4.0 EID 50 (Alexander et al. 2006) , far greater than the \u03fd1 EID 50 per \u00dfy found in our \u00deeld-collected \u00dfy pools. However, given the small number of \u00dfies collected, it would be premature to assume \u00dfies are not capable of carrying substantially higher viral loads. It is entirely possible that these \u00dfies had contacted a source of ENDV several days before our sampling and the low viral load represented residual virus still associated with the \u00dfies at the time of their capture.",
+            "cite_spans": [
+                {
+                    "start": 197,
+                    "end": 209,
+                    "text": "(King 1996b)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 227,
+                    "end": 250,
+                    "text": "(Alexander et al. 2006)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The mechanism by which the \u00dfies might be acquiring virus has not been determined. It has been shown that ENDV-infected poultry shed a considerable amount of virus in their feces (Kapczynski and King 2005) and that virus can persist in the manure for up to 16 d . Wet manure provides an excellent developmental environment for several \u00dfy species as well as a substrate on which adult \u00dfies feed. Manure also provides an excellent media for maintaining and transmitting infectious agents to \u00dfies as the viscosity of the manure enhances manure attachment to \u00dfy tarsi and cuticular bristles (Tan et al. 1997 ). In addition, \u00dfies feeding on bacteria in the manure would be expected to consume some amount of the infectious agent. Further studies are needed to determine whether ENDV is associated with these \u00dfy species simply as an external contaminant or if the virus is protected or even ampli\u00deed within the gut or other tissues of the \u00dfy. Shane et al. (1985) demonstrated the potential for house \u00dfies to transmit pathogens by placing \u00dfies into cages with Campylobacter jejuni-infected chickens and subsequently moving the \u00dfies to cages with pathogen-free chickens, resulting in C. jejuni infection in the previously uninfected chickens. Similarly, turkey poults housed in isolation units became infected with turkey corona virus (family Coronaviridae, genus Coronavirus, TCV) when house \u00dfies orally inoculated with TCV were released into the isolation units for 24 h (Calibeo-Hayes et al. 2003) , and cattle held in con\u00dened pens became infected with Escherichia coli O157:H7 after house \u00dfies orally inoculated with the bacteria were released into the pens for 48 h (Ahmad et al. 2007 ). However, the actual mechanism of bacterial transmission from the \u00dfies to the chickens or cattle in the studies mentioned above remains unknown.",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 204,
+                    "text": "(Kapczynski and King 2005)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 586,
+                    "end": 602,
+                    "text": "(Tan et al. 1997",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 936,
+                    "end": 955,
+                    "text": "Shane et al. (1985)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1464,
+                    "end": 1491,
+                    "text": "(Calibeo-Hayes et al. 2003)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1662,
+                    "end": 1680,
+                    "text": "(Ahmad et al. 2007",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Poultry are known to consume adult \u00dfies in laboratory studies (Calibeo-Hayes et al. 2003) as well as in the \u00deeld (A.C.G., unpublished observation). Additionally, \u00dfies may regurgitate and defecate virus while feeding or resting on the surface of foods (Greenberg 1973) . It is possible that chickens and other birds can consume virus with recently infected \u00dfies or contaminated \u00dfy feces and regurgitated matter (Sawabe et al. 2006 ). The consumption of many adult \u00dfies in a short period might result in infection even if the viral load of each individual \u00dfy is lower than the required infectious dose.",
+            "cite_spans": [
+                {
+                    "start": 62,
+                    "end": 89,
+                    "text": "(Calibeo-Hayes et al. 2003)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 251,
+                    "end": 267,
+                    "text": "(Greenberg 1973)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 410,
+                    "end": 429,
+                    "text": "(Sawabe et al. 2006",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Fly larvae developing in infected manure also might serve as a source of infection when consumed by poultry having access to the manure (typical of backyard poultry and some commercial poultry), although this has not been evaluated. Additional studies are required to evaluate the vector competence of \u00dfies and other poultry associated arthropods.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Dispersal of infectious virus by \u00dfies moving from premises with infected poultry to nearby premises with uninfected poultry is an important biosecurity concern for END and other avian diseases. Greenberg (1973) reported that house \u00dfies were capable of \u00dfights ranging from 2.3 to 11.8 km within 24 h. Although \u00dfy involvement in virus movement between commercial poultry facilities is probably minor relative to other means of virus movement (e.g., on personnel, shared equipment, or manure hauling vehicles), \u00dfy involvement in virus movement among poultry houses at a single commercial facility or among backyard poultry may be signi\u00decant given the short distances \u00dfies would need to move between infected and uninfected poultry. Backyard poultry are geographically clumped in southern California with small numbers of poultry at many adjacent homes and only a few meters often separating poultry at one home from the next. During the 2002\u00d02003 END outbreak, homes with ENDVinfected poultry were often very close to each other, forming a cluster that was distinct within the somewhat larger geographic clumping of backyard poultry (C.J.C., unpublished data). In addition to \u00dfy dispersal, movement of birds or personnel between these clustered homes also may have occurred.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 210,
+                    "text": "Greenberg (1973)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Although this study has not shown \u00dfies to be competent vectors of ENDV, a conservative approach would indicate that biosecurity measures should include \u00dfy control on and near premises with ENDinfected poultry as also suggested by Bram et al. (1974) . Fly control measures would be especially important for a quarantined poultry facility (to include backyard \u00dfocks) before removal of birds and their manure by a state and/or federal task force as part of the disease eradication effort. Removal of birds and manure would be expected to encourage \u00dfy dispersal into the surrounding area. It is recommended that future END task force organizations consider the use of insecticides providing rapid knockdown of adult \u00dfies immediately before initiating eradication efforts at commercial and backyard poultry facilities and that control measures continue throughout the period of manure removal and site disinfection.",
+            "cite_spans": [
+                {
+                    "start": 230,
+                    "end": 248,
+                    "text": "Bram et al. (1974)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Transmission of Escherichia coli O157:H7 to cattle by house \u00dfies",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahmad",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Nagaraja",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zurek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Prev. Vet. Med",
+            "volume": "80",
+            "issn": "",
+            "pages": "74--81",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Newcastle disease virus (strain Herts 33/56) in tissues and organs of chickens infected experimentally",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Manvell",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Parsons",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Avian Pathol",
+            "volume": "35",
+            "issn": "",
+            "pages": "99--101",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Basic local alignment search tool",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Altschul",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Gish",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lipman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "J. Mol. Biol",
+            "volume": "215",
+            "issn": "",
+            "pages": "403--410",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Poultry integrated pest management: status and future",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Axtell",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Integr. Pest Manage. Rev",
+            "volume": "3",
+            "issn": "",
+            "pages": "53--73",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Fly control in support of the exotic newcastle disease eradication program in southern California",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bram",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Sardesai",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Bull. Entomol. Soc. Am",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "California experience with Exotic newcastle disease: a state and federal regulatory perspective",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Breitmeyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Whiteford",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Shere",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proceedings of the 107th Annual Meeting of the United States Animal Health Association",
+            "volume": "",
+            "issn": "",
+            "pages": "65--70",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Methods of spread of velogenic viscerotropic newcastle disease virus in the southern Californian epidemic of 1971\u00d01973",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Burridge",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Riemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Utterback",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "Avian Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "666--678",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Mechanical transmission of turkey coronavirus by domestic house\u00dfies (Musca domestica Linnaeaus)",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Calibeo-Hayes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Denning",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stringham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Guy",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Dis",
+            "volume": "47",
+            "issn": "",
+            "pages": "149--153",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Third genome size category of avian paramyxovirus serotype 1 (Newcastle disease virus) and evolutionary implications",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Czegledi",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ujvari",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Somogyi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wehmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Werner",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lomniczi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res",
+            "volume": "120",
+            "issn": "",
+            "pages": "36--48",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Mechanical transmission of human protozoan parasites by insects",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Graczyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Knight",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Tamang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin. Microbiol. Rev",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Flies and disease",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Greenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Protection of chickens against overt clinical disease and determination of viral shedding following vaccination with commercially available Newcastle disease virus vaccines upon challenge with highly virulent virus from the California 2002 exotic Newcastle disease outbreak",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kapczynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Vaccine",
+            "volume": "23",
+            "issn": "",
+            "pages": "3424--3433",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Survival of exotic Newcastle disease virus in commercial poultry environment following removal of infected chickens",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kinde",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Utterback",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Takeshita",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mcfarland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Avian Dis",
+            "volume": "48",
+            "issn": "",
+            "pages": "669--674",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Avian paramyxovirus type 1 from pigeons: isolate characterization and pathogenicity after chicken or embryo passage of selected isolates",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Avian Dis",
+            "volume": "40",
+            "issn": "",
+            "pages": "707--714",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "In\u00dfuence of chicken breed on pathogenicity evaluation of velogenic neurotropic newcastle disease virus isolates from cormorants and turkeys",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Avian Dis",
+            "volume": "40",
+            "issn": "",
+            "pages": "210--217",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Virulence of pigeon-origin Newcastle disease virus isolates for domestic chickens",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kommers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Seal",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Avian Dis",
+            "volume": "45",
+            "issn": "",
+            "pages": "906--921",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Virulence of six heterogeneous-origin Newcastle disease virus isolates before and after sequential passages in domestic chickens",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kommers",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Seal",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Avian Pathol",
+            "volume": "32",
+            "issn": "",
+            "pages": "81--93",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Movement and distribution of house \u00dfies (Diptera: Muscidae) between habitats in two livestock farms",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lysyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "J. Econ. Entomol",
+            "volume": "79",
+            "issn": "",
+            "pages": "993--998",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Phylogenetic relationships among virulent Newcastle disease virus isolates from the 2002\u00d02003 outbreak in California and other recent outbreaks in North America",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Pedersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Senne",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Woolcock",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kinde",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wise",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Panigrahy",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Seal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J. Clin. Microbiol",
+            "volume": "42",
+            "issn": "",
+            "pages": "2329--2334",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Transmission of Newcastle disease virus by insects: detection in wild Fannia spp. (Diptera: Muscidae)",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rogoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Carbrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bram",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gretz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1975,
+            "venue": "J. Med. Entomol",
+            "volume": "12",
+            "issn": "",
+            "pages": "225--227",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Detection and isolation of highly pathogenic H5N1 avian in\u00dfuenza A viruses from blow \u00dfies collected in the vicinity of an infected poultry farm in Kyoto",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sawabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hoshino",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Isawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Sasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tsuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kurahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tanabayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hotta",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Saito",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am. J. Trop. Med. Hyg",
+            "volume": "75",
+            "issn": "",
+            "pages": "327--332",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Transmission of Campylobacter jejuni by the House\u00dfy (Musca domestica)",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Shane",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Montrose",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Harrington",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Avian Dis",
+            "volume": "29",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Mechanical transport of rotavirus by the legs and wings of Musca domestica (Diptera: Muscidae)",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yap",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "J. Med. Entomol",
+            "volume": "34",
+            "issn": "",
+            "pages": "1--83",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Epizootiology of velogenic viscerotropic Newcastle disease in southern California, 1971\u00d01973",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Utterback",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "J. Am. Vet. Med. Assoc",
+            "volume": "163",
+            "issn": "",
+            "pages": "1080--1088",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": ") of the virus isolated from each of the \u00dfy pools was identical to an ENDV strain obtained from infected commercial egglayer poultry during the 2002\u00d02003 END outbreak [chicken/U.S.(CA)/12430/02] and different than the pro\u00dele of the heterologous NDV B1 strain included as a control. The NDV B1 strain is commonly used as a live virus vaccine in commercial poultry. The partial sequence of the fusion gene of the virus isolated from the \u00dfies showed 99% homology (634/635 bp) to a 2002\u00d02003 ENDV isolate [chicken/U.S.(AZ)/236498/ 03] and 87% homology (552/635 bp) to a 1971\u00d01973 ENDV isolate [chicken/U.S.(CA)/1083(Fontana)/ 72], both obtained from commercial egg-layer poultry during ENDV outbreaks. At the amino acid level, the partial sequence of the \u00dfy isolate was 100% identical to the 2002\u00d02003 outbreak strain and 92% identical to the 1971\u00d01973 outbreak strain. Viruses recovered from \u00dfies at both collection sites were 100% identical to each other.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Detection of ENDV from flies collected at two homes (A and B) in Los Angeles County with ENDV-infected poultry during 2002-2003 ENDV outbreak",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank Diane Zhang for \u00dfy colony maintenance and Timothy Olivier and Dawn Williams-Coplin for help in conducting the experiments. This study was funded by USDA\u00d0 CSREES grant 2003-34439-13366 (\"Exotic Pests and Diseases\") managed by the UCANR Statewide IPM Program and awarded to A.C.G. and C.J.C.; and USDA\u00d0ARS CRIS project 6612-32000-049-00D.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

@@ -1,0 +1,956 @@
+{
+    "paper_id": "daadcc35366baeaca399b1ae1e06702e9c3aae1e",
+    "metadata": {
+        "title": "High-Dose Intravenous Immunoglobulin as a Therapeutic Option for Deteriorating Patients With Coronavirus Disease 2019",
+        "authors": [
+            {
+                "first": "Taisheng",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Cao",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xiaosheng",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "China,"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tao",
+                "middle": [],
+                "last": "Bai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jin Yin-tan Hospital",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hongwei",
+                "middle": [],
+                "last": "Fan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ke",
+                "middle": [],
+                "last": "Hong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jin Yin-tan Hospital",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hui",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jin Yin-tan Hospital",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yang",
+                "middle": [],
+                "last": "Han",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ling",
+                "middle": [],
+                "last": "Lin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lianguo",
+                "middle": [],
+                "last": "Ruan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Jin Yin-tan Hospital",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The outbreak of pneumonia of unknown cause that first occurred in Wuhan, China, in December 2019, has recently been assessed by the World Health Organization (WHO) as a pandemic. The pneumonia is caused by a novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, previously known as 2019-nCoV), and the disease it caused was later designated coronavirus disease 2019 (COVID-19) by the WHO. As of March 12, 2020, a total of 80 981 cases had been reported in China, including 3173 reported deaths. Meanwhile, the number of confirmed patients continues to grow outside of China, and 45 309 cases have already been reported [1] . The relatively high infectivity, rapid progression of lung involvement, and lack of definite effective treatment make it urgent to develop efficient measures of management based on the pathogenesis of COVID-19. Although many empirical therapeutic options have been introduced on several operational recommendations, including existing and new generation of antivirals, steroids, and traditional Chinese medicine, the optimal strategy for severe COVID-19 remains unclear.",
+            "cite_spans": [
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The clinical spectrum of SARS-CoV-2 infection is quite wide and includes asymptomatic infection and mild type, with only upper respiratory tract illness, common type with pulmonary infiltrations, severe type with respiratory distress, and critically ill patients needing intubation or intensive care [2] . Clinical features of those with pneumonia include fever and cough, and in many cases a sudden and accelerating respiratory distress originated from interstitial pneumonia. In those who rapidly progressed to critical conditions, reduced peripheral lymphocyte counts and elevated inflammatory factors were observed, indicating an overwhelming immune response [3, 4] . Previous experiences with SARS showed that the main pathogenesis of organ dysfunction lay in the overall cytokine dysregulation. Similarly, the point when status deterioration starts in patients with COVID-19 should be a critical window of opportunity for intervention. Here we report on 3 patients with COVID-19 who received high-dose intravenous immunoglobulin (IVIg) at the time of initiation of respiratory distress, with satisfactory clinical and radiographic recovery.",
+            "cite_spans": [
+                {
+                    "start": 300,
+                    "end": 303,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 663,
+                    "end": 666,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 667,
+                    "end": 669,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "On January 22, 2020, a 56-year-old man was admitted to Jin Yintan Hospital, Wuhan, China. Patient had had a sore throat since January 19 and reported fever for 2 days before admission, with the highest temperature at 38.2\u00baC. He was given oseltamivir and azithromycin by a local clinic to empirically cover communityacquired respiratory pathogens, without any improvement. On January 21, he came to the Emergency Department of Jin Yintan Hospital, and a computed tomography (CT) scan was done showing scattered interstitial patches and pleural thickening on the right side ( Figure 1A ). Oropharyngeal swab was positive for SARS-CoV-2 by real-time reverse transcription polymerase chain reaction (rRT-PCR) assay. He was previously generally healthy and denied any exposure or direct contact with the Huanan seafood market.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 574,
+                    "end": 583,
+                    "text": "Figure 1A",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Patient 1"
+        },
+        {
+            "text": "On admission, he was afebrile, with blood pressure 125/80 mmHg, pulse 86 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 96% when breathing ambient air. Both lungs were clear on auscultation, and the remainder of the examination was unremarkable. Laboratory results reflected a significant lymphocytopenia with a lymphocyte count of 0.48 (1.1-3.2) \u00d710 9 /L. His inflammatory markers were elevated, with an erythrocyte sedimentation rate (ESR) 49 (0-15) mm/h and high-sensitive C-reactive protein (hsCRP) 2 BRIEF REPORT \u2022 ofid \u2022 3 of 57.8 (0-5) mg/L. Liver function and renal function were within the normal range ( Table 1 ). Detection of antigens was negative for influenza A and B, as well as for H7 subtype avian influenza virus.",
+            "cite_spans": [
+                {
+                    "start": 536,
+                    "end": 537,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 647,
+                    "end": 654,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Patient 1"
+        },
+        {
+            "text": "The patient was diagnosed with COVID-19, common type. Supportive care and empirical moxifloxacin were given, with close monitoring of clinical status. He had intermittent fever, but his vital signs remained largely stable until January 26, when cough and shortness of breath developed. His oxygen saturation decreased to 91% when breathing ambient air, and his hsCRP further elevated to 106.2 mg/L. A CT scan on January 29 showed progressing infiltrations bilaterally compared with the scan from January 21 ( Figure 1A ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 509,
+                    "end": 518,
+                    "text": "Figure 1A",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Patient 1"
+        },
+        {
+            "text": "The diagnosis was modified to COVID-19, severe type. Highdose IVIg was started on January 28 (hospital day 7) at 25 g/d for 5 days (body weight 66 kg). Moxifloxacin was continued until February 2. On the same day after IVIg infusion, the patient became afebrile. No adverse event was reported. Over the next few days, his clinical status gradually improved. The supplemental oxygen was discontinued, and his oxygen saturation level returned to 97%-98% on February 3 when breathing ambient air. Test results on February 5 showed recovered lymphocyte count to 1.6 \u00d710 9 /L. The ESR decreased to 31 mm/h, and hsCRP returned to normal range. The CT scan showed partial resolution of previous lesions ( Figure 1A ). Two consecutive oropharyngeal swabs on February 2 and 3 were both negative for 2019-nCoV. The patient was discharged on February 5.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 698,
+                    "end": 707,
+                    "text": "Figure 1A",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Patient 1"
+        },
+        {
+            "text": "A 34-year-old man presented with fever and dry cough for 10 days and was admitted on January 29, 2020, to Jin Yin-tan Hospital. The patient reported fever up to 38.5\u00baC with dry cough. On January 28, he began to feel short of breath and came to a local hospital. An oropharyngeal swab was confirmed positive for SARS-CoV-2, and the patient was transferred to Jin Yin-tan Hospital the next day. He had a 2-year history of hypertension that was well controlled by valsartan and felodipine and denied any exposure or direct contact with the seafood market.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PATIENT 2"
+        },
+        {
+            "text": "Physical examination showed a body temperature of 37.5\u00b0C, blood pressure 138/90 mmHg, pulse 86 beats per minute, respiratory rate 26 breaths per minute, and oxygen saturation was 90% when breathing ambient air. Laboratory results on admission reflected mild thrombocytopenia at 97 (120-350) \u00d710 9 /L and moderately elevated inflammation markers including ESR 58 mm/h and hsCRP 82 mg/L. The level of creatine kinase was elevated at 1081 (50-310) U/L, and myoglobin was mildly increased to 153.8 (0-146.9) ng/mL (Table 1) . IgM tests for respiratory pathogens were negative for influenza A and B, parainfluenza, respiratory syncytial virus (RSV), adenovirus, mumps virus, and microvirus B19. A CT scan on January 30 indicated bilateral infiltrations and opacities that were more prominent on the right side ( Figure 1B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 510,
+                    "end": 519,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 807,
+                    "end": 817,
+                    "text": "Figure 1B)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PATIENT 2"
+        },
+        {
+            "text": "The patient was diagnosed with COVID-19, severe type. IVIg was administered immediately at a dose of 25 g/d for 5 days (body weight 63 kg). The patient became afebrile on the second day of IVIg treatment, with a gradual improvement of breathing difficulty. CT scan was repeated on February 3, showing prominent absorption compared with the scan from January 30 ( Figure 1B) . The nasal PCR testing turned negative for SARS-CoV-2 on February 3, and he was discharged on February 5.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 363,
+                    "end": 373,
+                    "text": "Figure 1B)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PATIENT 2"
+        },
+        {
+            "text": "A 35-year-old woman was admitted to Jin Yin-tan Hospital on January 24, 2020. She reported malaise and low-grade fever (maximal 37.3\u00baC) with mild coughing since January 19. A CT scan from local hospital showed mild ground-glass opacities. Her nasopharyngeal swab was positive for SARS-CoV-2, and oral lopinavir/ritonavir was prescribed with close monitoring. The patient developed high-degree fever around 39\u00baC on January 22 but had no obvious shortness of breath and got admitted on January 24. She was previously generally healthy, but reported close contact with her colleague who had been diagnosed with COVID-19 a few days before.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PATIENT 3"
+        },
+        {
+            "text": "On admission, she was afebrile, with blood pressure 105/68 mmHg, pulse 91 beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 98% when breathing ambient air. Her lungs were clear to auscultation. Laboratory studies revealed mild lymphocytopenia with a lymphocyte count of 0.85 \u00d710 9 /L and slightly elevated hsCRP at 41.4 mg/L ( Table 1) . IgM tests for respiratory pathogens were negative for influenza A and B, parainfluenza, RSV, adenovirus, mumps virus, and microvirus B19. A chest CT scan on January 24 showed multiple ground-glass opacities and infiltrations bilaterally that were more advanced than those on the scan from January 20 ( Figure 1C ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 357,
+                    "end": 365,
+                    "text": "Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 670,
+                    "end": 679,
+                    "text": "Figure 1C",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PATIENT 3"
+        },
+        {
+            "text": "Lopinavir/ritonavir was continued to complete the 2-week course. The patient's temperature was between 37.5\u00baC and 38.5\u00baC. On January 29, she developed shortness of breath, and her oxygen saturation decreased to 92% when breathing ambient air. Prominent deterioration was also noticed on a chest CT, accompanied by further reduction of lymphocyte counts to 0.6 \u00d710 9 /L and elevation of hsCRP to 69.5 mg/L ( Figure 1C ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 407,
+                    "end": 416,
+                    "text": "Figure 1C",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PATIENT 3"
+        },
+        {
+            "text": "Her clinical diagnosis grading was modified from common to severe type, and IVIg was administered beginning from January 29 at 25 g/d for 5 days (body weight 56 kg). Meanwhile, methylprednisolone 40 mg/d was given for 3 days. Fever subsided after the first day of enhanced treatment. Her symptoms improved significantly 2 days later, when her oxygen saturation returned to 98% when breathing ambient air. Negative PCR testing for SARS-CoV-2 was confirmed on February 2 and 3. Chest CT scan revealed radiographic resolution ( Figure 1C) . She was discharged on February 9. The value in the patient was above normal.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 525,
+                    "end": 535,
+                    "text": "Figure 1C)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "PATIENT 3"
+        },
+        {
+            "text": "BRIEF REPORT \u2022 ofid \u2022 5",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PATIENT 3"
+        },
+        {
+            "text": "Although confirmed cases of COVID-19 have rapidly accumulated during the past 2 months, our understanding of the clinical spectrum and pathophysiological changes of this infection still remains very limited. Nevertheless, no definite treatment has been identified, which makes clinical management extremely difficult. Here we report a case series of patients with COVID-19, all of whom were successfully treated by high-dose IVIg at the early stage of clinical deterioration. Based on these observations, a high dose of IVIg administered at the appropriate point could successfully block the progression of the disease cascade and improve the outcome of COVID-19. The natural history of SARS-CoV-2 infection does not resemble that of any of the previously known coronaviruses. To date, we have noticed quite a wide clinical spectrum of SARS-CoV-2 infection, including asymptomatic infection, mild upper respiratory tract illness, and pulmonary infiltrations. A large proportion of reported symptomatic cases, including our patients and many others, followed a similar track of progression. The infection often started with mild or moderate unspecific symptoms, including but not limited to low-grade fever, sore throat, coughing, fatigue, and malaise, similar to the symptoms of a common cold. The initial symptoms would abate or persist for around 3-7 days, when high-grade fever developed and respiratory distress became quite prominent. Some of these patients would also have gastrointestinal symptoms during this period. However, if we look at the CT series shown here, which were quite typical of most COVID-19 patients, we would have a very strong impression that most of the lesions started from the periphery, especially the subpleural region when acute respiratory distress syndrome (ARDS) developed [5] . These features indicated a hematogenous or lymphatic distribution or spreading of pathogenic factors rather than direct inspiration.",
+            "cite_spans": [
+                {
+                    "start": 1809,
+                    "end": 1812,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Based on these observations, we deduced that symptomatic COVID-19 mainly consists of 3 phases, including a starting phase, spanning the acquisition of the virus and subsequent viremia; and in many but not all patients an accelerating phase, when virus-induced secondary damage of targeting organs and tissue occurs, including the lungs, the heart, the gastrointestinal tract, and even an overall inflammatory storm. The third phase is the final recovery phase. This was demonstrated by not only the clinical features but also the laboratory dynamics, including progressive lymphocytopenia and elevated inflammation markers at the time of acceleration. Therefore, strategies against COVID-19 should also be specified according to the course of infection. The best timing of antivirals, if any are used, may lie in the phase before acceleration. When clinical deterioration begins, the first few days of deterioration may present a critical point when potent suppression of the inflammatory cascade could save the patients from fatal immune-mediated injuries, as shown here. Moreover, from the experiences of our patients, if the acceleration of the disease could be stopped, it seemed to work well even if no effective antiviral drugs were given.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "As a result, high-dose IVIg at 0.3-0.5 g per kg weight per day for five days was used in our patients as a potent and safe immune modulator. The dose of IVIg was determined based on well-established practice in immune modulation therapy for other diseases, including neuromuscular disorders, autoimmune thrombocytopenic purpura, etc. [6, 7] , with a consideration of potential cardiac or renal impairment in severe COVID-19 patients. None of the 3 patients reported any adverse events. All patients were clinically improved shortly after the administration, with their temperature back to normal in 1-2 days and breathing difficulties alleviating in 3-5 days. Confounding factors did exist, including the use of different antivirals in 2 of the 3 patients at various time points and a short course of steroids in patient 3. Moreover, in patient 2, valsartan, an angiotensin receptor 1 blocker (AT1R), had been used for treating hypertension. As angiotensin-converting enzyme 2 (ACE2) has been identified as the major receptor-binding domain of SARS-CoV-2 [8, 9] , there has been a hypothesis that higher expression of ACE2 after being chronically medicated with AT1R may protect SARS-CoV-2-infected patients against acute lung injury rather than putting them at higher risk, though this currently remains unproven [10] . Nevertheless, from the timeline and patterns of disease course in these 3 patients, it is most probable that high-dose IVIg played the leading role in their recovery.",
+            "cite_spans": [
+                {
+                    "start": 334,
+                    "end": 337,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 338,
+                    "end": 340,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1055,
+                    "end": 1058,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1059,
+                    "end": 1061,
+                    "text": "9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1314,
+                    "end": 1318,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "IVIg is a blood product containing polyclonal immunoglobulin G isolated and pooled from healthy donors, and it has been used for over 30 years. As a complex preparation, it contains a large number of bioactive moieties, and the entirety of its effects is not yet fully understood. IVIg of higher dose has been a choice of immunomodulatory therapy for autoimmune or inflammatory disease and for prophylaxis and treatment of severe infections, especially in immunocompromised patients [11, 12] . Several theories have been proposed to explain its potential immunomodulatory mechanisms, including Fc-mediated and Fab-mediated approaches [13, 14] . In previous studies of SARS and Middle East respiratory syndrome (MERS), IVIg therapy has exhibited various clinical benefits with good tolerance [15] [16] [17] . Considering its efficacy in improving passive immunity and modulating immune inflammation and the overall safety profile, high-dose IVIg could be considered a promising option at the early stage of clinical deterioration of patents with COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 483,
+                    "end": 487,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 488,
+                    "end": 491,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 634,
+                    "end": 638,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 639,
+                    "end": 642,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 791,
+                    "end": 795,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 796,
+                    "end": 800,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 801,
+                    "end": 805,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our report is limited by the small numbers of patients we included, and more evidence is needed to confirm the conclusions. However, this report provides an important therapeutic clue to the current situation of rapid disease spreading. The timing of IVIg administration is critical in practice. Patients might not receive much benefit when systemic damage has already taken place. Currently, a randomized controlled trial evaluating the efficiency of high-dose IVIg therapy in severe COVID-19 has been initiated (NCT 04261426), which will provide more evidence for IVIg use in treating such patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Real-time updates: national outbreak map of new coronary virus pneumonia",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "National Health Commission of the People's Republic of China. Chinese recommendations for diagnosis and treatment of novel coronavirus (SARS-CoV2) infection (pilot 4th version)",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "New Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "727--760",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "CT imaging features of 2019 novel coronavirus (2019-nCoV)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernheim",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "295",
+            "issn": "",
+            "pages": "202--209",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Evidence-based guideline: intravenous immunoglobulin in the treatment of neuromuscular disorders: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Patwa",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chaudhry",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Katzberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Neurology",
+            "volume": "78",
+            "issn": "",
+            "pages": "1009--1024",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Intravenous immunoglobulin for adults with autoimmune thrombocytopenic purpura: results of a randomized trial comparing 0.5 and 1 g/kg b.w",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Godeau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Caulier",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Decuypere",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Br J Haematol",
+            "volume": "107",
+            "issn": "",
+            "pages": "716--725",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "565--74",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Receptor recognition by novel coronavirus from Wuhan: an analysis based on decade-long structural studies of SARS",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gurwitz",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Drug Dev Res",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "IVIG-mediated effector functions in autoimmune and inflammatory diseases",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Galeotti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Kaveri",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bayry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Int Immunol",
+            "volume": "29",
+            "issn": "",
+            "pages": "491--499",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Intravenous immunoglobulin in the treatment of primary immunodeficiency diseases",
+            "authors": [
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Ranieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Fenny",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Pediatr Ann",
+            "volume": "46",
+            "issn": "",
+            "pages": "8--12",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Advances in the understanding of the mechanism of action of IVIg",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hartung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Neurol",
+            "volume": "255",
+            "issn": "3",
+            "pages": "3--6",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Contrasting mechanisms of interferon-\u03b1 inhibition by intravenous immunoglobulin after induction by immune complexes versus Toll-like receptor agonists",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wiedeman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Santer",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Arthritis Rheum",
+            "volume": "65",
+            "issn": "",
+            "pages": "2713--2736",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Respiratory syncytial virus infection in patients with hematological diseases: single-center study and review of the literature",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Khanna",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Widmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Decker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Clin Infect Dis",
+            "volume": "46",
+            "issn": "",
+            "pages": "402--414",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Clinical manifestations, laboratory findings, and treatment outcomes of SARS patients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Sheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Fang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "818--842",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Clinical course and outcomes of critically ill patients with Middle East respiratory syndrome coronavirus infection",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Arifi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Balkhy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Ann Intern Med",
+            "volume": "160",
+            "issn": "",
+            "pages": "389--97",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Chest computed tomography scan of patient 1 (A), patient 2 (B), and patient 3 (C) before and after high-dose intravenous immunoglobulin with days of illness.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "\u03b3-GT, \u03b3 -glutamyltransferase; ALB, albumin; ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartase aminotransferase; CK, creatinekinase; CRE, creatinine; ESR, erythrocyte sedimentation rate; FIB, fibrinogen; Hb,",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "\u2022 ofid \u2022 BRIEF REPORT",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "4 \u2022 ofid \u2022 BRIEF REPORTTable 1.Laboratory Tests of the 3 Patients Before and After Infusion of High-Dose Intravenous Immunoglobulin",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "PLT, platelet count; PT, prothrombin time; PTA, prothrombin activity; RBC, red blood cell count; SF, serum ferritin; TBIL, total bilirubin; UA, urine acid; WBC, white blood cell count.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We are grateful to the patients for their consent to publish this case series. We thank all the nurses and clinical staff who provided care for these patients and who are providing continuous care to other patients in China.Author contributions. T.L. and W.C. designed the use of IVIg in these patients. W.C. and X.L. drafted the manuscript. L.R., T.B., K.H., and H.S. took clinical care of these 3 patients and collected all the data and imaging studies. H.F., Y.H., and L.L. reviewed the literature and critically revised the manuscript. All authors reviewed the manuscript, provided feedback, and approved the manuscript in its final form.Potential conflicts of interest. All authors: no reported conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

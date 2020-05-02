@@ -1,0 +1,426 @@
+{
+    "paper_id": "abd9e1bdb88a9df5b0a5be1365a404519a4f020a",
+    "metadata": {
+        "title": "Preparing for COVID-19: early experience from an intensive care unit in Singapore",
+        "authors": [
+            {
+                "first": "Mei",
+                "middle": [
+                    "Fong"
+                ],
+                "last": "Liew",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National University Health System",
+                    "location": {
+                        "addrLine": "1E Kent Ridge Rd",
+                        "postCode": "119228",
+                        "country": "Singapore, Singapore"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wen",
+                "middle": [
+                    "Ting"
+                ],
+                "last": "Siow",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National University Health System",
+                    "location": {
+                        "addrLine": "1E Kent Ridge Rd",
+                        "postCode": "119228",
+                        "country": "Singapore, Singapore"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Graeme",
+                "middle": [],
+                "last": "Maclaren",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kay",
+                "middle": [
+                    "Choong"
+                ],
+                "last": "See",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National University Health System",
+                    "location": {
+                        "addrLine": "1E Kent Ridge Rd",
+                        "postCode": "119228",
+                        "country": "Singapore, Singapore"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Preparing for COVID-19: early experience from an intensive care unit in Singapore Mei Fong Liew 1,2* , Wen Ting Siow 1,2 , Graeme MacLaren 3 and Kay Choong See 1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Dear Editor, About a third of patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) become critically ill and require intensive care unit (ICU) admission [1] . As the COVID-19 (coronavirus disease-19) outbreak spreads [2] , ICUs outside of China need to prepare for a potential surge of critically ill patients and counter the high transmissibility of SARS-CoV-2 [3] . Liu et al. have described their important preparations [4] , and we would like to expand on their good advice by sharing lessons learnt from our early experience.",
+            "cite_spans": [
+                {
+                    "start": 184,
+                    "end": 187,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 248,
+                    "end": 251,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 393,
+                    "end": 396,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 454,
+                    "end": 457,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "By 17 February 2020, Singapore recorded the highest number of confirmed cases outside of mainland China with several clusters of local transmission. All healthcare institutions adopted a common strategy of containment, with isolation of all suspected or confirmed cases of COVID-19 in negative-pressure rooms. We were fortunate that most ICU beds were single rooms-this infrastructure was put in place following the outbreak of SARS in 2003.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We realized preparing ICUs for patients with COVID-19 had numerous other requirements. First, infection control not only involved strict adherence to personal protective equipment for the individual, but also involved changes in group dynamics. We organized our ICU to mitigate the effects of any infected staff by avoiding poten-tial spread between teams (see Table 1 ). Related to infection control, the medical ICU was given the task to cohort suspect or confirmed cases, including with peri-and postpartum care of pregnant women. Second, evolving information necessitated rapid and regular communications with large, disparate groups of clinicians.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 361,
+                    "end": 368,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Third, we had to train non-ICU acute medical staff dealing with critically ill patients prior to ICU admission, especially for resuscitation. Fourth, we had to reexamine specific ICU services. Given that extracorporeal membrane oxygenation (ECMO) for severe viral pneumonia is well-established [5] , we prepared to cohort all COVID-19 patients in the medical ICU and have a satellite team from the cardiothoracic ICU manage the ECMO circuit. Lastly, we realized staff morale took an early hit due to multiple factors, including increased workload due to implementation of strict infection control measures, uncertainty over the effectiveness of personal protective equipment, anxiety over the lethality of any infection, concern for the well-being of their family members and stigmatization by members of the public.",
+            "cite_spans": [
+                {
+                    "start": 294,
+                    "end": 297,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "To address the various issues of infection control, information flow, resuscitation training, advanced ICU services and psychological well-being of staff, we formulated several principles and solutions, which we hope can help other ICUs prepare for COVID-19 (see Table 1 ). \u2022 A dedicated roster to segregate \"clean\" and isolation teams, and to provide for stand-bys",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 263,
+                    "end": 270,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Provision of clean scrubs for HCW to change into before duty; showering facilities at the end of shift",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Education and re-education on personal protective equipment and use of powered air-purifying respirators, especially for isolation teams",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Allow isolation teams to have a 2-week off-duty observation period (\"wash-out\" period), after every period of ward cover if manpower allows \u2022 Simulation practice with personal protective equipment and use of powered air-purifying respirators will help identify gaps in the wards and prepare ISO teams for such scenarios",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Simulation with limited team members per scenario, for example, 4 members per team, to allow acclimatization of HCW to perform resuscitation in smaller teams",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Checklists for preparation of drugs and pre-prepared trolleys for equipment, for intubation, line setting and other procedures, to minimize staff movement and enhance efficiency",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "\u2022 Creative ways to improve communications during resuscitation, such as utilization of a printed \"Call Airway Team\" card for difficult intubations, using a communication whiteboard in the patient room and using walkie-talkies to relay messages to staff outside the room for equipment and help ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "689--97",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Practical recommendations for critical care and anesthesiology teams caring for novel coronavirus (2019-nCoV) patients",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wax",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Christian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Can J Anaesth",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Critical care response to a hospital outbreak of the 2019-nCoV infection in Shenzhen",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Crit Care",
+            "volume": "24",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Critical care management of adults with community-acquired severe respiratory viral infection",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fowler",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hayden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Intensive Care Med",
+            "volume": "46",
+            "issn": "2",
+            "pages": "315--343",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Publisher's Note",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Mandatory reporting of twice daily temperature monitoring by all HCW \u2022 Advance declaration of leave and overseas trips by HCW \u2022 Screening questions are regularly updated as case definitions evolve over time, especially for known clusters of infection in the community \u2022 Provision of thermal scanners at the doorstep to screen for fever \u2022 Maintaining a hospital visitor log to allow for contact tracing and activity mapping of confirmed cases Dissemination of information to HCW 1. Robust system of dissemination of information (changing policies, workflows, etc.) 2. Email and meetings alone are insufficient to operationalize urgent changes on the ground 3. Clinical discussions of confirmed cases within the ICU community \u2022 Utilization of secure and approved platforms such as institutional email and messaging applications to inform various job groups and teams of rapidly evolving workflows and policies \u2022 Utilization of secure videoconferencing applications to hold inter-institution and inter-department meetings and educational sessions \u2022 Utilization of secure and approved applications such as messaging and videoconferencing applications to conduct clinical discussions of cases and the sharing of experience Resuscitation and code blue response 1. Provide clear guidelines on personal protective equipment and use of powered air-purifying respirators in ISO wards and normal wards during resuscitation 2. Provide inter-professional simulation of resuscitation scenarios for suspected or confirmed cases",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Critical care issues and solutions for COVID-19",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Advanced ICU services 1. To provide clear thresholds for transfers of deteriorating cases for ECMO 2. To provide efficient and safe delivery of ICU bronchoscopy \u2022 Early transfer of deteriorating cases is recommended. Provision of thresholds for transfer and workflows for non-ECMO centres \u2022 Use of disposable bronchoscopes for bronchoscopy and percutaneous tracheostomy Reduce stigmatization of HCW by ill-informed members of the public \u2022 Special provision of meals and drinks to boost morale; laundry service for used scrubs \u2022 Provision of regular updates of the local situation and status by the government and institution leadership \u2022 Frequent encouragement of HCW by divisional heads and senior leaders via emails, messaging apps and social media platforms, allowing staff to remain engaged \u2022 Timely articles and courageous stories of frontline staff \u2022 Appropriate media coverage of HCW at the frontline to increase empathy and reduce stigmatization ECMO extracorporeal membrane oxygenation, HCW healthcare workers, ICU intensive care unit",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Authors' contributions MFL drafted and revised the main table in the Letter. WTS revised and proofread contents of the Letter and table. GM revised and proof-read contents of the Letter and table. KCS drafted and conceptualized the main Letter. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        },
+        {
+            "text": "Availability of data and materials Not applicable Ethics approval and consent to participate Not applicable",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Not applicable"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.Author details",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

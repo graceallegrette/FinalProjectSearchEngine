@@ -1,0 +1,469 @@
+{
+    "paper_id": "d2946a12a44d0dc7355ff35363d3791d81bc9650",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "were discharged. It is known that transmission of COVID-19 may be possible even from asymptomatic contacts. 5 To prevent in-hospital transmissions, all 2,725 inpatients and employees (212 doctors, 1,069 nurses, 455 administrative and medical support employees, 483 inpatients, 79 guardians and caregivers, and 427 contract workers) had undergone SARS-CoV-2 polymerase chain reaction (PCR) testing by nasopharyngeal aspirate and all were tested negative.",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 109,
+                    "text": "5",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The 177 employees who had contact were self-isolated although PCR results were negative, as the PCR testing may not initially return positive. 6 During the hospital shutdown period, the rest of the employees commuted by their personal cars and did not use public transportation as a measure of social distancing. 7 Those who could not use a car were not allowed to come to work.",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 144,
+                    "text": "6",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The patients (49-134 people depending on the time of contact) who had contact with the confirmed patients were quarantined during the suspension period and placed in single rooms. Since caregivers (professional or family) were not allowed to stay at wards, the medical staff provided care for inpatients 24 hours a day in shifts. All the employees used gowns, gloves, medical masks and eye protection when providing care to all remaining patients. Among the patients who were either discharged during the suspension period or quarantined, we repeated SARS-CoV-2 PCR before discharge as there was the possibility of delayed positivity in coronavirus testing in relation to illness onset. 6 All of the repeated PCR results were negative. Those who were quarantined had terminated isolation on the day the suspension period ended. After the hospital re-opened, all of the new employees had to be tested SARS-CoV-2 PCR negative to enter the building.",
+            "cite_spans": [
+                {
+                    "start": 687,
+                    "end": 688,
+                    "text": "6",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Closing and isolating the hospital seemed to have played a useful role in preventing the spread of COVID-19 in-hospital and to the local community. However concerns have been raised due to the prolonged suspension period set by the government following the old guidelines established during the MERS outbreak. 4 Many studies have shown that although human coronaviruses can remain infectious on inanimate surfaces for up to 9 days, it can be significantly disinfected within 1 minute exposure time using 0.1% sodium hypochlorite or 62%-71% ethanol. 8 Also based on 12 air changes per hour, it takes only 30 minutes for removal efficiency of 99.9% of airborne contaminants. 9 These evidences show that revision of the current infection control guideline is inevitable. The existing patients could not receive timely treatments and some were denied care elsewhere during the shutdown period. Therefore extreme measures to close the entire hospital were considered unreasonable by many people. There were also controversial questions of the quarantine period as a majority of our patients were asymptomatic and found the days in-hospital too grueling.",
+            "cite_spans": [
+                {
+                    "start": 310,
+                    "end": 311,
+                    "text": "4",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 673,
+                    "end": 674,
+                    "text": "9",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We repeated SARS-CoV-2 PCR twice to confirm it was negative before de-isolating, however regarding the exam cost, this may not be applicable to other districts or countries. 10 More data is needed to refine and establish the in-hospital quarantine and de-isolation processes based on the various epidemiological and clinical settings.",
+            "cite_spans": [
+                {
+                    "start": 174,
+                    "end": 176,
+                    "text": "10",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The updated of COVID-19 in Republic of Korea (As of",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The outbreak cases with the novel coronavirus suggest upgraded quarantine and isolation in Korea",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Korean Med Sci",
+            "volume": "35",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The case definition of 2019 novel coronavirus will be expanded (As of",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Middle East respiratory syndrome infection control and prevention guideline for healthcare facilities",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Infect Chemother",
+            "volume": "47",
+            "issn": "4",
+            "pages": "278--302",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Transmission of 2019-nCoV infection from an asymptomatic contact in Germany",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Rothe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Schunk",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sothmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bretzel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Froeschl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wallrauch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "10",
+            "pages": "970--971",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Consistent detection of 2019 novel coronavirus in saliva",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chik-Yan Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis. Forthcoming",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Effectiveness of workplace social distancing measures in reducing influenza transmission: a systematic review",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zviedrite",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Uzicanin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMC Public Health",
+            "volume": "18",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kampf",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Todt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pfaender",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Steinmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Hosp Infect",
+            "volume": "104",
+            "issn": "3",
+            "pages": "246--51",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Guidelines for preventing the transmission of Mycobacterium tuberculosis in health-care settings",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Jensen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lambert",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Iademarco",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rcdc",
+                    "middle": [],
+                    "last": "Ridzon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "MMWR Recomm Rep",
+            "volume": "54",
+            "issn": "17",
+            "pages": "1--141",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Feasibility of controlling COVID-19 outbreaks by isolation of cases and contacts",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellewell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abbott",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gimma",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Bosse",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Jarvis",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Glob Health",
+            "volume": "8",
+            "issn": "4",
+            "pages": "488--96",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Flow diagram of the isolation and quarantine process of Eunpyeong St. Mary's Hospital after in-hospital COVID-19 diagnosis. COVID-19 = coronavirus disease 2019, PCR = polymerase chain reaction.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}
